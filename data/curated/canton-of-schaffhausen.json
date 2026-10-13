@@ -1,0 +1,69 @@
+{
+  "id": "canton-of-schaffhausen",
+  "wikidata": "Q12697",
+  "image": "Flag of Canton of Schaffhausen.svg",
+  "name": "Schaffhausen",
+  "flagName": "Flag of the Canton of Schaffhausen",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1501,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A yellow square with a black ram leaping toward the hoist, crowned and with golden horns and hooves. The ram ('Schaf') is a pun on the name.",
+  "origin": [
+    "The ram appears on the city seal from the 13th century. Schaffhausen joined the Confederacy in 1501."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The ram.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Ram",
+      "description": "A black ram with a gold crown, horns and hooves.",
+      "meaning": "The name: 'Schaf' means sheep.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1501,
+      "to": null,
+      "label": "Canton of Schaffhausen"
+    }
+  ],
+  "facts": [
+    "The Rhine Falls, Europe's largest waterfall by volume, are in Schaffhausen.",
+    "Most of the canton lies north of the Rhine."
+  ],
+  "clues": [
+    "A black ram leaping on yellow.",
+    "Its animal is a pun on its name.",
+    "Home to Europe's largest waterfall by volume."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "animal",
+    "crown"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Schaffhausen (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Schaffhausen"
+    }
+  ]
+}

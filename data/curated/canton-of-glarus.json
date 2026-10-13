@@ -1,0 +1,69 @@
+{
+  "id": "canton-of-glarus",
+  "wikidata": "Q11922",
+  "image": "CHE Kanton Glarus Flag.svg",
+  "name": "Glarus",
+  "flagName": "Flag of the Canton of Glarus",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1352,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A red square with Saint Fridolin, an Irish missionary monk, walking with a staff and a book. It is the only Swiss cantonal flag showing a person.",
+  "origin": [
+    "Saint Fridolin, who is said to have founded the abbey of Säckingen in the 6th century, is the patron of Glarus. The canton joined the Confederacy in 1352."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The monk's habit.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Saint Fridolin",
+      "description": "A pilgrim monk with a staff and a Bible.",
+      "meaning": "The canton's patron saint.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1352,
+      "to": null,
+      "label": "Canton of Glarus"
+    }
+  ],
+  "facts": [
+    "It is the only Swiss cantonal flag with a human figure.",
+    "Glarus is famous for its open-air assembly, the Landsgemeinde."
+  ],
+  "clues": [
+    "A walking monk with a staff on red.",
+    "The only Swiss cantonal flag showing a person.",
+    "Its figure is an Irish missionary saint."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "religious-symbol",
+    "book"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Glarus (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Glarus"
+    }
+  ]
+}

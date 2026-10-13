@@ -1,0 +1,64 @@
+{
+  "id": "hesse",
+  "wikidata": "Q1199",
+  "image": "Flag of Hesse.svg",
+  "name": "Hesse",
+  "flagName": "Flag of Hesse",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Two horizontal bands of red over white. The colours come from the Hessian lion, a striped red and white lion on blue, used by the Landgraves of Hesse since the 13th century.",
+  "origin": [
+    "The state of Hesse was created in 1945 from Prussian and Hessian territories. The red and white flag of the earlier Grand Duchy and People's State of Hesse was confirmed in 1948."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the striped Hessian lion.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the striped Hessian lion.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1948,
+      "to": null,
+      "label": "State of Hesse"
+    }
+  ],
+  "facts": [
+    "The state flag adds the striped lion.",
+    "Frankfurt, Germany's financial centre, is in Hesse."
+  ],
+  "clues": [
+    "Red over white, two horizontal bands.",
+    "Its colours come from a lion with red and white stripes.",
+    "A German state containing a major financial centre."
+  ],
+  "lookalikes": [
+    "indonesia",
+    "monaco",
+    "thuringia"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Hesse (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Hesse"
+    }
+  ]
+}

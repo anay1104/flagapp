@@ -1,0 +1,73 @@
+{
+  "id": "bavaria",
+  "wikidata": "Q980",
+  "image": "Flag of Bavaria (lozengy).svg",
+  "name": "Bavaria",
+  "flagName": "Flag of Bavaria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1953,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "A pattern of white and blue lozenges (diamonds). The lozengy flag and a plain white-and-blue striped version are both official. The lozenges come from the arms of the Counts of Bogen, inherited by the Wittelsbach dynasty in 1242.",
+  "origin": [
+    "The Wittelsbachs, who ruled Bavaria from 1180 to 1918, took over the white and blue lozenges of the Counts of Bogen in 1242. They became the symbol of Bavaria, and Bavarian law of 1953 confirms both the lozengy and the striped flag."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the Bogen and Wittelsbach arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0098D4",
+      "family": "light-blue",
+      "meaning": "From the Bogen and Wittelsbach arms; often linked to the Bavarian sky.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Lozenges (Rauten)",
+      "description": "A diagonal pattern of white and blue diamonds.",
+      "meaning": "The Wittelsbach dynasty and Bavaria.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1180,
+      "to": 1918,
+      "label": "Wittelsbach dukes, electors and kings"
+    },
+    {
+      "from": 1953,
+      "to": null,
+      "label": "Free State of Bavaria"
+    }
+  ],
+  "facts": [
+    "The lozenge pattern is one of the best-known regional symbols in Europe.",
+    "By rule the pattern begins with a partial white lozenge in the upper hoist corner.",
+    "Bavaria officially calls itself a Free State (Freistaat)."
+  ],
+  "clues": [
+    "White and blue diamonds covering the whole flag.",
+    "Its pattern came from a dynasty that ruled for over 700 years.",
+    "A German Free State famous for Oktoberfest."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "monarchy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Bavaria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Bavaria"
+    }
+  ]
+}

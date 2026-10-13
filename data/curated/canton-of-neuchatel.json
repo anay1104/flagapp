@@ -1,0 +1,77 @@
+{
+  "id": "canton-of-neuchatel",
+  "wikidata": "Q12738",
+  "image": "CHE Canton de Neuchâtel Flag.svg",
+  "name": "Neuchâtel",
+  "flagName": "Flag of the Canton of Neuchâtel",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1848,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Green, white and red vertical bands with a small white cross in the upper fly. Adopted when Neuchâtel became a republic in 1848.",
+  "origin": [
+    "Neuchâtel joined the Confederacy in 1815 but remained a principality of the King of Prussia until the revolution of 1848, which adopted the green-white-red tricolour."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "The republican revolution.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Shared tricolour.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "Shared tricolour.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "White cross",
+      "description": "A small Swiss cross in the red band.",
+      "meaning": "Membership of the Swiss Confederation.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1848,
+      "to": null,
+      "label": "Republic and Canton of Neuchâtel"
+    }
+  ],
+  "facts": [
+    "It was the only Swiss canton that was also a principality of a foreign king.",
+    "Italy's flag uses the same colours."
+  ],
+  "clues": [
+    "Green, white and red vertical bands with a small white cross.",
+    "A canton that was once ruled by the King of Prussia."
+  ],
+  "lookalikes": [
+    "italy",
+    "mexico"
+  ],
+  "tags": [
+    "vertical-tricolour",
+    "cross"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Neuchâtel (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Neuchâtel"
+    }
+  ]
+}

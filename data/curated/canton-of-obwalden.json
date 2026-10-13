@@ -1,0 +1,72 @@
+{
+  "id": "canton-of-obwalden",
+  "wikidata": "Q12573",
+  "image": "Flag of Canton of Obwalden.svg",
+  "name": "Obwalden",
+  "flagName": "Flag of the Canton of Obwalden",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1291,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Red over white with a double-bearded key in the centre, its colours reversed against each half.",
+  "origin": [
+    "Obwalden and Nidwalden together formed Unterwalden, one of the founding cantons. The key of Saint Peter, patron of the church of Sarnen, is their shared symbol."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The upper half.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The lower half.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Key",
+      "description": "A double-bearded key counterchanged red and white.",
+      "meaning": "Saint Peter.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1291,
+      "to": null,
+      "label": "Obwalden (part of Unterwalden)"
+    }
+  ],
+  "facts": [
+    "Obwalden and Nidwalden are counted as half-cantons historically.",
+    "The key is shared with Nidwalden's flag."
+  ],
+  "clues": [
+    "Red over white with a key in counterchanged colours.",
+    "Half of a founding canton.",
+    "Its key belongs to Saint Peter."
+  ],
+  "lookalikes": [
+    "canton-of-nidwalden",
+    "canton-of-solothurn"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "tool",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Obwalden (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Obwalden"
+    }
+  ]
+}

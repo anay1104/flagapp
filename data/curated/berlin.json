@@ -1,0 +1,81 @@
+{
+  "id": "berlin",
+  "wikidata": "Q64",
+  "image": "Flag of Berlin.svg",
+  "name": "Berlin",
+  "flagName": "Flag of Berlin",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1954,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "A white field with red stripes at top and bottom and a black bear in the centre. The bear has represented Berlin since the 13th century.",
+  "origin": [
+    "The bear appears on Berlin seals from 1280, probably as a pun on the city's name. The flag was adopted by West Berlin in 1954 and extended to all of Berlin after reunification in 1990."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The central band.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From Brandenburg's red eagle.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The bear.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Berlin bear",
+      "description": "A black bear standing upright with its tongue out.",
+      "meaning": "The city, through a pun on 'Bär' (bear) and 'Berlin'.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1954,
+      "to": 1990,
+      "label": "West Berlin"
+    },
+    {
+      "from": 1990,
+      "to": null,
+      "label": "Reunified Berlin"
+    }
+  ],
+  "facts": [
+    "Painted 'Buddy Bear' statues decorate the city.",
+    "East Berlin used a different flag until 1990.",
+    "Berlin is both a city and a federal state."
+  ],
+  "clues": [
+    "A black bear on white between two red stripes.",
+    "Its animal is a pun on the city's name.",
+    "The flag of a city-state that was divided until 1990."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-stripes",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Berlin (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Berlin"
+    }
+  ]
+}

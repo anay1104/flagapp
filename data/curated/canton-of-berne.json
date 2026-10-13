@@ -1,0 +1,77 @@
+{
+  "id": "canton-of-berne",
+  "wikidata": "Q11911",
+  "image": "CHE Bern BE Flag.svg",
+  "name": "Bern",
+  "flagName": "Flag of the Canton of Bern",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1353,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A red square with a yellow diagonal band carrying a black bear walking upward. The bear is a pun on the city's name.",
+  "origin": [
+    "According to legend, Duke Berthold V of Zähringen, who founded Bern in 1191, named it after the first animal killed in a hunt nearby, a bear. The bear appears on the city's seal from 1224. Bern joined the Confederacy in 1353."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The diagonal band.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The bear.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Bear",
+      "description": "A black bear with red tongue and claws, climbing the band.",
+      "meaning": "The city's name, by legend.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1353,
+      "to": null,
+      "label": "Canton of Bern"
+    }
+  ],
+  "facts": [
+    "Bern still keeps live bears in the BärenPark near the old town.",
+    "Bern is the Swiss federal city, the seat of government."
+  ],
+  "clues": [
+    "A black bear on a yellow diagonal band across red.",
+    "Its animal gives the city its name, by legend.",
+    "The canton of the Swiss federal city."
+  ],
+  "lookalikes": [
+    "canton-of-appenzell-innerrhoden"
+  ],
+  "tags": [
+    "diagonal",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Bern (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Bern"
+    }
+  ]
+}

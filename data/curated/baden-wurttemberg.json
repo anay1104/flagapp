@@ -1,0 +1,62 @@
+{
+  "id": "baden-wurttemberg",
+  "wikidata": "Q985",
+  "image": "Flag of Baden-Württemberg.svg",
+  "name": "Baden-Württemberg",
+  "flagName": "Flag of Baden-Württemberg",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1952,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Two horizontal bands of black over gold. The colours come from the arms of the medieval Duchy of Swabia, whose three black lions on gold appear on the state's coat of arms.",
+  "origin": [
+    "Baden-Württemberg was formed in 1952 from Baden, Württemberg-Baden and Württemberg-Hohenzollern. The black and gold colours, from the Hohenstaufen dukes of Swabia, were confirmed in the 1953 state constitution; the official state flag adds the arms."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "From the Swabian lions.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "The field of the Swabian arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1952,
+      "to": null,
+      "label": "Baden-Württemberg"
+    }
+  ],
+  "facts": [
+    "The coat of arms shows the three Hohenstaufen lions of Swabia.",
+    "Stuttgart is the state capital."
+  ],
+  "clues": [
+    "Black over gold, two horizontal bands.",
+    "Its colours come from three black lions of a medieval duchy.",
+    "A German state formed in 1952 from three smaller states."
+  ],
+  "lookalikes": [
+    "saxony-anhalt"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Baden-Württemberg (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Baden-Württemberg"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "canton-of-valais",
+  "wikidata": "Q834",
+  "image": "CHE Valais Flag.svg",
+  "name": "Valais",
+  "flagName": "Flag of the Canton of Valais",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1815,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Divided vertically into white and red with thirteen stars, coloured opposite to each half. The stars stand for the canton's thirteen districts.",
+  "origin": [
+    "Valais joined the Confederacy in 1815. The stars, originally seven, were increased to thirteen for the districts."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The hoist half.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The fly half.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Thirteen stars",
+      "description": "Stars counterchanged red and white.",
+      "meaning": "The thirteen districts.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1815,
+      "to": null,
+      "label": "Canton of Valais"
+    }
+  ],
+  "facts": [
+    "The Matterhorn lies in Valais.",
+    "Valais is bilingual, French and German."
+  ],
+  "clues": [
+    "White and red halves with thirteen counterchanged stars.",
+    "Its canton contains the Matterhorn."
+  ],
+  "lookalikes": [
+    "malta",
+    "canton-of-geneva"
+  ],
+  "tags": [
+    "vertical-bicolour",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Valais (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Valais"
+    }
+  ]
+}

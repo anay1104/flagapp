@@ -1,0 +1,74 @@
+{
+  "id": "mecklenburg-vorpommern",
+  "wikidata": "Q1196",
+  "image": "Flag of Mecklenburg-Western Pomerania.svg",
+  "name": "Mecklenburg-Vorpommern",
+  "flagName": "Flag of Mecklenburg-Vorpommern",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Five horizontal stripes of blue, white, yellow, white and red. Blue, yellow and red come from Mecklenburg, white from Pomerania.",
+  "origin": [
+    "The state was re-established in 1990, combining the historic regions of Mecklenburg and Western Pomerania. Its flag, adopted in 1991, combines their colours."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0050A0",
+      "family": "blue",
+      "meaning": "Mecklenburg.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Pomerania.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "Mecklenburg.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "Mecklenburg.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1991,
+      "to": null,
+      "label": "Mecklenburg-Vorpommern"
+    }
+  ],
+  "facts": [
+    "The state flag adds the arms with a bull's head and a griffin.",
+    "Schwerin is the capital."
+  ],
+  "clues": [
+    "Five stripes of blue, white, yellow, white and red.",
+    "Its colours combine two historic regions on the Baltic.",
+    "A German state with a bull's head and griffin on its arms."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-stripes"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Mecklenburg-Vorpommern (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Mecklenburg-Vorpommern"
+    }
+  ]
+}

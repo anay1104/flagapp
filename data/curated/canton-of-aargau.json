@@ -1,0 +1,81 @@
+{
+  "id": "canton-of-aargau",
+  "wikidata": "Q11972",
+  "image": "CHE Aargau Flag.svg",
+  "name": "Aargau",
+  "flagName": "Flag of the Canton of Aargau",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1803,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Divided vertically: black with a white wavy band at the hoist, and blue with three white stars at the fly.",
+  "origin": [
+    "Aargau was formed in 1803 under the Act of Mediation. Its arms were designed at that time."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The fertile soil.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The River Aare and stars.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0065BD",
+      "family": "blue",
+      "meaning": "The sky.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Wavy band",
+      "description": "A white wavy line on black.",
+      "meaning": "The River Aare.",
+      "basis": "official"
+    },
+    {
+      "name": "Three stars",
+      "description": "White stars on blue.",
+      "meaning": "The three districts united to form the canton.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1803,
+      "to": null,
+      "label": "Canton of Aargau"
+    }
+  ],
+  "facts": [
+    "Its name means 'land of the Aare'.",
+    "Aarau is its capital."
+  ],
+  "clues": [
+    "Black with a wavy white line beside blue with three stars.",
+    "Its wavy line is the river that names the canton."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "vertical-bicolour",
+    "water",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Aargau (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Aargau"
+    }
+  ]
+}

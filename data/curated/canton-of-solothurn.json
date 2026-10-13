@@ -1,0 +1,62 @@
+{
+  "id": "canton-of-solothurn",
+  "wikidata": "Q11929",
+  "image": "CHE Solothurn SO Flag.svg",
+  "name": "Solothurn",
+  "flagName": "Flag of the Canton of Solothurn",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1481,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A square of red over white. Solothurn joined the Confederacy in 1481, alongside Fribourg.",
+  "origin": [
+    "The red and white banner dates from the 15th century."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The upper half.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The lower half.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1481,
+      "to": null,
+      "label": "Canton of Solothurn"
+    }
+  ],
+  "facts": [
+    "Solothurn is obsessed with the number 11: 11 churches, 11 fountains, 11 towers.",
+    "Fribourg joined the same year with black over white."
+  ],
+  "clues": [
+    "Red over white, a square.",
+    "Its town is famous for the number eleven."
+  ],
+  "lookalikes": [
+    "canton-of-fribourg",
+    "canton-of-obwalden"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Solothurn (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Solothurn"
+    }
+  ]
+}

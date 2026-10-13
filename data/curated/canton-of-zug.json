@@ -1,0 +1,61 @@
+{
+  "id": "canton-of-zug",
+  "wikidata": "Q11933",
+  "image": "Flag of Canton of Zug.svg",
+  "name": "Zug",
+  "flagName": "Flag of the Canton of Zug",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1352,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A white square with a broad horizontal blue band across the middle. Zug joined the Confederacy in 1352.",
+  "origin": [
+    "The blue band on white comes from the arms of the town of Zug, recorded in the 14th century."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0065BD",
+      "family": "blue",
+      "meaning": "The band.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1352,
+      "to": null,
+      "label": "Canton of Zug"
+    }
+  ],
+  "facts": [
+    "Zug is known for its low taxes and many company headquarters.",
+    "It is one of the smallest Swiss cantons by area."
+  ],
+  "clues": [
+    "White with a broad blue horizontal band.",
+    "A small Swiss canton known for low taxes."
+  ],
+  "lookalikes": [
+    "canton-of-lucerne"
+  ],
+  "tags": [
+    "horizontal-stripes"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Zug (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Zug"
+    }
+  ]
+}

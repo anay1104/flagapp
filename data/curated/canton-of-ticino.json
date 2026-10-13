@@ -1,0 +1,62 @@
+{
+  "id": "canton-of-ticino",
+  "wikidata": "Q12724",
+  "image": "CHE Ticino Flag.svg",
+  "name": "Ticino",
+  "flagName": "Flag of the Canton of Ticino",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1803,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A square of red over blue. Ticino, the Italian-speaking canton, adopted these colours when it became a canton in 1803.",
+  "origin": [
+    "The origin of the colours is unclear; they may come from the arms of Lugano or Como, or from the Helvetic Republic. They were adopted in 1803."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "Origin uncertain.",
+      "basis": "popular"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0065BD",
+      "family": "blue",
+      "meaning": "Origin uncertain.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1803,
+      "to": null,
+      "label": "Canton of Ticino"
+    }
+  ],
+  "facts": [
+    "Ticino is Switzerland's only fully Italian-speaking canton.",
+    "Bellinzona is its capital."
+  ],
+  "clues": [
+    "Red over blue, a square.",
+    "Switzerland's Italian-speaking canton."
+  ],
+  "lookalikes": [
+    "liechtenstein",
+    "haiti"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Ticino (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Ticino"
+    }
+  ]
+}

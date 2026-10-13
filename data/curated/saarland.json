@@ -1,0 +1,90 @@
+{
+  "id": "saarland",
+  "wikidata": "Q1201",
+  "image": "Flag of Saarland.svg",
+  "name": "Saarland",
+  "flagName": "Flag of Saarland",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1957,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "The German black, red and gold tricolour with the state arms in the centre, quartering the arms of Nassau-Saarbrücken, Trier, Lorraine and Palatinate-Zweibrücken.",
+  "origin": [
+    "After the Second World War, Saarland was a French protectorate with its own flag, a white Nordic cross on blue and red. After a 1955 referendum it joined West Germany on 1 January 1957, adopting its current flag."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DD0000",
+      "family": "red",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFCC00",
+      "family": "yellow",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Quartered arms",
+      "description": "A silver lion on blue; a red cross on white; three white eagles on a red band on gold; a golden lion on black.",
+      "meaning": "Nassau-Saarbrücken, Trier, Lorraine and Palatinate-Zweibrücken.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1947,
+      "to": 1956,
+      "label": "Saar Protectorate",
+      "note": "White cross on blue and red."
+    },
+    {
+      "from": 1957,
+      "to": null,
+      "label": "State of Saarland"
+    }
+  ],
+  "facts": [
+    "Saarland was separated from Germany twice in the 20th century.",
+    "It is the smallest German state that is not a city-state.",
+    "Saarbrücken is the capital."
+  ],
+  "clues": [
+    "The German tricolour with a quartered shield of lions, a cross and eagles.",
+    "Its region was a French protectorate until 1956.",
+    "Germany's smallest non-city state."
+  ],
+  "lookalikes": [
+    "germany",
+    "lower-saxony",
+    "rhineland-palatinate"
+  ],
+  "tags": [
+    "horizontal-tricolour",
+    "coat-of-arms",
+    "shield",
+    "animal",
+    "bird",
+    "cross"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Saarland (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Saarland"
+    }
+  ]
+}

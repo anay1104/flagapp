@@ -1,0 +1,64 @@
+{
+  "id": "thuringia",
+  "wikidata": "Q1205",
+  "image": "Flag of Thuringia.svg",
+  "name": "Thuringia",
+  "flagName": "Flag of Thuringia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Two horizontal bands of white over red. The colours come from the striped lion of the medieval Ludovingian landgraves; the state flag adds the arms with the lion and eight stars.",
+  "origin": [
+    "The state was re-established in 1990 and adopted its flag in 1991. The striped lion, shared historically with Hesse, comes from the Ludovingian landgraves of Thuringia."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the striped lion.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the striped lion.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1991,
+      "to": null,
+      "label": "Free State of Thuringia"
+    }
+  ],
+  "facts": [
+    "Its colours are the reverse of Hesse's.",
+    "Erfurt is the capital.",
+    "Poland's national flag is also white over red."
+  ],
+  "clues": [
+    "White over red, two horizontal bands.",
+    "The reverse of a neighbouring German state's colours.",
+    "Its state arms show a striped lion with eight stars."
+  ],
+  "lookalikes": [
+    "poland",
+    "hesse"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Thuringia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Thuringia"
+    }
+  ]
+}

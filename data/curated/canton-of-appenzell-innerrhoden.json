@@ -1,0 +1,70 @@
+{
+  "id": "canton-of-appenzell-innerrhoden",
+  "wikidata": "Q12094",
+  "image": "CHE Appenzell Innerrhoden Flag.svg",
+  "name": "Appenzell Innerrhoden",
+  "flagName": "Flag of the Canton of Appenzell Innerrhoden",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1597,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A white square with a black bear standing upright, with red claws and tongue. It is the Catholic half of the former canton of Appenzell.",
+  "origin": [
+    "After the 1597 split, Inner Rhodes kept the plain bear of Appenzell, while Outer Rhodes added letters."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The bear.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Bear",
+      "description": "A black bear standing on its hind legs.",
+      "meaning": "From the arms of the Abbey of St Gall.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1597,
+      "to": null,
+      "label": "Appenzell Innerrhoden"
+    }
+  ],
+  "facts": [
+    "It was the last Swiss canton to grant women the vote, by federal court ruling in 1990.",
+    "It still holds an open-air Landsgemeinde assembly."
+  ],
+  "clues": [
+    "A black upright bear on white, without letters.",
+    "The last Swiss canton to give women the vote."
+  ],
+  "lookalikes": [
+    "canton-of-appenzell-ausserrhoden",
+    "canton-of-berne"
+  ],
+  "tags": [
+    "plain-field",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Appenzell Innerrhoden (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Appenzell_Innerrhoden"
+    }
+  ]
+}

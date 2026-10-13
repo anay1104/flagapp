@@ -1,0 +1,76 @@
+{
+  "id": "canton-of-thurgau",
+  "wikidata": "Q12713",
+  "image": "CHE Thurgau Flag.svg",
+  "name": "Thurgau",
+  "flagName": "Flag of the Canton of Thurgau",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1803,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Divided diagonally into white and green with two yellow lions walking toward the hoist. The lions come from the Counts of Kyburg.",
+  "origin": [
+    "Thurgau became a canton in 1803. Its arms adapt the two lions of the Kyburg counts, with green added for liberty in the revolutionary era."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Upper half.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "Lower half; liberty.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The lions.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Two lions",
+      "description": "Yellow lions passant.",
+      "meaning": "The Counts of Kyburg.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1803,
+      "to": null,
+      "label": "Canton of Thurgau"
+    }
+  ],
+  "facts": [
+    "Thurgau borders Lake Constance.",
+    "It is known as 'Mostindien' for its cider orchards."
+  ],
+  "clues": [
+    "A diagonal white and green split with two yellow lions.",
+    "A canton on Lake Constance known for cider."
+  ],
+  "lookalikes": [
+    "canton-of-zurich"
+  ],
+  "tags": [
+    "diagonal",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Thurgau (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Thurgau"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "canton-of-jura",
+  "wikidata": "Q12755",
+  "image": "CHE Jura Flag.svg",
+  "name": "Jura",
+  "flagName": "Flag of the Canton of Jura",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Divided vertically: a red crozier on white at the hoist, and seven red and white stripes at the fly. Jura is Switzerland's newest canton, created in 1979.",
+  "origin": [
+    "The northern French-speaking part of the canton of Bern voted to secede in 1974 after a long separatist struggle. The canton of Jura was established on 1 January 1979. The crozier recalls the Prince-Bishopric of Basel, which once ruled the area."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field and stripes.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The crozier and stripes.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Red crozier",
+      "description": "A bishop's staff.",
+      "meaning": "The Prince-Bishopric of Basel.",
+      "basis": "official"
+    },
+    {
+      "name": "Seven stripes",
+      "description": "Three red and four white stripes.",
+      "meaning": "The seven districts of the historic Jura region.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1979,
+      "to": null,
+      "label": "Republic and Canton of Jura"
+    }
+  ],
+  "facts": [
+    "It is the newest Swiss canton, created in 1979.",
+    "Its seven stripes include districts that remained in Bern."
+  ],
+  "clues": [
+    "A red bishop's staff beside seven red and white stripes.",
+    "Switzerland's newest canton.",
+    "It seceded from a larger canton after a referendum."
+  ],
+  "lookalikes": [
+    "canton-of-basel-landschaft"
+  ],
+  "tags": [
+    "vertical-stripes",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Jura (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Jura"
+    }
+  ]
+}

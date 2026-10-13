@@ -1,0 +1,61 @@
+{
+  "id": "canton-of-fribourg",
+  "wikidata": "Q12640",
+  "image": "Flag of Canton of Fribourg.svg",
+  "name": "Fribourg",
+  "flagName": "Flag of the Canton of Fribourg",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1481,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A square of black over white. Fribourg joined the Confederacy in 1481 and lies on the border between French and German-speaking Switzerland.",
+  "origin": [
+    "The black and white arms are recorded from the 15th century. Fribourg joined the Confederacy at the Diet of Stans in 1481."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The upper half.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The lower half.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1481,
+      "to": null,
+      "label": "Canton of Fribourg"
+    }
+  ],
+  "facts": [
+    "Fribourg is bilingual, French and German.",
+    "Solothurn, which joined the same year, has red over white."
+  ],
+  "clues": [
+    "Black over white, a square.",
+    "A bilingual canton that joined in 1481."
+  ],
+  "lookalikes": [
+    "canton-of-solothurn"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Fribourg (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Fribourg"
+    }
+  ]
+}

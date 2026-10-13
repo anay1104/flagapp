@@ -1,0 +1,69 @@
+{
+  "id": "saxony",
+  "wikidata": "Q1202",
+  "image": "Flag of Saxony.svg",
+  "name": "Saxony",
+  "flagName": "Flag of Saxony",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Two horizontal bands of white over green, the colours of the House of Wettin, which ruled Saxony for over 800 years.",
+  "origin": [
+    "The Wettins ruled Saxony from the 11th century until 1918. White and green were the colours of the Kingdom of Saxony. The state was re-established in 1990, and its flag adopted in 1991."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The Wettin colours.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "The Wettin colours; the green crancelin (rue crown) of the arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1806,
+      "to": 1918,
+      "label": "Kingdom of Saxony"
+    },
+    {
+      "from": 1991,
+      "to": null,
+      "label": "Free State of Saxony"
+    }
+  ],
+  "facts": [
+    "The state flag adds the arms: black and gold bars with a green crancelin.",
+    "Dresden is the capital.",
+    "Saxony is officially a Free State."
+  ],
+  "clues": [
+    "White over green, two horizontal bands.",
+    "Its colours belonged to a dynasty that ruled for over 800 years.",
+    "A German Free State with Dresden as capital."
+  ],
+  "lookalikes": [
+    "saxony-anhalt"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "monarchy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Saxony (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Saxony"
+    }
+  ]
+}

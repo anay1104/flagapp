@@ -1,0 +1,62 @@
+{
+  "id": "canton-of-lucerne",
+  "wikidata": "Q12121",
+  "image": "CHE Luzern Flag.svg",
+  "name": "Lucerne",
+  "flagName": "Flag of the Canton of Lucerne",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1332,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A square divided vertically into blue at the hoist and white at the fly. Lucerne joined the Confederacy in 1332, the first city to do so.",
+  "origin": [
+    "The blue and white banner is recorded from the 14th century."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0065BD",
+      "family": "blue",
+      "meaning": "From the medieval banner.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the medieval banner.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1332,
+      "to": null,
+      "label": "Canton of Lucerne"
+    }
+  ],
+  "facts": [
+    "Lucerne was the first city to join the three founding cantons.",
+    "Zug's flag is also blue and white, with a horizontal blue band."
+  ],
+  "clues": [
+    "A square split vertically into blue and white.",
+    "The first city to join the Swiss founding cantons."
+  ],
+  "lookalikes": [
+    "canton-of-zug",
+    "canton-of-zurich"
+  ],
+  "tags": [
+    "vertical-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Lucerne (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Lucerne"
+    }
+  ]
+}

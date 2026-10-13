@@ -1,0 +1,70 @@
+{
+  "id": "hamburg",
+  "wikidata": "Q1055",
+  "image": "Flag of Hamburg.svg",
+  "name": "Hamburg",
+  "flagName": "Flag of Hamburg",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1897,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Germany",
+  "summary": "A red field with a white castle of three towers in the centre. The castle has represented Hamburg since the 13th century, and red is the colour of the Hanseatic League.",
+  "origin": [
+    "The castle with three towers appears on Hamburg's seal from the 13th century. The red flag with the castle was used by the city's ships and formally adopted in 1897."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "Hanseatic colours.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The castle.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Three-towered castle",
+      "description": "A white castle with closed gates and three towers.",
+      "meaning": "The city's fortifications.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1897,
+      "to": null,
+      "label": "Free and Hanseatic City of Hamburg"
+    }
+  ],
+  "facts": [
+    "Hamburg is Germany's second-largest city.",
+    "The gates on the castle are closed, a symbol of defence."
+  ],
+  "clues": [
+    "A white three-towered castle on red.",
+    "The flag of Germany's second-largest city.",
+    "A Hanseatic city-state with a famous port."
+  ],
+  "lookalikes": [
+    "bremen"
+  ],
+  "tags": [
+    "plain-field",
+    "building"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Hamburg (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Hamburg"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "canton-of-basel-stadt",
+  "wikidata": "Q12172",
+  "image": "Flag of Canton of Basel.svg",
+  "name": "Basel-Stadt",
+  "flagName": "Flag of the Canton of Basel-Stadt",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1501,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A white square with a black Basel crozier, the hooked top of a bishop's staff, facing the hoist.",
+  "origin": [
+    "The crozier comes from the Prince-Bishops of Basel. Basel joined the Confederacy in 1501; after a civil conflict in 1833 it split into city and country cantons."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The crozier.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Baselstab",
+      "description": "A black bishop's crozier.",
+      "meaning": "The Prince-Bishopric of Basel.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1501,
+      "to": 1833,
+      "label": "Canton of Basel"
+    },
+    {
+      "from": 1833,
+      "to": null,
+      "label": "Basel-Stadt"
+    }
+  ],
+  "facts": [
+    "Basel-Landschaft's crozier is red and faces the other way.",
+    "Basel is Switzerland's third-largest city."
+  ],
+  "clues": [
+    "A black bishop's staff on white.",
+    "Its country neighbour's staff is red and faces the other way."
+  ],
+  "lookalikes": [
+    "canton-of-basel-landschaft",
+    "canton-of-jura"
+  ],
+  "tags": [
+    "plain-field",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Basel-Stadt (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Basel-Stadt"
+    }
+  ]
+}

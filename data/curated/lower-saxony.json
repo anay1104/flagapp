@@ -1,0 +1,81 @@
+{
+  "id": "lower-saxony",
+  "wikidata": "Q1197",
+  "image": "Flag of Lower Saxony.svg",
+  "name": "Lower Saxony",
+  "flagName": "Flag of Lower Saxony",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1952,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "The German black, red and gold tricolour with the state arms in the centre: a white horse rearing on a red shield, the Saxon Steed.",
+  "origin": [
+    "Lower Saxony was formed in 1946 from Hanover, Brunswick, Oldenburg and Schaumburg-Lippe. The Saxon Steed, a white horse on red, was the emblem of the Kingdom of Hanover and the House of Guelph. The flag was adopted in 1952."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DD0000",
+      "family": "red",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFCC00",
+      "family": "yellow",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Saxon Steed",
+      "description": "A white horse rearing on red.",
+      "meaning": "The ancient Saxons and the House of Guelph (Hanover).",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1952,
+      "to": null,
+      "label": "State of Lower Saxony"
+    }
+  ],
+  "facts": [
+    "The Saxon Steed also appears on the arms of North Rhine-Westphalia.",
+    "Hanover is the state capital."
+  ],
+  "clues": [
+    "The German tricolour with a white horse on a red shield.",
+    "Its horse is the Saxon Steed.",
+    "A northern German state formed in 1946."
+  ],
+  "lookalikes": [
+    "germany",
+    "rhineland-palatinate",
+    "saarland"
+  ],
+  "tags": [
+    "horizontal-tricolour",
+    "coat-of-arms",
+    "shield",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Lower Saxony (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Lower_Saxony"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "canton-of-appenzell-ausserrhoden",
+  "wikidata": "Q12079",
+  "image": "Flag of Canton of Appenzell Ausserrhoden.svg",
+  "name": "Appenzell Ausserrhoden",
+  "flagName": "Flag of the Canton of Appenzell Ausserrhoden",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1597,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A white square with a black bear standing upright and the letters 'V R' for 'Usser Rhoden'. Appenzell split into two half-cantons along religious lines in 1597.",
+  "origin": [
+    "Appenzell joined the Confederacy in 1513. In 1597 the Protestant Outer Rhodes separated from the Catholic Inner Rhodes. The letters distinguish the two otherwise similar bear flags."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The bear and letters.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Bear",
+      "description": "A black bear standing on its hind legs.",
+      "meaning": "From the arms of the Abbey of St Gall.",
+      "basis": "traditional"
+    },
+    {
+      "name": "V R",
+      "description": "Letters on either side of the bear.",
+      "meaning": "Usser Rhoden (Outer Rhodes).",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1597,
+      "to": null,
+      "label": "Appenzell Ausserrhoden"
+    }
+  ],
+  "facts": [
+    "It was one of the last places in Europe to grant women the vote, in 1989.",
+    "Its bear comes from the abbey of St Gall."
+  ],
+  "clues": [
+    "A black upright bear with the letters V and R on white.",
+    "It split from its twin along religious lines in 1597."
+  ],
+  "lookalikes": [
+    "canton-of-appenzell-innerrhoden",
+    "canton-of-berne"
+  ],
+  "tags": [
+    "plain-field",
+    "animal",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Appenzell Ausserrhoden (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Appenzell_Ausserrhoden"
+    }
+  ]
+}

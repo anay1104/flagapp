@@ -1,0 +1,62 @@
+{
+  "id": "canton-of-zurich",
+  "wikidata": "Q11943",
+  "image": "CHE Zürich Flag.svg",
+  "name": "Zürich",
+  "flagName": "Flag of the Canton of Zürich",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1351,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A square flag divided diagonally, white in the upper hoist and blue in the lower fly. Zürich joined the Swiss Confederacy in 1351.",
+  "origin": [
+    "The diagonal white and blue banner is recorded from the 14th century. Like all Swiss cantonal flags it is a square banner of the canton's arms."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the canton's medieval banner.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0065BD",
+      "family": "blue",
+      "meaning": "From the canton's medieval banner.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1351,
+      "to": null,
+      "label": "Canton of Zürich"
+    }
+  ],
+  "facts": [
+    "Zürich is Switzerland's largest city.",
+    "Thurgau's flag is also divided diagonally, with two lions."
+  ],
+  "clues": [
+    "A square flag split diagonally into white and blue.",
+    "The flag of Switzerland's largest city and its canton.",
+    "It joined the Confederacy in 1351."
+  ],
+  "lookalikes": [
+    "canton-of-thurgau"
+  ],
+  "tags": [
+    "diagonal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Zürich (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Zürich"
+    }
+  ]
+}

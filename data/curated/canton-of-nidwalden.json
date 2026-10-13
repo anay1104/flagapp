@@ -1,0 +1,71 @@
+{
+  "id": "canton-of-nidwalden",
+  "wikidata": "Q12592",
+  "image": "Flag of Canton of Nidwalden.svg",
+  "name": "Nidwalden",
+  "flagName": "Flag of the Canton of Nidwalden",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1291,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A red square with a white double key: two keys back to back with their bits pointing outward.",
+  "origin": [
+    "Nidwalden shares the key of Saint Peter with Obwalden; the two formed Unterwalden, one of the three founding cantons."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The keys.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Double key",
+      "description": "Two white keys joined back to back.",
+      "meaning": "Saint Peter.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1291,
+      "to": null,
+      "label": "Nidwalden (part of Unterwalden)"
+    }
+  ],
+  "facts": [
+    "Its keys are the keys of heaven held by Saint Peter.",
+    "Stans is its capital."
+  ],
+  "clues": [
+    "A white double key on red.",
+    "Half of a founding canton, sharing a key symbol with its twin."
+  ],
+  "lookalikes": [
+    "canton-of-obwalden",
+    "vatican-city"
+  ],
+  "tags": [
+    "plain-field",
+    "tool",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Nidwalden (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Nidwalden"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "brandenburg",
+  "wikidata": "Q1208",
+  "image": "Flag of Brandenburg.svg",
+  "name": "Brandenburg",
+  "flagName": "Flag of Brandenburg",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Two horizontal bands of red over white with the state arms in the centre: a red eagle on a white shield. The red eagle of Brandenburg has been the symbol of the margraviate since the 12th century.",
+  "origin": [
+    "The red eagle was the emblem of the Margraviate of Brandenburg, the core of the later Kingdom of Prussia. The state was re-established in 1990, and its flag was adopted that year."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the Brandenburg eagle.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the eagle's shield.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Red eagle",
+      "description": "A red eagle with gold claws and wing-clasps on white.",
+      "meaning": "The Margraviate of Brandenburg.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1990,
+      "to": null,
+      "label": "State of Brandenburg"
+    }
+  ],
+  "facts": [
+    "The state surrounds Berlin.",
+    "Brandenburg was the heartland of Prussia."
+  ],
+  "clues": [
+    "Red over white with a red eagle on a white shield.",
+    "Its eagle belonged to the margraves who founded Prussia.",
+    "A German state surrounding the capital."
+  ],
+  "lookalikes": [
+    "thuringia"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "coat-of-arms",
+    "shield",
+    "eagle",
+    "bird"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Brandenburg (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Brandenburg"
+    }
+  ]
+}

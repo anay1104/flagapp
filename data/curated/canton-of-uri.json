@@ -1,0 +1,74 @@
+{
+  "id": "canton-of-uri",
+  "wikidata": "Q12404",
+  "image": "Flag of Canton of Uri.svg",
+  "name": "Uri",
+  "flagName": "Flag of the Canton of Uri",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1291,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A yellow square with a black bull's head with a red tongue and a red ring through its nose. Uri is one of the three founding cantons of Switzerland.",
+  "origin": [
+    "The bull (or aurochs) head appears on Uri's seal from the 13th century and is popularly linked to the canton's name. Uri swore the Federal Charter of 1291 with Schwyz and Unterwalden."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The bull's head.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The tongue and nose ring.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Bull's head",
+      "description": "A black bull's head with a red nose ring.",
+      "meaning": "The canton, popularly linked to 'Ur', the aurochs.",
+      "basis": "popular"
+    }
+  ],
+  "history": [
+    {
+      "from": 1291,
+      "to": null,
+      "label": "Canton of Uri"
+    }
+  ],
+  "facts": [
+    "Uri is the setting of the William Tell legend.",
+    "Uri's war horn, the 'Bull of Uri', was sounded in battles."
+  ],
+  "clues": [
+    "A black bull's head with a nose ring on yellow.",
+    "A founding canton, home of the William Tell legend."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Uri (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Uri"
+    }
+  ]
+}

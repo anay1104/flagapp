@@ -1,0 +1,77 @@
+{
+  "id": "canton-of-vaud",
+  "wikidata": "Q12771",
+  "image": "CHE Vaud Flag.svg",
+  "name": "Vaud",
+  "flagName": "Flag of the Canton of Vaud",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1803,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "White over green with the motto 'LIBERTÉ ET PATRIE' (Freedom and Fatherland) in gold on the white. Green was the colour of the 1798 Vaudois revolution.",
+  "origin": [
+    "Vaud was ruled by Bern until the Vaudois revolution of 1798, which used green as its colour. It became a canton in 1803."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Upper half.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "The revolution of 1798.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The motto.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Motto",
+      "description": "'LIBERTÉ ET PATRIE'.",
+      "meaning": "Freedom and Fatherland.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1803,
+      "to": null,
+      "label": "Canton of Vaud"
+    }
+  ],
+  "facts": [
+    "Lausanne, home of the International Olympic Committee, is its capital.",
+    "Its green comes from the revolution against Bernese rule."
+  ],
+  "clues": [
+    "White over green with a French motto in gold.",
+    "Its canton freed itself from Bernese rule in 1798.",
+    "Home of the International Olympic Committee."
+  ],
+  "lookalikes": [
+    "canton-of-st-gallen"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Vaud (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Vaud"
+    }
+  ]
+}

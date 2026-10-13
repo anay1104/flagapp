@@ -1,0 +1,105 @@
+{
+  "id": "rhineland-palatinate",
+  "wikidata": "Q1200",
+  "image": "Flag of Rhineland-Palatinate.svg",
+  "name": "Rhineland-Palatinate",
+  "flagName": "Flag of Rhineland-Palatinate",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "The German black, red and gold tricolour with the state arms in the canton: the red cross of Trier, the white wheel of Mainz and the golden lion of the Palatinate, under a crown of vine leaves.",
+  "origin": [
+    "The state was formed by the French occupation authorities in 1946 from parts of Prussia, Bavaria and Hesse. Its arms combine the three main historic territories; the flag was adopted in 1948."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DD0000",
+      "family": "red",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFCC00",
+      "family": "yellow",
+      "meaning": "The German national colours.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Cross of Trier",
+      "description": "A red cross on white.",
+      "meaning": "The Electorate of Trier.",
+      "basis": "official"
+    },
+    {
+      "name": "Wheel of Mainz",
+      "description": "A white wheel on red.",
+      "meaning": "The Electorate of Mainz.",
+      "basis": "official"
+    },
+    {
+      "name": "Palatinate lion",
+      "description": "A golden lion on black.",
+      "meaning": "The Electoral Palatinate.",
+      "basis": "official"
+    },
+    {
+      "name": "Vine-leaf crown",
+      "description": "A people's crown of vine leaves.",
+      "meaning": "Popular sovereignty and the region's wine.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1948,
+      "to": null,
+      "label": "Rhineland-Palatinate"
+    }
+  ],
+  "facts": [
+    "Its arms are placed in the canton, unusually for a German state.",
+    "It is Germany's largest wine-producing state.",
+    "Mainz is the capital."
+  ],
+  "clues": [
+    "The German tricolour with a shield in the canton showing a cross, a wheel and a lion.",
+    "Its crown is made of vine leaves.",
+    "Germany's largest wine-producing state."
+  ],
+  "lookalikes": [
+    "germany",
+    "lower-saxony",
+    "saarland"
+  ],
+  "tags": [
+    "horizontal-tricolour",
+    "canton",
+    "coat-of-arms",
+    "shield",
+    "cross",
+    "wheel",
+    "animal",
+    "plant",
+    "crown"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Rhineland-Palatinate (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Rhineland-Palatinate"
+    }
+  ]
+}

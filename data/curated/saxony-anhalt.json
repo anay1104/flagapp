@@ -1,0 +1,81 @@
+{
+  "id": "saxony-anhalt",
+  "wikidata": "Q1206",
+  "image": "Flag of Saxony-Anhalt (state).svg",
+  "name": "Saxony-Anhalt",
+  "flagName": "Flag of Saxony-Anhalt",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Two horizontal bands of yellow over black with the state arms: Saxon black and gold bars with a green crancelin, and the black bear of Anhalt walking on a red wall.",
+  "origin": [
+    "The state was re-established in 1990 from the former Prussian province of Saxony and the state of Anhalt. Its flag was adopted in 1991."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "From the Saxon arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "From the Saxon arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Anhalt bear",
+      "description": "A black bear walking on a red wall.",
+      "meaning": "The former Duchy of Anhalt.",
+      "basis": "official"
+    },
+    {
+      "name": "Saxon bars",
+      "description": "Black and gold bars with a green crancelin.",
+      "meaning": "Saxony.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1991,
+      "to": null,
+      "label": "Saxony-Anhalt"
+    }
+  ],
+  "facts": [
+    "Its capital is Magdeburg.",
+    "Baden-Württemberg's flag has the same colours in reverse order."
+  ],
+  "clues": [
+    "Yellow over black with arms showing a bear on a wall.",
+    "Its colours are the reverse of a south-western state's.",
+    "Its bear comes from a former duchy."
+  ],
+  "lookalikes": [
+    "baden-wurttemberg",
+    "saxony"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "coat-of-arms",
+    "shield",
+    "animal",
+    "building",
+    "crown"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Saxony-Anhalt (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Saxony-Anhalt"
+    }
+  ]
+}

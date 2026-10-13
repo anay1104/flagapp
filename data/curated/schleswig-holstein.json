@@ -1,0 +1,70 @@
+{
+  "id": "schleswig-holstein",
+  "wikidata": "Q1194",
+  "image": "Flag of Schleswig-Holstein.svg",
+  "name": "Schleswig-Holstein",
+  "flagName": "Flag of Schleswig-Holstein",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1949,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Three horizontal bands of blue, white and red, first used by German nationalists in the duchies in the 1840s. The state flag adds the arms with the two lions of Schleswig and the nettle leaf of Holstein.",
+  "origin": [
+    "The colours were adopted by German nationalists in Schleswig and Holstein during the uprising against Danish rule in 1848. The state was formed in 1946 and its flag confirmed in 1949."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#003DA5",
+      "family": "blue",
+      "meaning": "From the Holstein arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the Holstein nettle leaf.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the Holstein arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1949,
+      "to": null,
+      "label": "Schleswig-Holstein"
+    }
+  ],
+  "facts": [
+    "It is Germany's northernmost state, bordering Denmark.",
+    "Kiel is the capital."
+  ],
+  "clues": [
+    "Blue, white and red horizontal bands.",
+    "Its colours date from a 19th-century uprising against Danish rule.",
+    "Germany's northernmost state."
+  ],
+  "lookalikes": [
+    "russia",
+    "netherlands"
+  ],
+  "tags": [
+    "horizontal-tricolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Schleswig-Holstein (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Schleswig-Holstein"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "bremen",
+  "wikidata": "Q1209",
+  "image": "Flag of Bremen.svg",
+  "name": "Bremen",
+  "flagName": "Flag of Bremen",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1891,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Germany",
+  "summary": "At least eight alternating horizontal red and white stripes, with a chequered border at the hoist. Nicknamed the 'Speckflagge' (bacon flag), it reflects Bremen's history as a Hanseatic city.",
+  "origin": [
+    "Red and white were the colours of the Hanseatic League. The striped flag was used by Bremen's ships for centuries and was formally adopted in 1891."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "Hanseatic colours.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Hanseatic colours.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Chequered hoist",
+      "description": "Red and white squares along the hoist.",
+      "meaning": "Bremen's distinctive Hanseatic flag.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1891,
+      "to": null,
+      "label": "Free Hanseatic City of Bremen"
+    }
+  ],
+  "facts": [
+    "Its nickname 'Speckflagge' comes from its resemblance to streaky bacon.",
+    "Bremen is Germany's smallest state.",
+    "The state flag adds the Bremen key."
+  ],
+  "clues": [
+    "Red and white stripes with a chequered border at the hoist.",
+    "Nicknamed after bacon.",
+    "The flag of Germany's smallest state, a Hanseatic city."
+  ],
+  "lookalikes": [
+    "hamburg"
+  ],
+  "tags": [
+    "horizontal-stripes"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Bremen (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Bremen"
+    }
+  ]
+}

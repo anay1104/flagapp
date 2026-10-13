@@ -1,0 +1,70 @@
+{
+  "id": "canton-of-basel-landschaft",
+  "wikidata": "Q12146",
+  "image": "CHE Basel-Landschaft Flag.svg",
+  "name": "Basel-Landschaft",
+  "flagName": "Flag of the Canton of Basel-Landschaft",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1834,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A white square with a red crozier facing the fly, with seven knobs along its curve. It was adopted after the canton separated from the city of Basel in 1833.",
+  "origin": [
+    "After the rural districts broke away from the city of Basel in 1833, the new canton reversed the city's crozier and coloured it red."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The crozier.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Red crozier",
+      "description": "A crozier with seven red knobs, facing the fly.",
+      "meaning": "The seven districts that first formed the canton, by tradition.",
+      "basis": "popular"
+    }
+  ],
+  "history": [
+    {
+      "from": 1834,
+      "to": null,
+      "label": "Basel-Landschaft"
+    }
+  ],
+  "facts": [
+    "Its crozier faces the opposite way from Basel-Stadt's.",
+    "Liestal is its capital."
+  ],
+  "clues": [
+    "A red bishop's staff with knobs on white.",
+    "It broke away from a city in 1833."
+  ],
+  "lookalikes": [
+    "canton-of-basel-stadt",
+    "canton-of-jura"
+  ],
+  "tags": [
+    "plain-field",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Basel-Landschaft (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Basel-Landschaft"
+    }
+  ]
+}

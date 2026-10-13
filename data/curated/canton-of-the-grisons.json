@@ -1,0 +1,87 @@
+{
+  "id": "canton-of-the-grisons",
+  "wikidata": "Q11925",
+  "image": "CHE Graubünden Flag.svg",
+  "name": "Graubünden",
+  "flagName": "Flag of the Canton of Graubünden",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1803,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A square combining the arms of the three medieval leagues: the black and white Grey League, the ibex of the League of God's House, and the blue and gold cross of the League of the Ten Jurisdictions.",
+  "origin": [
+    "The three leagues allied in the 15th century and formed the Free State of the Three Leagues. It became the canton of Graubünden (Grisons) in 1803."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The Grey League.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The Grey League.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0065BD",
+      "family": "blue",
+      "meaning": "The Ten Jurisdictions.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The Ten Jurisdictions.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Ibex",
+      "description": "A black ibex.",
+      "meaning": "The League of God's House.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Cross",
+      "description": "A quartered blue and gold cross.",
+      "meaning": "The League of the Ten Jurisdictions.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1803,
+      "to": null,
+      "label": "Canton of Graubünden"
+    }
+  ],
+  "facts": [
+    "It is Switzerland's largest canton and the only one with three official languages: German, Romansh and Italian.",
+    "The ibex is also its canton animal."
+  ],
+  "clues": [
+    "A flag combining three historic leagues, with an ibex.",
+    "Switzerland's largest canton, with three official languages."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "animal",
+    "cross"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Graubünden (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Graubünden"
+    }
+  ]
+}

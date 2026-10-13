@@ -1,0 +1,94 @@
+{
+  "id": "north-rhine-westphalia",
+  "wikidata": "Q1198",
+  "image": "Flag of North Rhine-Westphalia.svg",
+  "name": "North Rhine-Westphalia",
+  "flagName": "Flag of North Rhine-Westphalia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1953,
+  "to": null,
+  "ratio": "3:5",
+  "country": "Germany",
+  "summary": "Green, white and red horizontal bands with the state arms: a white wavy line on green for the Rhine, the white Westphalian horse on red, and the red rose of Lippe.",
+  "origin": [
+    "North Rhine-Westphalia was created by the British in 1946 from the northern Rhine Province and Westphalia, and Lippe joined in 1947. The colours combine the green and white of the Rhineland and the red and white of Westphalia; the arms were adopted in 1953."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "The Rhineland.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Shared by the Rhineland and Westphalia.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "Westphalia.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Rhine",
+      "description": "A white wavy diagonal line on green.",
+      "meaning": "The River Rhine.",
+      "basis": "official"
+    },
+    {
+      "name": "Westphalian horse",
+      "description": "A white horse on red.",
+      "meaning": "Westphalia.",
+      "basis": "official"
+    },
+    {
+      "name": "Lippe rose",
+      "description": "A red rose on white.",
+      "meaning": "The former state of Lippe.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1953,
+      "to": null,
+      "label": "North Rhine-Westphalia"
+    }
+  ],
+  "facts": [
+    "It is Germany's most populous state.",
+    "Its capital is Düsseldorf, though Cologne is the largest city.",
+    "The plain tricolour is the civil flag."
+  ],
+  "clues": [
+    "Green, white and red bands with arms showing a river, a horse and a rose.",
+    "Germany's most populous state.",
+    "Its colours combine the Rhineland and Westphalia."
+  ],
+  "lookalikes": [
+    "hungary"
+  ],
+  "tags": [
+    "horizontal-tricolour",
+    "coat-of-arms",
+    "shield",
+    "animal",
+    "plant",
+    "water"
+  ],
+  "sources": [
+    {
+      "title": "Flag of North Rhine-Westphalia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_North_Rhine-Westphalia"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "canton-of-st-gallen",
+  "wikidata": "Q12746",
+  "image": "Flag of Canton of Sankt Gallen 2011.svg",
+  "name": "St. Gallen",
+  "flagName": "Flag of the Canton of St. Gallen",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1803,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "A green square with a white bundle of rods and an axe, the Roman fasces. It was created when the canton was formed in 1803.",
+  "origin": [
+    "St. Gallen became a canton in 1803 under Napoleon's Act of Mediation. The fasces symbolised unity of the different territories joined together. The design was redrawn in 2011."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "Freedom, a colour popular in the Helvetic Republic era.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The fasces.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Fasces",
+      "description": "A bundle of rods bound around an axe.",
+      "meaning": "Unity and strength of the joined districts.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1803,
+      "to": 2011,
+      "label": "Original design"
+    },
+    {
+      "from": 2011,
+      "to": null,
+      "label": "Redrawn fasces"
+    }
+  ],
+  "facts": [
+    "The fasces is a Roman symbol of authority.",
+    "The Abbey of St Gall is a UNESCO World Heritage Site."
+  ],
+  "clues": [
+    "A white bundle of rods with an axe on green.",
+    "A canton created in 1803 under Napoleon."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "weapon",
+    "tool"
+  ],
+  "sources": [
+    {
+      "title": "Flag of St. Gallen (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_St._Gallen"
+    }
+  ]
+}

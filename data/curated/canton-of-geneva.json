@@ -1,0 +1,86 @@
+{
+  "id": "canton-of-geneva",
+  "wikidata": "Q11917",
+  "image": "Flag of Canton of Geneva.svg",
+  "name": "Geneva",
+  "flagName": "Flag of the Canton of Geneva",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1815,
+  "to": null,
+  "ratio": "1:1",
+  "country": "Switzerland",
+  "summary": "Divided vertically: half a black imperial eagle on yellow at the hoist, and a gold key on red at the fly. The eagle stands for the Holy Roman Empire and the key for the Bishop of Geneva.",
+  "origin": [
+    "The arms date from the 15th century, combining the Imperial eagle and Saint Peter's key. Geneva joined the Confederacy in 1815. Its motto, 'Post Tenebras Lux', appears on the arms."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFD100",
+      "family": "yellow",
+      "meaning": "The eagle's field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The eagle.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E8423F",
+      "family": "red",
+      "meaning": "The key's field.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Half eagle",
+      "description": "Half a crowned black eagle.",
+      "meaning": "The Holy Roman Empire; Geneva was an imperial city.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Key",
+      "description": "A gold key.",
+      "meaning": "The Bishop of Geneva and Saint Peter.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1815,
+      "to": null,
+      "label": "Republic and Canton of Geneva"
+    }
+  ],
+  "facts": [
+    "Geneva is home to the European headquarters of the United Nations and the Red Cross.",
+    "Its motto means 'After darkness, light'."
+  ],
+  "clues": [
+    "Half a black eagle on yellow beside a gold key on red.",
+    "Its city hosts the Red Cross and UN offices.",
+    "Its motto means 'After darkness, light'."
+  ],
+  "lookalikes": [
+    "canton-of-valais"
+  ],
+  "tags": [
+    "vertical-bicolour",
+    "eagle",
+    "bird",
+    "tool",
+    "crown"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Geneva (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Geneva"
+    }
+  ]
+}
