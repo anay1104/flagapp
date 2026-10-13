@@ -1,0 +1,75 @@
+{
+  "id": "kenya",
+  "wikidata": "Q114",
+  "name": "Kenya",
+  "flagName": "Flag of Kenya",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1963,
+  "to": null,
+  "adopted": "1963-12-12",
+  "ratio": "2:3",
+  "summary": "Black, red and green horizontal bands separated by thin white stripes, with a red, black and white Maasai shield and two crossed white spears in the centre. It was raised at independence at midnight on 12 December 1963.",
+  "origin": [
+    "The flag is based on that of the Kenya African National Union (KANU), the party that led Kenya to independence. KANU's black, red and green flag was itself derived from the colours of the Kenya African Union.",
+    "For the national flag, white fimbriations were added between the bands, and the party's emblem was replaced with a traditional Maasai shield and spears. The flag was raised as the Union Flag came down at the independence ceremony in Nairobi."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The people of Kenya.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#BB0000",
+      "family": "red",
+      "meaning": "The blood shed during the struggle for independence.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#006600",
+      "family": "green",
+      "meaning": "The land and its natural wealth.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace and honesty.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Maasai shield and two spears",
+      "description": "A traditional red, black and white Maasai shield set over two crossed white spears.",
+      "meaning": "The defence of the freedoms gained at independence.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    { "from": 1921, "to": 1963, "label": "Kenya Colony", "note": "British Blue Ensign with a red lion badge." },
+    { "from": 1963, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "The flag is protected by the National Flag, Emblems and Names Act.",
+    "Its colours echo the Pan-African red, black and green of Marcus Garvey's Universal Negro Improvement Association flag."
+  ],
+  "clues": [
+    "Black, red and green bands with thin white stripes, and a shield and two spears in the centre.",
+    "The shield on it is of a traditional pastoralist people's design.",
+    "Its colours come from the party that led the country to independence in 1963."
+  ],
+  "lookalikes": ["malawi", "south-sudan"],
+  "tags": ["horizontal-tricolour", "fimbriation", "shield", "weapon", "pan-african"],
+  "sources": [
+    { "title": "Constitution of Kenya (2010), Second Schedule", "url": "https://www.constituteproject.org/constitution/Kenya_2010" },
+    { "title": "Flag of Kenya (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kenya" },
+    { "title": "Kenya (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ke.html" }
+  ]
+}

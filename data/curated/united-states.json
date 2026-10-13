@@ -1,0 +1,140 @@
+{
+  "id": "united-states",
+  "wikidata": "Q30",
+  "name": "United States",
+  "flagName": "Flag of the United States",
+  "nickname": "The Stars and Stripes, Old Glory, the Star-Spangled Banner",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-07-04",
+  "ratio": "10:19",
+  "designer": "50-star arrangement attributed to Robert G. Heft (1958)",
+  "summary": "Thirteen horizontal stripes of red and white with a blue canton of fifty white stars. The stripes stand for the thirteen original colonies and the stars for the states; the canton has changed 26 times as states joined the Union.",
+  "origin": [
+    "The first widely flown flag of the rebelling colonies was the Grand Union (or Continental Colours) flag of 1775–1777: thirteen red and white stripes with the British Union Flag in the canton.",
+    "On 14 June 1777 the Second Continental Congress passed the first Flag Resolution: the flag would be thirteen stripes, alternate red and white, with thirteen white stars on a blue field \"representing a new constellation\". The resolution gave no arrangement for the stars, so early flags varied widely. The story that Betsy Ross sewed the first flag comes from her grandson in 1870 and is not supported by contemporary evidence; Francis Hopkinson, a signer of the Declaration of Independence, claimed credit for the design.",
+    "The Flag Act of 1794 added two stars and two stripes for Vermont and Kentucky; this 15-stripe flag flew over Fort McHenry in 1814 and inspired Francis Scott Key's 'The Star-Spangled Banner'. The Flag Act of 1818 returned to thirteen stripes for good and set the rule still in force: one star per state, added on the Fourth of July after a state's admission.",
+    "The current 50-star flag became official on 4 July 1960, after Hawaii's admission. Its arrangement of nine offset rows of six and five stars is credited to Robert G. Heft, who designed it as a high-school project in Ohio."
+  ],
+  "colors": [
+    {
+      "name": "Old Glory Red",
+      "hex": "#B31942",
+      "family": "red",
+      "meaning": "Hardiness and valour.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Purity and innocence.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Old Glory Blue",
+      "hex": "#0A3161",
+      "family": "blue",
+      "meaning": "Vigilance, perseverance and justice.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Fifty stars",
+      "description": "Fifty white five-pointed stars in nine staggered rows, alternating six and five, on a blue canton.",
+      "meaning": "One star for each state of the Union.",
+      "basis": "official"
+    },
+    {
+      "name": "Thirteen stripes",
+      "description": "Seven red and six white horizontal stripes, red at top and bottom.",
+      "meaning": "The thirteen original colonies that declared independence from Great Britain.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1775,
+      "to": 1777,
+      "label": "Grand Union Flag",
+      "note": "Thirteen stripes with the British Union Flag in the canton."
+    },
+    {
+      "from": 1777,
+      "to": 1795,
+      "label": "13 stars, 13 stripes",
+      "note": "Flag Resolution of 14 June 1777. Star layouts varied; the circle of stars is known as the 'Betsy Ross' pattern."
+    },
+    {
+      "from": 1795,
+      "to": 1818,
+      "label": "15 stars, 15 stripes",
+      "note": "The Star-Spangled Banner of Fort McHenry, 1814."
+    },
+    {
+      "from": 1818,
+      "to": 1960,
+      "label": "13 stripes with one star per state",
+      "note": "Twenty-three different star counts flew between 1818 and 1959; the 48-star flag (1912–1959) was used for 47 years."
+    },
+    {
+      "from": 1959,
+      "to": 1960,
+      "label": "49 stars",
+      "note": "Used for one year after Alaska's admission."
+    },
+    {
+      "from": 1960,
+      "to": null,
+      "label": "50 stars",
+      "note": "The longest-serving version of the flag."
+    }
+  ],
+  "facts": [
+    "The 50-star flag has been in use longer than any previous version.",
+    "Flag Day, 14 June, marks the 1777 Flag Resolution.",
+    "The colour meanings come from Charles Thomson's 1782 description of the Great Seal, which uses the same colours; Congress never assigned meanings to the flag itself.",
+    "The US Flag Code governs etiquette but carries no penalties; the Supreme Court ruled in Texas v. Johnson (1989) that flag burning is protected speech."
+  ],
+  "clues": [
+    "Thirteen horizontal stripes of red and white and a blue canton full of white stars.",
+    "Its canton has been redesigned more than twenty times, a new version each time the federation grew.",
+    "A star is added on the Fourth of July after a new member joins.",
+    "A version with fifteen stripes inspired a national anthem written during a bombardment in 1814."
+  ],
+  "lookalikes": [
+    "liberia",
+    "malaysia"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "4 U.S. Code Chapter 1 – The Flag",
+      "url": "https://www.law.cornell.edu/uscode/text/4/chapter-1"
+    },
+    {
+      "title": "Executive Order 10834 (1959), flag proportions",
+      "url": "https://www.archives.gov/federal-register/codification/executive-order/10834.html"
+    },
+    {
+      "title": "Flag of the United States (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_United_States"
+    },
+    {
+      "title": "United States (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/us.html"
+    }
+  ],
+  "aliases": [
+    "America",
+    "USA",
+    "US"
+  ]
+}

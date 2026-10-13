@@ -1,0 +1,144 @@
+---
+import Base from '../layouts/Base.astro';
+import { flags } from '../lib/data';
+import { CATEGORY_PLURALS, years } from '../lib/format';
+import { original, thumb } from '../lib/img';
+import stats from '../generated/stats.json';
+import type { Category } from '../lib/types';
+
+const featured = flags.filter((f) => f.tier === 1).sort((a, b) => a.name.localeCompare(b.name));
+const total = stats.total;
+const counts = new Map<Category, number>();
+for (const f of flags) counts.set(f.category, (counts.get(f.category) ?? 0) + 1);
+counts.set('local', stats.local);
+const historical = flags.filter((f) => !f.current).length;
+const categories = (Object.keys(CATEGORY_PLURALS) as Category[]).filter((c) => counts.get(c));
+---
+
+<Base title="Vexillum">
+  <section class="home-hero">
+    <div class="wrap">
+      <h1>Every flag, past and present.</h1>
+      <p class="lede">
+        {total.toLocaleString()} flags of countries, territories, historical states, regions, peoples, organisations and
+        cities, with their colours, symbols and history. Then learn them.
+      </p>
+      <div class="cta">
+        <a class="btn primary" href="/quiz/">Start a quiz</a>
+        <a class="btn" href="/flags/">Browse all flags</a>
+      </div>
+      <dl class="stats">
+        <div><dt>Flags</dt><dd>{total.toLocaleString()}</dd></div>
+        <div><dt>Historical</dt><dd>{historical.toLocaleString()}+</dd></div>
+        <div><dt>Full entries</dt><dd>{featured.length}</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <h2>Full entries</h2>
+    <p class="muted">Written entries with every colour and symbol explained, origins, evolution and sources.</p>
+    <div class="flag-grid">
+      {
+        featured.map((f) => (
+          <a class="flag-tile card" href={`/flag/${f.id}/`}>
+            <div class="frame">
+              <img class="flag-img" src={thumb(f.img, 250)} data-original={original(f.img)} alt="" loading="lazy" />
+            </div>
+            <span class="name">{f.name}</span>
+            <span class="meta">{years(f.from, f.to, f.current)}</span>
+          </a>
+        ))
+      }
+    </div>
+
+    <h2>Explore by type</h2>
+    <div class="cat-grid">
+      {
+        categories.map((c) => (
+          <a class="cat card" href={`/flags/?cat=${c}`}>
+            <strong>{CATEGORY_PLURALS[c]}</strong>
+            <span class="muted">{counts.get(c)!.toLocaleString()}</span>
+          </a>
+        ))
+      }
+    </div>
+
+    <h2>Ways to practise</h2>
+    <div class="cat-grid">
+      <a class="cat card" href="/quiz/?mode=name"><strong>Name the flag</strong><span class="muted">Four options</span></a>
+      <a class="cat card" href="/quiz/?mode=type"><strong>Type the name</strong><span class="muted">No options</span></a>
+      <a class="cat card" href="/quiz/?mode=pick"><strong>Pick the flag</strong><span class="muted">Spot it among look-alikes</span></a>
+      <a class="cat card" href="/quiz/?mode=clue"><strong>Clue mode</strong><span class="muted">From a description</span></a>
+      <a class="cat card" href="/quiz/?mode=list&tag=crescent"><strong>List challenge</strong><span class="muted">Every flag with a crescent…</span></a>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .home-hero {
+    padding: 4rem 0 3rem;
+    border-bottom: 1px solid var(--border);
+    background:
+      linear-gradient(180deg, transparent, var(--bg)),
+      repeating-linear-gradient(90deg, var(--surface-2) 0 1px, transparent 1px 80px);
+  }
+
+  .home-hero h1 {
+    font-size: clamp(2.4rem, 6vw, 4.2rem);
+    max-width: 14ch;
+  }
+
+  .lede {
+    font-size: 1.2rem;
+    max-width: 60ch;
+    color: var(--muted);
+  }
+
+  .cta {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .stats {
+    display: flex;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+    margin: 0;
+  }
+
+  .stats dt {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+  }
+
+  .stats dd {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .cat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .cat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 1rem 1.1rem;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .cat:hover {
+    border-color: var(--text);
+  }
+</style>

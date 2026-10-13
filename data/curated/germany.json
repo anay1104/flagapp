@@ -1,0 +1,69 @@
+{
+  "id": "germany",
+  "wikidata": "Q183",
+  "name": "Germany",
+  "flagName": "Flag of Germany",
+  "nickname": "Schwarz-Rot-Gold (black-red-gold)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1949,
+  "to": null,
+  "adopted": "1949-05-23",
+  "ratio": "3:5",
+  "summary": "A horizontal tricolour of black, red and gold. The colours come from the liberal and nationalist movements of the 19th century and stand for German unity, democracy and freedom, in contrast with the black-white-red of the German Empire.",
+  "origin": [
+    "During the Napoleonic Wars the volunteer Lützow Free Corps wore black uniforms with red facings and gold (brass) buttons. Its veterans helped found the student fraternities (Burschenschaften), whose black-red-gold banners appeared at the Wartburg Festival of 1817 and the Hambach Festival of 1832, the first great democratic rally in Germany.",
+    "The colours were also believed, inaccurately, to be those of the medieval Holy Roman Empire (a black eagle with red claws on gold). In 1848 the Frankfurt Parliament adopted black-red-gold as the flag of a hoped-for united, liberal Germany, but the revolution failed.",
+    "Bismarck's North German Confederation and the German Empire used black-white-red instead. The Weimar Republic restored black-red-gold in 1919; the Nazis abolished it in 1933. In 1949 both German states chose black-red-gold. West Germany's Basic Law (Article 22) defined the federal flag; East Germany added its hammer-and-compass emblem in 1959. Reunification in 1990 brought the plain tricolour to all of Germany."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "From the Lützow Free Corps uniforms; often explained as the darkness of oppression overcome.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DD0000",
+      "family": "red",
+      "meaning": "From the Lützow uniform facings; often explained as blood shed for freedom.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFCC00",
+      "family": "yellow",
+      "meaning": "From the brass buttons; often explained as the golden light of freedom. Officially gold, not yellow.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1848, "to": 1852, "label": "German Confederation (Frankfurt Parliament)", "note": "Black-red-gold as the flag of the 1848 revolution." },
+    { "from": 1867, "to": 1918, "label": "North German Confederation and German Empire", "note": "Black-white-red, combining Prussian black and white with Hanseatic red and white." },
+    { "from": 1919, "to": 1933, "label": "Weimar Republic", "note": "Black-red-gold restored; the merchant flag kept black-white-red with a black-red-gold canton." },
+    { "from": 1933, "to": 1945, "label": "Nazi Germany", "note": "Black-white-red until 1935, then the swastika flag as sole national flag." },
+    { "from": 1949, "to": null, "label": "Federal Republic of Germany", "note": "Black-red-gold, defined in Article 22 of the Basic Law; extended to reunified Germany in 1990." },
+    { "from": 1959, "to": 1990, "label": "German Democratic Republic", "note": "Black-red-gold with the hammer, compass and ring of rye." }
+  ],
+  "facts": [
+    "Federal government offices fly a version with the federal shield (the Bundesdienstflagge), which private citizens may not use.",
+    "Belgium has the same colours in vertical bands and a nearly square ratio.",
+    "Displaying Nazi flags is a criminal offence in Germany; the Imperial black-white-red flag is legal but is restricted in some states because extremists use it."
+  ],
+  "clues": [
+    "Three horizontal bands: black on top, then red, then gold.",
+    "Its colours trace back to the uniforms of a volunteer corps that fought Napoleon.",
+    "A revolutionary parliament adopted it in 1848, but it became official only in 1919.",
+    "For forty years two neighbouring states used it, one with a hammer and compass added."
+  ],
+  "lookalikes": ["belgium", "uganda"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Basic Law for the Federal Republic of Germany, Article 22", "url": "https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html" },
+    { "title": "Flag of Germany (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Germany" },
+    { "title": "Germany (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/de.html" }
+  ]
+}

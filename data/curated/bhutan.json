@@ -1,0 +1,83 @@
+{
+  "id": "bhutan",
+  "wikidata": "Q917",
+  "name": "Bhutan",
+  "flagName": "Flag of Bhutan",
+  "nickname": "Druk flag",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1969,
+  "to": null,
+  "ratio": "2:3",
+  "summary": "A white thunder dragon (Druk) lies along the diagonal dividing a yellow upper-hoist half from an orange lower-fly half. The dragon gives the country its own name, Druk Yul, 'Land of the Thunder Dragon'.",
+  "origin": [
+    "Bhutan's first flag was designed in 1949 for the signing of a treaty with India; it was square and divided yellow and red with a green dragon. Later in the 1950s and 1960s the dragon became white and the lower colour shifted to orange.",
+    "The modern form was standardised around 1969, and in 1972 the National Assembly codified the flag's design and the meaning of each element. The 2008 Constitution describes the flag in its first schedule."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFD520",
+      "family": "yellow",
+      "meaning": "The secular authority and tradition of the Druk Gyalpo, the Dragon King.",
+      "basis": "official"
+    },
+    {
+      "name": "Orange",
+      "hex": "#FF4E12",
+      "family": "orange",
+      "meaning": "Buddhist spiritual practice, especially the Drukpa Kagyu and Nyingma traditions.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Purity and the loyalty of Bhutan's diverse peoples.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Druk (Thunder Dragon)",
+      "description": "A white dragon facing away from the hoist, lying centred along the dividing line between the two halves.",
+      "meaning": "The name of the country and of the Drukpa school of Buddhism; its placement over both halves shows the equal importance of secular and religious authority.",
+      "basis": "official"
+    },
+    {
+      "name": "Norbu (jewels)",
+      "description": "Jewels clutched in the dragon's claws.",
+      "meaning": "The wealth and prosperity of the country and the security of its people.",
+      "basis": "official"
+    },
+    {
+      "name": "Snarling mouth",
+      "description": "The dragon's open, snarling jaws.",
+      "meaning": "The strength of the deities protecting Bhutan.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    { "from": 1949, "to": 1956, "label": "First flag", "note": "Nearly square, yellow and red with a green dragon." },
+    { "from": 1956, "to": 1969, "label": "Transitional versions", "note": "White dragon; the lower half moved from red toward orange." },
+    { "from": 1969, "to": null, "label": "Current flag", "note": "Codified by the National Assembly in 1972." }
+  ],
+  "facts": [
+    "The dragon must be white, never green or any other colour.",
+    "It is one of a few national flags featuring a dragon; Wales's flag also has one, but Wales is a constituent country, not a sovereign state.",
+    "Bhutanese call their country Druk Yul, 'Land of the Thunder Dragon'."
+  ],
+  "clues": [
+    "A white dragon lies across a diagonal split of yellow and orange.",
+    "Its emblem clutches jewels in its claws.",
+    "One half represents royal authority and the other a Buddhist tradition.",
+    "The creature on it is also part of the country's name in its own language."
+  ],
+  "lookalikes": [],
+  "tags": ["diagonal", "dragon", "animal", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Constitution of the Kingdom of Bhutan (2008)", "url": "https://www.constituteproject.org/constitution/Bhutan_2008" },
+    { "title": "Flag of Bhutan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bhutan" },
+    { "title": "Bhutan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bt.html" }
+  ]
+}

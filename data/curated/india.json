@@ -1,0 +1,82 @@
+{
+  "id": "india",
+  "wikidata": "Q668",
+  "name": "India",
+  "flagName": "Flag of India",
+  "nickname": "Tiraṅgā (the Tricolour)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1947,
+  "to": null,
+  "adopted": "1947-07-22",
+  "ratio": "2:3",
+  "designer": "Based on a design by Pingali Venkayya",
+  "summary": "A horizontal tricolour of saffron, white and green with a navy-blue 24-spoke wheel, the Ashoka Chakra, at its centre. It was adopted by the Constituent Assembly three weeks before independence.",
+  "origin": [
+    "Several flags were used during the independence movement, including the Calcutta flag of 1906 and Bhikaiji Cama's flag raised in Stuttgart in 1907. In 1921 Pingali Venkayya presented Mahatma Gandhi with a red and green design for the Indian National Congress; at Gandhi's suggestion a white stripe and a spinning wheel (charkha) were added.",
+    "In 1931 the Congress adopted the Swaraj flag: saffron, white and green with a blue charkha in the centre. To avoid communal readings it declared that the colours had no religious meaning.",
+    "On 22 July 1947 the Constituent Assembly adopted the flag with one change: the charkha was replaced by the Dharma Chakra from the Lion Capital of Ashoka at Sarnath. The wheel has no back or front, so it looks the same on both sides of the flag."
+  ],
+  "colors": [
+    {
+      "name": "India saffron",
+      "hex": "#FF9933",
+      "family": "orange",
+      "meaning": "Courage and sacrifice; in S. Radhakrishnan's explanation to the Constituent Assembly, renunciation and disinterestedness.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Truth, peace and light, the path of truth to guide conduct.",
+      "basis": "traditional"
+    },
+    {
+      "name": "India green",
+      "hex": "#138808",
+      "family": "green",
+      "meaning": "Faith, fertility and the relation to the soil and plant life on which all life depends.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Navy blue",
+      "hex": "#000080",
+      "family": "blue",
+      "meaning": "The colour of the Ashoka Chakra.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Ashoka Chakra",
+      "description": "A navy-blue wheel with 24 spokes, its diameter roughly equal to the width of the white band.",
+      "meaning": "The wheel of dharma (law and righteousness) from the 3rd-century BCE Lion Capital of Emperor Ashoka; Radhakrishnan described it as the wheel of motion, meaning there is life in movement and death in stagnation.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    { "from": 1906, "to": 1921, "label": "Early independence-movement flags", "note": "Including the Calcutta flag and the flag raised by Bhikaiji Cama in 1907." },
+    { "from": 1921, "to": 1931, "label": "Gandhi's flag", "note": "White, green and red stripes with a charkha." },
+    { "from": 1931, "to": 1947, "label": "Swaraj flag", "note": "Saffron, white and green with a blue charkha; the Indian National Congress flag." },
+    { "from": 1947, "to": null, "label": "National flag", "note": "Adopted 22 July 1947 with the Ashoka Chakra." }
+  ],
+  "facts": [
+    "The Flag Code of India long required the national flag to be made of hand-spun khadi; amendments in 2021 and 2022 permitted machine-made and polyester flags.",
+    "The Bureau of Indian Standards specifies nine standard sizes, from 6300 × 4200 mm down to 150 × 100 mm for cars and tables.",
+    "Until a 2004 Supreme Court ruling, private citizens could fly the flag only on certain national days."
+  ],
+  "clues": [
+    "Saffron, white and green horizontal stripes with a navy wheel in the middle.",
+    "Its central wheel has 24 spokes and comes from an emperor's stone pillar.",
+    "A spinning wheel was replaced by a wheel of law weeks before independence.",
+    "Its flag code once required the flag to be made from hand-spun cloth."
+  ],
+  "lookalikes": ["niger", "ireland", "ivory-coast"],
+  "tags": ["horizontal-tricolour", "wheel", "religious-symbol"],
+  "sources": [
+    { "title": "Flag Code of India (Ministry of Home Affairs)", "url": "https://www.mha.gov.in/sites/default/files/flagcodeofindia_070214.pdf" },
+    { "title": "Constituent Assembly Debates, 22 July 1947", "url": "https://www.constitutionofindia.net/debates/22-jul-1947/" },
+    { "title": "Flag of India (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_India" }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "denmark",
+  "wikidata": "Q35",
+  "name": "Denmark",
+  "flagName": "Flag of Denmark",
+  "nickname": "Dannebrog",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1625,
+  "to": null,
+  "ratio": "28:37",
+  "summary": "A white Nordic cross on red, its vertical arm shifted toward the hoist. Usually described as the oldest national flag in continuous use, it is the model for every other Nordic cross flag.",
+  "origin": [
+    "According to legend, the flag fell from the sky during the Battle of Lyndanisse in Estonia on 15 June 1219, turning the battle for King Valdemar II. The story first appears in writings of the early 16th century, about three hundred years after the event.",
+    "By the 14th century a red banner with a white cross was associated with the Danish kings: the Gelre Armorial (c. 1370–1386) shows a banner of this design beside the Danish royal arms. A red banner with a white cross was used as a war flag in the 15th and 16th centuries.",
+    "By the 17th century the Dannebrog was also flown by Danish merchant ships, and 1625 is commonly given as the date it was standardised as a national flag. A 1748 ordinance fixed the proportions of the merchant flag's cross, 3:1:3 vertically and 3:1:4.5 horizontally, still used today."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "No official meaning; red war banners with a white cross were associated with the crusades and the Holy Roman Empire.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The Christian cross.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Nordic cross",
+      "description": "A white cross whose vertical arm is set toward the hoist, so the fly arms are longer.",
+      "meaning": "Christianity; the off-centre arm makes the cross look centred when the flag flies.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": null,
+      "to": 1625,
+      "label": "Royal and war banner",
+      "note": "Red with a white cross, documented from the 14th century."
+    },
+    {
+      "from": 1625,
+      "to": null,
+      "label": "Dannebrog",
+      "note": "Used continuously as a national and merchant flag."
+    }
+  ],
+  "facts": [
+    "Valdemarsdag, 15 June, commemorates the legendary fall of the flag from the sky.",
+    "The state and naval flag is a swallowtail (Splitflag) in a darker red.",
+    "The flags of Sweden, Norway, Finland, Iceland, the Faroe Islands and Åland all follow its cross design."
+  ],
+  "clues": [
+    "A white off-centre cross on a red field.",
+    "Legend says it fell from the sky during a battle in 1219.",
+    "Every other flag of its regional cross family is modelled on it.",
+    "Often called the oldest national flag still in continuous use."
+  ],
+  "lookalikes": [
+    "switzerland",
+    "norway"
+  ],
+  "tags": [
+    "nordic-cross",
+    "nordic",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Denmark (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Denmark"
+    },
+    {
+      "title": "Denmark (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/dk.html"
+    }
+  ]
+}

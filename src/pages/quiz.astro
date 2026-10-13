@@ -1,0 +1,254 @@
+---
+import Base from '../layouts/Base.astro';
+import QuizApp from '../components/QuizApp';
+import { tagLabels } from '../lib/data';
+---
+
+<Base title="Quiz" description="Learn the flags of the world: name the flag, pick the flag, clue mode and list challenges.">
+  <div class="wrap quiz-wrap">
+    <h1 style="margin-top: 2rem">Practice</h1>
+    <QuizApp client:only="preact" tagLabels={tagLabels} />
+  </div>
+</Base>
+
+<style is:global>
+  .quiz-wrap {
+    max-width: 900px;
+  }
+
+  fieldset {
+    border: 0;
+    padding: 0;
+    margin: 1rem 0;
+  }
+
+  legend {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .mode-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.75rem;
+  }
+
+  .mode {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.9rem 1rem;
+    cursor: pointer;
+  }
+
+  .mode input {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .mode.selected {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 1px var(--accent);
+  }
+
+  .mode:has(input:focus-visible) {
+    outline: 2px solid var(--link);
+    outline-offset: 2px;
+  }
+
+  .setup-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1rem 0 0.5rem;
+  }
+
+  .setup-row label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  .q-head {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    color: var(--muted);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+  }
+
+  .q-head .linkish {
+    margin-left: auto;
+  }
+
+  .linkish {
+    background: none;
+    border: 0;
+    padding: 0;
+    color: var(--link);
+    font: inherit;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  .progress-bar {
+    height: 4px;
+    background: var(--surface-2);
+    border-radius: 2px;
+    margin: 0.75rem 0 1.5rem;
+    overflow: hidden;
+  }
+
+  .progress-bar span {
+    display: block;
+    height: 100%;
+    background: var(--accent);
+    transition: width 0.3s;
+  }
+
+  .q-flag {
+    max-width: 480px;
+    margin: 0 auto 1.5rem;
+  }
+
+  .q-flag img {
+    max-height: 320px;
+    width: auto;
+    margin: 0 auto;
+    box-shadow: var(--shadow);
+  }
+
+  .q-prompt {
+    margin: 0 0 1.25rem;
+    font-size: 1.4rem;
+  }
+
+  .q-clue {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.25rem;
+    border-left: 4px solid var(--accent);
+    background: var(--surface);
+    font-size: 1.15rem;
+    font-family: var(--serif);
+  }
+
+  .q-clue p {
+    margin: 0;
+  }
+
+  .options.text {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.6rem;
+  }
+
+  .options.text .option {
+    border-radius: var(--radius);
+    padding: 0.85rem 1rem;
+    justify-content: flex-start;
+    text-align: left;
+  }
+
+  .options.flags {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .option-flag {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    padding: 0.75rem;
+    cursor: pointer;
+    font: inherit;
+    color: inherit;
+    aspect-ratio: 3 / 2;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .option-flag img {
+    max-height: 100%;
+    width: auto;
+    max-width: 100%;
+    min-height: 0;
+  }
+
+  .option-flag:hover {
+    border-color: var(--text);
+  }
+
+  .right {
+    border-color: var(--good) !important;
+    background: var(--good-bg) !important;
+    box-shadow: 0 0 0 1px var(--good);
+  }
+
+  .wrong {
+    border-color: var(--bad) !important;
+    background: var(--bad-bg) !important;
+    box-shadow: 0 0 0 1px var(--bad);
+  }
+
+  .typed {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .typed input {
+    flex: 1 1 240px;
+    font-size: 1.1rem;
+  }
+
+  .feedback {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 1.25rem;
+    padding: 0.85rem 1rem;
+    border-radius: var(--radius);
+  }
+
+  .feedback p {
+    margin: 0;
+  }
+
+  .feedback.good {
+    background: var(--good-bg);
+  }
+
+  .feedback.bad {
+    background: var(--bad-bg);
+  }
+
+  .quiz-done h2 {
+    font-size: 3rem;
+    margin: 1rem 0 0;
+  }
+
+  .row {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .flag-tile.missed {
+    opacity: 0.55;
+  }
+
+  @media (max-width: 560px) {
+    .options.text {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

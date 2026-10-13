@@ -1,0 +1,74 @@
+{
+  "id": "canada",
+  "wikidata": "Q16",
+  "name": "Canada",
+  "flagName": "National Flag of Canada",
+  "nickname": "The Maple Leaf, l'Unifolié",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1965,
+  "to": null,
+  "adopted": "1965-02-15",
+  "ratio": "1:2",
+  "designer": "George F. G. Stanley (concept); leaf stylised by Jacques Saint-Cyr",
+  "summary": "A red field with a white square in the centre bearing a stylised eleven-pointed red maple leaf. It replaced the Canadian Red Ensign after the 'Great Flag Debate' of 1964.",
+  "origin": [
+    "Before 1965 Canada used the Union Flag and, unofficially but widely, the Canadian Red Ensign: a red British ensign with the Canadian coat of arms in the fly. The maple leaf had been a Canadian emblem since the 19th century and appeared on regimental badges and war graves.",
+    "Prime Minister Lester B. Pearson pushed for a distinctive flag before the 1967 centennial. His preferred 'Pearson Pennant' had three red leaves between blue bars, which led to months of debate in Parliament in 1964. A 15-member parliamentary committee received thousands of submissions and chose a design based on a proposal by historian George Stanley, inspired by the flag of the Royal Military College of Canada.",
+    "The House of Commons approved it on 15 December 1964, Queen Elizabeth II proclaimed it on 28 January 1965, and it was first raised on 15 February 1965, now marked as National Flag of Canada Day."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#D80621",
+      "family": "red",
+      "meaning": "One of Canada's two official colours, proclaimed by King George V in 1921; red recalls the St George's Cross and the sacrifice of Canadians in the First World War.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The other official colour, linked to the royal arms of France.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Maple leaf",
+      "description": "A single stylised red sugar maple leaf with eleven points, centred on a white square (the 'Canadian pale') that is as wide as the flag is tall.",
+      "meaning": "Canada and its people. The number of points has no meaning; it was chosen because a leaf with more points blurred when tested in a wind tunnel.",
+      "basis": "official"
+    },
+    {
+      "name": "Red bars",
+      "description": "Red panels at hoist and fly, each one quarter of the flag's length.",
+      "meaning": "Often said to evoke the Pacific and Atlantic oceans, though this is not an official meaning.",
+      "basis": "popular"
+    }
+  ],
+  "history": [
+    { "from": 1868, "to": 1921, "label": "Canadian Red Ensign (early versions)", "note": "Red ensign with a shield of the provincial arms, used unofficially." },
+    { "from": 1921, "to": 1957, "label": "Canadian Red Ensign with the 1921 arms" },
+    { "from": 1957, "to": 1965, "label": "Canadian Red Ensign with green leaves", "note": "The arms' maple leaves were changed from green to red in 1957." },
+    { "from": 1965, "to": null, "label": "Maple Leaf flag" }
+  ],
+  "facts": [
+    "The central white square is called a 'Canadian pale' in heraldry, after this flag.",
+    "Peru's flag has a similar red-white-red vertical layout but with equal bands.",
+    "The Royal Union Flag remains an official flag of Canada, flown alongside the national flag on certain days."
+  ],
+  "clues": [
+    "Red bars on either side of a white square containing a single red leaf.",
+    "Its leaf has eleven points, chosen after wind-tunnel testing.",
+    "A heraldic term for a central square as wide as the flag is tall is named after it.",
+    "It replaced a red ensign after a long parliamentary debate in 1964."
+  ],
+  "lookalikes": ["peru"],
+  "tags": ["vertical-tricolour", "plant"],
+  "sources": [
+    { "title": "National Flag of Canada (Government of Canada)", "url": "https://www.canada.ca/en/canadian-heritage/services/flag-canada.html" },
+    { "title": "Flag of Canada (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Canada" },
+    { "title": "Canada (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca.html" }
+  ]
+}

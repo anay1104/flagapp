@@ -1,0 +1,50 @@
+{
+  "id": "mozambique",
+  "wikidata": "Q1029",
+  "name": "Mozambique",
+  "flagName": "Flag of Mozambique",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1983,
+  "to": null,
+  "adopted": "1983-05-01",
+  "ratio": "2:3",
+  "summary": "Green, black and yellow horizontal bands edged in white, with a red triangle at the hoist bearing a yellow star, an open book, a hoe and an AK-47 rifle with a bayonet. It is the only national flag to show a modern assault rifle.",
+  "origin": [
+    "The flag derives from that of FRELIMO, the Mozambique Liberation Front, which fought Portuguese colonial rule from 1964 until independence in 1975.",
+    "Independent Mozambique's first flags were based closely on the FRELIMO flag. The current version, with the emblem from the national coat of arms placed in the red triangle, was adopted on 1 May 1983. Its meanings are written into the Constitution."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#007168", "family": "green", "meaning": "The riches of the soil.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The African continent.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCE100", "family": "yellow", "meaning": "The country's mineral wealth.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The justness of the Mozambican people's struggle, and peace.", "basis": "official" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The centuries of resistance to colonialism, the armed struggle for national liberation and the defence of sovereignty.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Star", "description": "A yellow five-pointed star in the red triangle.", "meaning": "Internationalist solidarity of the Mozambican people.", "basis": "official" },
+    { "name": "Book", "description": "An open white book on the star.", "meaning": "Education.", "basis": "official" },
+    { "name": "Hoe", "description": "A hoe crossed with the rifle.", "meaning": "Production, particularly agriculture.", "basis": "official" },
+    { "name": "AK-47 with bayonet", "description": "A black Kalashnikov rifle with a bayonet, crossed with the hoe.", "meaning": "Vigilance and the defence of the nation.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": 1983, "label": "Early independence flags", "note": "Diagonal designs based on the FRELIMO flag." },
+    { "from": 1983, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "A 2005 public competition to redesign the flag, prompted partly by objections to the rifle, ended without any change.",
+    "Guatemala's coat of arms shows crossed rifles, and Haiti's shows cannons and muskets, but Mozambique's is the only national flag with a modern assault rifle."
+  ],
+  "clues": [
+    "A red hoist triangle with a star, a book, a hoe and a rifle.",
+    "The only national flag that shows an assault rifle.",
+    "Green, black and yellow bands edged in white, inherited from a liberation movement."
+  ],
+  "lookalikes": ["zimbabwe"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "fimbriation", "star", "weapon", "tool", "book", "communist", "pan-african"],
+  "sources": [
+    { "title": "Constitution of Mozambique (2004)", "url": "https://www.constituteproject.org/constitution/Mozambique_2007" },
+    { "title": "Flag of Mozambique (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mozambique" },
+    { "title": "Mozambique (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mz.html" }
+  ]
+}

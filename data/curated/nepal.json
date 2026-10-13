@@ -1,0 +1,82 @@
+{
+  "id": "nepal",
+  "wikidata": "Q837",
+  "name": "Nepal",
+  "flagName": "Flag of Nepal",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1962,
+  "to": null,
+  "adopted": "1962-12-16",
+  "ratio": "≈ 1:1.22 (height to width)",
+  "summary": "Two stacked crimson pennants with a blue border, a white moon in the upper one and a white sun in the lower. It is the only non-rectangular national flag, and its constitution sets out its construction as a step-by-step geometric procedure.",
+  "origin": [
+    "Triangular pennants have flown over the Indian subcontinent and Himalayas for centuries. The double pennant was in use well before the 20th century; older versions drew the sun and moon with human faces.",
+    "On 16 December 1962 a new constitution standardised the flag, removed the faces from the sun and moon and set out a detailed geometric construction. The interim constitution of 2007 and the Constitution of Nepal of 2015 keep the same flag and construction in Schedule 1."
+  ],
+  "colors": [
+    {
+      "name": "Crimson",
+      "hex": "#DC143C",
+      "family": "red",
+      "meaning": "Nepal's national colour and the colour of the rhododendron, the national flower; also read as bravery.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#003893",
+      "family": "blue",
+      "meaning": "Peace and harmony.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The sun and the moon.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Two pennants",
+      "description": "Two overlapping right-angled triangles, the upper smaller, forming a double pennant.",
+      "meaning": "Often said to stand for the Himalayas, or for Hinduism and Buddhism, the country's two main religions.",
+      "basis": "popular"
+    },
+    {
+      "name": "Moon",
+      "description": "A white crescent with eight rays in the upper pennant.",
+      "meaning": "The hope that Nepal will last as long as the sun and moon; also read as the calm, cool temperament of the Nepali people.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Sun",
+      "description": "A twelve-rayed white sun in the lower pennant.",
+      "meaning": "The hope for the nation's permanence; also read as fierce resolve and the heat of the lowlands.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    { "from": null, "to": 1962, "label": "Traditional double pennant", "note": "The sun and moon were drawn with human faces." },
+    { "from": 1962, "to": null, "label": "Standardised flag", "note": "Faces removed and geometry fixed by the 1962 constitution." }
+  ],
+  "facts": [
+    "Schedule 1 of the Constitution gives numbered geometric steps for drawing the flag; its proportions involve an irrational number, roughly 1:1.2190.",
+    "It is the only national flag that is not a rectangle. Ohio's swallowtail is the only non-rectangular US state flag.",
+    "Its national colour, crimson, is also the colour of the rhododendron."
+  ],
+  "clues": [
+    "The only national flag that is not a rectangle.",
+    "Two stacked crimson pennants with a blue border.",
+    "A white moon above and a white sun below.",
+    "Its constitution gives step-by-step geometric instructions for drawing it."
+  ],
+  "lookalikes": [],
+  "tags": ["non-rectangular", "border", "sun", "moon", "crescent"],
+  "sources": [
+    { "title": "Constitution of Nepal (2015), Schedule 1", "url": "https://www.constituteproject.org/constitution/Nepal_2015" },
+    { "title": "Flag of Nepal (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nepal" },
+    { "title": "Nepal (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/np.html" }
+  ]
+}

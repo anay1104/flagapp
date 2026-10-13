@@ -1,0 +1,89 @@
+{
+  "id": "mexico",
+  "wikidata": "Q96",
+  "name": "Mexico",
+  "flagName": "Flag of Mexico",
+  "nickname": "La Bandera Nacional",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1968,
+  "to": null,
+  "adopted": "1968-09-16",
+  "ratio": "4:7",
+  "designer": "Coat of arms redrawn by Francisco Eppens Helguera (1968)",
+  "summary": "A vertical tricolour of green, white and red with the national coat of arms in the centre: a golden eagle on a prickly pear cactus, devouring a snake. The emblem retells the Aztec legend of the founding of Tenochtitlan, today's Mexico City.",
+  "origin": [
+    "The colours come from the flag of the Army of the Three Guarantees, which won independence from Spain in 1821. Its three guarantees were religion (Catholicism), independence and union between Spaniards and Mexicans.",
+    "The first national flag of 1821 placed a crowned eagle on a cactus in the white band. The design changed with each regime: republican eagles without crowns, the Habsburg crown of Maximilian's Second Empire, and Porfirio Díaz's French-styled eagle.",
+    "In 1916 Venustiano Carranza decreed a profile eagle in the style of Aztec codices. The current version, drawn by Francisco Eppens Helguera, was adopted on 16 September 1968, shortly before Mexico City hosted the Olympic Games, and confirmed by the 1984 Law on the National Arms, Flag and Anthem."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#006847",
+      "family": "green",
+      "meaning": "Originally independence; in the secular reading promoted after the 19th-century Reform era, hope.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Originally the purity of the Catholic faith; later read as unity.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#CE1126",
+      "family": "red",
+      "meaning": "Originally the union of Europeans and Americans; later read as the blood of national heroes.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Eagle devouring a snake",
+      "description": "A golden eagle in profile, perched on its left talon on a prickly pear (nopal) cactus and holding a serpent in its right talon and beak.",
+      "meaning": "The Aztec legend in which the god Huitzilopochtli told the Mexica to found their city where they saw an eagle on a cactus eating a serpent. They founded Tenochtitlan on an island in Lake Texcoco around 1325.",
+      "basis": "official"
+    },
+    {
+      "name": "Nopal cactus on a rock in the lake",
+      "description": "The cactus bears red fruit and grows from a rock rising out of water, drawn in Aztec glyph style.",
+      "meaning": "The site of Tenochtitlan. The name Tenochtitlan is often glossed as 'place of the prickly pear cactus on the rock'.",
+      "basis": "official"
+    },
+    {
+      "name": "Oak and laurel branches",
+      "description": "A semicircular wreath of oak and laurel tied with a ribbon in the national colours.",
+      "meaning": "Strength (oak) and victory (laurel).",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    { "from": 1821, "to": 1823, "label": "First Mexican Empire", "note": "Crowned eagle on a cactus." },
+    { "from": 1823, "to": 1864, "label": "First Republic", "note": "Uncrowned eagle with a snake, framed by branches." },
+    { "from": 1864, "to": 1867, "label": "Second Mexican Empire", "note": "Maximilian's flag with crowned eagles in each corner." },
+    { "from": 1867, "to": 1916, "label": "Restored Republic and Porfiriato", "note": "Frontal eagle in a European heraldic style." },
+    { "from": 1916, "to": 1968, "label": "Carranza's eagle", "note": "Profile eagle in Aztec-codex style." },
+    { "from": 1968, "to": null, "label": "Current flag", "note": "Eppens' redrawing of the arms." }
+  ],
+  "facts": [
+    "Mexican Flag Day is 24 February, the anniversary of the Plan of Iguala in 1821.",
+    "Italy's flag uses the same colours in the same order but with a 2:3 ratio and no emblem; Mexico's colours are also darker.",
+    "Its 4:7 ratio is unusually long."
+  ],
+  "clues": [
+    "Green, white and red vertical bands with an eagle eating a snake on a cactus.",
+    "Its emblem retells the founding legend of a city built on a lake.",
+    "Remove its emblem and it closely resembles a European flag.",
+    "Its current emblem was redrawn just before its capital hosted the Olympics."
+  ],
+  "lookalikes": ["italy"],
+  "tags": ["vertical-tricolour", "coat-of-arms", "eagle", "bird", "animal", "plant", "water"],
+  "sources": [
+    { "title": "Ley sobre el Escudo, la Bandera y el Himno Nacionales", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESBHN.pdf" },
+    { "title": "Flag of Mexico (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mexico" },
+    { "title": "Mexico (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mx.html" }
+  ]
+}

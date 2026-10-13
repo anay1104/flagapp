@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import FlagDetail from '../../components/FlagDetail';
+import { flags, resolve, tagLabels } from '../../lib/data';
+import type { FlagRecord } from '../../lib/types';
+
+export function getStaticPaths() {
+  return flags.map((flag) => ({ params: { id: flag.id }, props: { flag } }));
+}
+
+const { flag } = Astro.props as { flag: FlagRecord };
+const related = resolve(flag.related);
+const lookalikes = resolve(flag.lookalikes);
+const description = flag.summary ?? `${flag.flagName}: colours, symbols, dates and history.`;
+---
+
+<Base title={flag.flagName} description={description}>
+  <div class="wrap">
+    <FlagDetail flag={flag} related={related} lookalikes={lookalikes} tagLabels={tagLabels} />
+  </div>
+</Base>

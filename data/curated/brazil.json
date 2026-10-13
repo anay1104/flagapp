@@ -1,0 +1,96 @@
+{
+  "id": "brazil",
+  "wikidata": "Q155",
+  "name": "Brazil",
+  "flagName": "Flag of Brazil",
+  "nickname": "Auriverde (gold-green)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1889,
+  "to": null,
+  "adopted": "1889-11-19",
+  "ratio": "7:10",
+  "designer": "Raimundo Teixeira Mendes and Miguel Lemos, with Manuel Pereira Reis (astronomy) and Décio Villares (artwork)",
+  "summary": "A yellow rhombus on a green field, holding a blue celestial globe that shows the sky over Rio de Janeiro on the morning the Republic was proclaimed. A white band across it carries the positivist motto 'Ordem e Progresso'.",
+  "origin": [
+    "The green field and yellow rhombus come from the imperial flag of 1822. Green was the colour of the House of Braganza of Emperor Pedro I, and yellow that of the House of Habsburg-Lorraine of his wife, Empress Maria Leopoldina.",
+    "After the monarchy fell on 15 November 1889, the Republic briefly used a flag modelled on the US Stars and Stripes. Four days later, on 19 November, Decree No. 4 adopted the present design, which kept the imperial colours and replaced the imperial arms with a globe of stars.",
+    "The designers were followers of Auguste Comte's positivism, and the motto shortens Comte's formula: 'Love as a principle and order as the basis; progress as the goal.'"
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Originally the House of Braganza; popularly read as Brazil's forests.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Originally the House of Habsburg-Lorraine; popularly read as Brazil's gold and mineral wealth.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The night sky over Rio de Janeiro.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The band carrying the motto, and the stars.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Celestial globe with 27 stars",
+      "description": "Nine constellations, including the Southern Cross, Scorpius and Canis Major, shown as they appeared from Rio de Janeiro at about 8:30 a.m. on 15 November 1889, as if seen from outside the celestial sphere.",
+      "meaning": "Each star represents one federal unit: the 26 states and the Federal District. Sirius stands for Mato Grosso; the lone star above the band, Spica, stands for Pará.",
+      "basis": "official"
+    },
+    {
+      "name": "Motto band",
+      "description": "A curved white band reading 'ORDEM E PROGRESSO' in green capitals.",
+      "meaning": "'Order and Progress', from Auguste Comte's positivist philosophy.",
+      "basis": "official"
+    },
+    {
+      "name": "Rhombus",
+      "description": "A yellow diamond inset from the edges of the green field.",
+      "meaning": "Inherited from the 1822 imperial flag, where the lozenge shape was reportedly influenced by French military colours.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    { "from": 1822, "to": 1889, "label": "Empire of Brazil", "note": "Green with a yellow rhombus bearing the imperial arms; the star count of the armillary ring changed with the provinces." },
+    { "from": 1889, "to": 1889, "label": "Provisional flag of the Republic", "note": "Green and yellow stripes with a blue canton of stars, used for four days." },
+    { "from": 1889, "to": 1960, "label": "21 stars", "note": "The original republican design." },
+    { "from": 1960, "to": 1968, "label": "22 stars", "note": "A star added for the state of Guanabara." },
+    { "from": 1968, "to": 1992, "label": "23 stars", "note": "Stars rearranged and added for new states." },
+    { "from": 1992, "to": null, "label": "27 stars", "note": "Law 8.421 of 1992 added stars for Amapá, Roraima, Rondônia and Tocantins." }
+  ],
+  "facts": [
+    "Brazil is one of very few national flags to show a real moment in the sky.",
+    "Law 5.700 of 1971 governs the flag; stars must be added or removed if states are created or abolished.",
+    "The sky is mirrored relative to what an observer on the ground would see, a point argued over since 1889."
+  ],
+  "clues": [
+    "A yellow diamond on green, with a starry blue globe crossed by a white motto band.",
+    "Its stars show a real night sky from the morning a monarchy fell.",
+    "Its motto comes from a French philosopher's school of thought.",
+    "Its green and yellow came from the dynasties of an emperor and his Austrian wife."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "star", "southern-cross", "text", "disc", "astronomy"],
+  "sources": [
+    { "title": "Lei nº 5.700, de 1º de setembro de 1971", "url": "https://www.planalto.gov.br/ccivil_03/leis/l5700.htm" },
+    { "title": "Flag of Brazil (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Brazil" },
+    { "title": "Brazil (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/br.html" }
+  ]
+}

@@ -1,0 +1,168 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Every flag, past and present, with its colours, symbols, origins and history, plus quizzes to learn them.' } = Astro.props;
+const path = Astro.url.pathname;
+const nav = [
+  { href: '/flags/', label: 'Flags' },
+  { href: '/quiz/', label: 'Quiz' },
+  { href: '/tags/', label: 'Symbols' },
+  { href: '/about/', label: 'About' },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://upload.wikimedia.org" />
+    <script is:inline>
+      // Commons errors on thumbnails wider than a raster original; fall back to the original once.
+      document.addEventListener(
+        'error',
+        (e) => {
+          const t = e.target;
+          if (t instanceof HTMLImageElement && t.dataset.original && t.src !== t.dataset.original) {
+            t.src = t.dataset.original;
+          }
+        },
+        true,
+      );
+    </script>
+    <title>{title === 'Vexillum' ? title : `${title} · Vexillum`}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap bar">
+        <a class="logo" href="/">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+            <path d="M5 21V3" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M5 4h13l-3 4.5 3 4.5H5z" fill="var(--accent)"></path>
+          </svg>
+          Vexillum
+        </a>
+        <nav>
+          {
+            nav.map((n) => (
+              <a href={n.href} aria-current={path.startsWith(n.href) ? 'page' : undefined}>
+                {n.label}
+              </a>
+            ))
+          }
+        </nav>
+        <form class="search" action="/flags/" method="get" role="search">
+          <input type="search" name="q" placeholder="Search flags…" aria-label="Search flags" />
+        </form>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p class="small muted">
+          Flag images from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>; catalogue data from
+          <a href="https://www.wikidata.org/">Wikidata</a> (CC0). Written entries cite their sources.
+          <a href="/about/">How this site works</a>.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .bar {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    height: 60px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  nav {
+    display: flex;
+    gap: 1rem;
+  }
+
+  nav a {
+    color: var(--muted);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  nav a:hover,
+  nav a[aria-current='page'] {
+    color: var(--text);
+  }
+
+  .search {
+    margin-left: auto;
+  }
+
+  .search input {
+    width: 220px;
+    padding: 0.4rem 0.75rem;
+    border-radius: 999px;
+  }
+
+  main {
+    min-height: calc(100vh - 160px);
+    padding-bottom: 4rem;
+  }
+
+  .site-footer {
+    border-top: 1px solid var(--border);
+    padding: 1.5rem 0;
+  }
+
+  @media (max-width: 720px) {
+    .bar {
+      flex-wrap: wrap;
+      height: auto;
+      padding-top: 0.6rem;
+      padding-bottom: 0.6rem;
+      gap: 0.5rem 1rem;
+    }
+
+    .search {
+      flex-basis: 100%;
+    }
+
+    .search input {
+      width: 100%;
+    }
+  }
+</style>

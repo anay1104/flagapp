@@ -1,0 +1,68 @@
+{
+  "id": "france",
+  "wikidata": "Q142",
+  "name": "France",
+  "flagName": "Flag of France",
+  "nickname": "Le drapeau tricolore (the Tricolour)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1794,
+  "to": null,
+  "adopted": "1794-02-15",
+  "ratio": "2:3",
+  "summary": "A vertical tricolour of blue, white and red. Born in the French Revolution, it became one of the most imitated flag designs in the world and the model for revolutionary and republican tricolours across Europe and Latin America.",
+  "origin": [
+    "Blue and red were the traditional colours of Paris. In July 1789, days after the storming of the Bastille, the Paris militia adopted a blue-and-red cockade; the Marquis de Lafayette is credited with adding white, the colour of the Bourbon monarchy, to symbolise the union of the king and the people of Paris.",
+    "The cockade's colours moved onto flags in the early 1790s, first in the navy. On 15 February 1794 (27 Pluviôse Year II) the National Convention decreed the vertical blue-white-red tricolour as the national flag, reportedly following a design by the painter Jacques-Louis David, with blue at the hoist.",
+    "After Napoleon's fall the restored Bourbons replaced it with the plain white royal flag (1815–1830). The July Revolution of 1830 brought the tricolour back for good. In 1848 Alphonse de Lamartine famously resisted calls to replace it with the red flag of the revolutionaries. Article 2 of the 1958 Constitution names the tricolour, blue, white and red, as the national emblem."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#000091",
+      "family": "blue",
+      "meaning": "One of the two historic colours of the city of Paris; also linked to Saint Martin.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The colour of the Bourbon monarchy, added to the Paris colours in 1789 to signify king and people united.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E1000F",
+      "family": "red",
+      "meaning": "The other historic colour of Paris; also linked to Saint Denis and the Oriflamme banner.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": null, "to": 1790, "label": "Royal and naval flags of the Kingdom of France", "note": "Plain white or white with fleurs-de-lis served as the royal and naval colours; there was no single national flag." },
+    { "from": 1790, "to": 1794, "label": "Early naval tricolour", "note": "A white naval ensign with a small tricolour canton was used from 1790." },
+    { "from": 1794, "to": 1815, "label": "Tricolour of the Republic and Empire", "note": "Decreed on 15 February 1794 and kept by Napoleon." },
+    { "from": 1815, "to": 1830, "label": "Bourbon Restoration white flag", "note": "The tricolour was banned; the royal white flag returned." },
+    { "from": 1830, "to": null, "label": "Tricolour restored", "note": "Reinstated by Louis-Philippe after the July Revolution. From the mid-1970s a lighter blue was used, and in 2020 the darker navy blue was brought back into use at the Élysée." }
+  ],
+  "facts": [
+    "Its blue, white and red vertical design inspired dozens of later tricolours, including those of Italy, Ireland, Belgium, Romania and Mexico.",
+    "In the mid-1970s, under President Valéry Giscard d'Estaing, a lighter blue was introduced, reportedly to match the European flag; in 2020 the Élysée quietly returned to the darker navy shade.",
+    "The French Navy uses unequal stripe widths (30:33:37) so the flag appears equal when it flies at sea."
+  ],
+  "clues": [
+    "A vertical tricolour with blue at the hoist and red at the fly.",
+    "The colours of its capital city were combined with the white of a royal dynasty during a revolution.",
+    "Its navy flies a version with unequal stripes so it looks even in the wind.",
+    "Decreed by a revolutionary assembly in 1794, it was banned for fifteen years after an emperor's fall."
+  ],
+  "lookalikes": ["netherlands", "italy", "belgium"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Constitution of 4 October 1958, Article 2", "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356" },
+    { "title": "Flag of France (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_France" },
+    { "title": "France (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/fr.html" }
+  ]
+}

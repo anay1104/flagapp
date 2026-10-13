@@ -1,0 +1,63 @@
+---
+import Base from '../layouts/Base.astro';
+import { tagCounts, tagVocab } from '../lib/data';
+
+const GROUP_LABELS: Record<string, string> = {
+  layout: 'Layout',
+  symbol: 'Symbols',
+  colour: 'Colours',
+  theme: 'Families and themes',
+};
+---
+
+<Base title="Symbols and features" description="Browse flags by layout, symbol, colour and family.">
+  <div class="wrap">
+    <h1 style="margin-top: 2rem">Symbols and features</h1>
+    <p class="muted prose">
+      Every written entry is tagged by layout, symbols and colours. Catalogue entries pick up tags from Wikidata where it
+      records what a flag depicts, so the counts grow as more entries are written.
+    </p>
+    {
+      Object.entries(tagVocab).map(([group, tags]) => (
+        <section>
+          <h2>{GROUP_LABELS[group] ?? group}</h2>
+          <div class="tag-grid">
+            {Object.entries(tags).map(([id, label]) => (
+              <div class="tag card">
+                <a href={`/flags/?tag=${id}`}>
+                  <strong>{label}</strong>
+                </a>
+                <span class="muted small">{(tagCounts[id] ?? 0).toLocaleString()} flags</span>
+                {(tagCounts[id] ?? 0) >= 2 && (
+                  <a class="small" href={`/quiz/?mode=list&tag=${id}&pool=all`}>
+                    List challenge
+                  </a>
+                )}
+              </div>
+            ))}
+          </div>
+        </section>
+      ))
+    }
+  </div>
+</Base>
+
+<style>
+  .tag-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.6rem;
+  }
+
+  .tag {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .tag a:first-child {
+    color: inherit;
+    text-decoration: none;
+  }
+</style>

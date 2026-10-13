@@ -1,0 +1,11 @@
+---
+import Base from '../../layouts/Base.astro';
+import LocalViewer from '../../components/LocalViewer';
+import { tagLabels } from '../../lib/data';
+---
+
+<Base title="Flag">
+  <div class="wrap">
+    <LocalViewer client:only="preact" tagLabels={tagLabels} />
+  </div>
+</Base>

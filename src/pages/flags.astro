@@ -1,0 +1,34 @@
+---
+import Base from '../layouts/Base.astro';
+import Browser from '../components/Browser';
+import { tagLabels } from '../lib/data';
+---
+
+<Base title="All flags" description="Search and filter every flag: countries, territories, historical states, regions, organisations and cities.">
+  <div class="wrap">
+    <h1 style="margin-top: 2rem">All flags</h1>
+    <p class="muted">
+      <span class="tier-dot tier-1"></span>Full written entry &nbsp;
+      <span class="tier-dot tier-3"></span>Catalogue entry from Wikidata
+    </p>
+    <Browser client:only="preact" tagLabels={tagLabels} />
+  </div>
+</Base>
+
+<style is:global>
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1.5rem 0 1rem;
+  }
+
+  .filters input {
+    flex: 1 1 260px;
+  }
+
+  .filters select {
+    flex: 0 1 auto;
+    max-width: 100%;
+  }
+</style>

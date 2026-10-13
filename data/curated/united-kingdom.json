@@ -1,0 +1,114 @@
+{
+  "id": "united-kingdom",
+  "wikidata": "Q145",
+  "name": "United Kingdom",
+  "flagName": "Union Flag",
+  "nickname": "The Union Jack",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1801,
+  "to": null,
+  "adopted": "1801-01-01",
+  "ratio": "1:2",
+  "summary": "Three national crosses layered into one: the red cross of St George for England, the white saltire of St Andrew for Scotland, and the red saltire of St Patrick for Ireland. Wales is not represented, because it was already united with England when the first Union Flag was made.",
+  "origin": [
+    "When James VI of Scotland became James I of England in 1603, the two crowns were joined in one person. A royal proclamation of 12 April 1606 created a flag for ships of both kingdoms combining the cross of St George and the saltire of St Andrew.",
+    "That first Union Flag remained in use (with a break under Cromwell) until the Act of Union with Ireland took effect on 1 January 1801. The saltire of St Patrick was then added, counterchanged with St Andrew's saltire so that neither Scotland nor Ireland took precedence: the red saltire is offset, so the white is broader above it on the hoist side.",
+    "Because of this offset the flag has a right way up. In the upper hoist quarter the broad white band sits above the red diagonal; flying it the other way is regarded as a distress signal or simple error."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "The crosses of St George (England) and St Patrick (Ireland).",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field of St George's cross and the saltire of St Andrew; also the fimbriation separating the red crosses.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#012169",
+      "family": "blue",
+      "meaning": "The field of St Andrew's flag (Scotland).",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Cross of St George",
+      "description": "An upright red cross with a white edge (fimbriation), centred on the flag.",
+      "meaning": "England, whose patron saint is St George.",
+      "basis": "official"
+    },
+    {
+      "name": "Saltire of St Andrew",
+      "description": "A white diagonal cross on the blue field.",
+      "meaning": "Scotland, whose patron saint, St Andrew, was by tradition crucified on an X-shaped cross.",
+      "basis": "official"
+    },
+    {
+      "name": "Saltire of St Patrick",
+      "description": "A narrow red diagonal cross, offset within the white saltire.",
+      "meaning": "Ireland. The saltire is usually traced to the arms of the FitzGerald family and was adopted for the Order of St Patrick in 1783; it was never widely used by the Irish themselves.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1606,
+      "to": 1801,
+      "label": "First Union Flag",
+      "note": "St George's cross on St Andrew's saltire, for the union of the English and Scottish crowns."
+    },
+    {
+      "from": 1801,
+      "to": null,
+      "label": "Union Flag with St Patrick's saltire",
+      "note": "Created for the union with Ireland. Northern Ireland's continued membership kept the saltire after Irish independence in 1922."
+    }
+  ],
+  "facts": [
+    "The name 'Union Jack' probably comes from the jack, a small flag flown at the bow of a ship. Both 'Union Flag' and 'Union Jack' are accepted names.",
+    "The Union Flag appears in the canton of the flags of Australia, New Zealand, Fiji and Tuvalu, and in many British overseas territories and Canadian provinces.",
+    "On land it is often made in 3:5 proportions; the 1:2 form is used at sea and by the government."
+  ],
+  "clues": [
+    "Three national crosses, one upright and two diagonal, overlaid on a blue field.",
+    "It has a correct way up because its diagonal crosses are offset.",
+    "One constituent country is not represented on it at all.",
+    "It sits in the canton of several other national flags in Oceania."
+  ],
+  "lookalikes": [
+    "australia",
+    "new-zealand",
+    "fiji",
+    "tuvalu"
+  ],
+  "tags": [
+    "cross",
+    "saltire",
+    "fimbriation",
+    "union-jack",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Designated days for Union Flag flying (GOV.UK)",
+      "url": "https://www.gov.uk/guidance/designated-days-for-union-flag-flying"
+    },
+    {
+      "title": "Union Jack (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Union_Jack"
+    },
+    {
+      "title": "United Kingdom (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/gb.html"
+    }
+  ]
+}

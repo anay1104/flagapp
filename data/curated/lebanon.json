@@ -1,0 +1,68 @@
+{
+  "id": "lebanon",
+  "wikidata": "Q822",
+  "name": "Lebanon",
+  "flagName": "Flag of Lebanon",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1943,
+  "to": null,
+  "adopted": "1943-12-07",
+  "ratio": "2:3",
+  "summary": "A white band twice the height of the red bands above and below it, bearing a green Lebanese cedar that touches both red bands. It was adopted in the weeks after Lebanon's independence from the French Mandate in 1943.",
+  "origin": [
+    "The cedar of Lebanon has been a symbol of the region since antiquity and is mentioned in the Hebrew Bible dozens of times. Maronite Christians adopted it as an emblem in the 18th century, and under the French Mandate (1920–1943) Lebanon used a French tricolour with a cedar in the white band.",
+    "On 7 December 1943, shortly after the National Pact and the declaration of independence of 22 November, Parliament amended Article 5 of the Constitution to define the new flag. Members of Parliament had sketched an early version during the independence crisis in November 1943."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#ED1C24",
+      "family": "red",
+      "meaning": "The blood shed for Lebanon's liberation and defence.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace and the snow of Lebanon's mountains.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#00A651",
+      "family": "green",
+      "meaning": "The cedar tree.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Cedar of Lebanon",
+      "description": "A green cedar (Cedrus libani) centred in the white band, its width one-third of the flag's length, touching both red bands.",
+      "meaning": "Holiness, eternity, steadfastness and peace; it recalls biblical verses such as Psalm 92:12, 'The righteous shall flourish… like a cedar in Lebanon'.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    { "from": 1920, "to": 1943, "label": "French Mandate flag", "note": "The French tricolour with a cedar in the white band." },
+    { "from": 1943, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "The constitution says the cedar should be green; some older flags showed a cedar with a brown trunk.",
+    "It is one of the few national flags with a tree as its central emblem."
+  ],
+  "clues": [
+    "A green tree on a white band between two red bands.",
+    "Its central tree touches both of the coloured bands.",
+    "Before independence its tree sat on a European tricolour."
+  ],
+  "lookalikes": ["austria", "peru", "canada"],
+  "tags": ["horizontal-stripes", "triband", "plant"],
+  "sources": [
+    { "title": "Constitution of Lebanon, Article 5", "url": "https://www.constituteproject.org/constitution/Lebanon_2004" },
+    { "title": "Flag of Lebanon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Lebanon" },
+    { "title": "Lebanon (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lb.html" }
+  ]
+}

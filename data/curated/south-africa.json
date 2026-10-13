@@ -1,0 +1,94 @@
+{
+  "id": "south-africa",
+  "wikidata": "Q258",
+  "name": "South Africa",
+  "flagName": "Flag of South Africa",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1994,
+  "to": null,
+  "adopted": "1994-04-27",
+  "ratio": "2:3",
+  "designer": "Frederick Brownell, State Herald",
+  "summary": "A horizontal Y (a 'pall') in green, edged in white and gold, splitting a red upper band and a blue lower band, with a black triangle at the hoist. With six colours and no emblem, it was designed in weeks for the country's first democratic election.",
+  "origin": [
+    "South Africa's previous flag, the 'Oranje-Blanje-Blou' of 1928, was based on the Dutch Prinsenvlag and carried miniature flags of the United Kingdom, the Orange Free State and the South African Republic. It was closely tied to apartheid.",
+    "In 1993 the Transitional Executive Council held a public competition that drew more than 7,000 entries, none of them accepted. With the April 1994 election weeks away, State Herald Frederick Brownell produced the final design, which was approved on 15 March 1994 as an interim flag.",
+    "It was first raised on 27 April 1994, the day of the election, and was confirmed as the national flag in the 1996 Constitution."
+  ],
+  "colors": [
+    {
+      "name": "Chilli red",
+      "hex": "#E03C31",
+      "family": "red",
+      "meaning": "No official meaning; red, white and blue are commonly linked to the colonial Dutch and British flags.",
+      "basis": "popular"
+    },
+    {
+      "name": "Blue",
+      "hex": "#001489",
+      "family": "blue",
+      "meaning": "No official meaning; see red.",
+      "basis": "popular"
+    },
+    {
+      "name": "Green",
+      "hex": "#007749",
+      "family": "green",
+      "meaning": "No official meaning; black, green and gold are commonly linked to the African National Congress and other liberation movements.",
+      "basis": "popular"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "No official meaning; see green.",
+      "basis": "popular"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFB81C",
+      "family": "yellow",
+      "meaning": "No official meaning; see green.",
+      "basis": "popular"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "No official meaning; see red.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Pall (horizontal Y)",
+      "description": "A green band that starts as two arms at the hoist corners and joins into one horizontal band running to the fly.",
+      "meaning": "The government's own description: 'the convergence of diverse elements within South African society, taking the road ahead in unity'.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    { "from": 1910, "to": 1928, "label": "Union of South Africa: Red Ensign", "note": "A British red ensign with the Union's shield." },
+    { "from": 1928, "to": 1994, "label": "Oranje-Blanje-Blou", "note": "Orange, white and blue with three small flags in the centre." },
+    { "from": 1994, "to": null, "label": "Current flag", "note": "Introduced as an interim flag for the 1994 election and made permanent." }
+  ],
+  "facts": [
+    "It was one of the few national flags with six colours and no seal or emblem when adopted.",
+    "Officially the design has no symbolism; the government suggests people read it as convergence and unity.",
+    "It was designed only weeks before it was first flown."
+  ],
+  "clues": [
+    "A green horizontal Y separates red and blue bands, with a black triangle at the hoist.",
+    "Six colours, no emblem, designed by a state herald in a matter of weeks.",
+    "First raised on the day of its country's first fully democratic election.",
+    "It replaced an orange-white-blue flag carrying three miniature flags."
+  ],
+  "lookalikes": ["vanuatu"],
+  "tags": ["hoist-triangle", "fimbriation", "pan-african"],
+  "sources": [
+    { "title": "National flag (South African Government)", "url": "https://www.gov.za/about-sa/national-symbols/national-flag" },
+    { "title": "Flag of South Africa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Africa" },
+    { "title": "South Africa (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/za.html" }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "japan",
+  "wikidata": "Q17",
+  "name": "Japan",
+  "flagName": "Flag of Japan",
+  "nickname": "Nisshōki (sun-mark flag), commonly Hinomaru (circle of the sun)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1870,
+  "to": null,
+  "adopted": "1999-08-13",
+  "ratio": "2:3",
+  "summary": "A red disc centred on a white field. The disc represents the sun, which holds a central place in Japanese tradition: the imperial house traces its descent from the sun goddess Amaterasu, and the country's name, Nippon or Nihon, means 'origin of the sun'.",
+  "origin": [
+    "Sun-disc fans and banners appear in Japan from the late Heian and Kamakura periods, and the red sun on white was used by samurai clans and on trading ships during the Edo period.",
+    "In 1854 the Tokugawa shogunate ordered Japanese ships to fly the Hinomaru to distinguish them from foreign vessels. After the Meiji Restoration, Proclamation No. 57 of 1870 made it the flag for merchant ships, with a 7:10 ratio and the disc shifted one-hundredth of the length toward the hoist.",
+    "For more than a century the Hinomaru was the de facto national flag without a law to that effect. The Act on National Flag and Anthem of 13 August 1999 made it official, set the ratio at 2:3, centred the disc, and fixed its diameter at three-fifths of the flag's height. The law followed a debate over the flag's association with wartime militarism."
+  ],
+  "colors": [
+    {
+      "name": "Crimson (beni-iro)",
+      "hex": "#BC002D",
+      "family": "red",
+      "meaning": "The sun; red is also widely read as sincerity, warmth and vitality.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Honesty and purity.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Red disc",
+      "description": "A centred circle with a diameter of three-fifths of the flag's height.",
+      "meaning": "The sun, linked to the imperial line's mythical descent from Amaterasu and to the country's name.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    { "from": 1870, "to": 1999, "label": "Hinomaru (7:10, disc slightly off-centre)", "note": "Set by Proclamation No. 57 for merchant ships and used as the de facto national flag." },
+    { "from": 1999, "to": null, "label": "Nisshōki (2:3, centred disc)", "note": "Made official by the Act on National Flag and Anthem." }
+  ],
+  "facts": [
+    "The rising-sun flag with sixteen red rays (Kyokujitsu-ki) is a separate flag, still used by the Japan Maritime Self-Defense Force.",
+    "Bangladesh's flag also has a red disc, but on green and set toward the hoist.",
+    "Palau's flag uses a similar off-centre disc, in yellow on light blue, representing the moon."
+  ],
+  "clues": [
+    "A single red circle centred on a white field, nothing else.",
+    "Its disc used to sit very slightly toward the hoist until a 1999 law centred it.",
+    "The disc evokes a goddess from whom an imperial dynasty claims descent."
+  ],
+  "lookalikes": ["bangladesh", "palau"],
+  "tags": ["plain-field", "disc", "sun"],
+  "sources": [
+    { "title": "Act on National Flag and Anthem (Act No. 127 of 1999)", "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3816" },
+    { "title": "Flag of Japan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Japan" },
+    { "title": "Japan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/jp.html" }
+  ]
+}
