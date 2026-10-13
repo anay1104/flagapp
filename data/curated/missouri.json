@@ -1,0 +1,47 @@
+{
+  "id": "missouri",
+  "wikidata": "Q1581",
+  "image": "Flag of Missouri.svg",
+  "name": "Missouri",
+  "flagName": "Flag of Missouri",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1913,
+  "to": null,
+  "adopted": "1913-03-22",
+  "ratio": "7:12",
+  "designer": "Marie Elizabeth Watkins Oliver",
+  "country": "United States",
+  "summary": "Red, white and blue horizontal bands with the state coat of arms in the centre, encircled by a blue band of 24 white stars. Missouri was the 24th state.",
+  "origin": [
+    "Marie Elizabeth Watkins Oliver, wife of a state senator, designed the flag around 1908. It was adopted on 22 March 1913."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "Valour.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "official" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "Vigilance, permanency and justice.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Coat of arms", "description": "Two grizzly bears supporting a shield with the US arms and a crescent and bear, on a scroll reading 'Salus populi suprema lex esto' and 'MDCCCXX'.", "meaning": "The state's strength and its place in the Union; the motto means 'Let the welfare of the people be the supreme law'.", "basis": "official" },
+    { "name": "Twenty-four stars", "description": "A ring of white stars on blue.", "meaning": "Missouri as the 24th state.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1913, "to": null, "label": "State of Missouri" }
+  ],
+  "facts": [
+    "The Roman numerals MDCCCXX (1820) mark the Missouri Compromise.",
+    "The bears are grizzlies, a symbol of strength and bravery.",
+    "Its red-white-blue layout resembles the Dutch flag."
+  ],
+  "clues": [
+    "Red, white and blue bands with a coat of arms with two bears in a ring of 24 stars.",
+    "Its stars show it was the 24th state.",
+    "Its arms show the Roman numerals for 1820."
+  ],
+  "lookalikes": ["netherlands"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "shield", "animal", "star", "crescent", "text"],
+  "sources": [
+    { "title": "Flag of Missouri (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Missouri" },
+    { "title": "Missouri (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-mo.html" }
+  ]
+}

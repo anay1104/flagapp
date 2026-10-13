@@ -1,0 +1,47 @@
+{
+  "id": "south-dakota",
+  "wikidata": "Q1211",
+  "image": "Flag of South Dakota.svg",
+  "name": "South Dakota",
+  "flagName": "Flag of South Dakota",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1963-03-11",
+  "ratio": "3:5",
+  "country": "United States",
+  "summary": "The state seal on sky blue, surrounded by a serrated gold sun and the words 'South Dakota, The Mount Rushmore State'. The nickname was changed from 'The Sunshine State' in 1992.",
+  "origin": [
+    "The first flag of 1909 had a sun on one side and the seal on the other. In 1963 the two were combined on a single side, with 'The Sunshine State'. In 1992 this was changed to 'The Mount Rushmore State'."
+  ],
+  "colors": [
+    { "name": "Sky blue", "hex": "#0072CE", "family": "light-blue", "meaning": "The sky.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The sun's rays and lettering.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Seal", "description": "A farmer ploughing, cattle, a smelting furnace, a steamboat on the Missouri River and hills, with the motto 'Under God the people rule'.", "meaning": "Agriculture, mining, commerce and democracy.", "basis": "official" },
+    { "name": "Sun rays", "description": "A serrated ring of gold rays.", "meaning": "The sun; South Dakota's former nickname, the Sunshine State.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1909, "to": 1963, "label": "Two-sided flag" },
+    { "from": 1963, "to": 1992, "label": "'The Sunshine State'" },
+    { "from": 1992, "to": null, "label": "'The Mount Rushmore State'" }
+  ],
+  "facts": [
+    "The nickname was changed in 1992 to promote tourism at Mount Rushmore.",
+    "Florida also uses 'The Sunshine State', which was one reason for the change.",
+    "Its motto is 'Under God the people rule'."
+  ],
+  "clues": [
+    "A seal ringed by gold sun rays on sky blue, naming a famous mountain sculpture.",
+    "It changed its nickname from 'The Sunshine State' in 1992.",
+    "Its motto is 'Under God the people rule'."
+  ],
+  "lookalikes": ["kansas", "nebraska"],
+  "tags": ["plain-field", "emblem", "sun", "animal", "water", "text"],
+  "sources": [
+    { "title": "Flag of South Dakota (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Dakota" },
+    { "title": "South Dakota (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-sd.html" }
+  ]
+}

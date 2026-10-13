@@ -1,0 +1,49 @@
+{
+  "id": "oklahoma",
+  "wikidata": "Q1649",
+  "image": "Flag of Oklahoma.svg",
+  "name": "Oklahoma",
+  "flagName": "Flag of Oklahoma",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2006,
+  "to": null,
+  "adopted": "1925-04-02",
+  "ratio": "2:3",
+  "designer": "Louise Fluke",
+  "country": "United States",
+  "summary": "A sky blue field with an Osage warrior's buffalo-hide shield decorated with crosses and eagle feathers, overlaid by a calumet (peace pipe) and an olive branch, with 'OKLAHOMA' below.",
+  "origin": [
+    "Louise Fluke won a 1924 contest held by the Daughters of the American Revolution to replace the state's red flag with a white star, seen as resembling communist flags. Her design was adopted in 1925; 'OKLAHOMA' was added in 1941 and the colours were revised in 2006."
+  ],
+  "colors": [
+    { "name": "Sky blue", "hex": "#4F81BD", "family": "light-blue", "meaning": "Devotion; from a flag of Choctaw soldiers in the Civil War.", "basis": "traditional" },
+    { "name": "Tan", "hex": "#C8A66A", "family": "brown", "meaning": "The buffalo-hide shield.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The lettering and crosses.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Osage shield", "description": "A buffalo-hide shield with seven eagle feathers and small crosses.", "meaning": "Defence; the crosses are Native American symbols for stars, representing high ideals.", "basis": "official" },
+    { "name": "Calumet and olive branch", "description": "A peace pipe and an olive branch across the shield.", "meaning": "Peace between Native Americans and European Americans.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1911, "to": 1925, "label": "Red flag with a white star" },
+    { "from": 1925, "to": 1941, "label": "Osage shield flag" },
+    { "from": 1941, "to": null, "label": "Name added", "note": "Colours revised in 2006." }
+  ],
+  "facts": [
+    "The earlier red flag with the number 46 was replaced partly because of its resemblance to communist flags.",
+    "Oklahoma was the 46th state.",
+    "The state is home to 39 federally recognised tribes."
+  ],
+  "clues": [
+    "A buffalo-hide shield with eagle feathers, a peace pipe and an olive branch on sky blue.",
+    "Its emblem joins symbols of peace from two cultures.",
+    "It replaced a red flag that looked too communist."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "shield", "plant", "cross", "text", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Oklahoma (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Oklahoma" },
+    { "title": "Oklahoma (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ok.html" }
+  ]
+}

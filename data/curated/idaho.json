@@ -1,0 +1,48 @@
+{
+  "id": "idaho",
+  "wikidata": "Q1221",
+  "image": "Flag of Idaho.svg",
+  "name": "Idaho",
+  "flagName": "Flag of Idaho",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1957,
+  "to": null,
+  "adopted": "1907-03-12",
+  "ratio": "26:33",
+  "country": "United States",
+  "summary": "The state seal on a blue field, with a red band reading 'State of Idaho' below and gold fringe. Idaho's seal is the only US state seal designed by a woman, Emma Edwards Green.",
+  "origin": [
+    "Emma Edwards Green won a competition in 1891 to design the state seal. The flag with the seal was adopted in 1907; the seal was redrawn in 1957."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "The name scroll.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The border and fringe.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Woman and miner", "description": "A woman holding scales and a spear, and a miner with a pick and shovel.", "meaning": "Equality and justice (Idaho granted women the vote in 1896), and mining.", "basis": "official" },
+    { "name": "Elk head", "description": "An elk's head above the shield.", "meaning": "Wildlife and game protection.", "basis": "official" },
+    { "name": "Motto", "description": "'ESTO PERPETUA'.", "meaning": "Let it be perpetual.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1907, "to": 1957, "label": "Original seal" },
+    { "from": 1957, "to": null, "label": "Redrawn seal" }
+  ],
+  "facts": [
+    "Emma Edwards Green is the only woman to have designed a US state seal.",
+    "The seal includes a pine tree, wheat and cornucopias for Idaho's agriculture and forests.",
+    "It is often cited among the most complex state flags."
+  ],
+  "clues": [
+    "A detailed seal with a woman and a miner on blue, above a red scroll.",
+    "Its seal is the only US state seal designed by a woman.",
+    "Its motto means 'Let it be perpetual'."
+  ],
+  "lookalikes": ["montana", "wisconsin"],
+  "tags": ["plain-field", "emblem", "animal", "tool", "text", "plant"],
+  "sources": [
+    { "title": "Flag of Idaho (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Idaho" },
+    { "title": "Idaho (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-id.html" }
+  ]
+}

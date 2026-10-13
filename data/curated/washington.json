@@ -1,0 +1,44 @@
+{
+  "id": "washington",
+  "wikidata": "Q1223",
+  "image": "Flag of Washington.svg",
+  "name": "Washington",
+  "flagName": "Flag of Washington",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1923,
+  "to": null,
+  "adopted": "1923-03-05",
+  "ratio": "5:8",
+  "country": "United States",
+  "summary": "A dark green field with the state seal: a portrait of George Washington inside a gold ring reading 'The Seal of the State of Washington 1889'. It is the only US state flag with a green field and the only one depicting an American president.",
+  "origin": [
+    "The flag was adopted in 1923, based on the seal designed in 1889. The portrait was updated in 1967 to one based on Gilbert Stuart's painting of Washington."
+  ],
+  "colors": [
+    { "name": "Dark green", "hex": "#00543B", "family": "green", "meaning": "Washington's forests; the Evergreen State.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The seal ring and fringe.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "George Washington", "description": "A portrait of the first president in a gold ring.", "meaning": "The state's namesake.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1923, "to": null, "label": "State of Washington", "note": "Portrait updated in 1967." }
+  ],
+  "facts": [
+    "It is the only US state flag with a green field.",
+    "It is the only US state flag depicting an American president.",
+    "The seal's portrait is based on a painting by Gilbert Stuart."
+  ],
+  "clues": [
+    "A portrait of a man in a gold ring on dark green.",
+    "The only US state flag showing a president.",
+    "The only US state flag with a green field."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "emblem", "text"],
+  "sources": [
+    { "title": "Flag of Washington (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Washington" },
+    { "title": "Washington (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-wa.html" }
+  ]
+}

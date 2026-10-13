@@ -1,0 +1,48 @@
+{
+  "id": "north-carolina",
+  "wikidata": "Q1454",
+  "image": "Flag of North Carolina.svg",
+  "name": "North Carolina",
+  "flagName": "Flag of North Carolina",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1885,
+  "to": null,
+  "adopted": "1885-03-09",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A blue vertical band at the hoist with a white star and the gold letters N and C, beside red over white horizontal bands, with two scrolls bearing the dates May 20, 1775 and April 12, 1776.",
+  "origin": [
+    "The first flag of 1861 had dates of secession. The 1885 flag replaced them with two dates from the Revolutionary era, and remains in use."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the US flag.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "May 20, 1775", "description": "The upper scroll.", "meaning": "The disputed Mecklenburg Declaration of Independence.", "basis": "official" },
+    { "name": "April 12, 1776", "description": "The lower scroll.", "meaning": "The Halifax Resolves, the first official call for independence by a colony.", "basis": "official" },
+    { "name": "Star and initials", "description": "A white star between the letters N and C.", "meaning": "The state.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1861, "to": 1885, "label": "Secession flag", "note": "Dates of 1861 secession." },
+    { "from": 1885, "to": null, "label": "Revolutionary dates" }
+  ],
+  "facts": [
+    "Historians doubt that the Mecklenburg Declaration of 1775 existed as described.",
+    "Texas's flag has a similar layout of a vertical blue band and two horizontal bands.",
+    "The state also commemorates 20 May as 'Meck Dec Day'."
+  ],
+  "clues": [
+    "A blue hoist band with a star and the letters N C, beside red over white, with two dated scrolls.",
+    "One of its dates refers to a declaration whose existence is disputed.",
+    "Its other date marks the first colony to call officially for independence."
+  ],
+  "lookalikes": ["texas"],
+  "tags": ["horizontal-bicolour", "star", "text"],
+  "sources": [
+    { "title": "Flag of North Carolina (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_North_Carolina" },
+    { "title": "North Carolina (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-nc.html" }
+  ]
+}

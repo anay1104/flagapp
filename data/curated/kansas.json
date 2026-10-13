@@ -1,0 +1,45 @@
+{
+  "id": "kansas",
+  "wikidata": "Q1558",
+  "image": "Flag of Kansas.svg",
+  "name": "Kansas",
+  "flagName": "Flag of Kansas",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1961,
+  "to": null,
+  "adopted": "1927-03-23",
+  "ratio": "3:5",
+  "country": "United States",
+  "summary": "The state seal on dark blue, with a sunflower on a blue and gold bar above it and the word 'KANSAS' below. The seal shows a sunrise, a farmer ploughing, a wagon train, a steamboat, hunters chasing bison, and the motto 'Ad astra per aspera'.",
+  "origin": [
+    "The flag was adopted in 1927. 'KANSAS' was added below the seal in 1961, because the flag was hard to identify."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The sunflower and lettering.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sunflower", "description": "Above the seal on a twisted bar.", "meaning": "The state flower; Kansas is the 'Sunflower State'.", "basis": "official" },
+    { "name": "Seal", "description": "A pioneer landscape with a farmer, wagons, a steamboat, bison and a hill.", "meaning": "Agriculture, settlement and commerce; 34 stars for Kansas as the 34th state; the motto 'To the stars through difficulties'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1927, "to": 1961, "label": "Seal and sunflower" },
+    { "from": 1961, "to": null, "label": "Name added" }
+  ],
+  "facts": [
+    "The seal's 34 stars mark Kansas as the 34th state.",
+    "Kansas legislators considered new flag designs in 2024."
+  ],
+  "clues": [
+    "A seal on dark blue under a sunflower, with the state name below.",
+    "Its Latin motto means 'To the stars through difficulties'.",
+    "Its seal has 34 stars for the 34th state."
+  ],
+  "lookalikes": ["nebraska", "south-dakota"],
+  "tags": ["plain-field", "emblem", "plant", "animal", "sun", "star", "text"],
+  "sources": [
+    { "title": "Flag of Kansas (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kansas" },
+    { "title": "Kansas (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ks.html" }
+  ]
+}

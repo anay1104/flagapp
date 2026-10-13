@@ -1,0 +1,48 @@
+{
+  "id": "arizona",
+  "wikidata": "Q816",
+  "image": "Flag of Arizona.svg",
+  "name": "Arizona",
+  "flagName": "Flag of Arizona",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1917,
+  "to": null,
+  "adopted": "1917-02-17",
+  "ratio": "2:3",
+  "designer": "Charles Wilfred Harris",
+  "country": "United States",
+  "summary": "Thirteen red and gold rays rising from a copper star over a blue lower half. Designed by Colonel Charles Harris for the Arizona rifle team in 1910, it was adopted by the state in 1917.",
+  "origin": [
+    "Charles Harris, adjutant general of the Arizona National Guard, designed the flag for the territory's rifle team at the 1910 national matches. The legislature adopted it on 17 February 1917, without the governor's signature."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "The rays of the setting sun; also Spain's colours from Coronado's expedition.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FED700", "family": "yellow", "meaning": "The rays; also Spain's colours.", "basis": "traditional" },
+    { "name": "Copper", "hex": "#CE5C17", "family": "orange", "meaning": "Arizona as the largest producer of copper in the US.", "basis": "official" },
+    { "name": "Liberty blue", "hex": "#002868", "family": "blue", "meaning": "The colour of the US flag.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Thirteen rays", "description": "Alternating red and gold rays from the centre.", "meaning": "The original thirteen colonies, and a western sunset.", "basis": "traditional" },
+    { "name": "Copper star", "description": "A five-pointed star in the centre.", "meaning": "Copper mining.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1917, "to": null, "label": "State of Arizona" }
+  ],
+  "facts": [
+    "The legislation became law without the governor's signature.",
+    "It ranks highly in design surveys by the North American Vexillological Association.",
+    "Copper was one of the 'Five Cs' of Arizona's economy."
+  ],
+  "clues": [
+    "Red and gold rays above a blue half, with a copper star in the centre.",
+    "Its central star honours a metal.",
+    "First designed for a rifle team in 1910."
+  ],
+  "lookalikes": ["new-mexico"],
+  "tags": ["star", "sun", "horizontal-bicolour"],
+  "sources": [
+    { "title": "Flag of Arizona (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Arizona" },
+    { "title": "Arizona (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-az.html" }
+  ]
+}

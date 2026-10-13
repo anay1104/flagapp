@@ -1,0 +1,47 @@
+{
+  "id": "montana",
+  "wikidata": "Q1212",
+  "image": "Flag of Montana.svg",
+  "name": "Montana",
+  "flagName": "Flag of Montana",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1905-02-27",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "The state seal on blue, with 'MONTANA' above in gold. The seal shows the Great Falls of the Missouri River, mountains and a plough, pick and shovel, with the motto 'Oro y Plata' (Gold and Silver).",
+  "origin": [
+    "The design comes from a flag carried by Montana volunteers in the Spanish–American War of 1898. It was adopted in 1905; the word 'MONTANA' was added in 1981."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The lettering; Montana's mining heritage.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Plough, pick and shovel", "description": "Tools in the foreground of the seal.", "meaning": "Agriculture and mining.", "basis": "official" },
+    { "name": "Great Falls and mountains", "description": "A river with waterfalls and the Rocky Mountains.", "meaning": "Montana's landscape.", "basis": "official" },
+    { "name": "Motto", "description": "'ORO Y PLATA'.", "meaning": "Gold and silver, the mineral wealth that drove settlement.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1905, "to": 1981, "label": "Seal on blue" },
+    { "from": 1981, "to": null, "label": "Name added" }
+  ],
+  "facts": [
+    "Its motto is in Spanish, unusual for a US state.",
+    "Montana is the 'Treasure State'.",
+    "The Great Falls were described by Lewis and Clark in 1805."
+  ],
+  "clues": [
+    "A seal with mountains, falls and mining tools on blue, under the state name.",
+    "Its motto in Spanish means 'Gold and Silver'.",
+    "Based on a flag carried in the Spanish–American War."
+  ],
+  "lookalikes": ["idaho", "nebraska"],
+  "tags": ["plain-field", "emblem", "tool", "mountain", "water", "sun", "text"],
+  "sources": [
+    { "title": "Flag of Montana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Montana" },
+    { "title": "Montana (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-mt.html" }
+  ]
+}

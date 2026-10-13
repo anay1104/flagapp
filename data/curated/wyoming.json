@@ -1,0 +1,47 @@
+{
+  "id": "wyoming",
+  "wikidata": "Q1214",
+  "image": "Flag of Wyoming.svg",
+  "name": "Wyoming",
+  "flagName": "Flag of Wyoming",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1917,
+  "to": null,
+  "adopted": "1917-01-31",
+  "ratio": "7:10",
+  "designer": "Verna Keays",
+  "country": "United States",
+  "summary": "A white bison on a blue field, branded with the state seal, inside a white border and an outer red border. Designed by Verna Keays in a 1916 Daughters of the American Revolution contest.",
+  "origin": [
+    "Verna Keays, a recent art graduate, won the contest; the flag was adopted on 31 January 1917."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "The Native Americans, and the blood of pioneers.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity and uprightness.", "basis": "official" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The sky and mountains, and fidelity, justice and virility.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Bison", "description": "A white American bison.", "meaning": "Wyoming's wildlife and heritage.", "basis": "official" },
+    { "name": "Seal as brand", "description": "The state seal on the bison's flank, like a cattle brand.", "meaning": "Ranching and the custom of branding livestock.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1917, "to": null, "label": "State of Wyoming" }
+  ],
+  "facts": [
+    "The seal shows a woman under the banner 'Equal Rights'; Wyoming was the first territory to grant women the vote, in 1869.",
+    "The seal is placed on the bison like a brand.",
+    "The bison is the state mammal."
+  ],
+  "clues": [
+    "A white bison on blue inside white and red borders.",
+    "Its emblem is branded on an animal's flank.",
+    "Its seal celebrates the first territory to give women the vote."
+  ],
+  "lookalikes": [],
+  "tags": ["border", "animal", "emblem"],
+  "sources": [
+    { "title": "Flag of Wyoming (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Wyoming" },
+    { "title": "Wyoming (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-wy.html" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "virginia",
+  "wikidata": "Q1370",
+  "image": "Flag of Virginia.svg",
+  "name": "Virginia",
+  "flagName": "Flag of Virginia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1861,
+  "to": null,
+  "adopted": "1861-04-30",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "The state seal on blue: Virtus, the Roman goddess of virtue, dressed as an Amazon, standing over a defeated tyrant with a fallen crown, with the motto 'Sic Semper Tyrannis' (Thus always to tyrants).",
+  "origin": [
+    "The seal was designed in 1776 by George Mason and others. The flag with the seal was adopted on 30 April 1861, when Virginia seceded; a white fringe was added in 1950."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Virtus", "description": "A woman holding a spear and a sheathed sword, her foot on a defeated man.", "meaning": "Virtue and the victory of the Revolution over tyranny.", "basis": "official" },
+    { "name": "Defeated tyrant", "description": "A man lying with a fallen crown, a whip and a broken chain.", "meaning": "The overthrow of British rule.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1861, "to": null, "label": "Commonwealth of Virginia", "note": "Fringe added in 1950." }
+  ],
+  "facts": [
+    "It is the only US state flag depicting nudity: Virtus has one breast exposed, as in classical depictions of Amazons.",
+    "The motto 'Sic Semper Tyrannis' was shouted by John Wilkes Booth after shooting Lincoln.",
+    "Virginia is one of four US Commonwealths."
+  ],
+  "clues": [
+    "A woman with a spear standing over a fallen tyrant, on blue.",
+    "Its motto means 'Thus always to tyrants'.",
+    "Its seal was designed in 1776."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "emblem", "weapon", "crown", "text"],
+  "sources": [
+    { "title": "Flag of Virginia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Virginia" },
+    { "title": "Virginia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-va.html" }
+  ]
+}

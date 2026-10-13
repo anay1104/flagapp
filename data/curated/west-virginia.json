@@ -1,0 +1,48 @@
+{
+  "id": "west-virginia",
+  "wikidata": "Q1371",
+  "image": "Flag of West Virginia.svg",
+  "name": "West Virginia",
+  "flagName": "Flag of West Virginia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1929,
+  "to": null,
+  "adopted": "1929-03-07",
+  "ratio": "38:57",
+  "country": "United States",
+  "summary": "A white field with a blue border and the state coat of arms: a farmer and a miner flanking a rock inscribed 'June 20, 1863', the date of statehood, inside a wreath of rhododendron, with the motto 'Montani semper liberi' (Mountaineers are always free).",
+  "origin": [
+    "West Virginia separated from Virginia during the Civil War and became a state on 20 June 1863. The flag was adopted in 1905, revised in 1907, and took its current form in 1929."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002855", "family": "blue", "meaning": "The Union.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Farmer and miner", "description": "A farmer with an axe and plough, and a miner with a pickaxe.", "meaning": "Agriculture and industry, especially coal mining.", "basis": "official" },
+    { "name": "Rock with date", "description": "A boulder inscribed 'JUNE 20, 1863'.", "meaning": "Statehood.", "basis": "official" },
+    { "name": "Rifles and cap", "description": "Two crossed rifles with a Phrygian cap.", "meaning": "Liberty won and defended by arms.", "basis": "official" },
+    { "name": "Rhododendron", "description": "A wreath of the state flower.", "meaning": "West Virginia's state flower.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1905, "to": 1929, "label": "Earlier versions" },
+    { "from": 1929, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "West Virginia is the only state formed by separating from a Confederate state during the Civil War.",
+    "Its motto means 'Mountaineers are always free'.",
+    "The blue border is unusual among state flags."
+  ],
+  "clues": [
+    "A white field with a blue border and arms showing a farmer and a miner beside a dated rock.",
+    "Its date marks statehood during a civil war.",
+    "Its motto means 'Mountaineers are always free'."
+  ],
+  "lookalikes": [],
+  "tags": ["border", "coat-of-arms", "plant", "weapon", "tool", "text"],
+  "sources": [
+    { "title": "Flag of West Virginia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_West_Virginia" },
+    { "title": "West Virginia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-wv.html" }
+  ]
+}

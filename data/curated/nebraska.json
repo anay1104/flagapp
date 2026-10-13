@@ -1,0 +1,48 @@
+{
+  "id": "nebraska",
+  "wikidata": "Q1553",
+  "image": "Flag of Nebraska.svg",
+  "name": "Nebraska",
+  "flagName": "Flag of Nebraska",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1963,
+  "to": null,
+  "adopted": "1925-04-02",
+  "ratio": "3:5",
+  "country": "United States",
+  "summary": "The state seal in gold and silver on a blue field. The seal shows a blacksmith with a hammer and anvil, a settler's cabin, sheaves of wheat, a steamboat on the Missouri River, a train toward the Rocky Mountains, and the motto 'Equality before the law'.",
+  "origin": [
+    "The design was adopted as the state banner in 1925 and designated the official state flag in 1963."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The seal.", "basis": "official" },
+    { "name": "Silver", "hex": "#C0C0C0", "family": "grey", "meaning": "The seal.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Blacksmith", "description": "A smith working at an anvil.", "meaning": "Mechanical arts and industry.", "basis": "official" },
+    { "name": "Settler's cabin and wheat", "description": "A cabin and sheaves of wheat.", "meaning": "Agriculture and settlement.", "basis": "official" },
+    { "name": "Steamboat and train", "description": "A steamboat on the river and a train toward the mountains.", "meaning": "Transport and commerce.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1925, "to": 1963, "label": "State banner" },
+    { "from": 1963, "to": null, "label": "State flag" }
+  ],
+  "facts": [
+    "In a 2001 NAVA survey it ranked among the lowest-rated state flag designs.",
+    "Its seal includes the date of statehood, 1 March 1867.",
+    "The legislature has considered redesigns several times."
+  ],
+  "clues": [
+    "A gold and silver seal on blue with a blacksmith, a cabin, a steamboat and a train.",
+    "Its motto is 'Equality before the law'.",
+    "It was a state banner before becoming the state flag in 1963."
+  ],
+  "lookalikes": ["kansas", "montana"],
+  "tags": ["plain-field", "emblem", "tool", "building", "plant", "water", "mountain", "text", "grey"],
+  "sources": [
+    { "title": "Flag of Nebraska (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nebraska" },
+    { "title": "Nebraska (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ne.html" }
+  ]
+}

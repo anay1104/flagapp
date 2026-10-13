@@ -1,0 +1,50 @@
+{
+  "id": "nevada",
+  "wikidata": "Q1227",
+  "image": "Flag of Nevada.svg",
+  "name": "Nevada",
+  "flagName": "Flag of Nevada",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "adopted": "1929-03-26",
+  "ratio": "2:3",
+  "designer": "Louis Shellback III (1926)",
+  "country": "United States",
+  "summary": "A cobalt blue field with a silver star in the upper hoist, the word 'NEVADA' beneath it, inside two sagebrush branches, with a gold scroll reading 'Battle Born' above.",
+  "origin": [
+    "Louis Shellback III won a 1926 design contest; the flag was adopted in 1929. In 1991 the law was amended to place the letters of 'NEVADA' below the star instead of between its points."
+  ],
+  "colors": [
+    { "name": "Cobalt blue", "hex": "#003DA5", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Silver", "hex": "#C0C0C0", "family": "grey", "meaning": "The star; Nevada is the Silver State.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD100", "family": "yellow", "meaning": "The scroll.", "basis": "official" },
+    { "name": "Green", "hex": "#4C8C2B", "family": "green", "meaning": "The sagebrush.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Silver star", "description": "A five-pointed star in the canton.", "meaning": "Nevada's silver mining heritage.", "basis": "official" },
+    { "name": "Sagebrush", "description": "Two branches of the state flower.", "meaning": "Nevada's landscape.", "basis": "official" },
+    { "name": "'Battle Born' scroll", "description": "A gold ribbon above the star.", "meaning": "Nevada became a state in 1864, during the Civil War.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1929, "to": 1991, "label": "Letters around the star" },
+    { "from": 1991, "to": null, "label": "Name below the star" }
+  ],
+  "facts": [
+    "Nevada's statehood was rushed through in 1864 partly to help re-elect Abraham Lincoln.",
+    "The Silver State's name means 'snow-covered' in Spanish.",
+    "Before 1991, the letters of NEVADA were placed between the star's points."
+  ],
+  "clues": [
+    "Cobalt blue with a silver star in sagebrush and a gold 'Battle Born' scroll.",
+    "Its scroll says it became a state during a civil war.",
+    "Its star honours a precious metal."
+  ],
+  "lookalikes": [],
+  "tags": ["canton", "star", "plant", "text", "grey"],
+  "sources": [
+    { "title": "Flag of Nevada (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nevada" },
+    { "title": "Nevada (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-nv.html" }
+  ]
+}

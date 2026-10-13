@@ -1,0 +1,46 @@
+{
+  "id": "new-mexico",
+  "wikidata": "Q1522",
+  "image": "Flag of New Mexico.svg",
+  "name": "New Mexico",
+  "flagName": "Flag of New Mexico",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1925,
+  "to": null,
+  "adopted": "1925-03-15",
+  "ratio": "2:3",
+  "designer": "Harry Mera",
+  "country": "United States",
+  "summary": "A red Zia sun symbol on a yellow field: a circle with four groups of four rays. The colours are those of Spain, and the symbol comes from the Zia Pueblo. It is often rated the best-designed US state flag.",
+  "origin": [
+    "In 1920 the Daughters of the American Revolution held a design contest. The archaeologist and physician Harry Mera won with the Zia sun, based on a design on a 19th-century Zia Pueblo pot. The flag was adopted in 1925."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFD700", "family": "yellow", "meaning": "From the flag of Spain, whose Crown ruled New Mexico.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "From the flag of Spain.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Zia sun symbol", "description": "A circle with four groups of four rays.", "meaning": "The Zia Pueblo's sacred number four: the four directions, seasons, times of day and stages of life, bound together by a circle of life and love.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1915, "to": 1925, "label": "Early flag", "note": "Blue with the US flag and state seal." },
+    { "from": 1925, "to": null, "label": "Zia flag" }
+  ],
+  "facts": [
+    "A 2001 NAVA survey ranked it the best-designed flag of any US state or Canadian province.",
+    "The Zia Pueblo has asked for recognition and compensation for the use of its sacred symbol.",
+    "New Mexico has an official 'salute to the flag' in English and Spanish."
+  ],
+  "clues": [
+    "A red sun symbol with four groups of rays on yellow.",
+    "Its symbol comes from a pueblo's pottery.",
+    "Often voted the best-designed US state flag."
+  ],
+  "lookalikes": ["arizona", "kyrgyzstan"],
+  "tags": ["plain-field", "sun", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of New Mexico (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_New_Mexico" },
+    { "title": "New Mexico (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-nm.html" }
+  ]
+}

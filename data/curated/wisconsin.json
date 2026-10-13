@@ -1,0 +1,48 @@
+{
+  "id": "wisconsin",
+  "wikidata": "Q1537",
+  "image": "Flag of Wisconsin.svg",
+  "name": "Wisconsin",
+  "flagName": "Flag of Wisconsin",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1913-01-01",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "The state coat of arms on blue, with 'WISCONSIN' above and '1848' below. The arms show a sailor and a miner, a badger crest, a cornucopia, lead ingots and the motto 'Forward'.",
+  "origin": [
+    "Wisconsin regiments carried flags with the arms during the Civil War. The state flag was adopted in 1913; the name and statehood year were added in 1981 to make it recognisable."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The lettering and details.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sailor and miner", "description": "Supporting the shield.", "meaning": "Labour on water and land.", "basis": "official" },
+    { "name": "Shield quarters", "description": "A plough, a pick and shovel, an arm and hammer, and an anchor, around the US arms.", "meaning": "Agriculture, mining, manufacturing and navigation.", "basis": "official" },
+    { "name": "Badger", "description": "The crest.", "meaning": "The 'Badger State', after lead miners who dug into hillsides.", "basis": "official" },
+    { "name": "Lead ingots", "description": "A pyramid of 13 ingots.", "meaning": "Mineral wealth and the 13 original states.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1913, "to": 1981, "label": "Arms on blue" },
+    { "from": 1981, "to": null, "label": "Name and year added" }
+  ],
+  "facts": [
+    "The 'Badger State' nickname refers to miners who lived in hillside dugouts.",
+    "1848 is the year of statehood.",
+    "Its motto is the single word 'Forward'."
+  ],
+  "clues": [
+    "A coat of arms with a sailor, a miner and a badger, with the state name and 1848, on blue.",
+    "Its crest is a burrowing mammal.",
+    "Its motto is 'Forward'."
+  ],
+  "lookalikes": ["idaho", "montana"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "animal", "tool", "text"],
+  "sources": [
+    { "title": "Flag of Wisconsin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Wisconsin" },
+    { "title": "Wisconsin (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-wi.html" }
+  ]
+}

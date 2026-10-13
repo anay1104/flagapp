@@ -1,0 +1,51 @@
+{
+  "id": "hawaii",
+  "wikidata": "Q782",
+  "image": "Flag of Hawaii.svg",
+  "name": "Hawaii",
+  "flagName": "Flag of Hawaii",
+  "nickname": "Ka Hae Hawaiʻi",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1845,
+  "to": null,
+  "adopted": "1845-05-20",
+  "ratio": "1:2",
+  "country": "United States",
+  "summary": "Eight horizontal stripes of white, red and blue with the Union Flag in the canton. It is the only US state flag to include another country's flag, inherited from the Kingdom of Hawaii.",
+  "origin": [
+    "King Kamehameha I is said to have flown a British flag given by Captain George Vancouver in the 1790s, and a flag combining British and American elements emerged by 1816.",
+    "The eight-stripe version was formalised in 1845 under Kamehameha III. It continued through the overthrow of the monarchy in 1893, the Republic of Hawaii, the US territory and statehood in 1959."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the Union Flag and the stripes.", "basis": "traditional" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "From the Union Flag and the stripes.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "From the Union Flag and the stripes.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Union Flag", "description": "In the canton.", "meaning": "Hawaii's historical friendship with Britain.", "basis": "traditional" },
+    { "name": "Eight stripes", "description": "Horizontal stripes of white, red and blue.", "meaning": "The eight main islands.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1816, "to": 1845, "label": "Early Kingdom of Hawaii flags", "note": "Varying numbers of stripes." },
+    { "from": 1845, "to": 1893, "label": "Kingdom of Hawaii" },
+    { "from": 1893, "to": 1959, "label": "Provisional Government, Republic and Territory" },
+    { "from": 1959, "to": null, "label": "State of Hawaii" }
+  ],
+  "facts": [
+    "It is the only US state flag with the Union Flag in the canton.",
+    "Hawaii was the only US state that was once an independent kingdom recognised by other nations.",
+    "Flying the flag upside down is used by some Hawaiian sovereignty activists as a sign of distress."
+  ],
+  "clues": [
+    "Eight white, red and blue stripes with the Union Flag in the canton.",
+    "The only US state flag containing another country's flag.",
+    "Its stripes stand for eight islands of a former kingdom."
+  ],
+  "lookalikes": ["united-kingdom", "tuvalu"],
+  "tags": ["horizontal-stripes", "canton", "union-jack"],
+  "sources": [
+    { "title": "Flag of Hawaii (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Hawaii" },
+    { "title": "Hawaii (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-hi.html" }
+  ]
+}

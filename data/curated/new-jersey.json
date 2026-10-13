@@ -1,0 +1,46 @@
+{
+  "id": "new-jersey",
+  "wikidata": "Q1408",
+  "image": "Flag of New Jersey.svg",
+  "name": "New Jersey",
+  "flagName": "Flag of New Jersey",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1896,
+  "to": null,
+  "adopted": "1896-03-26",
+  "ratio": "3:4",
+  "country": "United States",
+  "summary": "The state coat of arms on a buff field: the goddesses Liberty and Ceres flanking a shield with three ploughs, under a horse's head and a helmet. The buff colour was ordered by George Washington for New Jersey's Continental Army regiments in 1779.",
+  "origin": [
+    "In 1779 George Washington ordered that New Jersey's troops wear dark blue coats faced with buff. The legislature adopted a buff flag with the arms in 1896; the colours were standardised in 1965."
+  ],
+  "colors": [
+    { "name": "Buff", "hex": "#E2C28A", "family": "yellow", "meaning": "The facings of New Jersey's Continental Army uniforms, ordered by Washington.", "basis": "official" },
+    { "name": "Jersey blue", "hex": "#2D5DA8", "family": "blue", "meaning": "The colour of the uniform coats.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Liberty and Ceres", "description": "Liberty holding a staff with a cap of liberty, and Ceres, goddess of agriculture, holding a cornucopia.", "meaning": "Freedom and prosperity.", "basis": "official" },
+    { "name": "Three ploughs", "description": "Three ploughs on a blue shield.", "meaning": "Agriculture.", "basis": "official" },
+    { "name": "Horse's head and helmet", "description": "A horse's head above a helmet facing forward.", "meaning": "Speed and strength; the forward-facing helmet signifies sovereignty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1896, "to": null, "label": "State of New Jersey" }
+  ],
+  "facts": [
+    "Its buff colour is unique among US state flags.",
+    "The motto is 'Liberty and Prosperity'.",
+    "The date 1776 appears below the shield."
+  ],
+  "clues": [
+    "A coat of arms with two goddesses and three ploughs on a buff field.",
+    "Its unusual colour was ordered by George Washington for uniforms.",
+    "Its motto is 'Liberty and Prosperity'."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "coat-of-arms", "shield", "animal", "tool", "text"],
+  "sources": [
+    { "title": "Flag of New Jersey (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_New_Jersey" },
+    { "title": "New Jersey (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-nj.html" }
+  ]
+}

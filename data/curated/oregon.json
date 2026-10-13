@@ -1,0 +1,46 @@
+{
+  "id": "oregon",
+  "wikidata": "Q824",
+  "image": "Flag of Oregon.svg",
+  "name": "Oregon",
+  "flagName": "Flag of Oregon",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1925,
+  "to": null,
+  "adopted": "1925-02-26",
+  "ratio": "3:5",
+  "country": "United States",
+  "summary": "Navy blue with gold lettering 'STATE OF OREGON' and '1859' around the state escutcheon on the front, and a gold beaver on the reverse. It is the only US state flag with different designs on each side.",
+  "origin": [
+    "The flag was adopted on 26 February 1925. 1859 is the year Oregon became the 33rd state."
+  ],
+  "colors": [
+    { "name": "Navy blue", "hex": "#002A86", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFEA0F", "family": "yellow", "meaning": "The lettering, escutcheon and beaver.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Escutcheon", "description": "A shield with mountains, forests, an elk, a covered wagon, the ocean with a departing British ship and an arriving American ship, a plough, sheaves and a pickaxe, under an eagle.", "meaning": "Oregon's landscape, settlement and industry; the ships show the end of British influence.", "basis": "official" },
+    { "name": "Thirty-three stars", "description": "Stars around the escutcheon.", "meaning": "Oregon as the 33rd state.", "basis": "official" },
+    { "name": "Beaver (reverse)", "description": "A gold beaver.", "meaning": "The state animal; Oregon is the Beaver State, from its fur-trading history.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1925, "to": null, "label": "State of Oregon" }
+  ],
+  "facts": [
+    "It is the only US state flag with a different design on the reverse.",
+    "Paraguay is the only national flag with different sides.",
+    "The beaver honours Oregon's fur-trapping history."
+  ],
+  "clues": [
+    "Navy blue with gold 'STATE OF OREGON' and a shield on the front, and a beaver on the back.",
+    "The only US state flag with two different sides.",
+    "Its reverse shows a rodent."
+  ],
+  "lookalikes": ["north-dakota", "paraguay"],
+  "tags": ["plain-field", "emblem", "shield", "eagle", "bird", "animal", "mountain", "water", "star", "text"],
+  "sources": [
+    { "title": "Flag of Oregon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Oregon" },
+    { "title": "Oregon (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-or.html" }
+  ]
+}

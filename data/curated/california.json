@@ -1,0 +1,50 @@
+{
+  "id": "california",
+  "wikidata": "Q99",
+  "image": "Flag of California.svg",
+  "name": "California",
+  "flagName": "Flag of California",
+  "nickname": "The Bear Flag",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1911,
+  "to": null,
+  "adopted": "1911-02-03",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A white field with a grizzly bear walking on a patch of grass, a red star in the upper hoist, a red stripe along the bottom and the words 'CALIFORNIA REPUBLIC'. It is based on the flag of the 1846 Bear Flag Revolt.",
+  "origin": [
+    "In June 1846, American settlers revolted against Mexican rule in Sonoma and raised a homemade flag with a bear, a star and 'California Republic', drawn by William L. Todd. The 'republic' lasted about 25 days before the US took control in the Mexican–American War.",
+    "The legislature adopted the bear flag in 1911. A 1953 law standardised the design; the bear is said to be modelled on Monarch, the last captive California grizzly."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "traditional" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "Courage.", "basis": "traditional" },
+    { "name": "Brown", "hex": "#7A4E26", "family": "brown", "meaning": "The grizzly bear.", "basis": "official" },
+    { "name": "Green", "hex": "#5E8C31", "family": "green", "meaning": "The grass.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Grizzly bear", "description": "A brown grizzly walking toward the hoist.", "meaning": "Strength and independence; the California grizzly is now extinct.", "basis": "official" },
+    { "name": "Red star", "description": "A five-pointed star in the upper hoist.", "meaning": "Echoes the Texas lone star; sovereignty.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1846, "to": 1846, "label": "Bear Flag Revolt" },
+    { "from": 1911, "to": null, "label": "State flag" }
+  ],
+  "facts": [
+    "The California grizzly, shown on the flag, has been extinct since the 1920s.",
+    "The original 1846 flag was destroyed in the fires after the 1906 San Francisco earthquake.",
+    "It is one of the best-known US state flags worldwide."
+  ],
+  "clues": [
+    "A grizzly bear on white with a red star and the words 'CALIFORNIA REPUBLIC'.",
+    "Based on the flag of a 25-day republic in 1846.",
+    "The animal on it is extinct in the wild in the state."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-stripes", "animal", "star", "text", "plant"],
+  "sources": [
+    { "title": "Flag of California (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_California" },
+    { "title": "California (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ca.html" }
+  ]
+}

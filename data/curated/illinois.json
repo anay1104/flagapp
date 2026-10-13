@@ -1,0 +1,48 @@
+{
+  "id": "illinois",
+  "wikidata": "Q1204",
+  "image": "Flag of Illinois.svg",
+  "name": "Illinois",
+  "flagName": "Flag of Illinois",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1970,
+  "to": null,
+  "adopted": "1915-07-06",
+  "ratio": "3:5",
+  "designer": "Lucy Derwent (1915)",
+  "country": "United States",
+  "summary": "The state seal on white: a bald eagle on a rock holding a shield and a banner reading 'State Sovereignty, National Union', with the word 'ILLINOIS' added below in 1970.",
+  "origin": [
+    "The flag was designed by Lucy Derwent for a Daughters of the American Revolution contest and adopted in 1915. In 1969 Chief Petty Officer Bruce McDaniel, serving in Vietnam, asked that the state's name be added because few people recognised the flag; it was added in 1970."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "official" },
+    { "name": "Navy", "hex": "#003399", "family": "blue", "meaning": "The name and seal details.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Eagle and banner", "description": "A bald eagle holding a banner with the state motto.", "meaning": "'State Sovereignty, National Union', reflecting the balance of state and federal power.", "basis": "official" },
+    { "name": "Shield with 13 stars and stripes", "description": "On a boulder, with the dates 1818 and 1868.", "meaning": "Statehood (1818) and the year the seal was adopted (1868).", "basis": "official" },
+    { "name": "Rising sun over water", "description": "Behind the eagle.", "meaning": "Lake Michigan and progress.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1915, "to": 1970, "label": "Seal without name" },
+    { "from": 1970, "to": null, "label": "Name added" }
+  ],
+  "facts": [
+    "The name was added at the request of a sailor serving in Vietnam.",
+    "In 2023 a commission was set up to consider a new state flag.",
+    "Illinois is the 'Land of Lincoln'."
+  ],
+  "clues": [
+    "An eagle on a rock holding a shield and banner, on white, with the state name below.",
+    "Its name was added at a serviceman's request in 1970.",
+    "Its motto balances state sovereignty and national union."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "emblem", "eagle", "bird", "shield", "sun", "water", "text"],
+  "sources": [
+    { "title": "Flag of Illinois (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Illinois" },
+    { "title": "Illinois (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-il.html" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "north-dakota",
+  "wikidata": "Q1207",
+  "image": "Flag of North Dakota.svg",
+  "name": "North Dakota",
+  "flagName": "Flag of North Dakota",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1911,
+  "to": null,
+  "adopted": "1911-03-03",
+  "ratio": "33:26",
+  "country": "United States",
+  "summary": "A bald eagle with an olive branch and arrows, holding a scroll reading 'E Pluribus Unum', with 13 stars and a sunburst above and 'North Dakota' on a scroll below, on a blue field with gold fringe. It is based on a regimental flag.",
+  "origin": [
+    "The design copies the flag carried by the 1st North Dakota Infantry in the Spanish–American War and the Philippine–American War. It was adopted in 1911."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#002868", "family": "blue", "meaning": "From the regimental flag.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The fringe and sunburst.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Eagle", "description": "A bald eagle with a shield of 13 stripes on its breast.", "meaning": "The United States.", "basis": "official" },
+    { "name": "Thirteen stars", "description": "Stars above the eagle.", "meaning": "The original states.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1911, "to": null, "label": "State of North Dakota" }
+  ],
+  "facts": [
+    "Its proportions, 33:26, make it taller than most flags.",
+    "It is nearly identical to the US Army's regimental colours of the period."
+  ],
+  "clues": [
+    "A bald eagle with a scroll and stars on blue with gold fringe, and the state name below.",
+    "It copies an infantry regiment's flag.",
+    "Its proportions are taller than most."
+  ],
+  "lookalikes": ["oregon"],
+  "tags": ["plain-field", "eagle", "bird", "star", "shield", "text", "weapon", "plant"],
+  "sources": [
+    { "title": "Flag of North Dakota (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_North_Dakota" },
+    { "title": "North Dakota (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-nd.html" }
+  ]
+}

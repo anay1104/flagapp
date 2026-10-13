@@ -1,0 +1,47 @@
+{
+  "id": "iowa",
+  "wikidata": "Q1546",
+  "image": "Flag of Iowa.svg",
+  "name": "Iowa",
+  "flagName": "Flag of Iowa",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1921,
+  "to": null,
+  "adopted": "1921-03-29",
+  "ratio": "2:3",
+  "designer": "Dixie Cornell Gebhardt",
+  "country": "United States",
+  "summary": "Blue, white and red vertical bands with a bald eagle in the white carrying a streamer with the motto 'Our liberties we prize and our rights we will maintain' and the word 'IOWA'.",
+  "origin": [
+    "Dixie Cornell Gebhardt of the Daughters of the American Revolution designed the flag in 1917 for Iowa's soldiers in the First World War. It was adopted by the legislature on 29 March 1921."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "Loyalty, justice and truth.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "Courage.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Eagle and streamer", "description": "A bald eagle holding a blue streamer in its beak.", "meaning": "The state motto.", "basis": "official" },
+    { "name": "Vertical tricolour", "description": "Blue, white and red bands.", "meaning": "Iowa's history as part of French Louisiana; the colours recall the French tricolour.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1921, "to": null, "label": "State of Iowa" }
+  ],
+  "facts": [
+    "The French-style tricolour recalls the Louisiana Purchase of 1803.",
+    "It was first carried by Iowa National Guard units in 1917.",
+    "Its motto is one of the longer state mottoes."
+  ],
+  "clues": [
+    "Blue, white and red vertical bands with an eagle carrying a streamer.",
+    "Its tricolour recalls a French territory sold in 1803.",
+    "Designed for soldiers in the First World War."
+  ],
+  "lookalikes": ["france"],
+  "tags": ["vertical-tricolour", "eagle", "bird", "text"],
+  "sources": [
+    { "title": "Flag of Iowa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Iowa" },
+    { "title": "Iowa (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ia.html" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "georgia-united-states",
+  "wikidata": "Q1428",
+  "image": "Flag of the State of Georgia.svg",
+  "name": "Georgia",
+  "flagName": "Flag of the State of Georgia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2003,
+  "to": null,
+  "adopted": "2003-05-08",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "Red, white and red horizontal bands with a blue canton containing the state arms in a ring of thirteen stars and the motto 'In God We Trust'. It closely follows the first national flag of the Confederacy, the 'Stars and Bars'.",
+  "origin": [
+    "From 1956 Georgia's flag included the Confederate battle flag, a change widely seen as a protest against desegregation. In 2001 it was replaced by a compromise design that was unpopular.",
+    "The current flag, adopted on 8 May 2003, removed the battle flag but is based on the Stars and Bars. A 2004 referendum confirmed it."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "From the Stars and Bars.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the Stars and Bars.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "From the Stars and Bars.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Thirteen stars", "description": "A ring of white stars around the arms.", "meaning": "Georgia as one of the original thirteen states.", "basis": "official" },
+    { "name": "Arch and three pillars", "description": "The state arms: an arch supported by three pillars, with a soldier.", "meaning": "The three branches of government; the motto 'Wisdom, Justice, Moderation'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1956, "to": 2001, "label": "Flag with the Confederate battle flag" },
+    { "from": 2001, "to": 2003, "label": "Compromise flag", "note": "Seal over a banner of historical flags." },
+    { "from": 2003, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "The 2001 flag was ranked the worst-designed flag in North America in a 2001 NAVA survey.",
+    "The country of Georgia, in the Caucasus, has a completely different flag.",
+    "The Stars and Bars was the Confederacy's first national flag (1861–1863)."
+  ],
+  "clues": [
+    "Red-white-red bands with a blue canton holding a ring of thirteen stars around an arch.",
+    "Based on the first Confederate national flag.",
+    "Shares its name with a country in the Caucasus."
+  ],
+  "lookalikes": ["austria", "georgia"],
+  "tags": ["horizontal-stripes", "canton", "coat-of-arms", "star", "text"],
+  "sources": [
+    { "title": "Flag of Georgia (U.S. state) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)" },
+    { "title": "Georgia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ga.html" }
+  ]
+}

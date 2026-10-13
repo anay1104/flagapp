@@ -1,0 +1,46 @@
+{
+  "id": "rhode-island",
+  "wikidata": "Q1387",
+  "image": "Flag of Rhode Island.svg",
+  "name": "Rhode Island",
+  "flagName": "Flag of Rhode Island",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1897,
+  "to": null,
+  "adopted": "1897-02-01",
+  "ratio": "29:33",
+  "country": "United States",
+  "summary": "A white field with a gold anchor encircled by thirteen gold stars, above a blue ribbon reading 'HOPE'. The anchor has been Rhode Island's symbol since 1647.",
+  "origin": [
+    "The anchor and the word 'Hope' appear on the colony's seal from 1647, probably inspired by the biblical phrase 'hope we have as an anchor of the soul' (Hebrews 6:19). The flag was adopted in 1897."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The anchor and stars.", "basis": "official" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The ribbon.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Anchor", "description": "A gold anchor.", "meaning": "Hope, from Hebrews 6:19; also Rhode Island's maritime life.", "basis": "traditional" },
+    { "name": "Thirteen stars", "description": "Gold stars around the anchor.", "meaning": "The original thirteen colonies; Rhode Island was the 13th to ratify the Constitution.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1897, "to": null, "label": "State of Rhode Island" }
+  ],
+  "facts": [
+    "Rhode Island was the last of the original thirteen states to ratify the Constitution, in 1790.",
+    "'Hope' is the shortest state motto.",
+    "The flag's design reflects Rhode Island's Revolutionary War regimental flags."
+  ],
+  "clues": [
+    "A gold anchor ringed by thirteen stars on white, above the word 'HOPE'.",
+    "Its motto is a single word.",
+    "Its anchor comes from a biblical verse about hope."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "tool", "star", "text", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Rhode Island (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island" },
+    { "title": "Rhode Island (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ri.html" }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ohio",
+  "wikidata": "Q1397",
+  "image": "Flag of Ohio.svg",
+  "name": "Ohio",
+  "flagName": "Flag of Ohio",
+  "nickname": "The Ohio Burgee",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1902,
+  "to": null,
+  "adopted": "1902-05-09",
+  "ratio": "8:13",
+  "designer": "John Eisenmann",
+  "country": "United States",
+  "summary": "A swallowtail pennant with red and white stripes and a blue triangle at the hoist bearing 17 white stars around a red disc in a white circle. It is the only non-rectangular US state flag.",
+  "origin": [
+    "The architect John Eisenmann designed the flag for the Ohio building at the Pan-American Exposition in Buffalo in 1901. It was adopted on 9 May 1902. Precise construction rules were set in 2005."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "From the US flag.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Blue triangle", "description": "A triangle at the hoist.", "meaning": "Ohio's hills and valleys.", "basis": "official" },
+    { "name": "Stripes", "description": "Red and white horizontal stripes.", "meaning": "Roads and waterways.", "basis": "official" },
+    { "name": "Seventeen stars", "description": "Thirteen around the disc and four more grouped near the point.", "meaning": "Ohio as the 17th state; the 13 for the original states.", "basis": "official" },
+    { "name": "Red disc in white circle", "description": "A white O around a red disc.", "meaning": "The O of Ohio and the buckeye nut, from the 'Buckeye State'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1902, "to": null, "label": "State of Ohio" }
+  ],
+  "facts": [
+    "It is the only US state flag that is not rectangular.",
+    "Ohio law describes how to fold it: 17 folds, one for each star.",
+    "Nepal's flag is the only non-rectangular national flag."
+  ],
+  "clues": [
+    "A swallowtail pennant with stripes, a blue triangle and a white O around a red disc.",
+    "The only non-rectangular US state flag.",
+    "Its circle stands for a letter and a nut."
+  ],
+  "lookalikes": ["nepal", "texas"],
+  "tags": ["non-rectangular", "horizontal-stripes", "hoist-triangle", "star", "disc"],
+  "sources": [
+    { "title": "Flag of Ohio (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ohio" },
+    { "title": "Ohio (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-oh.html" }
+  ]
+}

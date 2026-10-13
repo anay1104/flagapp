@@ -1,0 +1,52 @@
+{
+  "id": "mississippi",
+  "wikidata": "Q1494",
+  "image": "Flag of Mississippi.svg",
+  "name": "Mississippi",
+  "flagName": "Flag of Mississippi",
+  "nickname": "The New Magnolia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2021,
+  "to": null,
+  "adopted": "2021-01-11",
+  "ratio": "2:3",
+  "designer": "Rocky Vaughan, Sue Anna Joe, Kara Giles, Dominique Pugh and Micah Whitson",
+  "country": "United States",
+  "summary": "A blue central band with a white magnolia flower inside a ring of twenty white stars and one gold star, with the words 'In God We Trust', between red bands edged in gold. It replaced the last US state flag that contained the Confederate battle flag.",
+  "origin": [
+    "Mississippi's 1894 flag included the Confederate battle flag in its canton. Voters chose to keep it in a 2001 referendum, but after nationwide protests in 2020 the legislature retired it on 30 June 2020.",
+    "A commission selected the 'New Magnolia' design from about 3,000 submissions. Voters approved it on 3 November 2020, and it became official on 11 January 2021."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002A5C", "family": "blue", "meaning": "Vigilance, perseverance and justice; from the US flag.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "Hardiness and valour; the red bands also echo the 'Magnolia Flag' of 1861.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The cultural heritage of Mississippi, especially Native American heritage.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The magnolia and stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Magnolia", "description": "A white magnolia flower in the centre.", "meaning": "The state flower and tree; the hospitality and hope of Mississippians.", "basis": "official" },
+    { "name": "Twenty stars", "description": "White stars in a ring.", "meaning": "Mississippi as the 20th state.", "basis": "official" },
+    { "name": "Gold star", "description": "A larger gold star at the top of the ring, in a Native American five-diamond style.", "meaning": "The Native Americans who first inhabited the land.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1894, "to": 2020, "label": "Flag with the Confederate battle flag" },
+    { "from": 2021, "to": null, "label": "New Magnolia" }
+  ],
+  "facts": [
+    "It replaced the last US state flag containing the Confederate battle flag.",
+    "Voters approved it with about 73% of the vote in November 2020.",
+    "The 'In God We Trust' motto was a legal requirement for the new design."
+  ],
+  "clues": [
+    "A white magnolia in a ring of stars on blue, between red bands edged in gold.",
+    "It replaced a flag with a Confederate battle emblem in 2021.",
+    "Its gold star honours Native American heritage."
+  ],
+  "lookalikes": [],
+  "tags": ["vertical-stripes", "fimbriation", "plant", "star", "text"],
+  "sources": [
+    { "title": "Flag of Mississippi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mississippi" },
+    { "title": "Mississippi (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ms.html" }
+  ]
+}

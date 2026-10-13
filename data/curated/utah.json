@@ -1,0 +1,48 @@
+{
+  "id": "utah",
+  "wikidata": "Q829",
+  "image": "Flag of Utah.svg",
+  "name": "Utah",
+  "flagName": "Flag of Utah",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2024,
+  "to": null,
+  "adopted": "2024-03-09",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "Bands of white, dark blue and red with a gold beehive inside a blue hexagon. The white represents snow-capped mountains, the blue the sky, and the red southern Utah's red-rock canyons. It replaced a seal-on-blue flag in 2024.",
+  "origin": [
+    "In 2021 Utah began a public process to design a new flag, receiving thousands of submissions. The legislature approved the final design in 2023, and it became the official flag on 9 March 2024. The 1913 seal flag was kept as a historic flag."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Snow-capped mountains.", "basis": "official" },
+    { "name": "Dark blue", "hex": "#0A3161", "family": "blue", "meaning": "The sky, and Utah's place in the nation.", "basis": "official" },
+    { "name": "Red", "hex": "#BB2D2D", "family": "red", "meaning": "The red rocks of southern Utah.", "basis": "official" },
+    { "name": "Gold", "hex": "#FDB813", "family": "yellow", "meaning": "The beehive.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Beehive", "description": "A gold beehive inside a hexagon.", "meaning": "Industry and community; Utah is the Beehive State.", "basis": "official" },
+    { "name": "Star", "description": "A five-pointed star on the beehive.", "meaning": "Utah's statehood in 1896 and its place in the Union.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1913, "to": 2024, "label": "Seal on blue" },
+    { "from": 2024, "to": null, "label": "Beehive flag" }
+  ],
+  "facts": [
+    "The redesign drew thousands of public submissions.",
+    "A petition for a referendum to reverse the change failed to qualify.",
+    "Utah's state emblem, the beehive, symbolises industry."
+  ],
+  "clues": [
+    "A gold beehive in a blue hexagon, with white mountains above and red rock below.",
+    "Adopted in 2024 after a public redesign.",
+    "Its red band represents desert canyons."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-tricolour", "mountain", "star", "emblem"],
+  "sources": [
+    { "title": "Flag of Utah (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Utah" },
+    { "title": "Utah (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ut.html" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "minnesota",
+  "wikidata": "Q1527",
+  "image": "Flag of Minnesota.svg",
+  "name": "Minnesota",
+  "flagName": "Flag of Minnesota",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2024,
+  "to": null,
+  "adopted": "2024-05-11",
+  "ratio": "3:5",
+  "designer": "State Emblems Redesign Commission, based on a design by Andrew Prekker",
+  "country": "United States",
+  "summary": "A dark blue shape resembling the outline of Minnesota at the hoist, with a white eight-pointed star, on a light blue field. Adopted in 2024, it replaced a seal-on-blue flag criticised for its depiction of a settler and a Native American.",
+  "origin": [
+    "The previous flag, adopted in 1957 and revised in 1983, showed the state seal, in which a settler ploughs a field while a Native American rides away, a scene criticised as depicting displacement.",
+    "In 2023 the legislature created the State Emblems Redesign Commission, which received more than 2,000 public submissions. The new flag, refined from Andrew Prekker's entry, became official on Statehood Day, 11 May 2024."
+  ],
+  "colors": [
+    { "name": "Night sky blue", "hex": "#002D5D", "family": "blue", "meaning": "The night sky; the shape echoes the state's outline.", "basis": "official" },
+    { "name": "Light blue", "hex": "#52C9E8", "family": "light-blue", "meaning": "Minnesota's lakes and waters.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Eight-pointed star", "description": "A white star in the dark blue shape.", "meaning": "The North Star, from the state motto 'L'Étoile du Nord'; the eight points recall a traditional Native star quilt pattern.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1957, "to": 2024, "label": "Seal on blue", "note": "Revised in 1983." },
+    { "from": 2024, "to": null, "label": "North Star flag" }
+  ],
+  "facts": [
+    "It was the first US state flag redesigned through a public commission in decades.",
+    "The redesign drew more than 2,000 public submissions.",
+    "The dark blue shape echoes the outline of the state."
+  ],
+  "clues": [
+    "A white eight-pointed star in a dark blue shape against light blue.",
+    "Adopted in 2024 after a public redesign commission.",
+    "Its star refers to a French state motto, 'Star of the North'."
+  ],
+  "lookalikes": ["alaska"],
+  "tags": ["star", "map"],
+  "sources": [
+    { "title": "Flag of Minnesota (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Minnesota" },
+    { "title": "State Emblems Redesign Commission (Minnesota Secretary of State)", "url": "https://www.sos.state.mn.us/about-minnesota/state-symbols/" }
+  ]
+}

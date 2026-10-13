@@ -1,0 +1,47 @@
+{
+  "id": "alaska",
+  "wikidata": "Q797",
+  "image": "Flag of Alaska.svg",
+  "name": "Alaska",
+  "flagName": "Flag of Alaska",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1927,
+  "to": null,
+  "adopted": "1927-05-02",
+  "ratio": "125:177",
+  "designer": "Benny Benson",
+  "country": "United States",
+  "summary": "Eight gold stars on dark blue, forming the Big Dipper and Polaris, the North Star. It was designed in 1927 by Benny Benson, a 13-year-old Alutiiq boy from an orphanage in Seward.",
+  "origin": [
+    "In 1926 the American Legion held a flag contest for Alaskan schoolchildren. Benny Benson won with a design of the Big Dipper and the North Star; the territorial legislature adopted it on 2 May 1927.",
+    "It was kept when Alaska became the 49th state in 1959."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#0F204B", "family": "blue", "meaning": "The evening sky, the sea, mountain lakes and Alaska's wildflowers (forget-me-nots).", "basis": "official" },
+    { "name": "Gold", "hex": "#FFB716", "family": "yellow", "meaning": "The wealth of Alaska's gold.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Big Dipper", "description": "Seven gold stars in the shape of the constellation.", "meaning": "The Great Bear, symbolising strength.", "basis": "official" },
+    { "name": "North Star", "description": "A larger gold star in the upper fly.", "meaning": "Alaska as the northernmost state.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1927, "to": null, "label": "Territory and State of Alaska" }
+  ],
+  "facts": [
+    "Benny Benson received a $1,000 scholarship and a watch for his design.",
+    "The state song, 'Alaska's Flag', describes the flag's meaning.",
+    "It is regularly ranked among the best-designed US state flags."
+  ],
+  "clues": [
+    "Eight gold stars on dark blue forming a famous constellation and the North Star.",
+    "Designed by a 13-year-old in a school contest.",
+    "The flag of the northernmost US state."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "star", "astronomy"],
+  "sources": [
+    { "title": "Flag of Alaska (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Alaska" },
+    { "title": "Alaska (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ak.html" }
+  ]
+}

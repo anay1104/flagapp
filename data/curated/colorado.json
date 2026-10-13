@@ -1,0 +1,47 @@
+{
+  "id": "colorado",
+  "wikidata": "Q1261",
+  "image": "Flag of Colorado.svg",
+  "name": "Colorado",
+  "flagName": "Flag of Colorado",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1911,
+  "to": null,
+  "adopted": "1911-06-05",
+  "ratio": "2:3",
+  "designer": "Andrew Carlisle Johnson",
+  "country": "United States",
+  "summary": "Blue, white and blue horizontal bands with a large red letter C around a golden disc. Adopted in 1911, its colours were standardised in 1964.",
+  "origin": [
+    "Andrew Carlisle Johnson designed the flag, adopted by the General Assembly on 5 June 1911. Laws in 1929 and 1964 clarified the shades and sizes."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The clear blue skies.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The snow-capped mountains.", "basis": "traditional" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "The reddish earth; 'Colorado' is Spanish for 'coloured red'.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The abundant sunshine and the state's gold.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Red C", "description": "A large red letter C around a gold disc.", "meaning": "Colorado; also the Centennial State, admitted in 1876.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1911, "to": null, "label": "State of Colorado" }
+  ],
+  "facts": [
+    "Its design is widely used on Colorado products, licence plates and branding.",
+    "Colorado joined the Union in 1876, the US centennial year.",
+    "The name Colorado means 'coloured red' in Spanish, after the Colorado River."
+  ],
+  "clues": [
+    "Blue and white bands with a red letter C around a gold disc.",
+    "Its letter stands for its name and the year 1876.",
+    "One of the most recognisable US state flags in branding."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-tricolour", "text", "disc", "sun"],
+  "sources": [
+    { "title": "Flag of Colorado (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Colorado" },
+    { "title": "Colorado (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-co.html" }
+  ]
+}

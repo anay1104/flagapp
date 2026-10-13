@@ -1,0 +1,45 @@
+{
+  "id": "connecticut",
+  "wikidata": "Q779",
+  "image": "Flag of Connecticut.svg",
+  "name": "Connecticut",
+  "flagName": "Flag of Connecticut",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1897,
+  "to": null,
+  "adopted": "1897-06-03",
+  "ratio": "26:33",
+  "country": "United States",
+  "summary": "A white baroque shield with three grapevines on an azure field, above a ribbon with the motto 'Qui Transtulit Sustinet' (He who transplanted still sustains).",
+  "origin": [
+    "The grapevines come from the seal of the Saybrook Colony and appear in Connecticut's seal from 1639. The flag was adopted by the General Assembly on 3 June 1897, based on a 1895 proposal by the Daughters of the American Revolution."
+  ],
+  "colors": [
+    { "name": "Azure", "hex": "#0F204B", "family": "blue", "meaning": "From Continental Army regimental colours.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The shield.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Three grapevines", "description": "Three fruiting vines on the shield.", "meaning": "The first three colonial settlements: Hartford, Windsor and Wethersfield; also the colonists 'transplanted' from England.", "basis": "traditional" },
+    { "name": "Motto", "description": "'QUI TRANSTULIT SUSTINET' on a ribbon.", "meaning": "He who transplanted still sustains, a reference to Psalm 80.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1897, "to": null, "label": "State of Connecticut" }
+  ],
+  "facts": [
+    "Its motto has been used since colonial times.",
+    "The flag is often grouped among the 'seals on a bedsheet' criticised by vexillologists.",
+    "Connecticut is nicknamed the Constitution State."
+  ],
+  "clues": [
+    "A white shield with three grapevines on blue, with a Latin motto.",
+    "Its vines are said to be three early settlements.",
+    "Its motto means 'He who transplanted still sustains'."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "coat-of-arms", "shield", "plant", "text"],
+  "sources": [
+    { "title": "Flag of Connecticut (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Connecticut" },
+    { "title": "Connecticut (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ct.html" }
+  ]
+}

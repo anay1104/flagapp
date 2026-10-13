@@ -1,0 +1,49 @@
+{
+  "id": "texas",
+  "wikidata": "Q1439",
+  "image": "Flag of Texas.svg",
+  "name": "Texas",
+  "flagName": "Flag of Texas",
+  "nickname": "The Lone Star Flag",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1839,
+  "to": null,
+  "adopted": "1839-01-25",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A blue vertical band at the hoist with a white five-pointed star, beside white over red horizontal bands. Adopted by the Republic of Texas in 1839, it has flown over Texas as a republic and as a state.",
+  "origin": [
+    "Texas declared independence from Mexico in 1836. The Republic of Texas first used a blue flag with a gold star (the Burnet flag), then adopted the Lone Star flag on 25 January 1839.",
+    "When Texas joined the US in 1845 the flag became the state flag. Its design is often credited to Senator William Wharton or to Peter Krag, the draftsman whose drawing was signed by President Mirabeau Lamar."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "Loyalty.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "Bravery.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Lone star", "description": "A white star in the blue band.", "meaning": "Texas's independence as a republic, and unity as one for God, state and country.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1836, "to": 1839, "label": "Burnet flag", "note": "Blue with a gold star." },
+    { "from": 1839, "to": 1845, "label": "Republic of Texas" },
+    { "from": 1845, "to": null, "label": "State of Texas" }
+  ],
+  "facts": [
+    "A popular myth says Texas may fly its flag at the same height as the US flag because it was a republic; in fact any state may.",
+    "The Texas pledge to the flag is recited in schools.",
+    "Chile's flag is often confused with it; Chile's star is in a canton."
+  ],
+  "clues": [
+    "A blue hoist band with a white star, beside white over red.",
+    "It flew over an independent republic from 1839 to 1845.",
+    "A South American flag is often mixed up with it."
+  ],
+  "lookalikes": ["chile", "north-carolina", "cuba"],
+  "tags": ["horizontal-bicolour", "star"],
+  "sources": [
+    { "title": "Flag of Texas (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Texas" },
+    { "title": "Texas (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-tx.html" }
+  ]
+}

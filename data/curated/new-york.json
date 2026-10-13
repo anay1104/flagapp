@@ -1,0 +1,47 @@
+{
+  "id": "new-york",
+  "wikidata": "Q1384",
+  "image": "Flag of New York.svg",
+  "name": "New York",
+  "flagName": "Flag of New York",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2020,
+  "to": null,
+  "adopted": "1901-04-02",
+  "ratio": "1:2",
+  "country": "United States",
+  "summary": "The state coat of arms on dark blue: Liberty and Justice flanking a shield showing the sun rising over the Hudson River, with an eagle on a globe above and the motto 'Excelsior' (Ever upward).",
+  "origin": [
+    "The arms date from 1778, and the flag in its current form was adopted in 1901. In 2020 the seal was updated to add 'E Pluribus Unum' beneath the shield."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#002868", "family": "blue", "meaning": "From Continental Army uniforms.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The sun and details.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Liberty and Justice", "description": "Liberty with a Phrygian cap and a crown at her feet; Justice blindfolded with scales and sword.", "meaning": "Freedom from British rule (the discarded crown) and impartial law.", "basis": "official" },
+    { "name": "Sun over the Hudson", "description": "A sun rising behind mountains over a river with sailing ships.", "meaning": "Commerce on the Hudson River.", "basis": "official" },
+    { "name": "Eagle on a globe", "description": "An eagle on a globe showing the Atlantic.", "meaning": "New York's place in the world.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1901, "to": 2020, "label": "Coat of arms flag" },
+    { "from": 2020, "to": null, "label": "E Pluribus Unum added" }
+  ],
+  "facts": [
+    "'Excelsior' is New York's motto, meaning 'Ever upward'.",
+    "New York City has its own blue, white and orange flag based on Dutch colours.",
+    "The crown at Liberty's feet represents independence from Britain."
+  ],
+  "clues": [
+    "A coat of arms with Liberty and Justice and a sun rising over a river, on blue.",
+    "Its motto means 'Ever upward'.",
+    "A crown lies discarded at one figure's feet."
+  ],
+  "lookalikes": ["new-jersey", "pennsylvania"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "eagle", "bird", "sun", "water", "mountain", "crown", "text"],
+  "sources": [
+    { "title": "Flag of New York (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_New_York" },
+    { "title": "New York (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ny.html" }
+  ]
+}

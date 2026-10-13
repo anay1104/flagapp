@@ -1,0 +1,45 @@
+{
+  "id": "michigan",
+  "wikidata": "Q1166",
+  "image": "Flag of Michigan.svg",
+  "name": "Michigan",
+  "flagName": "Flag of Michigan",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1911,
+  "to": null,
+  "adopted": "1911-04-25",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "The state coat of arms on dark blue: an elk and a moose supporting a shield showing a man on a peninsula by a lake at sunrise, with a bald eagle above. It carries three Latin mottoes.",
+  "origin": [
+    "Lewis Cass, territorial governor, designed the coat of arms in 1835. The flag with the arms was adopted on 25 April 1911; an earlier state flag from 1865 also displayed the arms."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Elk and moose", "description": "Supporting the shield.", "meaning": "Michigan's wildlife.", "basis": "official" },
+    { "name": "Man on the shore", "description": "A man holding a long gun, raising his right hand, beside a lake at sunrise.", "meaning": "Peace (raised hand) and the readiness to defend the state; the motto 'Tuebor' (I will defend).", "basis": "official" },
+    { "name": "Three mottoes", "description": "'E Pluribus Unum', 'Tuebor' and 'Si quaeris peninsulam amoenam circumspice'.", "meaning": "'If you seek a pleasant peninsula, look about you.'", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1911, "to": null, "label": "State of Michigan" }
+  ],
+  "facts": [
+    "It is one of the few flags with three mottoes.",
+    "The state motto refers to Michigan's two peninsulas.",
+    "Michigan legislators have proposed redesigns in recent years."
+  ],
+  "clues": [
+    "A coat of arms on blue with an elk and a moose supporting a shield, and an eagle above.",
+    "Its motto invites you to look around for a pleasant peninsula.",
+    "It carries three Latin mottoes."
+  ],
+  "lookalikes": ["maine", "vermont"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "animal", "eagle", "bird", "weapon", "sun", "water", "text"],
+  "sources": [
+    { "title": "Flag of Michigan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Michigan" },
+    { "title": "Michigan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-mi.html" }
+  ]
+}

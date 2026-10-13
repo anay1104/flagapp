@@ -1,0 +1,48 @@
+{
+  "id": "maryland",
+  "wikidata": "Q1391",
+  "image": "Flag of Maryland.svg",
+  "name": "Maryland",
+  "flagName": "Flag of Maryland",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1904,
+  "to": null,
+  "adopted": "1904-03-09",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "Quartered with the arms of the Calvert family (gold and black vertical stripes with a counterchanged diagonal) and the Crossland family (red and white quartered with a cross bottony). It is the only US state flag based on English heraldry.",
+  "origin": [
+    "George Calvert, 1st Baron Baltimore, founded the colony of Maryland; his arms combined his father's Calvert arms and his mother's Crossland arms. The banner was used in the colonial period.",
+    "After the Civil War, the Calvert colours had been associated with Unionists and the Crossland colours with Confederate sympathisers; combining them symbolised reconciliation. The flag was adopted officially in 1904."
+  ],
+  "colors": [
+    { "name": "Gold", "hex": "#E8A80E", "family": "yellow", "meaning": "The Calvert arms.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The Calvert arms.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The Crossland arms.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Crossland arms.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Calvert quarters", "description": "Six vertical gold and black stripes with a diagonal band, counterchanged.", "meaning": "The paternal family of the Lords Baltimore.", "basis": "official" },
+    { "name": "Crossland quarters", "description": "Quartered red and white with a cross bottony counterchanged.", "meaning": "The maternal family of George Calvert.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1904, "to": null, "label": "State of Maryland" }
+  ],
+  "facts": [
+    "It is the only US state flag based on English heraldry.",
+    "The design is hugely popular in Maryland, on clothing, food packaging and tattoos.",
+    "The official flagpole finial is a gold cross bottony."
+  ],
+  "clues": [
+    "Quarters of black-and-gold stripes and red-and-white crosses.",
+    "The only US state flag based on the arms of English noble families.",
+    "Its two halves once stood for opposing Civil War sympathies."
+  ],
+  "lookalikes": [],
+  "tags": ["quartered", "coat-of-arms", "cross", "diagonal", "monarchy"],
+  "sources": [
+    { "title": "Flag of Maryland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Maryland" },
+    { "title": "Maryland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-md.html" }
+  ]
+}

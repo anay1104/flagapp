@@ -1,0 +1,47 @@
+{
+  "id": "tennessee",
+  "wikidata": "Q1509",
+  "image": "Flag of Tennessee.svg",
+  "name": "Tennessee",
+  "flagName": "Flag of Tennessee",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1905,
+  "to": null,
+  "adopted": "1905-04-17",
+  "ratio": "3:5",
+  "designer": "LeRoy Reeves",
+  "country": "United States",
+  "summary": "A red field with a blue disc edged in white containing three white stars, and a narrow blue vertical bar at the fly. Designed by Colonel LeRoy Reeves of the 3rd Tennessee Infantry.",
+  "origin": [
+    "LeRoy Reeves, an officer in the Tennessee National Guard, designed the flag; it was adopted on 17 April 1905."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars and border.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Three stars", "description": "White stars in a blue disc.", "meaning": "The three Grand Divisions of Tennessee: East, Middle and West, bound together by the circle.", "basis": "official" },
+    { "name": "Blue bar", "description": "A narrow vertical bar at the fly.", "meaning": "Reeves explained it as a finishing touch so the flag would not look too red when hanging limp.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1905, "to": null, "label": "State of Tennessee" }
+  ],
+  "facts": [
+    "The three Grand Divisions are legally recognised regions of the state.",
+    "The blue bar was added so the flag would look less like a plain red flag when hanging.",
+    "It ranks among the better-designed US state flags in surveys."
+  ],
+  "clues": [
+    "Red with a blue disc containing three white stars and a narrow blue bar at the fly.",
+    "Its three stars stand for three Grand Divisions.",
+    "Its fly bar was added so it would not look too red when limp."
+  ],
+  "lookalikes": [],
+  "tags": ["disc", "star", "vertical-stripes"],
+  "sources": [
+    { "title": "Flag of Tennessee (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tennessee" },
+    { "title": "Tennessee (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-tn.html" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "massachusetts",
+  "wikidata": "Q771",
+  "image": "Flag of Massachusetts.svg",
+  "name": "Massachusetts",
+  "flagName": "Flag of Massachusetts",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1971,
+  "to": null,
+  "adopted": "1908-03-18",
+  "ratio": "3:5",
+  "country": "United States",
+  "summary": "A white field with the state arms: a Native American with a bow and arrow on a blue shield, a white star, and an arm holding a broadsword above. The design has been under review by a state commission since 2021.",
+  "origin": [
+    "The flag was adopted in 1908 with the arms on one side and a pine tree on the reverse; since 1971 both sides show the arms.",
+    "The arms have been criticised as offensive to Native Americans, particularly the sword raised above the figure. In 2021 the legislature created a commission to recommend a new seal and motto; it presented its recommendations in 2024."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "official" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The shield.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The figure and ribbon.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Algonquian figure", "description": "A Native American holding a bow and an arrow pointed down.", "meaning": "Peace; the arrow pointing down signals peaceful intent.", "basis": "official" },
+    { "name": "Star", "description": "A white star.", "meaning": "Massachusetts as one of the original thirteen states.", "basis": "official" },
+    { "name": "Arm and sword", "description": "An arm holding a broadsword above the shield.", "meaning": "The motto 'Ense petit placidam sub libertate quietem': By the sword we seek peace, but peace only under liberty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1908, "to": 1971, "label": "Arms on the front, pine tree on the reverse" },
+    { "from": 1971, "to": null, "label": "Arms on both sides" }
+  ],
+  "facts": [
+    "A state commission has recommended replacing the seal, which would change the flag.",
+    "The motto comes from a line attributed to Algernon Sidney.",
+    "Massachusetts's naval ensign shows a green pine tree on white."
+  ],
+  "clues": [
+    "A white flag with a blue shield showing a Native American and an arm with a sword above.",
+    "Its arms are under review after criticism by Native groups.",
+    "Its Latin motto speaks of seeking peace by the sword."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "coat-of-arms", "shield", "weapon", "star", "text"],
+  "sources": [
+    { "title": "Flag of Massachusetts (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Massachusetts" },
+    { "title": "Massachusetts (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ma.html" }
+  ]
+}

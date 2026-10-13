@@ -1,0 +1,46 @@
+{
+  "id": "indiana",
+  "wikidata": "Q1415",
+  "image": "Flag of Indiana.svg",
+  "name": "Indiana",
+  "flagName": "Flag of Indiana",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1917,
+  "to": null,
+  "adopted": "1917-05-31",
+  "ratio": "2:3",
+  "designer": "Paul Hadley",
+  "country": "United States",
+  "summary": "A gold torch on a blue field surrounded by nineteen gold stars, with the word 'INDIANA' above. Designed by Paul Hadley for the state centennial in 1916.",
+  "origin": [
+    "The Daughters of the American Revolution held a contest for the 1916 centennial. Paul Hadley's design was adopted by the General Assembly in 1917; the name was added above the torch in 1955."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The torch and stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Torch", "description": "A gold torch with rays.", "meaning": "Liberty and enlightenment; the rays show its far-reaching influence.", "basis": "official" },
+    { "name": "Nineteen stars", "description": "An outer circle of 13, an inner arc of five, and one large star above the torch.", "meaning": "The thirteen original states, the next five, and Indiana as the 19th state.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1917, "to": null, "label": "State of Indiana", "note": "Name added in 1955." }
+  ],
+  "facts": [
+    "The large star above the torch represents Indiana.",
+    "Paul Hadley was paid $100 for his design.",
+    "It is regularly ranked in the top half of state flag designs."
+  ],
+  "clues": [
+    "A gold torch on blue surrounded by nineteen gold stars.",
+    "Its largest star marks the 19th state.",
+    "Designed for a state centennial in 1916."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "star", "text"],
+  "sources": [
+    { "title": "Flag of Indiana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Indiana" },
+    { "title": "Indiana (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-in.html" }
+  ]
+}

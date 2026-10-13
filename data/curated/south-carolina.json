@@ -1,0 +1,47 @@
+{
+  "id": "south-carolina",
+  "wikidata": "Q1456",
+  "image": "Flag of South Carolina.svg",
+  "name": "South Carolina",
+  "flagName": "Flag of South Carolina",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1861,
+  "to": null,
+  "adopted": "1861-01-28",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A white palmetto tree and a white crescent on indigo blue. The crescent comes from the 1775 Moultrie flag, and the palmetto honours the fort of palmetto logs that withstood a British attack in 1776.",
+  "origin": [
+    "In 1775 Colonel William Moultrie designed a blue flag with a crescent for South Carolina troops; the blue matched their uniforms and the crescent their cap badges.",
+    "On 28 June 1776 the palmetto-log fort on Sullivan's Island withstood a British naval bombardment, as the soft wood absorbed cannonballs. The palmetto was added to the flag in 1861."
+  ],
+  "colors": [
+    { "name": "Indigo blue", "hex": "#002B67", "family": "blue", "meaning": "The uniforms of South Carolina's Revolutionary troops; also indigo, a colonial cash crop.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The palmetto and crescent.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Palmetto tree", "description": "A sabal palmetto.", "meaning": "The defence of Fort Moultrie in 1776.", "basis": "official" },
+    { "name": "Crescent", "description": "A white crescent in the upper hoist.", "meaning": "From the silver crescents on the soldiers' caps; sometimes interpreted as a gorget, an officer's neck armour.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1775, "to": 1861, "label": "Moultrie flag", "note": "Blue with a crescent." },
+    { "from": 1861, "to": null, "label": "Palmetto flag" }
+  ],
+  "facts": [
+    "Palmetto Day, 28 June, commemorates the 1776 battle.",
+    "A 2023 committee proposed standardising the palmetto design, after many versions appeared on merchandise.",
+    "The flag is one of the most widely used on clothing in the US."
+  ],
+  "clues": [
+    "A white palmetto tree and crescent on indigo blue.",
+    "Its tree honours a fort whose logs absorbed cannonballs.",
+    "Its crescent comes from soldiers' cap badges in 1775."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "plant", "crescent"],
+  "sources": [
+    { "title": "Flag of South Carolina (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Carolina" },
+    { "title": "South Carolina (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-sc.html" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "maine",
+  "wikidata": "Q724",
+  "image": "Flag of Maine.svg",
+  "name": "Maine",
+  "flagName": "Flag of Maine",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1909,
+  "to": null,
+  "adopted": "1909-02-23",
+  "ratio": "26:33",
+  "country": "United States",
+  "summary": "The state coat of arms on blue: a farmer and a sailor flanking a shield with a moose under a pine tree, beneath the North Star and the motto 'Dirigo' (I lead). In 2024 voters rejected restoring the simpler 1901 pine tree flag.",
+  "origin": [
+    "Maine's first state flag (1901–1909) was a buff field with a green pine tree and a blue star. It was replaced in 1909 by the coat-of-arms design. A 2024 referendum to restore the 1901 flag was rejected by voters."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field, matching the US flag.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The pine tree.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Farmer and sailor", "description": "A farmer with a scythe and a sailor with an anchor.", "meaning": "Agriculture and seafaring, Maine's traditional industries.", "basis": "official" },
+    { "name": "Moose and pine", "description": "A moose under a white pine on the shield.", "meaning": "Maine's forests and wildlife; the 'Pine Tree State'.", "basis": "official" },
+    { "name": "North Star and 'Dirigo'", "description": "A star above the shield and the motto 'I lead'.", "meaning": "Maine as the northernmost state at the time of its admission.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1901, "to": 1909, "label": "Pine tree flag", "note": "Buff with a pine and a star." },
+    { "from": 1909, "to": null, "label": "Coat of arms flag" }
+  ],
+  "facts": [
+    "The 1901 pine tree flag became popular again in the 2010s on merchandise.",
+    "Voters rejected switching to it in November 2024.",
+    "'Dirigo' means 'I lead' or 'I direct'."
+  ],
+  "clues": [
+    "A coat of arms on blue with a farmer, a sailor, a moose and a pine tree.",
+    "Its motto means 'I lead'.",
+    "Voters chose to keep it over a simpler pine tree design in 2024."
+  ],
+  "lookalikes": ["michigan", "vermont"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "animal", "plant", "star", "text"],
+  "sources": [
+    { "title": "Flag of Maine (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Maine" },
+    { "title": "Maine (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-me.html" }
+  ]
+}

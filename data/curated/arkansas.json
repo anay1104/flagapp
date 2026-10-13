@@ -1,0 +1,50 @@
+{
+  "id": "arkansas",
+  "wikidata": "Q1612",
+  "image": "Flag of Arkansas.svg",
+  "name": "Arkansas",
+  "flagName": "Flag of Arkansas",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1924,
+  "to": null,
+  "adopted": "1913-02-26",
+  "ratio": "2:3",
+  "designer": "Willie Kavanaugh Hocker",
+  "country": "United States",
+  "summary": "A red field with a white diamond bordered in blue, containing four blue stars and the word 'ARKANSAS', with 25 white stars in the border. Designed by Willie Hocker for the Daughters of the American Revolution in 1913.",
+  "origin": [
+    "Willie Hocker, a schoolteacher, won a 1912 contest held by the Daughters of the American Revolution. The legislature adopted the flag in 1913. A fourth star for the Confederacy was added in 1923, and the stars were rearranged in 1924."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the US flag.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "From the US flag.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Diamond", "description": "A white diamond in the centre.", "meaning": "Arkansas as the only US state producing diamonds.", "basis": "official" },
+    { "name": "Twenty-five stars", "description": "White stars in the blue border.", "meaning": "Arkansas as the 25th state.", "basis": "official" },
+    { "name": "Three lower stars", "description": "Blue stars below the name.", "meaning": "The three nations that ruled the area: Spain, France and the US; also 1803 (Louisiana Purchase) and Arkansas as the third state from it.", "basis": "official" },
+    { "name": "Upper star", "description": "A blue star above the name.", "meaning": "The Confederate States of America.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1913, "to": 1923, "label": "Three stars" },
+    { "from": 1923, "to": 1924, "label": "Confederacy star added" },
+    { "from": 1924, "to": null, "label": "Stars rearranged" }
+  ],
+  "facts": [
+    "Crater of Diamonds State Park lets visitors dig for diamonds.",
+    "Its design echoes the Confederate battle flag's colours and star border."
+  ],
+  "clues": [
+    "A white diamond with blue stars and the state name, on red with a star border.",
+    "Its diamond shape refers to a precious stone mined in the state.",
+    "Its 25 stars show it was the 25th state."
+  ],
+  "lookalikes": [],
+  "tags": ["border", "star", "text"],
+  "sources": [
+    { "title": "Flag of Arkansas (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Arkansas" },
+    { "title": "Arkansas (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ar.html" }
+  ]
+}

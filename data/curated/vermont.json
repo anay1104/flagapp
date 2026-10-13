@@ -1,0 +1,48 @@
+{
+  "id": "vermont",
+  "wikidata": "Q16551",
+  "image": "Flag of Vermont.svg",
+  "name": "Vermont",
+  "flagName": "Flag of Vermont",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1923,
+  "to": null,
+  "adopted": "1923-06-01",
+  "ratio": "3:5",
+  "country": "United States",
+  "summary": "The state coat of arms on blue: a pine tree, a cow and sheaves of wheat in front of the Green Mountains, with a stag's head crest and the motto 'Freedom and Unity'.",
+  "origin": [
+    "Vermont's earlier flags followed the US flag with stripes. The coat-of-arms flag was adopted on 1 June 1923. Before joining the US in 1791, Vermont was an independent republic (1777–1791)."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The mountains and pine.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Pine tree", "description": "A tall white pine.", "meaning": "Vermont's forests.", "basis": "official" },
+    { "name": "Cow and wheat", "description": "A cow and three sheaves of wheat.", "meaning": "Agriculture and dairy farming.", "basis": "official" },
+    { "name": "Stag's head", "description": "The crest.", "meaning": "Wildlife.", "basis": "official" },
+    { "name": "Pine branches", "description": "Branches around the shield.", "meaning": "The Vermonters who wore pine sprigs at the Battle of Plattsburgh in 1814.", "basis": "official" }
+  ],
+  "history": [
+    { "from": null, "to": 1923, "label": "Stripes flag", "note": "US-style stripes with the arms in the canton." },
+    { "from": 1923, "to": null, "label": "Coat of arms flag" }
+  ],
+  "facts": [
+    "The Green Mountain Boys flag, green with a blue canton of 13 stars, is also widely flown.",
+    "Vermont was an independent republic from 1777 to 1791.",
+    "The motto 'Freedom and Unity' balances individual liberty and common good."
+  ],
+  "clues": [
+    "A coat of arms with a pine, a cow and wheat in front of green mountains, on blue.",
+    "Its motto is 'Freedom and Unity'.",
+    "Its state was an independent republic before joining the Union in 1791."
+  ],
+  "lookalikes": ["maine", "michigan", "new-hampshire"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "animal", "plant", "mountain", "text"],
+  "sources": [
+    { "title": "Flag of Vermont (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Vermont" },
+    { "title": "Vermont (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-vt.html" }
+  ]
+}

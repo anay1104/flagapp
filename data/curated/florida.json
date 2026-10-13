@@ -1,0 +1,49 @@
+{
+  "id": "florida",
+  "wikidata": "Q812",
+  "image": "Flag of Florida.svg",
+  "name": "Florida",
+  "flagName": "Flag of Florida",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "adopted": "1900-11-06",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A red saltire on white with the state seal in the centre: a Seminole woman scattering flowers, a sabal palm, a steamboat and a rising sun. The red saltire was added in 1900.",
+  "origin": [
+    "From 1868 Florida's flag was the seal on a white field. Governor Francis P. Fleming proposed adding the red saltire so the flag would not look like a white flag of surrender; voters approved it in 1900.",
+    "The seal was revised in 1985, correcting the woman's dress to Seminole style and replacing a cocoa tree with a sabal palm."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "The saltire; no meaning set in law.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Seminole woman", "description": "A woman scattering hibiscus flowers.", "meaning": "Florida's Native American heritage.", "basis": "official" },
+    { "name": "Sabal palm", "description": "The state tree, beside the woman.", "meaning": "Florida's natural landscape.", "basis": "official" },
+    { "name": "Steamboat and sun", "description": "A steamboat sailing under a rising sun.", "meaning": "Commerce and the 'Sunshine State'; the motto 'In God We Trust'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1868, "to": 1900, "label": "Seal on white" },
+    { "from": 1900, "to": 1985, "label": "Red saltire added" },
+    { "from": 1985, "to": null, "label": "Seal revised" }
+  ],
+  "facts": [
+    "The saltire was partly added so the flag would not look like a flag of surrender when hanging limp.",
+    "Alabama's flag has the same saltire without the seal.",
+    "Florida was under Spanish, British and French flags before joining the US."
+  ],
+  "clues": [
+    "A red saltire on white with a seal showing a woman, a palm and a steamboat.",
+    "Its saltire was added so it would not look like a surrender flag.",
+    "Its neighbour's flag is the same saltire without a seal."
+  ],
+  "lookalikes": ["alabama", "jersey"],
+  "tags": ["saltire", "emblem", "plant", "sun", "water", "text"],
+  "sources": [
+    { "title": "Flag of Florida (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Florida" },
+    { "title": "Florida (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-fl.html" }
+  ]
+}

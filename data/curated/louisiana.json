@@ -1,0 +1,48 @@
+{
+  "id": "louisiana",
+  "wikidata": "Q1588",
+  "image": "Flag of Louisiana.svg",
+  "name": "Louisiana",
+  "flagName": "Flag of Louisiana",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2006,
+  "to": null,
+  "adopted": "1912-07-01",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A white mother pelican feeding three chicks in a nest, on a blue field, with the motto 'Union Justice Confidence'. Three drops of blood on the pelican's breast were added in 2006.",
+  "origin": [
+    "The pelican has been a Louisiana symbol since the 19th century. The flag was adopted in 1912. In 2006 a high-school student pointed out that the traditional 'pelican in her piety' should show blood, and the drops were restored."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002A86", "family": "blue", "meaning": "The field; truth.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The pelican.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The drops of blood.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Pelican in her piety", "description": "A mother pelican wounding her breast to feed her chicks with her blood.", "meaning": "Self-sacrifice and the state's care for its people; a Christian symbol from medieval tradition.", "basis": "traditional" },
+    { "name": "Three chicks", "description": "Young pelicans in a nest.", "meaning": "The people of Louisiana.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1861, "to": 1861, "label": "Republic of Louisiana" },
+    { "from": 1912, "to": 2006, "label": "Pelican flag" },
+    { "from": 2006, "to": null, "label": "Drops of blood added" }
+  ],
+  "facts": [
+    "The brown pelican is the state bird; Louisiana is the 'Pelican State'.",
+    "The 'pelican in her piety' comes from a medieval legend that pelicans feed their young with their own blood.",
+    "The redesign was prompted by a high-school student."
+  ],
+  "clues": [
+    "A white pelican feeding three chicks on blue.",
+    "Drops of blood were added to it in 2006.",
+    "Its bird comes from a medieval symbol of self-sacrifice."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "bird", "text", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Louisiana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Louisiana" },
+    { "title": "Louisiana (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-la.html" }
+  ]
+}

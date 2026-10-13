@@ -1,0 +1,47 @@
+{
+  "id": "pennsylvania",
+  "wikidata": "Q1400",
+  "image": "Flag of Pennsylvania.svg",
+  "name": "Pennsylvania",
+  "flagName": "Flag of Pennsylvania",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1907,
+  "to": null,
+  "adopted": "1907-06-13",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "The state coat of arms on blue: two black horses supporting a shield with a ship, a plough and three sheaves of wheat, under a bald eagle, with the motto 'Virtue, Liberty and Independence'.",
+  "origin": [
+    "The coat of arms was designed in 1778 by Caleb Lownes. A 1907 law standardised the flag with the arms on a blue field matching the US flag."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The same blue as the US flag.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The sheaves and details.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Ship", "description": "A sailing ship at the top of the shield.", "meaning": "Commerce.", "basis": "official" },
+    { "name": "Plough and wheat", "description": "A plough and three sheaves of wheat.", "meaning": "Agriculture.", "basis": "official" },
+    { "name": "Horses", "description": "Two black draft horses.", "meaning": "Strength; the cornstalk and olive branch beneath them stand for prosperity and peace.", "basis": "official" },
+    { "name": "Eagle", "description": "A bald eagle as crest.", "meaning": "The United States.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1907, "to": null, "label": "Commonwealth of Pennsylvania" }
+  ],
+  "facts": [
+    "Pennsylvania is one of four US states officially called a Commonwealth.",
+    "The Declaration of Independence and Constitution were both signed in Philadelphia.",
+    "Its arms appear on the state's licence plates and seal."
+  ],
+  "clues": [
+    "Two black horses supporting a shield with a ship, a plough and wheat, under an eagle, on blue.",
+    "Its motto is 'Virtue, Liberty and Independence'.",
+    "Its arms were designed in 1778."
+  ],
+  "lookalikes": ["new-york", "new-jersey"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "animal", "eagle", "bird", "tool", "plant", "water", "text"],
+  "sources": [
+    { "title": "Flag of Pennsylvania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania" },
+    { "title": "Pennsylvania (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-pa.html" }
+  ]
+}

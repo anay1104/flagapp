@@ -1,0 +1,46 @@
+{
+  "id": "alabama",
+  "wikidata": "Q173",
+  "image": "Flag of Alabama.svg",
+  "name": "Alabama",
+  "flagName": "Flag of Alabama",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1895,
+  "to": null,
+  "adopted": "1895-02-16",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A crimson saltire, the cross of Saint Andrew, on a white field. Adopted in 1895, it was intended by its sponsor to preserve elements of the Confederate battle flag.",
+  "origin": [
+    "The state legislature adopted the flag on 16 February 1895. The bill's sponsor, John W. A. Sanford Jr., stated that the design was meant to preserve the most distinctive feature of the Confederate battle flag, its saltire.",
+    "Some historians also connect the design to the cross of Saint Andrew used on Spanish colonial flags such as the Cross of Burgundy, which flew over parts of Alabama."
+  ],
+  "colors": [
+    { "name": "Crimson", "hex": "#B22234", "family": "red", "meaning": "No meaning set in law.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "No meaning set in law.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Saltire", "description": "A crimson diagonal cross at least six inches wide.", "meaning": "Commonly linked to the Confederate battle flag; also to the Spanish Cross of Burgundy.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1861, "to": 1861, "label": "Republic of Alabama secession flag" },
+    { "from": 1895, "to": null, "label": "Crimson saltire" }
+  ],
+  "facts": [
+    "The law requires the saltire's bars to be at least six inches wide.",
+    "Florida's flag also has a red saltire on white, with the state seal.",
+    "Jersey's flag is similar, with a coat of arms in the upper arm."
+  ],
+  "clues": [
+    "A crimson diagonal cross on a white field, nothing else.",
+    "Its sponsor wanted to preserve a feature of a Civil War battle flag.",
+    "A southern neighbour's flag adds a seal to the same design."
+  ],
+  "lookalikes": ["florida", "jersey"],
+  "tags": ["saltire"],
+  "sources": [
+    { "title": "Flag of Alabama (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Alabama" },
+    { "title": "Alabama (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-al.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "kentucky",
+  "wikidata": "Q1603",
+  "image": "Flag of Kentucky.svg",
+  "name": "Kentucky",
+  "flagName": "Flag of Kentucky",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1918,
+  "to": null,
+  "adopted": "1918-03-26",
+  "ratio": "10:19",
+  "country": "United States",
+  "summary": "The state seal on navy blue: a frontiersman in buckskin and a statesman in a frock coat shaking hands, with the motto 'United we stand, divided we fall', inside a wreath of goldenrod.",
+  "origin": [
+    "The General Assembly adopted the flag on 26 March 1918. The seal dates from 1792, Kentucky's statehood; the motto comes from 'The Liberty Song' of 1768."
+  ],
+  "colors": [
+    { "name": "Navy blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The goldenrod and lettering.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Two men shaking hands", "description": "A frontiersman and a statesman.", "meaning": "Unity; commonly identified as Daniel Boone and Henry Clay, though officially they represent all frontiersmen and statesmen.", "basis": "traditional" },
+    { "name": "Goldenrod", "description": "A wreath of the state flower.", "meaning": "Kentucky's state flower.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1918, "to": null, "label": "Commonwealth of Kentucky" }
+  ],
+  "facts": [
+    "The men are popularly identified as Daniel Boone and Henry Clay.",
+    "Kentucky is officially a Commonwealth.",
+    "The motto was also used on Kentucky's earliest seal of 1792."
+  ],
+  "clues": [
+    "A seal on navy blue with two men shaking hands, ringed by goldenrod.",
+    "Its motto is 'United we stand, divided we fall'.",
+    "Its two figures are often said to be a frontiersman and a famous senator."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "emblem", "plant", "text"],
+  "sources": [
+    { "title": "Flag of Kentucky (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kentucky" },
+    { "title": "Kentucky (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-ky.html" }
+  ]
+}

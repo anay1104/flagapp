@@ -1,0 +1,47 @@
+{
+  "id": "new-hampshire",
+  "wikidata": "Q759",
+  "image": "Flag of New Hampshire.svg",
+  "name": "New Hampshire",
+  "flagName": "Flag of New Hampshire",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1931,
+  "to": null,
+  "adopted": "1909-02-24",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "The state seal on blue, surrounded by laurel leaves and nine stars. The seal shows the frigate Raleigh being built in Portsmouth in 1776, and the date 1776.",
+  "origin": [
+    "The flag was adopted in 1909. The seal was revised in 1931, removing an anchor and other details and fixing the rising sun and the ship's image."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The laurel and stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Frigate Raleigh", "description": "A ship on the stocks in Portsmouth harbour, with a rising sun behind.", "meaning": "One of the first warships of the Continental Navy, built in New Hampshire in 1776.", "basis": "official" },
+    { "name": "Nine stars", "description": "Gold stars around the seal.", "meaning": "New Hampshire as the ninth state to ratify the Constitution.", "basis": "official" },
+    { "name": "Laurel", "description": "A wreath of laurel leaves.", "meaning": "Fame.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1909, "to": 1931, "label": "Original seal" },
+    { "from": 1931, "to": null, "label": "Revised seal" }
+  ],
+  "facts": [
+    "Its ratification of the Constitution in 1788 was the ninth, making the Constitution take effect.",
+    "The state motto 'Live Free or Die' is not on the flag.",
+    "It is often ranked low in state flag design surveys."
+  ],
+  "clues": [
+    "A seal showing a ship under construction, ringed by laurel and nine stars on blue.",
+    "Its nine stars mark the ninth state to ratify the Constitution.",
+    "Its ship is a Revolutionary War frigate."
+  ],
+  "lookalikes": ["vermont", "maine"],
+  "tags": ["plain-field", "emblem", "plant", "star", "water", "sun"],
+  "sources": [
+    { "title": "Flag of New Hampshire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_New_Hampshire" },
+    { "title": "New Hampshire (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-nh.html" }
+  ]
+}

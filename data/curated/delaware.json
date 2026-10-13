@@ -1,0 +1,45 @@
+{
+  "id": "delaware",
+  "wikidata": "Q1393",
+  "image": "Flag of Delaware.svg",
+  "name": "Delaware",
+  "flagName": "Flag of Delaware",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1913,
+  "to": null,
+  "adopted": "1913-07-24",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "A colonial blue field with a buff diamond containing the state coat of arms, and the date 'December 7, 1787' below, the day Delaware became the first state to ratify the US Constitution.",
+  "origin": [
+    "The flag was adopted on 24 July 1913. Its colours of colonial blue and buff were those of George Washington's Continental Army uniform."
+  ],
+  "colors": [
+    { "name": "Colonial blue", "hex": "#5C9EC4", "family": "light-blue", "meaning": "Continental Army uniforms.", "basis": "traditional" },
+    { "name": "Buff", "hex": "#E3CB9C", "family": "yellow", "meaning": "Continental Army uniforms.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Coat of arms", "description": "A farmer and a militiaman flanking a shield with wheat, corn and an ox, under a ship.", "meaning": "Agriculture, defence and maritime trade; the motto 'Liberty and Independence'.", "basis": "official" },
+    { "name": "Date", "description": "'DECEMBER 7, 1787' under the diamond.", "meaning": "Delaware's ratification of the Constitution, making it 'The First State'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1913, "to": null, "label": "State of Delaware" }
+  ],
+  "facts": [
+    "Delaware is nicknamed 'The First State'.",
+    "The farmer and militiaman represent the state's reliance on agriculture and its citizen soldiers.",
+    "Several state flags show dates; Delaware's marks the oldest statehood."
+  ],
+  "clues": [
+    "A light blue field with a buff diamond holding a coat of arms and the date 1787.",
+    "Its date marks the first state to ratify a constitution.",
+    "Its colours are those of a revolutionary army's uniforms."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "coat-of-arms", "text", "animal", "plant", "water"],
+  "sources": [
+    { "title": "Flag of Delaware (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Delaware" },
+    { "title": "Delaware (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/us-de.html" }
+  ]
+}
