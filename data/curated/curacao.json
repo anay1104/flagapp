@@ -1,0 +1,45 @@
+{
+  "id": "curacao",
+  "wikidata": "Q25279",
+  "name": "Curaçao",
+  "flagName": "Flag of Curaçao",
+  "category": "territory",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-07-02",
+  "ratio": "2:3",
+  "country": "Kingdom of the Netherlands",
+  "aliases": ["Curacao"],
+  "summary": "A blue field with a yellow horizontal stripe below the centre and two white five-pointed stars in the upper hoist. Adopted in 1984 after a competition with over 2,000 entries.",
+  "origin": [
+    "The island council adopted the flag on 2 July 1984, now Flag Day. Curaçao became a constituent country of the Kingdom of the Netherlands when the Netherlands Antilles dissolved in 2010."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002B7F", "family": "blue", "meaning": "The sky (upper) and the sea (lower).", "basis": "official" },
+    { "name": "Yellow", "hex": "#F9E814", "family": "yellow", "meaning": "The bright sun.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Two stars", "description": "White stars in the upper hoist.", "meaning": "Curaçao and its small neighbour Klein Curaçao; also love and happiness. The five points stand for the five continents from which its people come.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1984, "to": null, "label": "Curaçao" }
+  ],
+  "facts": [
+    "Flag Day is 2 July.",
+    "Klein Curaçao is an uninhabited island off the coast.",
+    "Its design is often compared with Aruba's."
+  ],
+  "clues": [
+    "Blue with a yellow stripe below the centre and two white stars.",
+    "Its two stars are a main island and a small uninhabited one.",
+    "Its blue is both sky and sea."
+  ],
+  "lookalikes": ["aruba"],
+  "tags": ["horizontal-stripes", "star"],
+  "sources": [
+    { "title": "Flag of Curaçao (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Cura%C3%A7ao" },
+    { "title": "Curaçao (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cw.html" }
+  ]
+}

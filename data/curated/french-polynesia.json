@@ -1,0 +1,46 @@
+{
+  "id": "french-polynesia",
+  "wikidata": "Q30971",
+  "name": "French Polynesia",
+  "flagName": "Flag of French Polynesia",
+  "category": "territory",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-11-23",
+  "ratio": "2:3",
+  "country": "France",
+  "summary": "Red, white and red horizontal bands, the white double, with a disc showing a Polynesian outrigger canoe with five figures, over a sun and ocean waves.",
+  "origin": [
+    "Red and white were the colours of the Kingdom of Tahiti's flag in the 19th century. The current flag was adopted on 23 November 1984, when French Polynesia gained internal autonomy."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "From the flag of the Kingdom of Tahiti.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the flag of the Kingdom of Tahiti.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFCE00", "family": "yellow", "meaning": "The sun.", "basis": "official" },
+    { "name": "Blue", "hex": "#003399", "family": "blue", "meaning": "The ocean.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Outrigger canoe", "description": "A red canoe with five figures.", "meaning": "The five archipelagos: Society Islands, Tuamotu, Gambier, Marquesas and Austral Islands.", "basis": "official" },
+    { "name": "Sun and waves", "description": "A gold sun with rays above blue and white waves.", "meaning": "Life, and the ocean that links the islands.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1984, "to": null, "label": "French Polynesia" }
+  ],
+  "facts": [
+    "The five figures in the canoe stand for the five archipelagos.",
+    "Tahiti, the largest island, is home to the capital, Papeete.",
+    "The flag is flown alongside the French tricolour."
+  ],
+  "clues": [
+    "Red and white bands with a canoe of five figures over a sun and waves.",
+    "Its five paddlers are five archipelagos.",
+    "Its red and white come from a 19th-century island kingdom."
+  ],
+  "lookalikes": ["new-caledonia", "austria"],
+  "tags": ["horizontal-stripes", "disc", "sun", "water"],
+  "sources": [
+    { "title": "Flag of French Polynesia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_French_Polynesia" },
+    { "title": "French Polynesia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pf.html" }
+  ]
+}

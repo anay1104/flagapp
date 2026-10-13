@@ -1,0 +1,43 @@
+{
+  "id": "wallis-and-futuna",
+  "wikidata": "Q35555",
+  "name": "Wallis and Futuna",
+  "flagName": "Flag of Wallis and Futuna",
+  "category": "territory",
+  "tier": 1,
+  "from": null,
+  "to": null,
+  "country": "France",
+  "ratio": "2:3",
+  "summary": "A red field with a French tricolour, edged in white, in the canton and a white cross pattée formed of four triangles in the centre. The flag is unofficial; officially the territory uses the French tricolour.",
+  "origin": [
+    "The red flag with the white saltire-like cross comes from the flag of the Kingdom of Uvea (Wallis), traditionally associated with the Lavelua, the king of Uvea. The French tricolour was added to the canton."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#ED2939", "family": "red", "meaning": "From the traditional flag of Uvea.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The central cross.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002395", "family": "blue", "meaning": "The French tricolour.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "White cross", "description": "Four white triangles meeting at a point, forming a cross pattée.", "meaning": "Christianity; from the flag of the Kingdom of Uvea.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": null, "to": null, "label": "Territorial flag", "note": "Unofficial; used alongside the tricolour." }
+  ],
+  "facts": [
+    "Wallis and Futuna still has three traditional kingdoms recognised by France: Uvea, Sigave and Alo.",
+    "It is the only French territory whose flag includes the tricolour in a canton.",
+    "It lies between Fiji and Samoa."
+  ],
+  "clues": [
+    "Red with a French tricolour in the canton and a white cross of four triangles.",
+    "Its territory contains three traditional kingdoms.",
+    "Its cross came from the flag of a Polynesian kingdom."
+  ],
+  "lookalikes": ["french-polynesia"],
+  "tags": ["canton", "cross", "religious-symbol", "former-colony"],
+  "sources": [
+    { "title": "Flag of Wallis and Futuna (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Wallis_and_Futuna" },
+    { "title": "Wallis and Futuna (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/wf.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hong-kong",
+  "wikidata": "Q8646",
+  "name": "Hong Kong",
+  "flagName": "Flag of Hong Kong",
+  "category": "territory",
+  "tier": 1,
+  "from": 1997,
+  "to": null,
+  "adopted": "1997-07-01",
+  "ratio": "2:3",
+  "country": "China",
+  "summary": "A red field with a white five-petalled Hong Kong orchid tree (Bauhinia × blakeana) flower, each petal bearing a red star. It was raised at the handover from Britain to China on 1 July 1997.",
+  "origin": [
+    "Under British rule Hong Kong used a blue ensign with its colonial badge. The current flag was selected by the Preparatory Committee for the Hong Kong Special Administrative Region in 1990 and adopted by the National People's Congress, to take effect at the handover in 1997."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#DE2910", "family": "red", "meaning": "The same red as the national flag of China, signifying the motherland.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The flower; with red, 'one country, two systems'.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Bauhinia flower", "description": "A stylised white Hong Kong orchid tree flower with five petals.", "meaning": "Hong Kong; the flower was discovered in Hong Kong and is its floral emblem.", "basis": "official" },
+    { "name": "Five red stars", "description": "One red star on each petal.", "meaning": "Echo the five stars of the national flag of China.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1959, "to": 1997, "label": "British Hong Kong", "note": "Blue ensign with the colonial coat of arms." },
+    { "from": 1997, "to": null, "label": "Hong Kong SAR" }
+  ],
+  "facts": [
+    "The Bauhinia × blakeana is a sterile hybrid, propagated only by cuttings.",
+    "Desecrating the flag is a criminal offence under Hong Kong law.",
+    "The colonial flag is still sometimes displayed at protests."
+  ],
+  "clues": [
+    "Red with a white five-petalled flower, each petal holding a red star.",
+    "Raised at a handover from Britain in 1997.",
+    "Its flower is a sterile hybrid first found in the territory."
+  ],
+  "lookalikes": ["macau", "china"],
+  "tags": ["plain-field", "plant", "star"],
+  "sources": [
+    { "title": "Flag of Hong Kong (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Hong_Kong" },
+    { "title": "Hong Kong (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/hk.html" }
+  ]
+}

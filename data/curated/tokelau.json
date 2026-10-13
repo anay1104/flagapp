@@ -1,0 +1,45 @@
+{
+  "id": "tokelau",
+  "wikidata": "Q36823",
+  "name": "Tokelau",
+  "flagName": "Flag of Tokelau",
+  "category": "territory",
+  "tier": 1,
+  "from": 2009,
+  "to": null,
+  "adopted": "2009-09-07",
+  "ratio": "1:2",
+  "country": "New Zealand",
+  "summary": "A dark blue field with a yellow Tokelauan canoe sailing toward the hoist and four white stars of the Southern Cross. Adopted in 2009, it was designed locally.",
+  "origin": [
+    "Tokelau, three atolls administered by New Zealand, used the New Zealand flag. The General Fono (council) adopted its own flag on 7 September 2009, after earlier proposals."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#00247D", "family": "blue", "meaning": "The ocean.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The canoe; also the three atolls' coral sand.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Canoe (vaka)", "description": "A yellow Tokelauan canoe with sail.", "meaning": "Tokelau's journey toward self-determination, carried by the people.", "basis": "official" },
+    { "name": "Southern Cross", "description": "Four white stars.", "meaning": "Navigation, and the guidance of the stars.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 2009, "to": null, "label": "Tokelau" }
+  ],
+  "facts": [
+    "Tokelau voted twice (2006 and 2007) on self-government in free association; both narrowly failed the required two-thirds.",
+    "Tokelau was among the first territories to be powered almost entirely by solar energy.",
+    "Its three atolls are Atafu, Nukunonu and Fakaofo."
+  ],
+  "clues": [
+    "Dark blue with a yellow canoe and four white stars.",
+    "Its canoe represents a journey toward self-determination.",
+    "Its three atolls voted twice on self-government."
+  ],
+  "lookalikes": ["new-zealand"],
+  "tags": ["water", "star", "southern-cross"],
+  "sources": [
+    { "title": "Flag of Tokelau (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tokelau" },
+    { "title": "Tokelau (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tk.html" }
+  ]
+}

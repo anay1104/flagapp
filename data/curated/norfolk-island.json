@@ -1,0 +1,43 @@
+{
+  "id": "norfolk-island",
+  "wikidata": "Q31057",
+  "name": "Norfolk Island",
+  "flagName": "Flag of Norfolk Island",
+  "category": "territory",
+  "tier": 1,
+  "from": 1980,
+  "to": null,
+  "adopted": "1980-06-15",
+  "ratio": "1:2",
+  "country": "Australia",
+  "summary": "Green, white and green vertical bands, the white wider, with a green Norfolk Island pine in the centre. The tree is the island's emblem.",
+  "origin": [
+    "The flag was adopted on 15 June 1980, during the period of self-government granted by Australia in 1979."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#009A44", "family": "green", "meaning": "The island's vegetation.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The background of the tree.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Norfolk Island pine", "description": "A tall, symmetrical green pine (Araucaria heterophylla).", "meaning": "The island's native tree and emblem.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1980, "to": null, "label": "Norfolk Island" }
+  ],
+  "facts": [
+    "Many islanders descend from the Bounty mutineers who moved from Pitcairn in 1856.",
+    "Nigeria's flag has the same green-white-green vertical layout without the tree.",
+    "Norfolk Island pines are grown worldwide as ornamental trees."
+  ],
+  "clues": [
+    "Green, white and green vertical bands with a pine tree in the centre.",
+    "Many of its residents descend from mutineers.",
+    "Like Nigeria's flag with a tree added."
+  ],
+  "lookalikes": ["nigeria", "lebanon"],
+  "tags": ["vertical-tricolour", "plant"],
+  "sources": [
+    { "title": "Flag of Norfolk Island (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Norfolk_Island" },
+    { "title": "Norfolk Island (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/nf.html" }
+  ]
+}

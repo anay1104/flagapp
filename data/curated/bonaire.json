@@ -1,0 +1,44 @@
+{
+  "id": "bonaire",
+  "wikidata": "Q25396",
+  "name": "Bonaire",
+  "flagName": "Flag of Bonaire",
+  "category": "territory",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1981-12-15",
+  "ratio": "2:3",
+  "country": "Netherlands",
+  "summary": "A yellow upper-hoist triangle and blue lower-fly triangle separated by a white band, with a red six-pointed star inside a black compass ring on the white.",
+  "origin": [
+    "The flag was adopted on 15 December 1981, when Bonaire was part of the Netherlands Antilles. Since 2010 Bonaire is a special municipality of the Netherlands."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFCE00", "family": "yellow", "meaning": "The sun and the island's flowers.", "basis": "official" },
+    { "name": "Blue", "hex": "#012A87", "family": "blue", "meaning": "The sea.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and freedom.", "basis": "official" },
+    { "name": "Red", "hex": "#DC171D", "family": "red", "meaning": "The star; the blood of the people.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Six-pointed star", "description": "A red star inside a black compass ring.", "meaning": "The six original villages; the compass shows the islanders' seafaring skill.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1981, "to": null, "label": "Bonaire" }
+  ],
+  "facts": [
+    "Bonaire is known for its flamingos and coral reef diving.",
+    "Since 2010 it has been part of the Netherlands as a special municipality.",
+    "Its currency is the US dollar."
+  ],
+  "clues": [
+    "Yellow and blue triangles divided by white, with a red star in a compass ring.",
+    "Its star's six points are six original villages.",
+    "A special municipality of a European country in the Caribbean."
+  ],
+  "lookalikes": ["aruba", "curacao"],
+  "tags": ["diagonal", "star"],
+  "sources": [
+    { "title": "Flag of Bonaire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bonaire" }
+  ]
+}

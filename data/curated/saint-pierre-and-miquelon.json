@@ -1,0 +1,42 @@
+{
+  "id": "saint-pierre-and-miquelon",
+  "wikidata": "Q34617",
+  "name": "Saint Pierre and Miquelon",
+  "flagName": "Flag of Saint Pierre and Miquelon",
+  "category": "territory",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "country": "France",
+  "ratio": "2:3",
+  "summary": "A blue field with a yellow ship sailing on waves, and a hoist band showing the flags of the Basque Country, Brittany and Normandy, the homelands of the islands' settlers. The flag is unofficial; officially the tricolour is used.",
+  "origin": [
+    "The islands off Newfoundland are the last remnant of New France in North America. The flag, created in the early 1980s, honours the settlers' origins."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0033A0", "family": "blue", "meaning": "The sea and sky.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FFCD00", "family": "yellow", "meaning": "The ship, the Grande Hermine of Jacques Cartier.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Ship", "description": "A yellow sailing ship.", "meaning": "The Grande Hermine, in which Jacques Cartier is said to have reached the islands in 1536.", "basis": "traditional" },
+    { "name": "Three regional flags", "description": "The Basque ikurriña, the Breton Gwenn-ha-du and the Norman two leopards.", "meaning": "The origins of the settlers.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1982, "to": null, "label": "Local flag" }
+  ],
+  "facts": [
+    "The islands are the only part of New France still under French rule.",
+    "They lie just 25 km from Newfoundland, Canada.",
+    "It is one of the few flags containing other flags."
+  ],
+  "clues": [
+    "Blue with a yellow ship and three small regional flags at the hoist.",
+    "Its small flags honour Basque, Breton and Norman settlers.",
+    "The last remnant of New France."
+  ],
+  "lookalikes": [],
+  "tags": ["water", "cross", "saltire"],
+  "sources": [
+    { "title": "Flag of Saint Pierre and Miquelon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saint_Pierre_and_Miquelon" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "american-samoa",
+  "wikidata": "Q16641",
+  "name": "American Samoa",
+  "flagName": "Flag of American Samoa",
+  "category": "territory",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-04-27",
+  "ratio": "10:19",
+  "country": "United States",
+  "summary": "A blue field with a white triangle edged in red pointing from the fly, bearing a bald eagle clutching a fue (fly whisk) and a uatogi (war club). It was adopted in 1960, the 60th anniversary of US administration.",
+  "origin": [
+    "The flag was adopted on 27 April 1960, designed with input from the US Army Institute of Heraldry. Its colours are those of the US flag, as well as traditional Samoan colours."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#000066", "family": "blue", "meaning": "From the US flag.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the US flag.", "basis": "official" },
+    { "name": "Red", "hex": "#BF0D3E", "family": "red", "meaning": "From the US flag; also traditional Samoan colours.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Bald eagle", "description": "An American eagle flying toward the hoist.", "meaning": "The relationship with the United States.", "basis": "official" },
+    { "name": "Fue and uatogi", "description": "A fly whisk and a war club in the eagle's talons.", "meaning": "Samoan chiefly authority: the whisk for wisdom, the club for state power.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1960, "to": null, "label": "Territory of American Samoa" }
+  ],
+  "facts": [
+    "The bald eagle is not native to Samoa; it symbolises the US.",
+    "People born in American Samoa are US nationals, not citizens.",
+    "The triangle points from the fly toward the hoist, unusual for flag triangles."
+  ],
+  "clues": [
+    "Blue with a red-edged white triangle and an eagle holding a club and a whisk.",
+    "Its bird is not native to its islands.",
+    "Its symbols of chiefly authority are a fly whisk and a war club."
+  ],
+  "lookalikes": ["samoa"],
+  "tags": ["eagle", "bird", "weapon", "tool", "fimbriation"],
+  "sources": [
+    { "title": "Flag of American Samoa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_American_Samoa" },
+    { "title": "American Samoa (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/as.html" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bermuda",
+  "wikidata": "Q23635",
+  "name": "Bermuda",
+  "flagName": "Flag of Bermuda",
+  "category": "territory",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1910-10-04",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British red ensign with Bermuda's coat of arms in the fly: a red lion holding a shield depicting the wreck of the Sea Venture. It is the only British overseas territory to use a red ensign as its main flag.",
+  "origin": [
+    "In 1609 the Sea Venture, carrying settlers to Jamestown, Virginia, was wrecked on Bermuda's reefs, leading to the island's settlement. The coat of arms depicting the wreck was granted in 1910. The red ensign has been the de facto flag for decades; the design was refreshed in 1999."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CF142B", "family": "red", "meaning": "The British red ensign, traditionally for merchant ships.", "basis": "traditional" },
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The Union Flag.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Union Flag and the shield.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Red lion", "description": "A seated red lion holding a shield.", "meaning": "Britain.", "basis": "official" },
+    { "name": "Shipwreck shield", "description": "The Sea Venture wrecked on rocks, on a white shield with waves.", "meaning": "The 1609 wreck that led to Bermuda's settlement, and the motto 'Quo fata ferunt' (Whither the fates carry us).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1910, "to": 1999, "label": "Red ensign with arms" },
+    { "from": 1999, "to": null, "label": "Redrawn arms" }
+  ],
+  "facts": [
+    "The Sea Venture wreck is thought to have inspired Shakespeare's The Tempest.",
+    "Bermuda is the oldest remaining British overseas territory.",
+    "Its flag is red; most British territories use blue ensigns."
+  ],
+  "clues": [
+    "A red ensign with a lion holding a shield showing a shipwreck.",
+    "Its shipwreck may have inspired a Shakespeare play.",
+    "The only British overseas territory with a red ensign as its main flag."
+  ],
+  "lookalikes": ["cayman-islands", "montserrat"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "water", "former-colony"],
+  "sources": [
+    { "title": "Flag of Bermuda (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bermuda" },
+    { "title": "Bermuda (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bm.html" }
+  ]
+}

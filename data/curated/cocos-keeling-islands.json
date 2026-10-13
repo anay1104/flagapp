@@ -1,0 +1,45 @@
+{
+  "id": "cocos-keeling-islands",
+  "wikidata": "Q36004",
+  "name": "Cocos (Keeling) Islands",
+  "flagName": "Flag of the Cocos (Keeling) Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 2004,
+  "to": null,
+  "adopted": "2004-04-06",
+  "ratio": "1:2",
+  "country": "Australia",
+  "aliases": ["Cocos Islands", "Keeling Islands"],
+  "summary": "A green field with the Southern Cross in yellow stars, a yellow palm tree on a gold disc in the canton, and a yellow crescent in the centre.",
+  "origin": [
+    "The flag was adopted by the shire council on 6 April 2004 after a competition. It has no official status nationally but is used by the local government."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#008000", "family": "green", "meaning": "The islands' vegetation, and Islam.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FFE000", "family": "yellow", "meaning": "The stars, palm and crescent.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Palm tree", "description": "A yellow coconut palm on a disc.", "meaning": "The islands' coconut plantations.", "basis": "traditional" },
+    { "name": "Crescent", "description": "A yellow crescent.", "meaning": "The islands' Cocos Malay Muslim majority.", "basis": "traditional" },
+    { "name": "Southern Cross", "description": "Five yellow stars.", "meaning": "Australia.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 2004, "to": null, "label": "Cocos (Keeling) Islands" }
+  ],
+  "facts": [
+    "The islands were privately owned by the Clunies-Ross family until 1978.",
+    "Most residents are Cocos Malays.",
+    "The territory has 27 coral islands, two of them inhabited."
+  ],
+  "clues": [
+    "Green with a yellow palm, a crescent and the Southern Cross in yellow.",
+    "Its islands were once owned by a single family.",
+    "Its crescent represents a Muslim majority."
+  ],
+  "lookalikes": ["christmas-island", "pakistan"],
+  "tags": ["crescent", "star", "southern-cross", "plant", "disc", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of the Cocos (Keeling) Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Cocos_(Keeling)_Islands" }
+  ]
+}

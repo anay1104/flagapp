@@ -1,0 +1,49 @@
+{
+  "id": "united-states-virgin-islands",
+  "wikidata": "Q11703",
+  "name": "United States Virgin Islands",
+  "flagName": "Flag of the United States Virgin Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1921,
+  "to": null,
+  "adopted": "1921-05-17",
+  "ratio": "2:3",
+  "designer": "Percival Wilson Clement",
+  "aliases": ["US Virgin Islands", "USVI"],
+  "country": "United States",
+  "summary": "A white field with a simplified US coat of arms: a yellow eagle holding an olive branch and three arrows, with a shield, between the letters V and I.",
+  "origin": [
+    "The US bought the islands from Denmark in 1917. The flag was designed by Percival Wilson Clement and adopted by the naval governor on 17 May 1921."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "official" },
+    { "name": "Yellow", "hex": "#F4C53D", "family": "yellow", "meaning": "The eagle; one of the islands' colours.", "basis": "official" },
+    { "name": "Blue", "hex": "#0A3161", "family": "blue", "meaning": "The shield's chief and the letters.", "basis": "official" },
+    { "name": "Green", "hex": "#00703C", "family": "green", "meaning": "The olive branch.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Eagle", "description": "A yellow eagle with a US shield on its breast.", "meaning": "The United States.", "basis": "official" },
+    { "name": "Olive branch and three arrows", "description": "Held in the eagle's talons.", "meaning": "Peace, and the three main islands: St Croix, St Thomas and St John.", "basis": "official" },
+    { "name": "V and I", "description": "Blue letters on either side of the eagle.", "meaning": "Virgin Islands.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1921, "to": null, "label": "US Virgin Islands" }
+  ],
+  "facts": [
+    "The three arrows represent the three main islands.",
+    "Before 1917 the islands were the Danish West Indies.",
+    "A redesign was proposed in the 2020s, but the 1921 flag remains."
+  ],
+  "clues": [
+    "White with a yellow eagle between the letters V and I.",
+    "Its eagle holds three arrows for three islands.",
+    "Its islands were bought from Denmark in 1917."
+  ],
+  "lookalikes": ["american-samoa"],
+  "tags": ["plain-field", "eagle", "bird", "shield", "weapon", "plant", "text"],
+  "sources": [
+    { "title": "Flag of the United States Virgin Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_United_States_Virgin_Islands" },
+    { "title": "US Virgin Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/vi.html" }
+  ]
+}

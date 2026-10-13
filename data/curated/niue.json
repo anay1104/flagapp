@@ -1,0 +1,44 @@
+{
+  "id": "niue",
+  "wikidata": "Q34020",
+  "name": "Niue",
+  "flagName": "Flag of Niue",
+  "category": "territory",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "adopted": "1975-10-15",
+  "ratio": "1:2",
+  "country": "New Zealand",
+  "summary": "A golden yellow field with the Union Flag in the canton, bearing five yellow stars: one large star in a blue disc at the centre and four small ones on the cross arms.",
+  "origin": [
+    "Niue became self-governing in free association with New Zealand in 1974. The flag was adopted by the Niue Assembly on 15 October 1975."
+  ],
+  "colors": [
+    { "name": "Golden yellow", "hex": "#FEDD00", "family": "yellow", "meaning": "The bright sunshine of Niue and the warm feelings of its people toward New Zealand and the world.", "basis": "official" },
+    { "name": "Union Flag colours", "hex": "#012169", "family": "blue", "meaning": "Britain, which granted protection in 1900.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Four small stars", "description": "On the arms of the St George's cross.", "meaning": "The Southern Cross, representing New Zealand.", "basis": "official" },
+    { "name": "Large star in a blue disc", "description": "At the centre of the Union Flag.", "meaning": "Niue itself, self-governing in the Pacific.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": null, "label": "Niue" }
+  ],
+  "facts": [
+    "It is the only flag with a Union Flag on a yellow field.",
+    "Niue, nicknamed 'the Rock', is one of the world's largest coral islands.",
+    "Its population is under 2,000, while far more Niueans live in New Zealand."
+  ],
+  "clues": [
+    "Yellow with a Union Flag canton holding five yellow stars.",
+    "The only flag with a Union Flag on a yellow field.",
+    "Its island is nicknamed 'the Rock'."
+  ],
+  "lookalikes": ["cook-islands"],
+  "tags": ["canton", "union-jack", "star", "disc", "southern-cross", "former-colony"],
+  "sources": [
+    { "title": "Flag of Niue (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Niue" },
+    { "title": "Niue (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/nu.html" }
+  ]
+}

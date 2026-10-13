@@ -1,0 +1,47 @@
+{
+  "id": "puerto-rico",
+  "wikidata": "Q1183",
+  "name": "Puerto Rico",
+  "flagName": "Flag of Puerto Rico",
+  "nickname": "La Monoestrellada (the single-starred)",
+  "category": "territory",
+  "tier": 1,
+  "from": 1952,
+  "to": null,
+  "adopted": "1952-07-25",
+  "ratio": "2:3",
+  "country": "United States",
+  "summary": "Five red and white stripes with a blue triangle at the hoist bearing a white star. Designed in 1892 by Puerto Rican exiles in New York, modelled on the Cuban flag with the colours reversed; banned for decades, it became official in 1952.",
+  "origin": [
+    "The flag was created in 1892 by members of the Puerto Rican Section of the Cuban Revolutionary Party in New York, who reversed the colours of the Cuban flag to show solidarity between the two islands' independence struggles against Spain.",
+    "After the US took Puerto Rico in 1898, displaying the flag was associated with the independence movement and was criminalised by the 1948 Gag Law. When the Commonwealth was established on 25 July 1952, the flag was made official, with a darker blue."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#ED0000", "family": "red", "meaning": "The blood of the warriors who fought for freedom.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Victory and peace after independence.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#0050F0", "family": "blue", "meaning": "The sky and the sea; the shade has been light blue, navy and medium blue at different times.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Lone star", "description": "A white five-pointed star in the triangle.", "meaning": "Puerto Rico, the island.", "basis": "official" },
+    { "name": "Triangle", "description": "A blue equilateral triangle at the hoist.", "meaning": "The three branches of republican government; linked to Masonic symbolism.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1892, "to": 1952, "label": "Independence movement flag", "note": "Often with a light blue triangle; banned 1948–1957." },
+    { "from": 1952, "to": null, "label": "Commonwealth of Puerto Rico" }
+  ],
+  "facts": [
+    "The shade of blue is politically charged: light blue is associated with the independence movement, dark blue with the US flag.",
+    "Cuba's flag has the same layout with the colours reversed."
+  ],
+  "clues": [
+    "Red and white stripes with a blue hoist triangle and white star.",
+    "Its colours are those of a neighbouring island's flag, reversed.",
+    "Displaying it was once a crime under a 1948 law."
+  ],
+  "lookalikes": ["cuba", "philippines"],
+  "tags": ["horizontal-stripes", "hoist-triangle", "star"],
+  "sources": [
+    { "title": "Flag of Puerto Rico (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Puerto_Rico" },
+    { "title": "Puerto Rico (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pr.html" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "sint-maarten",
+  "wikidata": "Q26273",
+  "name": "Sint Maarten",
+  "flagName": "Flag of Sint Maarten",
+  "category": "territory",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "adopted": "1985-06-13",
+  "ratio": "2:3",
+  "designer": "Roselle Richardson",
+  "country": "Kingdom of the Netherlands",
+  "summary": "Red over blue with a white triangle at the hoist bearing the coat of arms: a courthouse in an orange-bordered shield, under a rising sun with a brown pelican, and the motto 'Semper pro grediens'.",
+  "origin": [
+    "The flag was adopted on 13 June 1985 for the island territory of Sint Maarten, the Dutch part of the island of Saint Martin. It became a constituent country of the Kingdom in 2010."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#DC171D", "family": "red", "meaning": "Like the Dutch flag.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Like the Dutch flag.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#012A87", "family": "blue", "meaning": "Like the Dutch flag.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Courthouse", "description": "The Philipsburg courthouse on the shield.", "meaning": "Justice; the building dates from 1793.", "basis": "official" },
+    { "name": "Pelican and sun", "description": "A brown pelican flying across a rising sun.", "meaning": "The national bird and a bright future.", "basis": "official" },
+    { "name": "Motto", "description": "'SEMPER PRO GREDIENS'.", "meaning": "Always progressing.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1985, "to": null, "label": "Sint Maarten" }
+  ],
+  "facts": [
+    "The island is split between Sint Maarten (Dutch) and Saint-Martin (French).",
+    "Its layout resembles the Philippine flag.",
+    "Its border monument commemorates the 1648 Treaty of Concordia dividing the island."
+  ],
+  "clues": [
+    "Red over blue with a white hoist triangle holding a shield with a courthouse and a pelican.",
+    "Its island is shared with a French territory.",
+    "Its motto means 'Always progressing'."
+  ],
+  "lookalikes": ["philippines", "czech-republic"],
+  "tags": ["horizontal-bicolour", "hoist-triangle", "coat-of-arms", "shield", "building", "bird", "sun", "text"],
+  "sources": [
+    { "title": "Flag of Sint Maarten (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Sint_Maarten" },
+    { "title": "Sint Maarten (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sx.html" }
+  ]
+}

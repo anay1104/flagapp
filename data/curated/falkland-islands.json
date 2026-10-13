@@ -1,0 +1,47 @@
+{
+  "id": "falkland-islands",
+  "wikidata": "Q9648",
+  "name": "Falkland Islands",
+  "flagName": "Flag of the Falkland Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1948-09-29",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "aliases": ["Falklands", "Islas Malvinas"],
+  "summary": "A British blue ensign with the islands' coat of arms: a white ram on green tussock grass above the ship Desire on blue and white waves, with the motto 'Desire the right'. The territory is claimed by Argentina.",
+  "origin": [
+    "The coat of arms was granted on 29 September 1948. The ram stands for the sheep farming that dominated the economy, and the ship is the Desire, sailed by John Davis, who is credited with an early sighting of the islands in 1592. The arms were enlarged on the flag in 1999."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "Tussock grass.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The ram and the waves.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Ram", "description": "A white ram standing on tussock grass.", "meaning": "Sheep farming.", "basis": "official" },
+    { "name": "Ship Desire", "description": "A sailing ship on waves.", "meaning": "John Davis's ship, whose name gives the motto 'Desire the right'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1948, "to": 1999, "label": "Arms on a white disc" },
+    { "from": 1999, "to": null, "label": "Arms enlarged" }
+  ],
+  "facts": [
+    "Argentina claims the islands as the Islas Malvinas; the dispute led to the 1982 Falklands War.",
+    "The motto 'Desire the right' is a pun on the ship's name.",
+    "Sheep still outnumber people by more than 100 to one."
+  ],
+  "clues": [
+    "A blue ensign with a ram on grass above a sailing ship.",
+    "Its motto is a pun on a ship's name.",
+    "Its islands were fought over in 1982."
+  ],
+  "lookalikes": ["cayman-islands", "british-virgin-islands"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "water", "text", "former-colony"],
+  "sources": [
+    { "title": "Flag of the Falkland Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Falkland_Islands" },
+    { "title": "Falkland Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/fk.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "guernsey",
+  "wikidata": "Q25230",
+  "name": "Guernsey",
+  "flagName": "Flag of Guernsey",
+  "category": "territory",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "adopted": "1985-12-12",
+  "ratio": "2:3",
+  "country": "United Kingdom",
+  "summary": "A white field with a red cross of St George, overlaid by a gold cross, the cross of William the Conqueror. The gold cross was added in 1985 to distinguish Guernsey's flag from England's.",
+  "origin": [
+    "Guernsey previously used the St George's Cross, identical to England's. After the Bailiff complained that it was hard to distinguish, a gold cross based on that used by William the Conqueror at the Battle of Hastings was added on 12 December 1985."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "St George's Cross.", "basis": "official" },
+    { "name": "Red", "hex": "#E8112D", "family": "red", "meaning": "St George's Cross.", "basis": "official" },
+    { "name": "Gold", "hex": "#F9DD16", "family": "yellow", "meaning": "The cross of William the Conqueror.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Gold cross", "description": "A cross with flared ends (cross pattée) inside the red cross.", "meaning": "The Duchy of Normandy; William the Conqueror, Duke of Normandy, whose banner is said to have borne a gold cross.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": null, "to": 1985, "label": "St George's Cross" },
+    { "from": 1985, "to": null, "label": "Gold cross added" }
+  ],
+  "facts": [
+    "Guernsey and the other Channel Islands are the last remnants of the Duchy of Normandy.",
+    "Its residents traditionally toast 'The Duke of Normandy, our Duke' for the monarch.",
+    "Alderney and Sark, also in the Bailiwick, have their own flags."
+  ],
+  "clues": [
+    "St George's Cross with a gold cross inside it.",
+    "Its gold cross is linked to William the Conqueror.",
+    "Its gold was added because it was identical to England's flag."
+  ],
+  "lookalikes": ["england", "jersey", "georgia"],
+  "tags": ["cross", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Guernsey (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Guernsey" },
+    { "title": "Guernsey (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gg.html" }
+  ]
+}

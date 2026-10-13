@@ -107,6 +107,7 @@ const EXTRA_CLASS_CATS = {
   Q783733: 'territory', // unincorporated territory of the US
   Q1352230: 'territory', // territory of the United States
   Q3336843: 'subdivision', // country of the United Kingdom
+  Q10711424: 'territory', // state with limited recognition (Somaliland, Western Sahara…)
 };
 for (const [c, cat] of Object.entries(EXTRA_CLASS_CATS)) classToCat.set(c, cat);
 for (const r of await readJson(join(RAW, 'classes.json'))) {
@@ -402,6 +403,30 @@ for (const e of sortedEntities) {
           subjectQids: [e.qid],
           wikipedia: e.enwiki,
         });
+        continue;
+      }
+      // The reverse: a historical state's flag that a living place still uses as its main
+      // flag (Republic of Texas -> Texas, Kingdom of England -> England) is current.
+      if (isPrimary && !dissolved && f.open && !existing.current && e.label && NAMED_CATS.has(category)) {
+        if (!existing.alsoUsedBy.includes(existing.name)) existing.alsoUsedBy.push(existing.name);
+        const better = slugify(e.label);
+        if (better && better !== existing.id && !usedIds.has(better)) {
+          usedIds.delete(existing.id);
+          usedIds.add(better);
+          existing.id = better;
+        }
+        Object.assign(existing, {
+          name: e.label,
+          flagName: `Flag of ${e.label}`,
+          category,
+          role: 'primary',
+          to: null,
+          current: true,
+          country: e.country && e.country !== e.label ? e.country : undefined,
+          description: e.desc ?? existing.description,
+          wikipedia: e.enwiki ?? existing.wikipedia,
+        });
+        existing.subjectQids.unshift(e.qid);
         continue;
       }
       // A former flag of a modern country that is the main flag of a vanished state is

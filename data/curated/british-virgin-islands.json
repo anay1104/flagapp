@@ -1,0 +1,46 @@
+{
+  "id": "british-virgin-islands",
+  "wikidata": "Q25305",
+  "name": "British Virgin Islands",
+  "flagName": "Flag of the British Virgin Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-11-15",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "aliases": ["BVI", "Virgin Islands"],
+  "summary": "A British blue ensign with the islands' coat of arms: Saint Ursula in white holding a lamp, surrounded by eleven more lamps, with the motto 'Vigilate' (Be watchful).",
+  "origin": [
+    "Christopher Columbus named the islands in 1493 after Saint Ursula and her 11,000 virgin martyrs. The coat of arms was granted on 15 November 1960."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The field of the shield.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The lamps.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Saint Ursula", "description": "A woman in white holding a lamp, on a green shield.", "meaning": "The saint after whom Columbus named the islands.", "basis": "official" },
+    { "name": "Twelve lamps", "description": "One held by Ursula and eleven around her.", "meaning": "Her companions, the virgin martyrs of legend.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1960, "to": null, "label": "British Virgin Islands" }
+  ],
+  "facts": [
+    "The motto 'Vigilate' means 'Be watchful'.",
+    "Columbus's legend counted 11,000 virgins; the shield shows a symbolic eleven lamps.",
+    "The neighbouring US Virgin Islands have a completely different flag."
+  ],
+  "clues": [
+    "A blue ensign with a shield showing a woman in white holding a lamp, among eleven more lamps.",
+    "Its saint gave the islands their name.",
+    "Its motto means 'Be watchful'."
+  ],
+  "lookalikes": ["cayman-islands", "montserrat", "anguilla"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "religious-symbol", "text", "former-colony"],
+  "sources": [
+    { "title": "Flag of the British Virgin Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_British_Virgin_Islands" },
+    { "title": "British Virgin Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/vg.html" }
+  ]
+}

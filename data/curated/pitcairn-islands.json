@@ -1,0 +1,46 @@
+{
+  "id": "pitcairn-islands",
+  "wikidata": "Q35672",
+  "name": "Pitcairn Islands",
+  "flagName": "Flag of the Pitcairn Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-04-02",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British blue ensign with the islands' coat of arms: a green triangle for the island on blue, an anchor and a Bible from the Bounty, and a crest of a Pitcairn wheelbarrow and a slip of miro.",
+  "origin": [
+    "The islands were settled in 1790 by mutineers from HMS Bounty and Tahitian companions. The coat of arms was granted in 1969 and the flag adopted in 1984, after a design by the island council."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Green", "hex": "#009A44", "family": "green", "meaning": "The island rising from the ocean.", "basis": "official" },
+    { "name": "Light blue", "hex": "#6CACE4", "family": "light-blue", "meaning": "The Pacific Ocean.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Anchor", "description": "A gold anchor.", "meaning": "The anchor of HMS Bounty, recovered from Bounty Bay.", "basis": "official" },
+    { "name": "Bible", "description": "A Bible on the anchor.", "meaning": "The Bounty's Bible, preserved on the island, and the islanders' faith.", "basis": "official" },
+    { "name": "Wheelbarrow", "description": "A wheelbarrow in the crest.", "meaning": "Island life and labour.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1984, "to": null, "label": "Pitcairn Islands" }
+  ],
+  "facts": [
+    "With around 50 residents, Pitcairn is the least populous national jurisdiction in the world.",
+    "The Bounty's Bible is kept in the island's church.",
+    "It is the only remaining British territory in the Pacific."
+  ],
+  "clues": [
+    "A blue ensign with a green triangle, an anchor, a Bible and a wheelbarrow.",
+    "Its anchor and Bible come from a famous mutiny ship.",
+    "The least populous jurisdiction in the world."
+  ],
+  "lookalikes": ["saint-helena", "falkland-islands"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "book", "tool", "plant", "religious-symbol", "former-colony"],
+  "sources": [
+    { "title": "Flag of the Pitcairn Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Pitcairn_Islands" },
+    { "title": "Pitcairn Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pn.html" }
+  ]
+}

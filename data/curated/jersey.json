@@ -1,0 +1,47 @@
+{
+  "id": "jersey",
+  "wikidata": "Q785",
+  "name": "Jersey",
+  "flagName": "Flag of Jersey",
+  "category": "territory",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1981-04-07",
+  "ratio": "3:5",
+  "country": "United Kingdom",
+  "summary": "A red saltire on white with Jersey's badge in the upper part: three golden leopards (lions) on red, under the Plantagenet crown. The saltire had been used since the 18th century.",
+  "origin": [
+    "Jersey used a red saltire on white from at least the late 18th century. In 1979 the States of Jersey decided to add the arms and a crown; the new flag was approved by Queen Elizabeth II and raised on 12 April 1981."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "official" },
+    { "name": "Red", "hex": "#CF142B", "family": "red", "meaning": "The saltire and the shield.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The leopards and crown.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Saltire", "description": "A red diagonal cross.", "meaning": "Possibly from St Patrick's saltire, or chosen to distinguish Jersey's ships; its origin is uncertain.", "basis": "popular" },
+    { "name": "Three leopards", "description": "Gold lions passant guardant on a red shield.", "meaning": "The Dukes of Normandy and the English Crown; Jersey was part of the Duchy of Normandy.", "basis": "official" },
+    { "name": "Plantagenet crown", "description": "A golden crown above the shield.", "meaning": "The island's allegiance to the Crown.", "basis": "official" }
+  ],
+  "history": [
+    { "from": null, "to": 1981, "label": "Plain red saltire" },
+    { "from": 1981, "to": null, "label": "Badge and crown added" }
+  ],
+  "facts": [
+    "Jersey is a Crown Dependency, not part of the UK.",
+    "Before 1981 its flag was confused with Ireland's St Patrick's saltire.",
+    "The three lions also appear on England's royal arms."
+  ],
+  "clues": [
+    "A red saltire on white with a red shield of three gold lions under a crown.",
+    "Its lions come from a medieval duchy in France.",
+    "A Channel Island Crown Dependency."
+  ],
+  "lookalikes": ["guernsey"],
+  "tags": ["saltire", "coat-of-arms", "shield", "animal", "crown", "monarchy"],
+  "sources": [
+    { "title": "Flag of Jersey (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Jersey" },
+    { "title": "Jersey (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/je.html" }
+  ]
+}

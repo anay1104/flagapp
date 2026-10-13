@@ -1,0 +1,44 @@
+{
+  "id": "somaliland",
+  "wikidata": "Q34754",
+  "name": "Somaliland",
+  "flagName": "Flag of Somaliland",
+  "category": "territory",
+  "tier": 1,
+  "from": 1996,
+  "to": null,
+  "adopted": "1996-10-14",
+  "ratio": "1:2",
+  "summary": "Green, white and red horizontal bands, with the Shahada in white on the green and a black star in the white. Somaliland declared independence from Somalia in 1991 but is not internationally recognised.",
+  "origin": [
+    "Somaliland, the former British Somaliland Protectorate, declared independence from Somalia in 1991 after the collapse of the central government. Its flag was adopted on 14 October 1996."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "Prosperity and Islam.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood of those who died for independence.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Shahada", "description": "The Islamic declaration of faith in white Arabic script.", "meaning": "Islam.", "basis": "official" },
+    { "name": "Black star", "description": "A five-pointed star in the white band.", "meaning": "The lost unity of the Somali people; black is a sign of mourning for the failed union.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1996, "to": null, "label": "Republic of Somaliland" }
+  ],
+  "facts": [
+    "Somalia's flag has a white star on light blue; Somaliland's star is black as a sign of mourning.",
+    "Somaliland has held several peaceful elections despite lacking recognition.",
+    "Because of the Shahada, the flag is not lowered to half-mast."
+  ],
+  "clues": [
+    "Green, white and red bands with white script in the green and a black star.",
+    "Its black star mourns a failed union.",
+    "It declared independence in 1991 but lacks recognition."
+  ],
+  "lookalikes": ["iran", "somalia"],
+  "tags": ["horizontal-tricolour", "text", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Somaliland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Somaliland" }
+  ]
+}

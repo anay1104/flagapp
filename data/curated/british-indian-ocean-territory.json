@@ -1,0 +1,44 @@
+{
+  "id": "british-indian-ocean-territory",
+  "wikidata": "Q43448",
+  "name": "British Indian Ocean Territory",
+  "flagName": "Flag of the British Indian Ocean Territory",
+  "category": "territory",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "aliases": ["BIOT", "Chagos Islands"],
+  "summary": "White and wavy blue horizontal stripes with the Union Flag in the canton and a palm tree over a gold crown in the fly. In 2024–2025 the UK agreed to transfer sovereignty of the Chagos Islands to Mauritius.",
+  "origin": [
+    "The territory was created in 1965 from the Chagos Archipelago, whose inhabitants were forcibly removed by 1973 to make way for the US base on Diego Garcia. The flag was granted in 1990."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The waves.", "basis": "official" },
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The Indian Ocean.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The palm tree.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Wavy stripes", "description": "Blue and white wavy horizontal stripes.", "meaning": "The Indian Ocean.", "basis": "official" },
+    { "name": "Palm and crown", "description": "A coconut palm above the royal crown.", "meaning": "The islands and British sovereignty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1990, "to": null, "label": "British Indian Ocean Territory" }
+  ],
+  "facts": [
+    "The territory has no permanent population; only military personnel and contractors live there.",
+    "The forced removal of the Chagossians remains a major human-rights issue.",
+    "The International Court of Justice advised in 2019 that the UK should end its administration."
+  ],
+  "clues": [
+    "Wavy blue and white stripes with a Union Flag and a palm tree over a crown.",
+    "Its islands' people were removed for a military base.",
+    "Sovereignty is being transferred to an island nation in the Indian Ocean."
+  ],
+  "lookalikes": ["tuvalu"],
+  "tags": ["horizontal-stripes", "canton", "union-jack", "plant", "crown", "water", "former-colony"],
+  "sources": [
+    { "title": "Flag of the British Indian Ocean Territory (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_British_Indian_Ocean_Territory" }
+  ]
+}

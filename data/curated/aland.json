@@ -1,0 +1,46 @@
+{
+  "id": "aland",
+  "wikidata": "Q5689",
+  "name": "Åland",
+  "flagName": "Flag of Åland",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1954,
+  "to": null,
+  "adopted": "1954-04-07",
+  "ratio": "17:26",
+  "country": "Finland",
+  "aliases": ["Aland", "Åland Islands"],
+  "summary": "A blue field with a yellow Nordic cross, overlaid by a red Nordic cross. It combines the Swedish flag, reflecting the islands' Swedish-speaking population, with the red of Finland's arms.",
+  "origin": [
+    "Åland, an autonomous region of Finland whose population speaks Swedish, first proposed a blue-yellow flag in 1922, but Finland objected because it was identical to Sweden's. The red cross was added and the flag was adopted on 7 April 1954."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0053A5", "family": "blue", "meaning": "From the Swedish flag.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FFCE00", "family": "yellow", "meaning": "From the Swedish flag.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "From the arms of Finland.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Double Nordic cross", "description": "A red cross with a yellow border on blue.", "meaning": "Swedish heritage and Finnish sovereignty combined.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1922, "to": 1954, "label": "Proposed Swedish-style flag", "note": "Rejected as identical to Sweden's." },
+    { "from": 1954, "to": null, "label": "Åland" }
+  ],
+  "facts": [
+    "Åland is demilitarised and autonomous under a 1921 League of Nations decision.",
+    "Its flag is used by Ålandic ships, which can fly it as a civil ensign.",
+    "Flag Day is the last Sunday in April."
+  ],
+  "clues": [
+    "A red cross edged in yellow on blue.",
+    "Like Sweden's flag with a red cross added.",
+    "Its islands are an autonomous, demilitarised part of Finland."
+  ],
+  "lookalikes": ["sweden", "iceland", "norway"],
+  "tags": ["nordic-cross", "fimbriation", "nordic", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Åland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_%C3%85land" },
+    { "title": "Åland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ax.html" }
+  ]
+}

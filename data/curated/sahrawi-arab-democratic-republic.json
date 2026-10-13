@@ -1,0 +1,44 @@
+{
+  "id": "sahrawi-arab-democratic-republic",
+  "wikidata": "Q40362",
+  "name": "Sahrawi Arab Democratic Republic",
+  "flagName": "Flag of the Sahrawi Arab Democratic Republic",
+  "category": "territory",
+  "tier": 1,
+  "from": 1976,
+  "to": null,
+  "adopted": "1976-02-27",
+  "ratio": "1:2",
+  "aliases": ["Western Sahara", "SADR", "Sahrawi Republic"],
+  "summary": "Black, white and green horizontal bands with a red triangle at the hoist and a red crescent and star in the white band. It is the flag of the Polisario Front's state, which claims Western Sahara, a territory mostly controlled by Morocco.",
+  "origin": [
+    "The Polisario Front proclaimed the Sahrawi Arab Democratic Republic on 27 February 1976 after Spain withdrew from Spanish Sahara. Its flag is based on the Pan-Arab flag of the Arab Revolt, with a crescent and star."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "From the Arab Revolt flag; the colonial past.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "traditional" },
+    { "name": "Green", "hex": "#007A3D", "family": "green", "meaning": "Hope and Islam.", "basis": "traditional" },
+    { "name": "Red", "hex": "#C4111B", "family": "red", "meaning": "The blood of martyrs.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A red crescent and star in the white band.", "meaning": "Islam.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1976, "to": null, "label": "Sahrawi Arab Democratic Republic" }
+  ],
+  "facts": [
+    "The SADR is a full member of the African Union.",
+    "Most of Western Sahara is administered by Morocco; the Polisario controls the eastern zone beyond the Moroccan berm.",
+    "Its layout closely follows the Palestinian flag, with an added crescent and star."
+  ],
+  "clues": [
+    "Black, white and green bands with a red hoist triangle and a red crescent and star.",
+    "Its state is an African Union member but controls only part of its claimed territory.",
+    "Like Palestine's flag with a crescent and star added."
+  ],
+  "lookalikes": ["palestine", "jordan"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "crescent", "star", "religious-symbol", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Western Sahara (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Sahrawi_Arab_Democratic_Republic" }
+  ]
+}

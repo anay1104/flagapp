@@ -1,0 +1,45 @@
+{
+  "id": "greenland",
+  "wikidata": "Q223",
+  "name": "Greenland",
+  "flagName": "Flag of Greenland",
+  "nickname": "Erfalasorput (our flag)",
+  "category": "territory",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "adopted": "1985-06-21",
+  "ratio": "2:3",
+  "designer": "Thue Christiansen",
+  "country": "Kingdom of Denmark",
+  "summary": "Two horizontal bands of white and red with a counterchanged disc slightly toward the hoist, red over white. The only Nordic flag without a cross, it shows the sun setting over the ice cap.",
+  "origin": [
+    "Greenland gained home rule within the Kingdom of Denmark in 1979. In a 1985 competition, Thue Christiansen's design narrowly beat a green and white Nordic cross. It was adopted on 21 June 1985, Greenland's National Day."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The ice sheet (upper band) and icebergs and pack ice (lower half of the disc).", "basis": "official" },
+    { "name": "Red", "hex": "#D00C33", "family": "red", "meaning": "The ocean (lower band) and the sun (upper half of the disc).", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Counterchanged disc", "description": "A circle, red on top and white below, overlapping both bands.", "meaning": "The sun setting over the ice cap, with the reflection of the ocean; also the return of the sun after the polar night.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1985, "to": null, "label": "Greenland" }
+  ],
+  "facts": [
+    "It is the only flag of a Nordic country or territory without a Nordic cross.",
+    "Its colours match the Danish Dannebrog.",
+    "National Day, 21 June, is the longest day of the year."
+  ],
+  "clues": [
+    "White over red with a half-red, half-white disc.",
+    "The only Nordic flag without a cross.",
+    "Its disc is the sun setting over an ice cap."
+  ],
+  "lookalikes": ["japan", "poland", "indonesia"],
+  "tags": ["horizontal-bicolour", "disc", "sun", "nordic"],
+  "sources": [
+    { "title": "Flag of Greenland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Greenland" },
+    { "title": "Greenland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gl.html" }
+  ]
+}

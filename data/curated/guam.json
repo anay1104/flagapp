@@ -1,0 +1,47 @@
+{
+  "id": "guam",
+  "wikidata": "Q16635",
+  "name": "Guam",
+  "flagName": "Flag of Guam",
+  "category": "territory",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "adopted": "1948-02-09",
+  "ratio": "22:41",
+  "designer": "Helen Lisa Ewing Paul",
+  "country": "United States",
+  "summary": "A dark blue field with a narrow red border and Guam's seal in the centre: a coconut palm, a flying proa (outrigger canoe) and the mouth of the Hagåtña River, with 'GUAM' in red letters.",
+  "origin": [
+    "Helen Paul, the wife of a US Navy officer, designed the seal and flag in 1917. The red border was added in 1948 when the flag was officially adopted by the Guam legislature."
+  ],
+  "colors": [
+    { "name": "Dark blue", "hex": "#00297B", "family": "blue", "meaning": "The Pacific Ocean; unity with the United States.", "basis": "traditional" },
+    { "name": "Red", "hex": "#C62139", "family": "red", "meaning": "The blood shed by the Chamorro people in Guam's history.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Coconut palm", "description": "A palm growing from barren soil.", "meaning": "Self-sufficiency and determination to survive.", "basis": "traditional" },
+    { "name": "Flying proa", "description": "A Chamorro outrigger sailing canoe.", "meaning": "The seafaring skill of the Chamorro people.", "basis": "traditional" },
+    { "name": "Seal shape", "description": "A pointed oval, the shape of a Chamorro sling stone.", "meaning": "Chamorro heritage and strength.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1917, "to": 1948, "label": "Seal flag without border" },
+    { "from": 1948, "to": null, "label": "Territory of Guam" }
+  ],
+  "facts": [
+    "The seal's shape is based on a sling stone, a traditional Chamorro weapon.",
+    "The flag is flown alongside the US flag across the island.",
+    "Guam's slogan is 'Where America's day begins', as it lies west of the International Date Line."
+  ],
+  "clues": [
+    "Dark blue with a red border and a pointed oval seal showing a palm and a canoe.",
+    "Its seal is shaped like a sling stone.",
+    "Its word in red letters is the territory's name."
+  ],
+  "lookalikes": ["northern-mariana-islands", "american-samoa"],
+  "tags": ["border", "emblem", "plant", "water", "text"],
+  "sources": [
+    { "title": "Flag of Guam (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Guam" },
+    { "title": "Guam (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gu.html" }
+  ]
+}

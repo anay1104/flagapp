@@ -1,0 +1,46 @@
+{
+  "id": "christmas-island",
+  "wikidata": "Q31063",
+  "name": "Christmas Island",
+  "flagName": "Flag of Christmas Island",
+  "category": "territory",
+  "tier": 1,
+  "from": 1986,
+  "to": null,
+  "adopted": "1986-01-26",
+  "ratio": "1:2",
+  "designer": "Tony Couch",
+  "country": "Australia",
+  "summary": "Divided diagonally into blue and green, with the Southern Cross on blue, a golden bosun bird on green, and a yellow disc showing a green map of the island.",
+  "origin": [
+    "The flag was designed by Tony Couch, a resident, after a 1986 competition, and adopted on Australia Day 1986. It became the official flag of the territory in 2002."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0021AD", "family": "blue", "meaning": "The sea surrounding the island.", "basis": "official" },
+    { "name": "Green", "hex": "#1C8A42", "family": "green", "meaning": "The island's vegetation.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC639", "family": "yellow", "meaning": "The disc and the bird.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Southern Cross", "description": "Five white stars on blue.", "meaning": "Australia, and the island's place in the southern hemisphere.", "basis": "official" },
+    { "name": "Golden bosun bird", "description": "A golden white-tailed tropicbird.", "meaning": "The island's emblematic bird.", "basis": "official" },
+    { "name": "Map", "description": "A green map of the island on a yellow disc.", "meaning": "The island itself.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1986, "to": null, "label": "Christmas Island" }
+  ],
+  "facts": [
+    "The island is famous for the annual migration of tens of millions of red crabs.",
+    "It was named by Captain William Mynors, who passed it on Christmas Day 1643.",
+    "The golden bosun bird is found only there."
+  ],
+  "clues": [
+    "Blue and green diagonal halves with the Southern Cross, a golden bird and a map in a yellow disc.",
+    "Its island is known for its red crab migration.",
+    "Named after the day it was sighted in 1643."
+  ],
+  "lookalikes": ["cocos-keeling-islands"],
+  "tags": ["diagonal", "star", "southern-cross", "bird", "map", "disc"],
+  "sources": [
+    { "title": "Flag of Christmas Island (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Christmas_Island" }
+  ]
+}

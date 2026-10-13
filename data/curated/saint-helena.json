@@ -1,0 +1,45 @@
+{
+  "id": "saint-helena",
+  "wikidata": "Q34497",
+  "name": "Saint Helena",
+  "flagName": "Flag of Saint Helena",
+  "category": "territory",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-01-30",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British blue ensign with the island's shield: a wirebird (Saint Helena plover) above a ship flying the English flag, sailing between two rocky headlands.",
+  "origin": [
+    "Saint Helena was claimed by the East India Company in 1659. The shield shows an East Indiaman sailing toward the island. The flag with the shield was adopted on 30 January 1984."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The upper part of the shield.", "basis": "official" },
+    { "name": "Light blue", "hex": "#6CACE4", "family": "light-blue", "meaning": "The sea.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Wirebird", "description": "A Saint Helena plover on a gold field.", "meaning": "The island's endemic national bird.", "basis": "official" },
+    { "name": "Ship", "description": "A three-masted ship flying the St George's Cross.", "meaning": "The East India Company ships that called at the island.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1984, "to": null, "label": "Saint Helena" }
+  ],
+  "facts": [
+    "Napoleon was exiled to Saint Helena from 1815 until his death in 1821.",
+    "The wirebird is found nowhere else in the world.",
+    "Ascension Island and Tristan da Cunha, part of the same territory, have their own flags."
+  ],
+  "clues": [
+    "A blue ensign with a plover above a sailing ship between cliffs.",
+    "Its island was Napoleon's final place of exile.",
+    "Its bird lives nowhere else."
+  ],
+  "lookalikes": ["falkland-islands", "pitcairn-islands"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "bird", "water", "mountain", "former-colony"],
+  "sources": [
+    { "title": "Flag of Saint Helena (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saint_Helena" },
+    { "title": "Saint Helena (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sh.html" }
+  ]
+}

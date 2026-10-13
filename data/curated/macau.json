@@ -1,0 +1,47 @@
+{
+  "id": "macau",
+  "wikidata": "Q14773",
+  "name": "Macau",
+  "flagName": "Flag of Macau",
+  "category": "territory",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1999-12-20",
+  "ratio": "2:3",
+  "country": "China",
+  "aliases": ["Macao"],
+  "summary": "A green field with a white lotus flower above a stylised Governador Nobre de Carvalho Bridge and water, under an arc of five yellow stars. It was raised when Portugal handed Macau to China on 20 December 1999.",
+  "origin": [
+    "Under Portuguese rule, Macau used the Portuguese flag. The current flag was adopted by the National People's Congress in 1993 for the handover in 1999."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#00785E", "family": "green", "meaning": "Peace and calm.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The lotus, bridge and water.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FBD116", "family": "yellow", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Lotus", "description": "A white lotus flower with three petals.", "meaning": "Macau's floral emblem; the three petals represent the Macau peninsula, Taipa and Coloane.", "basis": "official" },
+    { "name": "Bridge and water", "description": "A stylised bridge above wavy lines.", "meaning": "The Governador Nobre de Carvalho Bridge and the sea surrounding Macau.", "basis": "official" },
+    { "name": "Five stars", "description": "One large and four small yellow stars in an arc.", "meaning": "Echo the national flag of China, showing Macau as part of China.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1999, "to": null, "label": "Macau SAR" }
+  ],
+  "facts": [
+    "Macau was the last European colony in Asia, handed over in 1999.",
+    "Its green field is unusual for a Chinese flag.",
+    "Hong Kong's flag also echoes China's five stars."
+  ],
+  "clues": [
+    "Green with a white lotus over a bridge and water, under five yellow stars.",
+    "Raised in 1999 when the last European colony in Asia was handed over.",
+    "Its lotus's three petals stand for three areas of land."
+  ],
+  "lookalikes": ["hong-kong"],
+  "tags": ["plain-field", "plant", "building", "water", "star"],
+  "sources": [
+    { "title": "Flag of Macau (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Macau" },
+    { "title": "Macau (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mo.html" }
+  ]
+}

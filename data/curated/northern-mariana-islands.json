@@ -1,0 +1,46 @@
+{
+  "id": "northern-mariana-islands",
+  "wikidata": "Q16644",
+  "name": "Northern Mariana Islands",
+  "flagName": "Flag of the Northern Mariana Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "adopted": "1985-07-01",
+  "ratio": "1:2",
+  "country": "United States",
+  "summary": "A blue field with a white star over a grey latte stone, encircled by a wreath of flowers. The latte stone is a pillar used in ancient Chamorro buildings.",
+  "origin": [
+    "The flag was first adopted in 1972, while the islands were part of the UN Trust Territory, and modified in 1985 by adding the flower wreath (mwarmwar), a traditional Carolinian headpiece."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0071BC", "family": "blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The star.", "basis": "official" },
+    { "name": "Grey", "hex": "#9C9E9F", "family": "grey", "meaning": "The latte stone.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Latte stone", "description": "A grey stone pillar with a capstone.", "meaning": "Chamorro culture; latte stones supported ancient houses.", "basis": "official" },
+    { "name": "Star", "description": "A white five-pointed star over the stone.", "meaning": "The Commonwealth.", "basis": "official" },
+    { "name": "Flower wreath", "description": "A mwarmwar of flowers around the star and stone.", "meaning": "Carolinian culture.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1972, "to": 1985, "label": "Without the wreath" },
+    { "from": 1985, "to": null, "label": "Commonwealth of the Northern Mariana Islands" }
+  ],
+  "facts": [
+    "The islands became a US commonwealth in 1986.",
+    "Saipan is the largest island."
+  ],
+  "clues": [
+    "Blue with a white star over a grey stone pillar in a flower wreath.",
+    "Its stone pillar is from ancient Chamorro houses.",
+    "Its wreath represents Carolinian culture."
+  ],
+  "lookalikes": ["guam"],
+  "tags": ["star", "plant", "building", "grey"],
+  "sources": [
+    { "title": "Flag of the Northern Mariana Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Mariana_Islands" },
+    { "title": "Northern Mariana Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mp.html" }
+  ]
+}

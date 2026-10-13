@@ -1,0 +1,43 @@
+{
+  "id": "northern-cyprus",
+  "wikidata": "Q23681",
+  "name": "Northern Cyprus",
+  "flagName": "Flag of Northern Cyprus",
+  "category": "territory",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-03-07",
+  "ratio": "2:3",
+  "aliases": ["Turkish Republic of Northern Cyprus", "TRNC"],
+  "summary": "A white field with two horizontal red stripes near the edges and a red crescent and star between them. It is the flag of the Turkish Republic of Northern Cyprus, recognised only by Turkey.",
+  "origin": [
+    "After the 1974 Turkish invasion and the division of Cyprus, the Turkish Cypriot north declared independence in 1983 as the Turkish Republic of Northern Cyprus. The flag, adopted on 7 March 1984, reverses the colours of the Turkish flag and adds two stripes."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "traditional" },
+    { "name": "Red", "hex": "#E30A17", "family": "red", "meaning": "From the Turkish flag.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A red crescent and star slightly toward the hoist.", "meaning": "Turkish identity, from the flag of Turkey.", "basis": "traditional" },
+    { "name": "Two red stripes", "description": "Thin horizontal stripes near the top and bottom.", "meaning": "Often said to represent the two communities of Cyprus.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1984, "to": null, "label": "Turkish Republic of Northern Cyprus" }
+  ],
+  "facts": [
+    "A huge version of the flag is painted on the Pentadaktylos mountains, visible from Nicosia.",
+    "The TRNC is recognised only by Turkey.",
+    "The Republic of Cyprus flag shows a copper map of the whole island."
+  ],
+  "clues": [
+    "White with two red stripes and a red crescent and star.",
+    "A giant copy is painted on a mountainside facing a divided capital.",
+    "Recognised by only one country."
+  ],
+  "lookalikes": ["turkey", "cyprus"],
+  "tags": ["horizontal-stripes", "crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Northern Cyprus (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Northern_Cyprus" }
+  ]
+}

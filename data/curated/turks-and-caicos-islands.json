@@ -1,0 +1,47 @@
+{
+  "id": "turks-and-caicos-islands",
+  "wikidata": "Q18221",
+  "name": "Turks and Caicos Islands",
+  "flagName": "Flag of the Turks and Caicos Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1968-11-07",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British blue ensign with the islands' shield: a queen conch shell, a spiny lobster and a Turk's head cactus on gold.",
+  "origin": [
+    "Earlier colonial badges showed a ship and salt rakers. The current arms were granted in 1965 and added to the blue ensign in 1968; the shield was enlarged in 1999."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The shield.", "basis": "official" },
+    { "name": "Pink", "hex": "#E8A0A0", "family": "red", "meaning": "The conch shell.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Queen conch", "description": "A large conch shell.", "meaning": "Marine life and fishing, a mainstay of the economy.", "basis": "official" },
+    { "name": "Spiny lobster", "description": "A lobster in the centre of the shield.", "meaning": "Fishing.", "basis": "official" },
+    { "name": "Turk's head cactus", "description": "A cactus with a red, fez-like top.", "meaning": "The cactus that gave the Turks Islands their name.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1968, "to": 1999, "label": "Shield on a white disc" },
+    { "from": 1999, "to": null, "label": "Shield enlarged" }
+  ],
+  "facts": [
+    "The Turks Islands are named after the Turk's head cactus, whose top resembles a fez.",
+    "An early version of the colonial badge famously showed salt piles drawn as igloos, an error by a London artist.",
+    "Conch is the islands' national dish."
+  ],
+  "clues": [
+    "A blue ensign with a gold shield showing a conch, a lobster and a cactus.",
+    "Its islands are named after a cactus shaped like a fez.",
+    "An old badge mistakenly drew salt piles as igloos."
+  ],
+  "lookalikes": ["cayman-islands", "anguilla"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "plant", "former-colony"],
+  "sources": [
+    { "title": "Flag of the Turks and Caicos Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Turks_and_Caicos_Islands" },
+    { "title": "Turks and Caicos (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tc.html" }
+  ]
+}

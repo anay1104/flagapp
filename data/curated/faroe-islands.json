@@ -1,0 +1,47 @@
+{
+  "id": "faroe-islands",
+  "wikidata": "Q4628",
+  "name": "Faroe Islands",
+  "flagName": "Flag of the Faroe Islands",
+  "nickname": "Merkið (the banner)",
+  "category": "territory",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "adopted": "1948-04-01",
+  "ratio": "8:11",
+  "country": "Kingdom of Denmark",
+  "summary": "A red Nordic cross edged in blue on a white field. Designed by Faroese students in Copenhagen in 1919, it was recognised by the British during the Second World War and made official under home rule in 1948.",
+  "origin": [
+    "Faroese students in Copenhagen designed the flag in 1919 and first flew it in the islands in 1919. During the British occupation of the Faroes in the Second World War, Faroese ships flew it instead of the Danish flag; it was recognised on 25 April 1940, now Flag Day.",
+    "It became the official flag when the Faroes gained home rule on 1 April 1948."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The foam of the sea and the bright Faroese sky.", "basis": "traditional" },
+    { "name": "Red", "hex": "#EF303E", "family": "red", "meaning": "Traditional colours of Faroese dress, shared with Denmark and Norway.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#005EB8", "family": "blue", "meaning": "Traditional colours, shared with Norway and Iceland.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Nordic cross", "description": "A red cross with blue edging on white.", "meaning": "Christianity and the islands' Nordic heritage.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1919, "to": 1948, "label": "Unofficial flag", "note": "Recognised for shipping in 1940." },
+    { "from": 1948, "to": null, "label": "Home rule flag" }
+  ],
+  "facts": [
+    "Flag Day (Flaggdagur) is 25 April, marking the 1940 recognition.",
+    "Norway's flag has the same colours with red and white swapped.",
+    "The Faroe Islands are self-governing within the Kingdom of Denmark but not part of the EU."
+  ],
+  "clues": [
+    "A red Nordic cross edged in blue on white.",
+    "Designed by students in 1919, recognised during wartime occupation.",
+    "Like Norway's flag with its red and white swapped."
+  ],
+  "lookalikes": ["norway", "iceland"],
+  "tags": ["nordic-cross", "fimbriation", "nordic", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of the Faroe Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Faroe_Islands" },
+    { "title": "Faroe Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/fo.html" }
+  ]
+}

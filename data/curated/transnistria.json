@@ -1,0 +1,44 @@
+{
+  "id": "transnistria",
+  "wikidata": "Q907112",
+  "name": "Transnistria",
+  "flagName": "Flag of Transnistria",
+  "category": "territory",
+  "tier": 1,
+  "from": 2000,
+  "to": null,
+  "adopted": "2000-07-25",
+  "ratio": "1:2",
+  "aliases": ["Pridnestrovie", "Pridnestrovian Moldavian Republic"],
+  "summary": "Red with a broad green horizontal band, and a gold hammer and sickle with a star in the upper hoist. It is based on the Soviet-era flag of the Moldavian SSR, used by the breakaway state that split from Moldova in 1990.",
+  "origin": [
+    "Transnistria declared itself a separate republic in 1990 and fought a brief war with Moldova in 1992. It kept the flag of the Moldavian SSR, which it confirmed in its constitution of 2000. A version without the hammer and sickle is used as the state flag in some contexts, and the Russian flag is co-official."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CC0000", "family": "red", "meaning": "From the Soviet flag.", "basis": "traditional" },
+    { "name": "Green", "hex": "#00A651", "family": "green", "meaning": "From the Moldavian SSR flag.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The hammer, sickle and star.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Hammer and sickle", "description": "Gold emblem with a star above, in the upper hoist.", "meaning": "Soviet heritage.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1990, "label": "Moldavian SSR" },
+    { "from": 1990, "to": null, "label": "Pridnestrovian Moldavian Republic" }
+  ],
+  "facts": [
+    "It is one of the last flags still flown officially with a hammer and sickle.",
+    "Transnistria is not recognised by any UN member state.",
+    "Russian troops have been stationed there since 1992."
+  ],
+  "clues": [
+    "Red with a green band and a gold hammer and sickle.",
+    "It keeps the flag of a Soviet republic.",
+    "Recognised by no UN member, it split from a former Soviet republic in 1990."
+  ],
+  "lookalikes": ["soviet-union", "belarus"],
+  "tags": ["horizontal-stripes", "star", "tool", "communist"],
+  "sources": [
+    { "title": "Flag of Transnistria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Transnistria" }
+  ]
+}

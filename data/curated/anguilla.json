@@ -1,0 +1,47 @@
+{
+  "id": "anguilla",
+  "wikidata": "Q25228",
+  "name": "Anguilla",
+  "flagName": "Flag of Anguilla",
+  "category": "territory",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-05-30",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British blue ensign with Anguilla's coat of arms: three orange dolphins in a circle on white, above a light blue base. The dolphins first appeared on the flag of the short-lived Republic of Anguilla in 1967.",
+  "origin": [
+    "In 1967 Anguillans rebelled against rule by Saint Kitts and declared a republic, adopting the 'Three Dolphins' flag. British forces landed in 1969, and Anguilla became a separate dependency in 1980.",
+    "The dolphins were made the coat of arms and added to the blue ensign on 30 May 1990."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Orange", "hex": "#FF8200", "family": "orange", "meaning": "The dolphins; endurance.", "basis": "official" },
+    { "name": "Light blue", "hex": "#00A9E0", "family": "light-blue", "meaning": "The surrounding sea; faith, youth and hope.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Three dolphins", "description": "Orange dolphins leaping in a circle.", "meaning": "Friendship, wisdom and strength, and the unity and endurance of the people.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1967, "to": 1969, "label": "Republic of Anguilla", "note": "The 'Three Dolphins' flag on white and blue." },
+    { "from": 1990, "to": null, "label": "Blue ensign with dolphins" }
+  ],
+  "facts": [
+    "The 1967 'Anguilla Revolution' led to a brief British intervention known as Operation Sheepskin in 1969.",
+    "The Three Dolphins flag is still widely used locally.",
+    "Anguilla's name comes from the Spanish or Italian for 'eel', for the island's shape."
+  ],
+  "clues": [
+    "A blue ensign with three orange dolphins in a circle.",
+    "Its dolphins come from a short-lived republic declared in 1967.",
+    "Its island is named after an eel."
+  ],
+  "lookalikes": ["british-virgin-islands", "montserrat"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "water", "former-colony"],
+  "sources": [
+    { "title": "Flag of Anguilla (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Anguilla" },
+    { "title": "Anguilla (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ai.html" }
+  ]
+}

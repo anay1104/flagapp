@@ -1,0 +1,44 @@
+{
+  "id": "isle-of-man",
+  "wikidata": "Q9676",
+  "name": "Isle of Man",
+  "flagName": "Flag of the Isle of Man",
+  "category": "territory",
+  "tier": 1,
+  "from": 1932,
+  "to": null,
+  "adopted": "1932",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A red field with the triskelion: three armoured legs joined at the thigh, bent at the knee, with golden spurs. The emblem has represented the island since at least the 13th century.",
+  "origin": [
+    "The three legs appear in the arms of the Kings of Mann from the 13th century, possibly derived from Norse or Sicilian symbols. The flag was officially adopted in 1932, though it was used long before."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CF142B", "family": "red", "meaning": "From the medieval arms of the Kings of Mann.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The armour of the legs.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The spurs and armour trim.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Triskelion", "description": "Three armoured legs radiating from the centre, running clockwise.", "meaning": "The motto 'Quocunque jeceris stabit': whichever way you throw it, it will stand; the resilience of the Manx people.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1932, "to": null, "label": "Isle of Man" }
+  ],
+  "facts": [
+    "Sicily's flag also bears a triskelion, with a Gorgon's head at the centre.",
+    "The Isle of Man is a Crown Dependency, not part of the United Kingdom.",
+    "Its parliament, Tynwald, claims to be the oldest continuous parliament in the world."
+  ],
+  "clues": [
+    "Three armoured legs joined at the centre on red.",
+    "Its motto says it will stand however it is thrown.",
+    "An Italian island's flag also has three legs."
+  ],
+  "lookalikes": ["sicily"],
+  "tags": ["plain-field", "emblem"],
+  "sources": [
+    { "title": "Flag of the Isle of Man (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Isle_of_Man" },
+    { "title": "Isle of Man (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/im.html" }
+  ]
+}

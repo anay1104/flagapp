@@ -1,0 +1,46 @@
+{
+  "id": "aruba",
+  "wikidata": "Q21203",
+  "name": "Aruba",
+  "flagName": "Flag of Aruba",
+  "category": "territory",
+  "tier": 1,
+  "from": 1976,
+  "to": null,
+  "adopted": "1976-03-18",
+  "ratio": "2:3",
+  "country": "Kingdom of the Netherlands",
+  "summary": "A light blue field with two thin yellow stripes near the bottom and a red four-pointed star edged in white in the upper hoist. Adopted in 1976 during the push for separation from the Netherlands Antilles.",
+  "origin": [
+    "The flag was adopted on 18 March 1976, now Flag and Anthem Day. Aruba became a separate constituent country of the Kingdom of the Netherlands in 1986."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#418FDE", "family": "light-blue", "meaning": "The sky and the Caribbean Sea; also peace.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FBE122", "family": "yellow", "meaning": "Abundance and the sun; also the island's tourism and resources.", "basis": "official" },
+    { "name": "Red", "hex": "#EF3340", "family": "red", "meaning": "Love for the country, and the red soil.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The beaches and the purity of the people.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Four-pointed star", "description": "A red star edged in white.", "meaning": "Aruba itself, and the four points of the compass from which its people come.", "basis": "official" },
+    { "name": "Two yellow stripes", "description": "Thin horizontal stripes near the bottom.", "meaning": "The island's separate status from the Netherlands Antilles and its people's diverse origins.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1976, "to": null, "label": "Aruba" }
+  ],
+  "facts": [
+    "Flag and Anthem Day, 18 March, is a public holiday in Aruba.",
+    "Its four-pointed star is rare among flags.",
+    "Aruba lies just north of Venezuela."
+  ],
+  "clues": [
+    "Light blue with two thin yellow stripes and a red four-pointed star.",
+    "Its star's four points are the four compass directions.",
+    "Adopted in 1976 during a push for separate status."
+  ],
+  "lookalikes": ["curacao"],
+  "tags": ["horizontal-stripes", "star", "fimbriation"],
+  "sources": [
+    { "title": "Flag of Aruba (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Aruba" },
+    { "title": "Aruba (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/aw.html" }
+  ]
+}

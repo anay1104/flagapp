@@ -1,0 +1,47 @@
+{
+  "id": "cayman-islands",
+  "wikidata": "Q5785",
+  "name": "Cayman Islands",
+  "flagName": "Flag of the Cayman Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1958-05-14",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British blue ensign with the islands' coat of arms in the fly: a shield with a lion, three green stars on wavy lines, a turtle and a pineapple crest, and the motto 'He hath founded it upon the seas'.",
+  "origin": [
+    "The coat of arms was granted on 14 May 1958. The blue ensign with the arms on a white disc was used until 1999, when the disc was removed and the arms enlarged."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The Union Flag and the lion's field.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The three stars, for the islands.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Three stars", "description": "Green stars edged in gold on blue and white wavy lines.", "meaning": "Grand Cayman, Cayman Brac and Little Cayman, rising from the sea.", "basis": "official" },
+    { "name": "Lion", "description": "A gold lion on red in the chief.", "meaning": "Britain.", "basis": "official" },
+    { "name": "Turtle and pineapple", "description": "A green sea turtle above the shield, with a pineapple.", "meaning": "The islands' seafaring history and ties to Jamaica.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1958, "to": 1999, "label": "Arms on a white disc" },
+    { "from": 1999, "to": null, "label": "Arms enlarged, disc removed" }
+  ],
+  "facts": [
+    "The motto comes from Psalm 24.",
+    "The Cayman Islands were administered from Jamaica until 1962.",
+    "The sea turtle reflects the islands' history of turtle fishing."
+  ],
+  "clues": [
+    "A blue ensign with a shield showing three green stars, a lion, a turtle and a pineapple.",
+    "Its three stars are three islands rising from the sea.",
+    "Its motto comes from a psalm."
+  ],
+  "lookalikes": ["british-virgin-islands", "turks-and-caicos-islands", "montserrat"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "star", "plant", "water", "text", "former-colony"],
+  "sources": [
+    { "title": "Flag of the Cayman Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Cayman_Islands" },
+    { "title": "Cayman Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ky.html" }
+  ]
+}

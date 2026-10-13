@@ -1,0 +1,45 @@
+{
+  "id": "gibraltar",
+  "wikidata": "Q1410",
+  "name": "Gibraltar",
+  "flagName": "Flag of Gibraltar",
+  "category": "territory",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "adopted": "1982-11-08",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A white field with a red three-towered castle and a red band along the bottom, with a gold key hanging from the castle. It is based on the coat of arms granted by Queen Isabella I of Castile in 1502.",
+  "origin": [
+    "Isabella I of Castile granted Gibraltar its arms in 1502, after the town was taken from the Moors. Britain captured Gibraltar in 1704. The banner of the arms was adopted as the flag on 8 November 1982."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the 1502 arms.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DA000C", "family": "red", "meaning": "From the 1502 arms; the castle and band.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#F8D80F", "family": "yellow", "meaning": "The key.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Castle", "description": "A red castle with three towers.", "meaning": "Gibraltar as a fortress.", "basis": "official" },
+    { "name": "Golden key", "description": "A key hanging from the castle gate.", "meaning": "Gibraltar as the key to the Mediterranean.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1982, "to": null, "label": "Gibraltar" }
+  ],
+  "facts": [
+    "Gibraltar National Day, 10 September, sees the flag flown everywhere.",
+    "Spain claims sovereignty over Gibraltar.",
+    "The arms are among the oldest still in use by a British territory."
+  ],
+  "clues": [
+    "White with a red castle and a gold key, and a red band along the bottom.",
+    "Its arms were granted by a Castilian queen in 1502.",
+    "Its key represents the entrance to a sea."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-bicolour", "building", "emblem"],
+  "sources": [
+    { "title": "Flag of Gibraltar (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Gibraltar" },
+    { "title": "Gibraltar (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gi.html" }
+  ]
+}

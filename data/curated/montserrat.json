@@ -1,0 +1,47 @@
+{
+  "id": "montserrat",
+  "wikidata": "Q13353",
+  "name": "Montserrat",
+  "flagName": "Flag of Montserrat",
+  "category": "territory",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1960-04-10",
+  "ratio": "1:2",
+  "country": "United Kingdom",
+  "summary": "A British blue ensign with Montserrat's coat of arms: Erin, the personification of Ireland, in green, holding a gold harp and embracing a black Latin cross. It reflects the island's Irish heritage.",
+  "origin": [
+    "Montserrat was settled in the 17th century largely by Irish Catholics from Saint Kitts and Virginia. The coat of arms was granted in 1909 and the flag adopted in 1960; the arms were enlarged in 1999."
+  ],
+  "colors": [
+    { "name": "Navy", "hex": "#012169", "family": "blue", "meaning": "The blue ensign.", "basis": "official" },
+    { "name": "Green", "hex": "#009A44", "family": "green", "meaning": "Erin's dress; Ireland.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The harp.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Erin", "description": "A woman in green holding a harp and a cross.", "meaning": "Ireland and the Irish origins of the settlers.", "basis": "official" },
+    { "name": "Latin cross", "description": "A large black cross.", "meaning": "Christianity.", "basis": "official" },
+    { "name": "Harp", "description": "A gold harp.", "meaning": "Ireland.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1960, "to": 1999, "label": "Arms on a white disc" },
+    { "from": 1999, "to": null, "label": "Arms enlarged" }
+  ],
+  "facts": [
+    "Montserrat is nicknamed 'the Emerald Isle of the Caribbean'.",
+    "Saint Patrick's Day is a public holiday in Montserrat.",
+    "The Soufrière Hills volcano destroyed the capital, Plymouth, in 1997."
+  ],
+  "clues": [
+    "A blue ensign with a woman in green holding a harp and a cross.",
+    "Its island is called 'the Emerald Isle of the Caribbean'.",
+    "Saint Patrick's Day is a public holiday there."
+  ],
+  "lookalikes": ["british-virgin-islands", "cayman-islands"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "cross", "religious-symbol", "former-colony"],
+  "sources": [
+    { "title": "Flag of Montserrat (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Montserrat" },
+    { "title": "Montserrat (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ms.html" }
+  ]
+}

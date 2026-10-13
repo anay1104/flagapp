@@ -1,0 +1,46 @@
+{
+  "id": "new-caledonia",
+  "wikidata": "Q33788",
+  "name": "New Caledonia",
+  "flagName": "Flag of New Caledonia (Kanak flag)",
+  "category": "territory",
+  "tier": 1,
+  "from": 2010,
+  "to": null,
+  "adopted": "2010-07-13",
+  "ratio": "1:2",
+  "country": "France",
+  "summary": "Blue, red and green horizontal bands with a yellow disc toward the hoist bearing a black flèche faîtière, the carved spire of a Kanak house. Created by the independence movement, it has flown alongside the French tricolour since 2010.",
+  "origin": [
+    "The Kanak and Socialist National Liberation Front (FLNKS) adopted the flag in 1984 during the independence struggle. In 2010 the Congress of New Caledonia voted to fly it alongside the French tricolour, a solution intended to represent both communities."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0035AD", "family": "blue", "meaning": "The sky and the ocean around the islands.", "basis": "traditional" },
+    { "name": "Red", "hex": "#E4002B", "family": "red", "meaning": "The blood shed by the Kanak people in their struggle, and socialism.", "basis": "traditional" },
+    { "name": "Green", "hex": "#009A3A", "family": "green", "meaning": "The land and ancestors.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FFDE00", "family": "yellow", "meaning": "The sun.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Flèche faîtière", "description": "A black carved spire with a vertical arrow and spiral decorations.", "meaning": "Kanak identity; these spires crown traditional chiefly houses.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1984, "to": 2010, "label": "FLNKS independence flag" },
+    { "from": 2010, "to": null, "label": "Flown with the tricolour" }
+  ],
+  "facts": [
+    "Three independence referendums were held in 2018, 2020 and 2021; all resulted in votes to remain with France.",
+    "The question of a single common flag remains unresolved.",
+    "New Caledonia holds a large share of the world's known nickel reserves."
+  ],
+  "clues": [
+    "Blue, red and green bands with a yellow disc holding a black carved spire.",
+    "Its spire tops traditional Kanak houses.",
+    "It flies alongside a European tricolour."
+  ],
+  "lookalikes": ["french-polynesia"],
+  "tags": ["horizontal-tricolour", "disc", "sun", "building"],
+  "sources": [
+    { "title": "Flags of New Caledonia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flags_of_New_Caledonia" },
+    { "title": "New Caledonia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/nc.html" }
+  ]
+}

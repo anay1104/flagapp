@@ -1,0 +1,45 @@
+{
+  "id": "cook-islands",
+  "wikidata": "Q26988",
+  "name": "Cook Islands",
+  "flagName": "Flag of the Cook Islands",
+  "category": "territory",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "adopted": "1979-08-04",
+  "ratio": "1:2",
+  "country": "New Zealand",
+  "summary": "A British blue ensign with a ring of fifteen white stars in the fly. The Cook Islands are self-governing in free association with New Zealand.",
+  "origin": [
+    "The Cook Islands became self-governing in 1965. A green flag with a circle of yellow stars was used from 1973 to 1979. The current blue ensign was adopted on 4 August 1979."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The Pacific Ocean and the peaceful nature of the people.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars; peace and love.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Fifteen stars", "description": "White stars in a circle.", "meaning": "The fifteen islands; the circle represents unity.", "basis": "official" },
+    { "name": "Union Flag", "description": "In the canton.", "meaning": "Historical links with Britain and New Zealand.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1973, "to": 1979, "label": "Green flag with yellow stars" },
+    { "from": 1979, "to": null, "label": "Blue ensign" }
+  ],
+  "facts": [
+    "Cook Islanders are New Zealand citizens.",
+    "The previous green flag of 1973–1979 is still sometimes flown as a cultural symbol.",
+    "The islands are named after Captain James Cook."
+  ],
+  "clues": [
+    "A blue ensign with a circle of fifteen white stars.",
+    "Its stars stand for fifteen islands.",
+    "Its islands are in free association with a Pacific neighbour."
+  ],
+  "lookalikes": ["new-zealand", "australia", "tuvalu"],
+  "tags": ["canton", "union-jack", "star", "former-colony"],
+  "sources": [
+    { "title": "Flag of the Cook Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Cook_Islands" },
+    { "title": "Cook Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ck.html" }
+  ]
+}
