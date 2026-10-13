@@ -1,0 +1,74 @@
+{
+  "id": "upper-austria",
+  "wikidata": "Q41967",
+  "image": "Flag of Upper Austria (state).svg",
+  "name": "Upper Austria",
+  "flagName": "Flag of Upper Austria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1930,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "White over red with the state arms: a gold eagle on black beside red and white vertical stripes, under an archducal hat.",
+  "origin": [
+    "The arms combine elements from the Lords of Machland and the Duchy of Austria, recorded from the 14th century. Upper Austria's plain white-red flag is the civil flag; the state flag adds the arms."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Archducal hat",
+      "description": "A crown-like hat above the shield.",
+      "meaning": "Upper Austria as part of the Archduchy of Austria.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1930,
+      "to": null,
+      "label": "State of Upper Austria"
+    }
+  ],
+  "facts": [
+    "Linz is its capital.",
+    "Poland's national flag is also white over red."
+  ],
+  "clues": [
+    "White over red with a shield of a gold eagle and stripes, under an archducal hat.",
+    "An Austrian state whose capital is Linz."
+  ],
+  "lookalikes": [
+    "poland",
+    "tyrol"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "coat-of-arms",
+    "shield",
+    "eagle",
+    "bird",
+    "crown"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Upper Austria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Upper_Austria"
+    }
+  ]
+}

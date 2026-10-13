@@ -1,0 +1,70 @@
+{
+  "id": "asturias",
+  "wikidata": "Q3934",
+  "image": "Flag of Asturias (gala).svg",
+  "name": "Asturias",
+  "flagName": "Flag of Asturias",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A blue field with the gold Victory Cross (Cruz de la Victoria), with the Greek letters alpha and omega hanging from its arms.",
+  "origin": [
+    "The Victory Cross is traditionally the cross carried by Pelagius (Don Pelayo) at the Battle of Covadonga in about 722, the start of the Reconquista. The flag was adopted in 1990."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0072CE",
+      "family": "blue",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The cross.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Victory Cross",
+      "description": "A jewelled cross with alpha and omega.",
+      "meaning": "Christian victory at Covadonga; the original cross is kept in Oviedo Cathedral.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1990,
+      "to": null,
+      "label": "Principality of Asturias"
+    }
+  ],
+  "facts": [
+    "The heir to the Spanish throne holds the title Prince or Princess of Asturias.",
+    "The original cross is kept in Oviedo Cathedral."
+  ],
+  "clues": [
+    "A gold cross with hanging alpha and omega on blue.",
+    "Its cross is linked to a battle that began the Reconquista.",
+    "Its region gives the Spanish heir their title."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "cross",
+    "text",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Asturias (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Asturias"
+    }
+  ]
+}

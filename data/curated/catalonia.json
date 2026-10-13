@@ -1,0 +1,64 @@
+{
+  "id": "catalonia",
+  "wikidata": "Q15581",
+  "image": "Flag of Catalonia.svg",
+  "name": "Catalonia",
+  "flagName": "Flag of Catalonia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "The Senyera: four red stripes on gold. One of the oldest flags in Europe still in use, it was the royal sign of the Counts of Barcelona and the Crown of Aragon.",
+  "origin": [
+    "The red and gold stripes appear on the seals of the Counts of Barcelona from the 12th century. A legend says Wilfred the Hairy's bloody fingers drew the stripes on a gold shield; this is a later invention. The Senyera became official in the 1979 Statute of Autonomy."
+  ],
+  "colors": [
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The stripes; by legend, blood.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1979,
+      "to": null,
+      "label": "Catalonia"
+    }
+  ],
+  "facts": [
+    "Independence supporters fly the Estelada, which adds a star in a triangle.",
+    "The legend of Wilfred the Hairy was invented centuries after his death."
+  ],
+  "clues": [
+    "Four red stripes on gold, nothing else.",
+    "By legend its stripes were drawn in blood by a count's fingers.",
+    "One of the oldest flags in Europe still in use."
+  ],
+  "lookalikes": [
+    "aragon",
+    "valencian-community",
+    "balearic-islands"
+  ],
+  "tags": [
+    "horizontal-stripes"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Catalonia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Catalonia"
+    }
+  ]
+}

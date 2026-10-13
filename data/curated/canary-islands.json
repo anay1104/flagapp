@@ -1,0 +1,66 @@
+{
+  "id": "canary-islands",
+  "wikidata": "Q5813",
+  "image": "Flag of the Canary Islands (simple).svg",
+  "name": "Canary Islands",
+  "flagName": "Flag of Canary Islands",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A vertical tricolour of white, blue and yellow. The official version adds the arms with seven islands and two dogs.",
+  "origin": [
+    "The colours come from the provinces of Santa Cruz de Tenerife (white and blue) and Las Palmas (blue and yellow). The flag was adopted in the 1982 Statute of Autonomy."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Santa Cruz de Tenerife.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0768A9",
+      "family": "blue",
+      "meaning": "The sea; shared by both provinces.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFCC00",
+      "family": "yellow",
+      "meaning": "Las Palmas and the sun.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1982,
+      "to": null,
+      "label": "Canary Islands"
+    }
+  ],
+  "facts": [
+    "The islands' name comes from the Latin 'canis', dog, not from canaries.",
+    "The nationalist flag adds seven green stars."
+  ],
+  "clues": [
+    "White, blue and yellow vertical bands.",
+    "Its islands are named after dogs, not birds."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "vertical-tricolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Canary Islands (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Canary_Islands"
+    }
+  ]
+}

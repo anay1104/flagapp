@@ -1,0 +1,72 @@
+{
+  "id": "tyrol",
+  "wikidata": "Q42880",
+  "image": "Flag of Tirol (state).svg",
+  "name": "Tyrol",
+  "flagName": "Flag of Tyrol",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1946,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "White over red with the state arms: a red eagle with gold claws and a green wreath (the Ehrenkranz) on white.",
+  "origin": [
+    "The red Tyrolean eagle dates from the 13th century, the arms of the Counts of Tyrol. The green wreath was granted in 1416."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field of the arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "The eagle.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Tyrolean eagle",
+      "description": "A red eagle with a green wreath on its wings.",
+      "meaning": "The Counts of Tyrol.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1946,
+      "to": null,
+      "label": "State of Tyrol"
+    }
+  ],
+  "facts": [
+    "The Tyrolean eagle is also used by South Tyrol in Italy.",
+    "Innsbruck is its capital."
+  ],
+  "clues": [
+    "White over red with a red eagle wearing a green wreath.",
+    "Its eagle is shared with a province across the Italian border."
+  ],
+  "lookalikes": [
+    "upper-austria",
+    "poland"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "coat-of-arms",
+    "eagle",
+    "bird"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Tyrol (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Tyrol"
+    }
+  ]
+}

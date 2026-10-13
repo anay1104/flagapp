@@ -1,0 +1,60 @@
+{
+  "id": "galicia",
+  "wikidata": "Q3908",
+  "image": "Flag of Galicia.svg",
+  "name": "Galicia",
+  "flagName": "Flag of Galicia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A white field with a blue diagonal band from the upper hoist to the lower fly. It comes from the flag of the port of A Coruña.",
+  "origin": [
+    "The blue saltire on white was the maritime registration flag of A Coruña; when the saltire was reduced to one band it became associated with Galicia. The flag was adopted officially in 1984."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0099CC",
+      "family": "light-blue",
+      "meaning": "The band.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1984,
+      "to": null,
+      "label": "Galicia"
+    }
+  ],
+  "facts": [
+    "The official version adds the arms with a chalice and crosses.",
+    "Santiago de Compostela is its capital."
+  ],
+  "clues": [
+    "A single blue diagonal band on white.",
+    "It came from a port's maritime flag.",
+    "The region of Santiago de Compostela."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "diagonal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Galicia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Galicia_(Spain)"
+    }
+  ]
+}

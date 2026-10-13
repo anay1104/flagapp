@@ -1,0 +1,74 @@
+{
+  "id": "la-rioja",
+  "wikidata": "Q5727",
+  "image": "Flag of La Rioja (with coat of arms).svg",
+  "name": "La Rioja",
+  "flagName": "Flag of La Rioja",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Four horizontal bands of red, white, green and yellow, with the regional arms.",
+  "origin": [
+    "The flag was adopted in 1985. The colours are often linked to the region's wine and fields."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Often linked to wine.",
+      "basis": "popular"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "popular"
+    },
+    {
+      "name": "Green",
+      "hex": "#007A3D",
+      "family": "green",
+      "meaning": "The vineyards and fields.",
+      "basis": "popular"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The harvest.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1985,
+      "to": null,
+      "label": "La Rioja"
+    }
+  ],
+  "facts": [
+    "La Rioja is famous for its red wine.",
+    "Logroño is its capital."
+  ],
+  "clues": [
+    "Red, white, green and yellow bands with a shield.",
+    "The flag of a famous wine region."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-stripes",
+    "coat-of-arms"
+  ],
+  "sources": [
+    {
+      "title": "Flag of La Rioja (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_La_Rioja"
+    }
+  ]
+}

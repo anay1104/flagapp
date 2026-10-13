@@ -1,0 +1,69 @@
+{
+  "id": "community-of-madrid",
+  "wikidata": "Q5756",
+  "image": "Flag of the Community of Madrid.svg",
+  "name": "Community of Madrid",
+  "flagName": "Flag of Community of Madrid",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1983,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A crimson field with seven white five-pointed stars in two rows, representing the Plough (Ursa Major). Designed by the poet Santiago Amón.",
+  "origin": [
+    "The Community of Madrid was created in 1983. Its flag uses the crimson of Castile and the stars of the city of Madrid's arms."
+  ],
+  "colors": [
+    {
+      "name": "Crimson",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "Castile.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The stars.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Seven stars",
+      "description": "White stars in two rows of four and three.",
+      "meaning": "Ursa Major, from the city of Madrid's arms; also the mountain ranges near the capital.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1983,
+      "to": null,
+      "label": "Community of Madrid"
+    }
+  ],
+  "facts": [
+    "The same seven stars appear on the arms of the city, around a bear eating from a strawberry tree.",
+    "Madrid is Spain's capital."
+  ],
+  "clues": [
+    "Seven white stars on crimson.",
+    "Its stars form a famous constellation.",
+    "The flag of the region around Spain's capital."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "star",
+    "astronomy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Community of Madrid (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Community_of_Madrid"
+    }
+  ]
+}

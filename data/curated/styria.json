@@ -1,0 +1,62 @@
+{
+  "id": "styria",
+  "wikidata": "Q41358",
+  "image": "Flag of Styria.svg",
+  "name": "Styria",
+  "flagName": "Flag of Styria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1918,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "Two horizontal bands of white over green. The colours come from the Styrian arms: a white, horned, fire-breathing panther on green.",
+  "origin": [
+    "The panther has been the arms of Styria since the 12th century, under the Otakar dukes. The white-green flag has been used since the 19th century."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The panther.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009A3E",
+      "family": "green",
+      "meaning": "The field of the arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1918,
+      "to": null,
+      "label": "State of Styria"
+    }
+  ],
+  "facts": [
+    "Styria is called 'the green heart of Austria' for its forests.",
+    "Graz is its capital."
+  ],
+  "clues": [
+    "White over green, two horizontal bands.",
+    "Its colours come from a fire-breathing panther.",
+    "Called 'the green heart of Austria'."
+  ],
+  "lookalikes": [
+    "saxony"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Styria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Styria"
+    }
+  ]
+}

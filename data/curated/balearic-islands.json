@@ -1,0 +1,86 @@
+{
+  "id": "balearic-islands",
+  "wikidata": "Q107356467",
+  "image": "Flag of the Balearic Islands.svg",
+  "name": "Balearic Islands",
+  "flagName": "Flag of Balearic Islands",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1983,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Four red stripes on yellow, with a purple canton bearing a white castle of five towers, the castle of Palma.",
+  "origin": [
+    "The stripes come from the Crown of Aragon, which conquered Majorca in 1229. The castle is from the flag of Palma. The flag was adopted in the 1983 Statute of Autonomy."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The Senyera.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The Senyera.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Purple",
+      "hex": "#5F2C82",
+      "family": "purple",
+      "meaning": "The canton.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The castle.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Castle",
+      "description": "A white castle with five towers on purple.",
+      "meaning": "The Almudaina castle of Palma.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1983,
+      "to": null,
+      "label": "Balearic Islands"
+    }
+  ],
+  "facts": [
+    "It is one of the few flags with a purple canton.",
+    "The islands include Majorca, Minorca, Ibiza and Formentera."
+  ],
+  "clues": [
+    "Red and yellow stripes with a purple canton holding a white castle.",
+    "An island community whose capital is Palma."
+  ],
+  "lookalikes": [
+    "catalonia",
+    "aragon"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "building",
+    "purple"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Balearic Islands (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Balearic_Islands"
+    }
+  ]
+}

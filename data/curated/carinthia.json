@@ -1,0 +1,66 @@
+{
+  "id": "carinthia",
+  "wikidata": "Q702224",
+  "image": "Flag of Carinthia.svg",
+  "name": "Carinthia",
+  "flagName": "Flag of Carinthia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1946,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "Three horizontal bands of yellow, red and white. The colours come from the Carinthian arms: three black lions on gold beside a red-white-red shield.",
+  "origin": [
+    "The arms date from the 13th century, combining the Babenberg-era lions with Austria's red-white-red. The tricolour has been used since the 19th century."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "The gold of the lion half of the arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "The Austrian red-white-red.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The Austrian red-white-red.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1946,
+      "to": null,
+      "label": "State of Carinthia"
+    }
+  ],
+  "facts": [
+    "Klagenfurt is its capital.",
+    "A Slovene-speaking minority lives in southern Carinthia."
+  ],
+  "clues": [
+    "Yellow, red and white horizontal bands.",
+    "Its colours come from three black lions on gold and an Austrian shield."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-tricolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Carinthia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Carinthia"
+    }
+  ]
+}

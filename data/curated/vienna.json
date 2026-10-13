@@ -1,0 +1,63 @@
+{
+  "id": "vienna",
+  "wikidata": "Q661340",
+  "image": "Flag of Salzburg, Vienna, Vorarlberg.svg",
+  "name": "Vienna",
+  "flagName": "Flag of Vienna",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1946,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "Two horizontal bands of red over white. The same plain flag is used by three Austrian states: Vienna, Salzburg and Vorarlberg, distinguished by their arms on state versions.",
+  "origin": [
+    "Vienna's red and white colours come from its arms, a white cross on red. Salzburg and Vorarlberg also use red over white, from their own arms."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the city arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the city arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1946,
+      "to": null,
+      "label": "Vienna, Salzburg and Vorarlberg"
+    }
+  ],
+  "facts": [
+    "Three Austrian states share this exact civil flag.",
+    "Vienna's arms are a white cross on red, similar to Switzerland's flag."
+  ],
+  "clues": [
+    "Red over white, two horizontal bands, shared by three states.",
+    "The flag of a capital that is also a state."
+  ],
+  "lookalikes": [
+    "indonesia",
+    "monaco",
+    "hesse"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Vienna (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Vienna"
+    }
+  ]
+}

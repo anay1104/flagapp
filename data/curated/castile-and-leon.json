@@ -1,0 +1,92 @@
+{
+  "id": "castile-and-leon",
+  "wikidata": "Q5739",
+  "image": "Flag of Castile and León.svg",
+  "name": "Castile and León",
+  "flagName": "Flag of Castile and León",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1983,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A quartered flag with gold castles on red and purple lions on white, the combined arms of the Crowns of Castile and León.",
+  "origin": [
+    "The quartered castle and lion arms date from the union of Castile and León under Ferdinand III in 1230. The flag was adopted in 1983."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "Castile.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The castles.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "León.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Purple",
+      "hex": "#5F2C82",
+      "family": "purple",
+      "meaning": "The lions.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Castles",
+      "description": "Gold castles with three towers on red.",
+      "meaning": "The Kingdom of Castile.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Lions",
+      "description": "Purple crowned lions on white.",
+      "meaning": "The Kingdom of León.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1983,
+      "to": null,
+      "label": "Castile and León"
+    }
+  ],
+  "facts": [
+    "It is one of the oldest heraldic designs in Europe.",
+    "The same quarters appear in Spain's national arms."
+  ],
+  "clues": [
+    "Quarters of gold castles on red and purple lions on white.",
+    "It joins two medieval kingdoms united in 1230."
+  ],
+  "lookalikes": [
+    "castilla-la-mancha"
+  ],
+  "tags": [
+    "quartered",
+    "building",
+    "animal",
+    "crown",
+    "purple"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Castile and León (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Castile_and_León"
+    }
+  ]
+}

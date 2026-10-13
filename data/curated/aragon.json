@@ -1,0 +1,73 @@
+{
+  "id": "aragon",
+  "wikidata": "Q4040",
+  "image": "Flag of Aragon.svg",
+  "name": "Aragon",
+  "flagName": "Flag of Aragon",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Four red stripes on gold, the Senyera of the Crown of Aragon, with the Aragonese coat of arms toward the hoist.",
+  "origin": [
+    "The red and gold stripes were the royal sign of the Crown of Aragon from the 12th century. The flag with the arms was adopted in 1984."
+  ],
+  "colors": [
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The Senyera.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The Senyera.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Coat of arms",
+      "description": "Four quarters: the oak of Sobrarbe, the Íñigo Arista cross, the Cross of Saint George with four Moors' heads, and the Senyera.",
+      "meaning": "The historical kingdoms and legends of Aragon.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1984,
+      "to": null,
+      "label": "Autonomous Community of Aragon"
+    }
+  ],
+  "facts": [
+    "The four red stripes are shared with Catalonia, Valencia and the Balearic Islands.",
+    "Zaragoza is its capital."
+  ],
+  "clues": [
+    "Four red stripes on gold with a quartered shield.",
+    "Its stripes belonged to a medieval crown."
+  ],
+  "lookalikes": [
+    "catalonia",
+    "valencian-community"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "coat-of-arms",
+    "shield",
+    "plant",
+    "cross"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Aragon (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Aragon"
+    }
+  ]
+}

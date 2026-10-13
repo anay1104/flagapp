@@ -1,0 +1,77 @@
+{
+  "id": "navarre",
+  "wikidata": "Q4018",
+  "image": "Bandera de Navarra.svg",
+  "name": "Navarre",
+  "flagName": "Flag of Navarre",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A red field with the arms of Navarre: gold chains forming a cross and saltire, with an emerald at the centre, under a royal crown.",
+  "origin": [
+    "According to tradition, the chains commemorate those broken by King Sancho VII at the Battle of Las Navas de Tolosa in 1212. A laurel wreath added under Franco was removed in 1981."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The chains.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009B48",
+      "family": "green",
+      "meaning": "The emerald.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Chains",
+      "description": "Gold chains forming an eight-pointed pattern.",
+      "meaning": "By legend, the chains protecting the Almohad caliph's tent, broken by Sancho VII in 1212.",
+      "basis": "popular"
+    }
+  ],
+  "history": [
+    {
+      "from": 1981,
+      "to": null,
+      "label": "Chartered Community of Navarre"
+    }
+  ],
+  "facts": [
+    "Pamplona's San Fermín festival and bull run are in Navarre.",
+    "Navarre was an independent kingdom until 1512."
+  ],
+  "clues": [
+    "Gold chains with an emerald under a crown, on red.",
+    "Its chains are linked by legend to a battle in 1212.",
+    "The region of the running of the bulls."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "coat-of-arms",
+    "crown",
+    "monarchy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Navarre (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Navarre"
+    }
+  ]
+}

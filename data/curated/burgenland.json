@@ -1,0 +1,61 @@
+{
+  "id": "burgenland",
+  "wikidata": "Q43210",
+  "image": "Flag of Burgenland.svg",
+  "name": "Burgenland",
+  "flagName": "Flag of Burgenland",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1922,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "Two horizontal bands of red over gold. The colours come from the state arms, which combine the arms of the medieval Counts of Mattersdorf-Forchtenstein and Güssing.",
+  "origin": [
+    "Burgenland, previously part of Hungary, joined Austria in 1921 after the First World War. Its arms and colours were adopted in 1922."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "From the state arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "From the state arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1922,
+      "to": null,
+      "label": "State of Burgenland"
+    }
+  ],
+  "facts": [
+    "It is Austria's youngest and easternmost state.",
+    "The state flag adds a red eagle on gold."
+  ],
+  "clues": [
+    "Red over gold, two horizontal bands.",
+    "Austria's youngest state, formerly part of Hungary."
+  ],
+  "lookalikes": [
+    "spain"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Burgenland (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Burgenland"
+    }
+  ]
+}

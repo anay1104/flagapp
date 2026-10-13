@@ -1,0 +1,88 @@
+{
+  "id": "basque-country",
+  "wikidata": "Q3995",
+  "image": "Flag of the Basque Country.svg",
+  "name": "Basque Country",
+  "flagName": "Flag of Basque Country",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "The Ikurriña: a red field with a green saltire, overlaid by a white cross. Designed by the brothers Sabino and Luis Arana in 1894.",
+  "origin": [
+    "Sabino Arana, founder of Basque nationalism, and his brother Luis designed the Ikurriña in 1894 for Biscay. It was banned under Franco and became the official flag of the Basque Country in 1979."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#D52B1E",
+      "family": "red",
+      "meaning": "The Basque people.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009B48",
+      "family": "green",
+      "meaning": "The Tree of Gernika, symbol of Basque laws and freedoms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Christianity.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Green saltire",
+      "description": "A green diagonal cross.",
+      "meaning": "The oak of Gernika and Basque liberties.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White cross",
+      "description": "An upright white cross.",
+      "meaning": "God and the Catholic faith.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1894,
+      "to": 1979,
+      "label": "Nationalist flag",
+      "note": "Banned 1939–1977."
+    },
+    {
+      "from": 1979,
+      "to": null,
+      "label": "Basque Autonomous Community"
+    }
+  ],
+  "facts": [
+    "Ikurriña means 'the flag' in Basque.",
+    "Its design inspired the flags of other movements and regions."
+  ],
+  "clues": [
+    "A green saltire and a white cross on red.",
+    "Banned under a dictatorship and legalised in 1977.",
+    "Its name means 'the flag' in the region's language."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "cross",
+    "saltire",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Basque Country (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Basque_Country"
+    }
+  ]
+}

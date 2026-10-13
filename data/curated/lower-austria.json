@@ -1,0 +1,62 @@
+{
+  "id": "lower-austria",
+  "wikidata": "Q42497",
+  "image": "Flag of Lower Austria.svg",
+  "name": "Lower Austria",
+  "flagName": "Flag of Lower Austria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1920,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Austria",
+  "summary": "Two horizontal bands of blue over yellow. The colours come from the state arms: five golden eagles on blue, attributed in the Middle Ages to Saint Leopold.",
+  "origin": [
+    "The five eagles were invented as arms for Saint Leopold III, the Babenberg margrave, in the 14th century. Lower Austria became a separate state from Vienna in 1920–1922."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0050A0",
+      "family": "blue",
+      "meaning": "The field of the five-eagle arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "The eagles.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1920,
+      "to": null,
+      "label": "State of Lower Austria"
+    }
+  ],
+  "facts": [
+    "Lower Austria surrounds Vienna.",
+    "Its capital is St. Pölten, chosen in 1986."
+  ],
+  "clues": [
+    "Blue over yellow, two horizontal bands.",
+    "Its colours come from five golden eagles attributed to a saint.",
+    "The Austrian state that surrounds the capital."
+  ],
+  "lookalikes": [
+    "ukraine"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Lower Austria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Lower_Austria"
+    }
+  ]
+}

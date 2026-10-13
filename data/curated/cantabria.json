@@ -1,0 +1,62 @@
+{
+  "id": "cantabria",
+  "wikidata": "Q3946",
+  "image": "Flag of Cantabria (Official).svg",
+  "name": "Cantabria",
+  "flagName": "Flag of Cantabria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Two horizontal bands of white over red. The colours come from the maritime registration flag of Santander's ships.",
+  "origin": [
+    "White and red were the colours of the port of Santander's maritime flag. They were adopted in the 1981 Statute of Autonomy; a version with the arms is also used."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the maritime flag.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "From the maritime flag.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1981,
+      "to": null,
+      "label": "Cantabria"
+    }
+  ],
+  "facts": [
+    "It is the same as Poland's flag in design.",
+    "Santander is its capital."
+  ],
+  "clues": [
+    "White over red, two bands, from a Spanish port.",
+    "Identical in design to a European country's flag."
+  ],
+  "lookalikes": [
+    "poland",
+    "thuringia"
+  ],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Cantabria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Cantabria"
+    }
+  ]
+}

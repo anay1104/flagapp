@@ -1,0 +1,76 @@
+{
+  "id": "andalusia",
+  "wikidata": "Q5783",
+  "image": "Flag of Andalucía.svg",
+  "name": "Andalusia",
+  "flagName": "Flag of Andalusia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Green, white and green horizontal bands with the Andalusian arms: Hercules between two pillars, holding two lions, with the motto 'Dominator Hercules Fundator'.",
+  "origin": [
+    "The green-white-green flag was adopted by the Andalusian nationalist assembly of Ronda in 1918, promoted by Blas Infante. It became official in the 1981 Statute of Autonomy."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#007A3D",
+      "family": "green",
+      "meaning": "Hope and union; also linked to the Umayyad green.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace and dialogue.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Hercules and the pillars",
+      "description": "Hercules between the Pillars of Hercules, holding two lions.",
+      "meaning": "Andalusia's mythical founding by Hercules.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1918,
+      "to": 1981,
+      "label": "Nationalist flag"
+    },
+    {
+      "from": 1981,
+      "to": null,
+      "label": "Autonomous Community of Andalusia"
+    }
+  ],
+  "facts": [
+    "Blas Infante is honoured as the 'Father of the Andalusian Nation'.",
+    "Andalusia is Spain's most populous autonomous community."
+  ],
+  "clues": [
+    "Green, white and green bands with Hercules between two pillars.",
+    "Its arms show a mythical hero said to have founded the region."
+  ],
+  "lookalikes": [
+    "nigeria"
+  ],
+  "tags": [
+    "horizontal-tricolour",
+    "coat-of-arms",
+    "animal",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Andalusia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Andalusia"
+    }
+  ]
+}

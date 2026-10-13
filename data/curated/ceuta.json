@@ -1,0 +1,67 @@
+{
+  "id": "ceuta",
+  "wikidata": "Q5823",
+  "image": "Flag of Ceuta.svg",
+  "name": "Ceuta",
+  "flagName": "Flag of Ceuta",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Black and white triangles radiating from the centre (gyronny), with the Portuguese coat of arms. It is the flag of Lisbon, kept from Ceuta's period under Portugal.",
+  "origin": [
+    "Portugal conquered Ceuta in 1415 and gave it the flag of Lisbon. It passed to Spain after the Iberian Union, but kept the Portuguese symbols."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The flag of Lisbon.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The flag of Lisbon.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Portuguese arms",
+      "description": "The arms of Portugal with the castles and quinas.",
+      "meaning": "Ceuta's Portuguese history.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Autonomous City of Ceuta"
+    }
+  ],
+  "facts": [
+    "Ceuta is a Spanish city on the North African coast.",
+    "Its flag shows the arms of Portugal, not Spain."
+  ],
+  "clues": [
+    "Black and white triangles meeting at the centre, with the arms of another country.",
+    "A Spanish city on the African coast."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "coat-of-arms",
+    "shield"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Ceuta (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Ceuta"
+    }
+  ]
+}

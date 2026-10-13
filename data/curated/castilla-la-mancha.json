@@ -1,0 +1,76 @@
+{
+  "id": "castilla-la-mancha",
+  "wikidata": "Q5748",
+  "image": "Flag of Castile-La Mancha.svg",
+  "name": "Castilla–La Mancha",
+  "flagName": "Flag of Castilla–La Mancha",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1983,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "Divided vertically: crimson with a gold castle at the hoist, and white at the fly.",
+  "origin": [
+    "The castle represents Castile and the white La Mancha. The flag was adopted in 1983."
+  ],
+  "colors": [
+    {
+      "name": "Crimson",
+      "hex": "#A6192E",
+      "family": "red",
+      "meaning": "Castile.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The castle.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "La Mancha.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Castle",
+      "description": "A gold castle with three towers.",
+      "meaning": "Castile.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1983,
+      "to": null,
+      "label": "Castilla–La Mancha"
+    }
+  ],
+  "facts": [
+    "La Mancha is the setting of Cervantes's Don Quixote.",
+    "Toledo is its capital."
+  ],
+  "clues": [
+    "Crimson with a gold castle beside a white half.",
+    "The region of Don Quixote."
+  ],
+  "lookalikes": [
+    "castile-and-leon"
+  ],
+  "tags": [
+    "vertical-bicolour",
+    "building"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Castilla–La Mancha (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Castilla–La_Mancha"
+    }
+  ]
+}

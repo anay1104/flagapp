@@ -1,0 +1,77 @@
+{
+  "id": "valencian-community",
+  "wikidata": "Q5720",
+  "image": "Flag of the Land of Valencia (official).svg",
+  "name": "Valencian Community",
+  "flagName": "Flag of Valencian Community",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "The Senyera of four red stripes on gold, with a blue band at the hoist topped by a crown. It is called the Real Senyera.",
+  "origin": [
+    "The blue band with a crown was added to the Valencian Senyera in the late Middle Ages, reflecting the royal privileges of the city of Valencia. The flag was adopted in 1982."
+  ],
+  "colors": [
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The Senyera.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The Senyera.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0072CE",
+      "family": "blue",
+      "meaning": "The crowned band.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Crowned blue band",
+      "description": "A blue vertical band with a gold crown.",
+      "meaning": "Royal privileges of the city of Valencia.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1982,
+      "to": null,
+      "label": "Valencian Community"
+    }
+  ],
+  "facts": [
+    "Use of the blue band was a point of dispute between Valencian and Catalan identities.",
+    "Valencia is the region's capital."
+  ],
+  "clues": [
+    "Red and gold stripes with a crowned blue band at the hoist.",
+    "Like Catalonia's flag with a royal blue band added."
+  ],
+  "lookalikes": [
+    "catalonia",
+    "aragon"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "crown"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Valencian Community (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Valencian_Community"
+    }
+  ]
+}

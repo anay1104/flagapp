@@ -1,0 +1,60 @@
+{
+  "id": "melilla",
+  "wikidata": "Q5831",
+  "image": "Flag of Melilla.svg",
+  "name": "Melilla",
+  "flagName": "Flag of Melilla",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A light blue field with the arms of Melilla, including the arms of the Dukes of Medina Sidonia, whose forces took the city in 1497.",
+  "origin": [
+    "Melilla was taken by the Duke of Medina Sidonia in 1497. It became an autonomous city in 1995."
+  ],
+  "colors": [
+    {
+      "name": "Light blue",
+      "hex": "#6CACE4",
+      "family": "light-blue",
+      "meaning": "The field.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "City arms",
+      "description": "Arms with the Pillars of Hercules and Guzmán family symbols.",
+      "meaning": "The city's conquest and Spanish sovereignty.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Autonomous City of Melilla"
+    }
+  ],
+  "facts": [
+    "Melilla is a Spanish city in North Africa, bordering Morocco.",
+    "Morocco claims both Ceuta and Melilla."
+  ],
+  "clues": [
+    "A light blue field with a city coat of arms.",
+    "A Spanish city on the North African coast taken in 1497."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "coat-of-arms"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Melilla (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Melilla"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "region-of-murcia",
+  "wikidata": "Q5772",
+  "image": "Flag of the Region of Murcia.svg",
+  "name": "Region of Murcia",
+  "flagName": "Flag of Region of Murcia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Spain",
+  "summary": "A crimson field with four gold castles in the upper hoist and seven crowns in the lower fly.",
+  "origin": [
+    "The four castles represent the Kingdom of Murcia's borders and the seven crowns the privileges granted by kings. The flag was adopted in 1982."
+  ],
+  "colors": [
+    {
+      "name": "Crimson",
+      "hex": "#A6192E",
+      "family": "red",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "The castles and crowns.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Four castles",
+      "description": "Gold castles.",
+      "meaning": "The borders of the old Kingdom of Murcia.",
+      "basis": "official"
+    },
+    {
+      "name": "Seven crowns",
+      "description": "Gold crowns in rows.",
+      "meaning": "Seven royal privileges granted to the city of Murcia.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1982,
+      "to": null,
+      "label": "Region of Murcia"
+    }
+  ],
+  "facts": [
+    "Murcia is known as 'the orchard of Europe'.",
+    "Its capital is the city of Murcia."
+  ],
+  "clues": [
+    "Crimson with four gold castles and seven crowns.",
+    "Its crowns stand for royal privileges."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "building",
+    "crown",
+    "monarchy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Region of Murcia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Region_of_Murcia"
+    }
+  ]
+}
