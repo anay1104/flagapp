@@ -1,0 +1,47 @@
+{
+  "id": "liberia",
+  "wikidata": "Q1014",
+  "name": "Liberia",
+  "flagName": "Flag of Liberia",
+  "nickname": "The Lone Star",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1847,
+  "to": null,
+  "adopted": "1847-08-24",
+  "ratio": "10:19",
+  "summary": "Eleven red and white stripes with a single white star on a blue canton. Modelled on the US flag, it reflects Liberia's founding by the American Colonization Society as a home for freed African Americans.",
+  "origin": [
+    "Liberia was founded in the 1820s by the American Colonization Society as a settlement for free Black Americans and formerly enslaved people. It declared independence on 26 July 1847.",
+    "A committee of women led by Susannah Lewis sewed the flag, which was adopted on 24 August 1847, now Flag Day."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#BF0A30", "family": "red", "meaning": "Courage.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Moral excellence.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The African continent.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Eleven stripes", "description": "Six red and five white horizontal stripes.", "meaning": "The eleven signatories of the Liberian Declaration of Independence.", "basis": "traditional" },
+    { "name": "Lone star", "description": "A white five-pointed star on the blue canton.", "meaning": "The first independent republic in Africa, a beacon of freedom.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1827, "to": 1847, "label": "Commonwealth of Liberia", "note": "Thirteen stripes with a white cross in the canton." },
+    { "from": 1847, "to": null, "label": "Republic of Liberia" }
+  ],
+  "facts": [
+    "Its 10:19 ratio matches the US flag.",
+    "Liberian flags of convenience on ships mean the design is flown on more of the world's merchant fleet than almost any other.",
+    "Malaysia's flag has a similar layout with fourteen stripes and a crescent."
+  ],
+  "clues": [
+    "Red and white stripes with a single white star on a blue canton.",
+    "Its eleven stripes stand for the signers of a declaration of independence.",
+    "Modelled on the flag of the country whose freed citizens founded it."
+  ],
+  "lookalikes": ["united-states", "malaysia", "puerto-rico"],
+  "tags": ["horizontal-stripes", "canton", "star"],
+  "sources": [
+    { "title": "Flag of Liberia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Liberia" },
+    { "title": "Liberia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lr.html" }
+  ]
+}

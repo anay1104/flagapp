@@ -1,0 +1,42 @@
+{
+  "id": "ivory-coast",
+  "wikidata": "Q1008",
+  "name": "Ivory Coast",
+  "flagName": "Flag of Côte d'Ivoire",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1959,
+  "to": null,
+  "adopted": "1959-12-03",
+  "ratio": "2:3",
+  "aliases": ["Côte d'Ivoire", "Cote d'Ivoire"],
+  "summary": "Orange, white and green vertical bands. Adopted in 1959, a year before independence from France, it closely resembles Ireland's flag in reverse.",
+  "origin": [
+    "The flag was adopted by the Legislative Assembly on 3 December 1959 and kept at independence on 7 August 1960 under President Félix Houphouët-Boigny. Its vertical layout follows the French tricolour."
+  ],
+  "colors": [
+    { "name": "Orange", "hex": "#F77F00", "family": "orange", "meaning": "The savannah of the north and its fertile land.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace, and unity between north and south.", "basis": "traditional" },
+    { "name": "Green", "hex": "#009E60", "family": "green", "meaning": "Hope, and the forests of the south.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1959, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Ireland's flag has the same colours in reverse order and a 1:2 ratio; the two are often confused.",
+    "Niger's flag has the same colours in horizontal bands with an orange disc.",
+    "The country asks to be called Côte d'Ivoire in all languages."
+  ],
+  "clues": [
+    "Orange, white and green vertical bands.",
+    "Often confused with a European flag that has the same colours in reverse.",
+    "Its orange is the northern savannah and its green the southern forest."
+  ],
+  "lookalikes": ["ireland", "italy", "india"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Flag of Ivory Coast (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ivory_Coast" },
+    { "title": "Ivory Coast (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ci.html" }
+  ]
+}

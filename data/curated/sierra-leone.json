@@ -1,0 +1,41 @@
+{
+  "id": "sierra-leone",
+  "wikidata": "Q1044",
+  "name": "Sierra Leone",
+  "flagName": "Flag of Sierra Leone",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1961,
+  "to": null,
+  "adopted": "1961-04-27",
+  "ratio": "2:3",
+  "summary": "Green, white and blue horizontal bands. Adopted at independence from Britain on 27 April 1961, its colours come from the coat of arms granted in 1960.",
+  "origin": [
+    "The College of Arms granted Sierra Leone its coat of arms in 1960, showing a lion, a torch and wavy lines. The flag's colours were drawn from the arms and raised at independence in 1961."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#1EB53A", "family": "green", "meaning": "Agriculture, the mountains and natural resources.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Unity and justice.", "basis": "official" },
+    { "name": "Blue", "hex": "#0072C6", "family": "blue", "meaning": "The natural harbour of Freetown and hope for a contribution to world peace.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1914, "to": 1961, "label": "Colony of Sierra Leone", "note": "Blue ensign with an elephant and palm badge." },
+    { "from": 1961, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Freetown's harbour is one of the largest natural harbours in the world.",
+    "Gabon's flag is green, yellow and blue; Sierra Leone's middle band is white."
+  ],
+  "clues": [
+    "Green, white and blue horizontal bands.",
+    "Its blue stands for a great natural harbour.",
+    "Its colours came from a coat of arms granted the year before independence."
+  ],
+  "lookalikes": ["gabon", "estonia"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Sierra Leone (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Sierra_Leone" },
+    { "title": "Sierra Leone (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sl.html" }
+  ]
+}

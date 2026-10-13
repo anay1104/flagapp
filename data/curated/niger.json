@@ -1,0 +1,43 @@
+{
+  "id": "niger",
+  "wikidata": "Q1032",
+  "name": "Niger",
+  "flagName": "Flag of Niger",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1959,
+  "to": null,
+  "adopted": "1959-11-23",
+  "ratio": "6:7",
+  "summary": "Orange, white and green horizontal bands with an orange disc in the centre, in an unusual nearly square ratio. It was adopted in 1959, before independence from France in 1960.",
+  "origin": [
+    "The Territorial Assembly adopted the flag on 23 November 1959. Niger became independent on 3 August 1960 and kept it; the 6:7 proportions are unusual among national flags."
+  ],
+  "colors": [
+    { "name": "Orange", "hex": "#E05206", "family": "orange", "meaning": "The Sahara desert in the north.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity and innocence; also the Niger River.", "basis": "official" },
+    { "name": "Green", "hex": "#0DB02B", "family": "green", "meaning": "Hope, and the fertile lands of the south and west.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Orange disc", "description": "A circle in the centre of the white band.", "meaning": "The sun; also read as the sacrifices of the people.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1959, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "India's flag has the same colour scheme with a blue wheel; Niger's has an orange disc.",
+    "Its 6:7 ratio is closer to square than almost any other national flag except Switzerland's and Vatican City's.",
+    "Ivory Coast's flag uses the same colours vertically."
+  ],
+  "clues": [
+    "Orange, white and green horizontal bands with an orange disc, nearly square.",
+    "Its orange stands for a vast desert.",
+    "Often confused with a large Asian country's flag that has a wheel."
+  ],
+  "lookalikes": ["india", "ivory-coast"],
+  "tags": ["horizontal-tricolour", "disc", "sun"],
+  "sources": [
+    { "title": "Flag of Niger (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Niger" },
+    { "title": "Niger (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ne.html" }
+  ]
+}

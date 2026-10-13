@@ -1,0 +1,43 @@
+{
+  "id": "luxembourg",
+  "wikidata": "Q32",
+  "name": "Luxembourg",
+  "flagName": "Flag of Luxembourg",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1993,
+  "to": null,
+  "adopted": "1972-06-23",
+  "ratio": "3:5",
+  "summary": "Red, white and light blue horizontal bands. Nearly identical to the Dutch flag, it differs in its lighter blue and longer proportions. Its colours come from the arms of the House of Luxembourg.",
+  "origin": [
+    "The colours come from the coat of arms of the Counts of Luxembourg (13th century): a red lion on a field of white and blue stripes.",
+    "The tricolour came into use in the 1830s and was defined by law on 23 June 1972; the 1993 law specified the light blue shade."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EF3340", "family": "red", "meaning": "The red lion of the House of Luxembourg's arms.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stripes of the arms.", "basis": "traditional" },
+    { "name": "Light blue", "hex": "#00A3E0", "family": "light-blue", "meaning": "The stripes of the arms.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1845, "to": 1972, "label": "Unofficial tricolour" },
+    { "from": 1972, "to": 1993, "label": "Defined by law" },
+    { "from": 1993, "to": null, "label": "Light blue specified" }
+  ],
+  "facts": [
+    "In 2006 a bill proposed replacing the flag with the Red Lion flag (Roude Léiw) to distinguish it from the Dutch flag; the tricolour was kept, and the lion flag is used as a civil ensign.",
+    "Its 3:5 ratio is longer than the Dutch 2:3."
+  ],
+  "clues": [
+    "Red, white and light blue horizontal bands.",
+    "Almost identical to a neighbouring kingdom's flag, but longer and lighter blue.",
+    "Its colours come from a red lion on striped white and blue."
+  ],
+  "lookalikes": ["netherlands", "croatia", "paraguay"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Luxembourg (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Luxembourg" },
+    { "title": "Luxembourg (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lu.html" }
+  ]
+}

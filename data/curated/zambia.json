@@ -1,0 +1,47 @@
+{
+  "id": "zambia",
+  "wikidata": "Q953",
+  "name": "Zambia",
+  "flagName": "Flag of Zambia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1996,
+  "to": null,
+  "adopted": "1964-10-24",
+  "ratio": "2:3",
+  "designer": "Gabriel Ellison",
+  "summary": "A green field with a block of red, black and orange vertical stripes in the lower fly, beneath an orange African fish eagle in flight. Designed by Gabriel Ellison, it was adopted at independence in 1964.",
+  "origin": [
+    "Northern Rhodesia became independent as Zambia on 24 October 1964. The flag, designed by the artist Gabriel Ellison, was based on the colours of the United National Independence Party (UNIP).",
+    "In 1996 the green was made slightly lighter."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#198A00", "family": "green", "meaning": "The country's natural resources and vegetation.", "basis": "official" },
+    { "name": "Red", "hex": "#DE2010", "family": "red", "meaning": "The struggle for freedom.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The people of Zambia.", "basis": "official" },
+    { "name": "Orange", "hex": "#EF7D00", "family": "orange", "meaning": "The country's mineral wealth, especially copper.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "African fish eagle", "description": "An orange eagle in flight above the stripes.", "meaning": "The people's ability to rise above the nation's problems.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1964, "to": 1996, "label": "Original shade of green" },
+    { "from": 1996, "to": null, "label": "Lighter green" }
+  ],
+  "facts": [
+    "Its emblems are placed in the fly rather than the hoist, which is rare.",
+    "Gabriel Ellison also designed many of Zambia's postage stamps.",
+    "The fish eagle also appears on Zambia's coat of arms."
+  ],
+  "clues": [
+    "Green with an orange eagle in flight above red, black and orange stripes in the lower fly.",
+    "Its orange stands for copper.",
+    "Unusually, all its symbols are at the fly end."
+  ],
+  "lookalikes": ["zimbabwe"],
+  "tags": ["eagle", "bird", "vertical-stripes"],
+  "sources": [
+    { "title": "Flag of Zambia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Zambia" },
+    { "title": "Zambia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/zm.html" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "south-sudan",
+  "wikidata": "Q958",
+  "name": "South Sudan",
+  "flagName": "Flag of South Sudan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2011,
+  "to": null,
+  "adopted": "2011-07-09",
+  "ratio": "1:2",
+  "summary": "Black, red and green horizontal bands edged in white, with a blue triangle at the hoist bearing a yellow star. Based on the flag of the Sudan People's Liberation Movement, it became the national flag at independence in 2011.",
+  "origin": [
+    "The Sudan People's Liberation Movement (SPLM) used the flag during the Second Sudanese Civil War (1983–2005). After the 2005 peace agreement it became the flag of autonomous Southern Sudan.",
+    "South Sudan became independent from Sudan on 9 July 2011, the world's newest UN member state, and kept the flag."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The people of South Sudan.", "basis": "official" },
+    { "name": "Red", "hex": "#DA121A", "family": "red", "meaning": "The blood shed for freedom.", "basis": "official" },
+    { "name": "Green", "hex": "#078930", "family": "green", "meaning": "The land.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace attained after years of struggle.", "basis": "official" },
+    { "name": "Blue", "hex": "#0F47AF", "family": "blue", "meaning": "The waters of the Nile.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCDD09", "family": "yellow", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Star of Bethlehem", "description": "A yellow five-pointed star in the blue triangle.", "meaning": "The unity of the states of South Sudan; called the Star of Bethlehem in official descriptions.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 2005, "to": 2011, "label": "Autonomous Southern Sudan" },
+    { "from": 2011, "to": null, "label": "Republic of South Sudan" }
+  ],
+  "facts": [
+    "It has six colours, as many as South Africa's flag.",
+    "Kenya's flag also uses black, red and green with white edging.",
+    "South Sudan is the newest UN member state, admitted in 2011."
+  ],
+  "clues": [
+    "Black, red and green bands edged in white, with a blue hoist triangle and a yellow star.",
+    "The flag of the newest UN member state.",
+    "Its blue triangle stands for a great river."
+  ],
+  "lookalikes": ["kenya", "sudan"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "fimbriation", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of South Sudan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Sudan" },
+    { "title": "South Sudan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ss.html" }
+  ]
+}

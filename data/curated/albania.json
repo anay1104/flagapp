@@ -1,0 +1,47 @@
+{
+  "id": "albania",
+  "wikidata": "Q222",
+  "name": "Albania",
+  "flagName": "Flag of Albania",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-04-07",
+  "ratio": "5:7",
+  "summary": "A black double-headed eagle on a red field. It is based on the banner of Gjergj Kastrioti Skanderbeg, the 15th-century leader of Albanian resistance to the Ottoman Empire.",
+  "origin": [
+    "Skanderbeg, who led the League of Lezhë against the Ottomans from 1444, used a red banner with a black double-headed eagle, adapted from Byzantine heraldry. Ismail Qemali raised a similar flag at the declaration of independence in Vlorë on 28 November 1912.",
+    "Various regimes added symbols: a crown under King Zog, Italian fasces during the occupation, and a gold-edged red star under the communist People's Republic. The star was removed on 7 April 1992."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#E41E20", "family": "red", "meaning": "Bravery, strength and the blood shed for freedom.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The eagle.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Double-headed eagle", "description": "A black eagle with two heads and spread wings.", "meaning": "The sovereign state of Albania; Albanians call themselves 'Shqiptarë' and their country 'Shqipëria', popularly linked to 'shqiponjë', eagle.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1912, "to": 1928, "label": "Independence flag" },
+    { "from": 1928, "to": 1939, "label": "Kingdom of Albania", "note": "Eagle with Skanderbeg's helmet." },
+    { "from": 1946, "to": 1992, "label": "People's Republic", "note": "Red star above the eagle." },
+    { "from": 1992, "to": null, "label": "Republic of Albania" }
+  ],
+  "facts": [
+    "Flag Day is 28 November, the anniversary of independence in 1912.",
+    "The double-headed eagle is also used in the arms of Serbia, Montenegro and Russia, all from Byzantine tradition.",
+    "Albanians often make an eagle gesture with their hands as a sign of national identity."
+  ],
+  "clues": [
+    "A black double-headed eagle on red.",
+    "Based on the banner of a 15th-century commander who fought the Ottomans.",
+    "A red communist star was removed from it in 1992.",
+    "Its people's name for their country is popularly linked to the word for eagle."
+  ],
+  "lookalikes": ["montenegro"],
+  "tags": ["plain-field", "eagle", "bird"],
+  "sources": [
+    { "title": "Flag of Albania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Albania" },
+    { "title": "Albania (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/al.html" }
+  ]
+}

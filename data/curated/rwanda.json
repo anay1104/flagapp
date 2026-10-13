@@ -1,0 +1,45 @@
+{
+  "id": "rwanda",
+  "wikidata": "Q1037",
+  "name": "Rwanda",
+  "flagName": "Flag of Rwanda",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2001,
+  "to": null,
+  "adopted": "2001-10-25",
+  "ratio": "2:3",
+  "designer": "Alphonse Kirimobenecyo",
+  "summary": "Light blue, yellow and green horizontal bands, the blue twice as tall, with a golden sun of 24 rays in the upper fly. Adopted in 2001, it replaced the red-yellow-green flag associated with the 1994 genocide.",
+  "origin": [
+    "Rwanda's flag from 1961 was a red-yellow-green vertical tricolour with a black 'R'. After the 1994 genocide against the Tutsi, the government sought new symbols promoting national unity and reconciliation.",
+    "Alphonse Kirimobenecyo's design was adopted on 25 October 2001, along with a new coat of arms and national anthem."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#00A1DE", "family": "light-blue", "meaning": "Happiness and peace.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FAD201", "family": "yellow", "meaning": "Economic development.", "basis": "official" },
+    { "name": "Green", "hex": "#20603D", "family": "green", "meaning": "Hope for prosperity.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun", "description": "A golden sun with 24 rays in the upper fly.", "meaning": "Enlightenment, and the light that guides the people toward unity and transparency.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1961, "to": 2001, "label": "Republic of Rwanda", "note": "Red-yellow-green vertical tricolour with an 'R'." },
+    { "from": 2001, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "Rwanda adopted a new anthem, 'Rwanda Nziza', at the same time.",
+    "Its sun is in the upper fly rather than the canton."
+  ],
+  "clues": [
+    "A double-height light blue band over yellow and green, with a golden sun in the upper fly.",
+    "Adopted in 2001 to promote national reconciliation.",
+    "Its predecessor had a large letter in the centre."
+  ],
+  "lookalikes": ["gabon", "kazakhstan"],
+  "tags": ["horizontal-stripes", "sun"],
+  "sources": [
+    { "title": "Flag of Rwanda (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Rwanda" },
+    { "title": "Rwanda (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/rw.html" }
+  ]
+}

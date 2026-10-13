@@ -1,0 +1,46 @@
+{
+  "id": "san-marino",
+  "wikidata": "Q238",
+  "name": "San Marino",
+  "flagName": "Flag of San Marino",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2011,
+  "to": null,
+  "adopted": "1862-04-06",
+  "ratio": "3:4",
+  "summary": "White over light blue with the coat of arms in the centre: three towers on three peaks of Mount Titano, under a crown, with the motto 'LIBERTAS'. San Marino claims to be the world's oldest surviving republic, founded in 301.",
+  "origin": [
+    "White and light blue have been used since the 18th century. The flag with the coat of arms was officially adopted on 6 April 1862.",
+    "The current specifications were set by a 2011 law. The crown on the arms symbolises sovereignty, not monarchy."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The snow on Mount Titano, and peace.", "basis": "traditional" },
+    { "name": "Light blue", "hex": "#5EB6E4", "family": "light-blue", "meaning": "The sky over the country, and liberty.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Three towers", "description": "Towers with ostrich feathers on three green peaks.", "meaning": "The three towers of San Marino, Guaita, Cesta and Montale, on the peaks of Mount Titano.", "basis": "official" },
+    { "name": "LIBERTAS", "description": "The motto on a ribbon below the shield.", "meaning": "Liberty: San Marino's independence over many centuries.", "basis": "official" },
+    { "name": "Crown", "description": "A closed crown above the shield.", "meaning": "Sovereignty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1862, "to": 2011, "label": "Flag with arms" },
+    { "from": 2011, "to": null, "label": "2011 law" }
+  ],
+  "facts": [
+    "The civil flag has no coat of arms.",
+    "San Marino is entirely surrounded by Italy.",
+    "Its three towers appear on its euro coins."
+  ],
+  "clues": [
+    "White over light blue with a shield of three towers on three peaks.",
+    "Its motto is 'LIBERTAS'.",
+    "A tiny republic surrounded by another country claims founding in 301."
+  ],
+  "lookalikes": ["guatemala", "argentina"],
+  "tags": ["horizontal-bicolour", "coat-of-arms", "shield", "building", "mountain", "crown", "text", "plant"],
+  "sources": [
+    { "title": "Flag of San Marino (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_San_Marino" },
+    { "title": "San Marino (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sm.html" }
+  ]
+}

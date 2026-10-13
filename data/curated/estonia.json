@@ -1,0 +1,45 @@
+{
+  "id": "estonia",
+  "wikidata": "Q191",
+  "name": "Estonia",
+  "flagName": "Flag of Estonia",
+  "nickname": "Sinimustvalge (blue-black-white)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-08-07",
+  "ratio": "7:11",
+  "summary": "Blue, black and white horizontal bands. It began as the flag of the Estonian Students' Society in 1884, became the national flag in 1918, was banned under Soviet rule, and was restored in 1990.",
+  "origin": [
+    "The Estonian Students' Society at the University of Tartu consecrated a blue-black-white flag in 1884. It became the symbol of the national awakening and was adopted by the Republic of Estonia in 1918 and confirmed in 1922.",
+    "After the Soviet occupation in 1940 the flag was banned, and people who kept it risked imprisonment. It was raised again on Pikk Hermann tower in Tallinn on 24 February 1989 and officially restored on 7 August 1990."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0072CE", "family": "blue", "meaning": "Commonly read as the sky, lakes and sea, and loyalty.", "basis": "popular" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Commonly read as the soil of the homeland, or the dark past of the Estonian people.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly read as hope for a bright future, snow and the birch trees.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1884, "to": 1918, "label": "Estonian Students' Society flag" },
+    { "from": 1918, "to": 1940, "label": "Republic of Estonia" },
+    { "from": 1953, "to": 1990, "label": "Estonian SSR", "note": "Red with blue and white waves." },
+    { "from": 1990, "to": null, "label": "Restored" }
+  ],
+  "facts": [
+    "The original 1884 flag survives and is kept at the Estonian National Museum in Tartu.",
+    "Flag Day is 4 June, the anniversary of the 1884 consecration."
+  ],
+  "clues": [
+    "Blue, black and white horizontal bands.",
+    "It began as a students' society flag in a university town in 1884.",
+    "It was raised again on a medieval tower in its capital in 1989."
+  ],
+  "lookalikes": ["botswana", "sierra-leone"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Estonia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Estonia" },
+    { "title": "Estonia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ee.html" }
+  ]
+}

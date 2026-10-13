@@ -1,0 +1,46 @@
+{
+  "id": "cameroon",
+  "wikidata": "Q1009",
+  "name": "Cameroon",
+  "flagName": "Flag of Cameroon",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "adopted": "1975-05-20",
+  "ratio": "2:3",
+  "summary": "Green, red and yellow vertical bands with a yellow five-pointed star in the centre. The star replaced two stars in 1975, when Cameroon became a unitary state.",
+  "origin": [
+    "French Cameroon adopted a plain green-red-yellow tricolour at independence in 1960. When it united with the southern part of British Cameroons in 1961, two yellow stars were added in the green band for the two federated states.",
+    "After the 1972 referendum ended the federation, the two stars were replaced by a single star in the centre on 20 May 1975."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#007A5E", "family": "green", "meaning": "The forests of the south and hope.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Unity between north and south.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The sun and the savannah of the north.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Star", "description": "A yellow five-pointed star in the red band.", "meaning": "The unity of the state, the 'star of unity'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1957, "to": 1961, "label": "Plain tricolour" },
+    { "from": 1961, "to": 1975, "label": "Federal Republic", "note": "Two stars in the green band." },
+    { "from": 1975, "to": null, "label": "United Republic and Republic of Cameroon" }
+  ],
+  "facts": [
+    "National Day, 20 May, marks the 1972 referendum creating the unitary state.",
+    "Senegal's flag has the same colour family with a green star.",
+    "Tension over the English-speaking regions has led separatists to use their own 'Ambazonia' flag."
+  ],
+  "clues": [
+    "Green, red and yellow vertical bands with a yellow star in the centre.",
+    "Its two stars became one when a federation became unitary.",
+    "Its red stands for unity between north and south."
+  ],
+  "lookalikes": ["senegal", "guinea", "mali"],
+  "tags": ["vertical-tricolour", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Cameroon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Cameroon" },
+    { "title": "Cameroon (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cm.html" }
+  ]
+}

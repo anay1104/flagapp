@@ -1,0 +1,46 @@
+{
+  "id": "liechtenstein",
+  "wikidata": "Q347",
+  "name": "Liechtenstein",
+  "flagName": "Flag of Liechtenstein",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "adopted": "1982-06-30",
+  "ratio": "3:5",
+  "summary": "Blue over red with a golden princely crown in the upper hoist. The crown was added in 1937 after Liechtenstein's team discovered at the Berlin Olympics that its flag was identical to Haiti's.",
+  "origin": [
+    "Blue and red were the colours of the princely household's livery from the 18th century, and the plain blue-red flag was used from 1852 and confirmed in the 1921 constitution.",
+    "At the 1936 Summer Olympics, Liechtenstein's delegation found that Haiti used the same blue-over-red flag. A crown was added in 1937 to distinguish them. The crown's design was revised in 1982."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002B7F", "family": "blue", "meaning": "The sky.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The glow of evening fires in homes.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFD83D", "family": "yellow", "meaning": "The crown.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Princely crown", "description": "A gold crown in the upper hoist.", "meaning": "The unity of the people and the princely house.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1852, "to": 1937, "label": "Blue over red" },
+    { "from": 1937, "to": 1982, "label": "Crown added" },
+    { "from": 1982, "to": null, "label": "Crown redrawn" }
+  ],
+  "facts": [
+    "Haiti later added its coat of arms to its state flag, but its civil flag is still plain blue over red.",
+    "Liechtenstein is one of only two doubly landlocked countries, with Uzbekistan.",
+    "The princely family lives in Vaduz Castle above the capital."
+  ],
+  "clues": [
+    "Blue over red with a gold crown in the upper hoist.",
+    "Its crown was added after a surprise at the 1936 Olympics.",
+    "Without the crown, it matched a Caribbean nation's flag."
+  ],
+  "lookalikes": ["haiti"],
+  "tags": ["horizontal-bicolour", "crown", "monarchy"],
+  "sources": [
+    { "title": "Flag of Liechtenstein (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein" },
+    { "title": "Liechtenstein (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/li.html" }
+  ]
+}

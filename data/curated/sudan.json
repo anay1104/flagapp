@@ -1,0 +1,45 @@
+{
+  "id": "sudan",
+  "wikidata": "Q1049",
+  "name": "Sudan",
+  "flagName": "Flag of Sudan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1970,
+  "to": null,
+  "adopted": "1970-05-20",
+  "ratio": "1:2",
+  "designer": "Abdel Rahman Ahmed Al-Jali",
+  "summary": "Red, white and black horizontal bands with a green triangle at the hoist, in the Pan-Arab colours. Adopted in 1970 under Gaafar Nimeiry, it replaced a blue, yellow and green tricolour.",
+  "origin": [
+    "At independence in 1956, Sudan used a blue-yellow-green horizontal tricolour for the Nile, the desert and agriculture.",
+    "After Gaafar Nimeiry's coup in 1969, a competition produced the current Pan-Arab design by Abdel Rahman Ahmed Al-Jali, adopted on 20 May 1970."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The struggle and the martyrs of Sudan and the Arab world.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace, light and optimism; also the White Flag League of 1924.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Sudan itself (bilad al-sudan, 'land of the Blacks') and the Mahdist revolution's flag.", "basis": "official" },
+    { "name": "Green", "hex": "#007229", "family": "green", "meaning": "Islam, agriculture and prosperity.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1956, "to": 1970, "label": "Republic of Sudan", "note": "Blue, yellow and green." },
+    { "from": 1970, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "The country's name comes from the Arabic for 'land of the Blacks'.",
+    "South Sudan, independent from 2011, uses black, red and green with a blue triangle.",
+    "Jordan's and Palestine's flags use the same colours in a different arrangement."
+  ],
+  "clues": [
+    "Red, white and black bands with a green triangle at the hoist.",
+    "It replaced a blue, yellow and green flag in 1970.",
+    "Its black represents its country's name."
+  ],
+  "lookalikes": ["palestine", "jordan", "south-sudan"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Sudan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Sudan" },
+    { "title": "Sudan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sd.html" }
+  ]
+}

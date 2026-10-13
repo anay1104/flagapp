@@ -1,0 +1,44 @@
+{
+  "id": "latvia",
+  "wikidata": "Q211",
+  "name": "Latvia",
+  "flagName": "Flag of Latvia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-02-27",
+  "ratio": "1:2",
+  "designer": "Ansis Cīrulis (1917 design)",
+  "summary": "A carmine red field with a narrow white horizontal stripe. Based on a 13th-century account, it was designed in 1917, banned under Soviet rule, and restored in 1990.",
+  "origin": [
+    "The Livonian Rhymed Chronicle of the late 13th century describes a red banner with a white stripe carried by Latgalian tribesmen. A legend says a wounded chieftain was wrapped in a white sheet that was stained with his blood except where he lay.",
+    "The artist Ansis Cīrulis designed the modern flag in 1917; it was adopted by the Republic of Latvia in 1921. Banned after the Soviet occupation of 1940, it was restored on 27 February 1990."
+  ],
+  "colors": [
+    { "name": "Carmine red", "hex": "#9E3039", "family": "maroon", "meaning": "Commonly read as the blood shed for freedom; the dark shade is sometimes called 'Latvian red'.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly read as honesty and right; in the legend, the sheet.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1921, "to": 1940, "label": "Republic of Latvia" },
+    { "from": 1953, "to": 1990, "label": "Latvian SSR", "note": "Red with white and blue waves." },
+    { "from": 1990, "to": null, "label": "Restored" }
+  ],
+  "facts": [
+    "Its proportions are 2:1:2 (red, white, red).",
+    "Austria's flag also has red-white-red bands, but bright red and equal widths.",
+    "The 13th-century chronicle makes it one of the oldest flag designs on record."
+  ],
+  "clues": [
+    "A dark carmine red flag with a narrow white horizontal stripe.",
+    "A legend says it shows a chieftain's blood-stained sheet.",
+    "A 13th-century chronicle describes a banner like it."
+  ],
+  "lookalikes": ["austria", "lebanon"],
+  "tags": ["horizontal-stripes"],
+  "sources": [
+    { "title": "Flag of Latvia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Latvia" },
+    { "title": "Latvia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lv.html" }
+  ]
+}

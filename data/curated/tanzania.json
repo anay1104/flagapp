@@ -1,0 +1,44 @@
+{
+  "id": "tanzania",
+  "wikidata": "Q924",
+  "name": "Tanzania",
+  "flagName": "Flag of Tanzania",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1964,
+  "to": null,
+  "adopted": "1964-06-30",
+  "ratio": "2:3",
+  "summary": "A yellow-edged black diagonal band from lower hoist to upper fly, dividing green and light blue triangles. It combines the flags of Tanganyika and Zanzibar, which united in 1964.",
+  "origin": [
+    "Tanganyika became independent in 1961 with a green flag with a black, yellow-edged horizontal band. Zanzibar's 1964 revolutionary flag was blue, black and green.",
+    "When the two united as the United Republic of Tanganyika and Zanzibar (renamed Tanzania), a new flag combined both, adopted on 30 June 1964."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#1EB53A", "family": "green", "meaning": "The natural vegetation of the land.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The country's mineral wealth.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The Swahili people and the nation's people.", "basis": "official" },
+    { "name": "Light blue", "hex": "#00A3DD", "family": "light-blue", "meaning": "The Indian Ocean and the country's lakes and rivers.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1961, "to": 1964, "label": "Tanganyika" },
+    { "from": 1964, "to": null, "label": "United Republic of Tanzania" }
+  ],
+  "facts": [
+    "The country's name combines Tanganyika and Zanzibar.",
+    "The Democratic Republic of the Congo's flag also has a diagonal band, in red with yellow edges.",
+    "Zanzibar still flies its own flag, which has Tanzania's flag in the canton."
+  ],
+  "clues": [
+    "A black diagonal band edged in yellow, between green and light blue triangles.",
+    "It merges the flags of two states that united in 1964.",
+    "Its country's name is a blend of two names."
+  ],
+  "lookalikes": ["democratic-republic-of-the-congo", "namibia", "saint-kitts-and-nevis"],
+  "tags": ["diagonal", "fimbriation"],
+  "sources": [
+    { "title": "Flag of Tanzania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tanzania" },
+    { "title": "Tanzania (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tz.html" }
+  ]
+}

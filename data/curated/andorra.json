@@ -1,0 +1,45 @@
+{
+  "id": "andorra",
+  "wikidata": "Q228",
+  "name": "Andorra",
+  "flagName": "Flag of Andorra",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1993,
+  "to": null,
+  "adopted": "1993-04-02",
+  "ratio": "7:10",
+  "summary": "Blue, yellow and red vertical bands, the yellow slightly wider, with the coat of arms in the centre. The colours reflect Andorra's two co-princes: the French head of state and the Spanish Bishop of Urgell.",
+  "origin": [
+    "Andorra has been a co-principality since the paréage of 1278, shared between the Count of Foix (later the King, now President of France) and the Bishop of Urgell. Its flag colours combine the blue and red of France with the yellow and red of Catalonia and Spain.",
+    "Blue-yellow-red flags were used from the 19th century. The current design was set out after the 1993 Constitution."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#10069F", "family": "blue", "meaning": "France.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FEDD00", "family": "yellow", "meaning": "Spain and Catalonia, and the Bishop of Urgell.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D50032", "family": "red", "meaning": "Shared by France and Spain/Catalonia.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Coat of arms", "description": "A quartered shield: a mitre and crozier (Urgell), three red pales on gold (Foix), four red pales on gold (Catalonia), and two cows (Béarn), with the motto 'VIRTUS UNITA FORTIOR'.", "meaning": "The historic lords of Andorra; the motto means 'Virtue united is stronger'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1866, "to": 1993, "label": "Various versions" },
+    { "from": 1993, "to": null, "label": "Constitutional flag" }
+  ],
+  "facts": [
+    "Chad, Romania and Moldova also use blue, yellow and red vertical bands; Andorra's middle band is wider.",
+    "Andorra's head of state is jointly the President of France and the Bishop of Urgell.",
+    "Its coat of arms shows two cows, from the arms of Béarn."
+  ],
+  "clues": [
+    "Blue, yellow and red vertical bands with a quartered shield showing a mitre and two cows.",
+    "Its two co-princes are a president and a bishop.",
+    "Its motto means 'Virtue united is stronger'."
+  ],
+  "lookalikes": ["moldova", "romania", "chad"],
+  "tags": ["vertical-tricolour", "coat-of-arms", "shield", "animal", "text", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Andorra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Andorra" },
+    { "title": "Andorra (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ad.html" }
+  ]
+}

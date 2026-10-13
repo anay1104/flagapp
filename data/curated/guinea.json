@@ -1,0 +1,41 @@
+{
+  "id": "guinea",
+  "wikidata": "Q1006",
+  "name": "Guinea",
+  "flagName": "Flag of Guinea",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1958,
+  "to": null,
+  "adopted": "1958-11-10",
+  "ratio": "2:3",
+  "summary": "Red, yellow and green vertical bands. Adopted in 1958, when Guinea became the first French colony in sub-Saharan Africa to reject the French Community and take full independence, it follows Ghana's example in using the Pan-African colours.",
+  "origin": [
+    "In the 1958 referendum on the French Community, Guinea under Ahmed Sékou Touré voted 'No' and became independent on 2 October 1958. Its flag combined the colours of Ghana, with which it formed a short-lived union, in the French vertical style."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Work, and the sacrifice of the people in the struggle against colonialism.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Justice, and the gold and sun of Guinea.", "basis": "official" },
+    { "name": "Green", "hex": "#009460", "family": "green", "meaning": "Solidarity, and the country's vegetation.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1958, "to": null, "label": "Republic of Guinea" }
+  ],
+  "facts": [
+    "The three colours match the national motto 'Travail, Justice, Solidarité' (Work, Justice, Solidarity).",
+    "Mali's flag is the same in reverse order.",
+    "Guinea was the first French African colony to become independent outside the French Community."
+  ],
+  "clues": [
+    "Red, yellow and green vertical bands.",
+    "Its colours match a motto of Work, Justice, Solidarity.",
+    "Its country was the first French colony in Africa to vote 'No' to the French Community."
+  ],
+  "lookalikes": ["mali", "senegal", "cameroon"],
+  "tags": ["vertical-tricolour", "pan-african"],
+  "sources": [
+    { "title": "Flag of Guinea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Guinea" },
+    { "title": "Guinea (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gn.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "benin",
+  "wikidata": "Q962",
+  "name": "Benin",
+  "flagName": "Flag of Benin",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1959-11-16",
+  "ratio": "2:3",
+  "aliases": ["Dahomey"],
+  "summary": "A green vertical band at the hoist, with yellow over red horizontal bands. First adopted in 1959 by Dahomey, it was replaced under the Marxist People's Republic and restored in 1990.",
+  "origin": [
+    "The Republic of Dahomey adopted this flag on 16 November 1959, before independence from France in 1960.",
+    "In 1975 the Marxist-Leninist government renamed the country Benin and adopted a green flag with a red star. After the transition to democracy, the original flag was restored on 1 August 1990."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#008751", "family": "green", "meaning": "Hope and revival.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Wealth.", "basis": "official" },
+    { "name": "Red", "hex": "#E8112D", "family": "red", "meaning": "Courage and the blood of ancestors.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1959, "to": 1975, "label": "Dahomey" },
+    { "from": 1975, "to": 1990, "label": "People's Republic of Benin", "note": "Green with a red star." },
+    { "from": 1990, "to": null, "label": "Original flag restored" }
+  ],
+  "facts": [
+    "Guinea-Bissau's flag has a similar layout, with a red hoist band and a black star.",
+    "Benin was home to the Kingdom of Dahomey, known for its women soldiers.",
+    "The constitution of 1990 defines the flag."
+  ],
+  "clues": [
+    "A green band at the hoist with yellow over red.",
+    "Its country was called Dahomey until 1975.",
+    "Replaced by a green flag with a red star and restored in 1990."
+  ],
+  "lookalikes": ["guinea-bissau", "madagascar"],
+  "tags": ["pan-african"],
+  "sources": [
+    { "title": "Flag of Benin (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Benin" },
+    { "title": "Benin (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bj.html" }
+  ]
+}

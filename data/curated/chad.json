@@ -1,0 +1,41 @@
+{
+  "id": "chad",
+  "wikidata": "Q657",
+  "name": "Chad",
+  "flagName": "Flag of Chad",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1959,
+  "to": null,
+  "adopted": "1959-11-06",
+  "ratio": "2:3",
+  "summary": "Blue, yellow and red vertical bands. Adopted in 1959, it combines the French tricolour's blue and red with the Pan-African yellow. It is almost identical to Romania's flag.",
+  "origin": [
+    "Chad first proposed a green-yellow-red tricolour, but neighbouring Mali and Guinea used the same colours, so blue replaced green. The flag was adopted on 6 November 1959 and kept at independence in 1960."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002664", "family": "blue", "meaning": "The sky, hope and the water of the south.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FECB00", "family": "yellow", "meaning": "The sun and the desert of the north.", "basis": "official" },
+    { "name": "Red", "hex": "#C60C30", "family": "red", "meaning": "Progress, unity and the sacrifice of the people.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1959, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Romania's flag is practically identical; Chad's blue is officially slightly darker.",
+    "In 2004 Romania's president said the country would not concede the design; neither country changed its flag.",
+    "Andorra and Moldova use the same colours with coats of arms."
+  ],
+  "clues": [
+    "Blue, yellow and red vertical bands.",
+    "Almost identical to a European flag.",
+    "Its blue replaced green to avoid matching its neighbours."
+  ],
+  "lookalikes": ["romania", "andorra", "moldova"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Flag of Chad (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Chad" },
+    { "title": "Chad (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/td.html" }
+  ]
+}

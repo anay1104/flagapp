@@ -1,0 +1,46 @@
+{
+  "id": "angola",
+  "wikidata": "Q916",
+  "name": "Angola",
+  "flagName": "Flag of Angola",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "adopted": "1975-11-11",
+  "ratio": "2:3",
+  "summary": "Red over black with a golden emblem of a half cog-wheel, a machete and a star. Based on the flag of the MPLA liberation movement, it was adopted at independence from Portugal in 1975.",
+  "origin": [
+    "The People's Movement for the Liberation of Angola (MPLA) used a red and black flag with a yellow star during the war of independence against Portugal.",
+    "At independence on 11 November 1975 the MPLA government added the emblem of a cog-wheel and machete, deliberately echoing the Soviet hammer and sickle. A new flag was proposed in 2003 but never adopted."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CC092F", "family": "red", "meaning": "The blood shed during the colonial period and the war of independence.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The African continent.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFCB00", "family": "yellow", "meaning": "The country's wealth.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Half cog-wheel", "description": "Half a gear wheel.", "meaning": "Industrial workers.", "basis": "official" },
+    { "name": "Machete", "description": "A machete crossing the cog-wheel.", "meaning": "Peasants and the armed struggle.", "basis": "official" },
+    { "name": "Star", "description": "A five-pointed star.", "meaning": "International solidarity and progress.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": null, "label": "People's Republic and Republic of Angola" }
+  ],
+  "facts": [
+    "A 2003 proposal would have replaced it with a blue, white and red flag with a sun; it was never adopted.",
+    "Its emblem echoes the Soviet hammer and sickle.",
+    "Mozambique's flag also carries a weapon and a tool."
+  ],
+  "clues": [
+    "Red over black with a golden half cog-wheel, machete and star.",
+    "Its emblem deliberately echoes the hammer and sickle.",
+    "A 2003 proposal to replace it with a sun design was never adopted."
+  ],
+  "lookalikes": ["mozambique"],
+  "tags": ["horizontal-bicolour", "emblem", "star", "tool", "weapon", "communist"],
+  "sources": [
+    { "title": "Flag of Angola (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Angola" },
+    { "title": "Angola (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ao.html" }
+  ]
+}

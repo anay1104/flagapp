@@ -1,0 +1,48 @@
+{
+  "id": "zimbabwe",
+  "wikidata": "Q954",
+  "name": "Zimbabwe",
+  "flagName": "Flag of Zimbabwe",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1980,
+  "to": null,
+  "adopted": "1980-04-18",
+  "ratio": "1:2",
+  "summary": "Seven horizontal stripes of green, yellow, red and black, with a white triangle at the hoist bearing a red star and the golden Zimbabwe Bird. Adopted at independence in 1980.",
+  "origin": [
+    "The colours come from the flag of the Zimbabwe African National Union – Patriotic Front (ZANU–PF), which led the country to independence from Rhodesia.",
+    "The flag was first raised at midnight on 18 April 1980, Independence Day."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#319208", "family": "green", "meaning": "Agriculture and the rural areas.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFD200", "family": "yellow", "meaning": "Mineral wealth.", "basis": "official" },
+    { "name": "Red", "hex": "#DE2010", "family": "red", "meaning": "The blood shed in the liberation war.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The heritage and ethnicity of the Black majority.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Zimbabwe Bird", "description": "A golden stylised bird in the triangle.", "meaning": "The history of the country; carved soapstone birds were found at the ruins of Great Zimbabwe.", "basis": "official" },
+    { "name": "Red star", "description": "A five-pointed red star behind the bird.", "meaning": "The nation's hopes and aspirations; also socialism.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1979, "to": 1980, "label": "Zimbabwe Rhodesia" },
+    { "from": 1980, "to": null, "label": "Republic of Zimbabwe" }
+  ],
+  "facts": [
+    "Several of the Great Zimbabwe birds were removed to South Africa and Germany in the colonial era; most have been returned.",
+    "Its white triangle points into the stripes like an arrow.",
+    "Zambia's flag has a similar palette with a fish eagle."
+  ],
+  "clues": [
+    "Green, yellow, red and black stripes with a white triangle holding a bird and a red star.",
+    "Its bird was carved in soapstone at a medieval ruined city.",
+    "Raised at midnight on 18 April 1980."
+  ],
+  "lookalikes": ["zambia", "mozambique"],
+  "tags": ["horizontal-stripes", "hoist-triangle", "star", "bird", "pan-african"],
+  "sources": [
+    { "title": "Flag of Zimbabwe (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Zimbabwe" },
+    { "title": "Zimbabwe (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/zw.html" }
+  ]
+}

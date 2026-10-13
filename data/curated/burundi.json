@@ -1,0 +1,46 @@
+{
+  "id": "burundi",
+  "wikidata": "Q967",
+  "name": "Burundi",
+  "flagName": "Flag of Burundi",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1967,
+  "to": null,
+  "adopted": "1967-03-28",
+  "ratio": "3:5",
+  "summary": "A white saltire dividing red and green triangles, with a white disc in the centre bearing three red six-pointed stars outlined in green. The stars stand for the motto 'Unity, Work, Progress' and for Burundi's three ethnic groups.",
+  "origin": [
+    "At independence in 1962, Burundi was a kingdom, and its flag had a drum and a sorghum plant in the central disc. After the monarchy was abolished in 1966, the drum was removed, and on 28 March 1967 the three stars were introduced."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The struggle for independence.", "basis": "official" },
+    { "name": "Green", "hex": "#1EB53A", "family": "green", "meaning": "Hope.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Three stars", "description": "Red six-pointed stars with green outlines in a triangle.", "meaning": "The national motto 'Unité, Travail, Progrès'; also the three ethnic groups: Hutu, Tutsi and Twa.", "basis": "official" },
+    { "name": "Saltire", "description": "A white diagonal cross from corner to corner.", "meaning": "Peace, linking the regions of the flag.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1962, "to": 1966, "label": "Kingdom of Burundi", "note": "Drum and sorghum in the disc." },
+    { "from": 1966, "to": 1967, "label": "Republic", "note": "Sorghum only." },
+    { "from": 1967, "to": null, "label": "Three stars" }
+  ],
+  "facts": [
+    "Its 3:5 ratio was adjusted from 2:3 in 1982.",
+    "Royal drums (ingoma) were a symbol of the Burundian monarchy.",
+    "Jamaica's flag also has a saltire dividing four triangles."
+  ],
+  "clues": [
+    "A white saltire with red and green triangles, and three red stars in a central white disc.",
+    "Its stars stand for three words in a national motto.",
+    "A royal drum was removed from its centre after the monarchy fell."
+  ],
+  "lookalikes": ["jamaica"],
+  "tags": ["saltire", "disc", "star"],
+  "sources": [
+    { "title": "Flag of Burundi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Burundi" },
+    { "title": "Burundi (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bi.html" }
+  ]
+}

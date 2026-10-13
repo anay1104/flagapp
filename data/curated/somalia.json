@@ -1,0 +1,44 @@
+{
+  "id": "somalia",
+  "wikidata": "Q1045",
+  "name": "Somalia",
+  "flagName": "Flag of Somalia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1954,
+  "to": null,
+  "adopted": "1954-10-12",
+  "ratio": "2:3",
+  "designer": "Mohammed Awale Liban",
+  "summary": "A white five-pointed star on a light blue field. The star's five points represent the five regions where Somali people live, reflecting the ideal of a Greater Somalia.",
+  "origin": [
+    "Mohammed Awale Liban designed the flag for the UN Trust Territory of Somaliland under Italian administration; it was adopted on 12 October 1954.",
+    "When British Somaliland and the Trust Territory united on 1 July 1960 to form the Somali Republic, the flag became the national flag."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#4189DD", "family": "light-blue", "meaning": "Originally in honour of the United Nations, which administered the territory; also the sky and the Indian Ocean.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Star of Unity", "description": "A white five-pointed star in the centre.", "meaning": "The five regions inhabited by Somalis: former British Somaliland, former Italian Somaliland, Djibouti, the Ogaden (Ethiopia) and the North Eastern Province (Kenya).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1954, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Its blue was chosen in tribute to the UN flag.",
+    "Somaliland, a self-declared state in the north, uses a separate flag of green, white and red with the Shahada.",
+    "The Federated States of Micronesia's flag is also light blue with white stars."
+  ],
+  "clues": [
+    "A white star on a light blue field.",
+    "Its star's points stand for five regions where one people live.",
+    "Its blue honours the United Nations."
+  ],
+  "lookalikes": ["federated-states-of-micronesia", "vietnam"],
+  "tags": ["plain-field", "star"],
+  "sources": [
+    { "title": "Flag of Somalia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Somalia" },
+    { "title": "Somalia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/so.html" }
+  ]
+}

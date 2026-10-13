@@ -1,0 +1,44 @@
+{
+  "id": "senegal",
+  "wikidata": "Q1041",
+  "name": "Senegal",
+  "flagName": "Flag of Senegal",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-08-20",
+  "ratio": "2:3",
+  "summary": "Green, yellow and red vertical bands with a green five-pointed star in the centre. Adopted in 1960 after the short-lived Mali Federation broke up, it uses the Pan-African colours in a French-style tricolour.",
+  "origin": [
+    "Senegal and French Sudan (now Mali) formed the Mali Federation in 1959, using a green-yellow-red tricolour with a black stylised human figure (kanaga). When the federation dissolved in August 1960, Senegal replaced the figure with a green star."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#00853F", "family": "green", "meaning": "Hope, and the religion of the majority (Islam); also the colour of the Prophet.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FDEF42", "family": "yellow", "meaning": "Wealth, and the arts and letters as the fruit of labour.", "basis": "traditional" },
+    { "name": "Red", "hex": "#E31B23", "family": "red", "meaning": "Life, and the blood of those who fought for independence.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Green star", "description": "A five-pointed star in the yellow band.", "meaning": "Unity and hope, and the openness of Senegal to the five continents.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1959, "to": 1960, "label": "Mali Federation", "note": "With a black kanaga figure." },
+    { "from": 1960, "to": null, "label": "Republic of Senegal" }
+  ],
+  "facts": [
+    "Mali's flag has the same colours without the star.",
+    "Cameroon's flag has a yellow star in a red centre band; Senegal's star is green in the yellow band.",
+    "President Léopold Sédar Senghor, a poet, explained the colours in terms of hope, culture and life."
+  ],
+  "clues": [
+    "Green, yellow and red vertical bands with a green star in the centre.",
+    "It replaced a human figure from a short-lived federation in 1960.",
+    "Its neighbour's flag is the same without the star."
+  ],
+  "lookalikes": ["mali", "guinea", "cameroon"],
+  "tags": ["vertical-tricolour", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Senegal (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Senegal" },
+    { "title": "Senegal (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sn.html" }
+  ]
+}

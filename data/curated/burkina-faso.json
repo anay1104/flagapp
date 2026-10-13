@@ -1,0 +1,45 @@
+{
+  "id": "burkina-faso",
+  "wikidata": "Q965",
+  "name": "Burkina Faso",
+  "flagName": "Flag of Burkina Faso",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-08-04",
+  "ratio": "2:3",
+  "aliases": ["Upper Volta"],
+  "summary": "Red over green with a yellow five-pointed star in the centre. It was introduced in 1984 by Thomas Sankara, who renamed the country from Upper Volta to Burkina Faso, 'land of upright people'.",
+  "origin": [
+    "Upper Volta's flag, from 1959, had black, white and red horizontal bands representing the three branches of the Volta River.",
+    "Captain Thomas Sankara came to power in 1983. On 4 August 1984, the first anniversary of his revolution, he changed the country's name and introduced the new flag in Pan-African colours."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EF2B2D", "family": "red", "meaning": "The revolution and the struggle for liberation.", "basis": "official" },
+    { "name": "Green", "hex": "#009E49", "family": "green", "meaning": "Agricultural wealth and hope.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Yellow star", "description": "A five-pointed star in the centre.", "meaning": "The guiding light of the revolution.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1959, "to": 1984, "label": "Upper Volta", "note": "Black, white and red bands." },
+    { "from": 1984, "to": null, "label": "Burkina Faso" }
+  ],
+  "facts": [
+    "The country's name combines words from Mooré and Dyula meaning 'land of upright (honest) people'.",
+    "Sankara is credited with writing the national anthem, 'Une Seule Nuit'."
+  ],
+  "clues": [
+    "Red over green with a yellow star in the centre.",
+    "Introduced in 1984 with a new country name meaning 'land of upright people'.",
+    "Its predecessor had three bands for three branches of a river."
+  ],
+  "lookalikes": ["vietnam", "cameroon"],
+  "tags": ["horizontal-bicolour", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Burkina Faso (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso" },
+    { "title": "Burkina Faso (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bf.html" }
+  ]
+}

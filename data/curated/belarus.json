@@ -1,0 +1,47 @@
+{
+  "id": "belarus",
+  "wikidata": "Q184",
+  "name": "Belarus",
+  "flagName": "Flag of Belarus",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2012,
+  "to": null,
+  "adopted": "1995-06-07",
+  "ratio": "1:2",
+  "summary": "Red over green with a vertical red and white ornamental band at the hoist. Adopted after a 1995 referendum, it is based on the flag of the Byelorussian SSR. The historical white-red-white flag is widely used by the opposition.",
+  "origin": [
+    "The Belarusian People's Republic of 1918 and independent Belarus from 1991 used a white-red-white horizontal flag. In 1995 President Alexander Lukashenko held a referendum on new state symbols; voters approved a design adapted from the Soviet-era flag, without the hammer, sickle and star.",
+    "The ornament was slightly modified in 2012. The white-red-white flag became the main symbol of the opposition, especially during the 2020 protests."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8313E", "family": "red", "meaning": "The Soviet era and the blood of those who fought in wars, including the Second World War.", "basis": "official" },
+    { "name": "Green", "hex": "#4AA657", "family": "green", "meaning": "Hope, the forests and fields of Belarus.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The ornament's background; purity.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Rushnyk ornament", "description": "A vertical band of red on white traditional embroidery patterns at the hoist.", "meaning": "Belarusian folk culture; the pattern is based on a 1917 design by Matrona Markevich called 'The Rising Sun'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1951, "to": 1991, "label": "Byelorussian SSR" },
+    { "from": 1991, "to": 1995, "label": "White-red-white" },
+    { "from": 1995, "to": 2012, "label": "Referendum flag" },
+    { "from": 2012, "to": null, "label": "Ornament revised" }
+  ],
+  "facts": [
+    "The white-red-white flag is banned from public display in Belarus in many contexts.",
+    "Flag, Emblem and Anthem Day is the second Sunday of May.",
+    "The ornament is one of the few textile patterns on any national flag."
+  ],
+  "clues": [
+    "Red over green with a red and white ornamental band at the hoist.",
+    "Adopted after a 1995 referendum, replacing a white-red-white flag.",
+    "Its hoist band reproduces a traditional embroidered towel."
+  ],
+  "lookalikes": ["madagascar", "suriname"],
+  "tags": ["horizontal-bicolour"],
+  "sources": [
+    { "title": "Flag of Belarus (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Belarus" },
+    { "title": "Belarus (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/by.html" }
+  ]
+}

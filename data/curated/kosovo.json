@@ -1,0 +1,45 @@
+{
+  "id": "kosovo",
+  "wikidata": "Q1246",
+  "name": "Kosovo",
+  "flagName": "Flag of Kosovo",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2008,
+  "to": null,
+  "adopted": "2008-02-17",
+  "ratio": "2:3",
+  "designer": "Muhamer Ibrahimi",
+  "summary": "A gold map of Kosovo on a blue field, under an arc of six white stars. It was chosen in a competition for Kosovo's declaration of independence on 17 February 2008, designed to avoid ethnic symbols.",
+  "origin": [
+    "Kosovo was administered by the United Nations from 1999. When it declared independence, international mediators required that the flag avoid the national symbols of any single ethnic group, such as the Albanian double-headed eagle or Serbian symbols.",
+    "Out of nearly 1,000 entries, the assembly chose Muhamer Ibrahimi's design, which echoes the colours of the European flag."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#244AA5", "family": "blue", "meaning": "Kosovo's European aspirations.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#D0A650", "family": "yellow", "meaning": "The map.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars; peace.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Map of Kosovo", "description": "A gold silhouette of the country.", "meaning": "The territory of Kosovo.", "basis": "official" },
+    { "name": "Six stars", "description": "White five-pointed stars in an arc above the map.", "meaning": "Widely read as Kosovo's six major ethnic groups: Albanians, Serbs, Turks, Gorani, Roma and Bosniaks. No official meaning was assigned.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 2008, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Cyprus is the only other national flag showing a map of the country.",
+    "Many Kosovo Albanians also fly the flag of Albania at celebrations.",
+    "Kosovo's independence is recognised by about half of UN member states."
+  ],
+  "clues": [
+    "A gold map on blue under an arc of six white stars.",
+    "Designed to avoid any single ethnic group's symbols.",
+    "One of only two national flags that show a map of the country."
+  ],
+  "lookalikes": ["bosnia-and-herzegovina", "cyprus"],
+  "tags": ["plain-field", "map", "star"],
+  "sources": [
+    { "title": "Flag of Kosovo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kosovo" }
+  ]
+}

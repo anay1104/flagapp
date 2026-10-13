@@ -1,0 +1,43 @@
+{
+  "id": "mali",
+  "wikidata": "Q912",
+  "name": "Mali",
+  "flagName": "Flag of Mali",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1961,
+  "to": null,
+  "adopted": "1961-03-01",
+  "ratio": "2:3",
+  "summary": "Green, yellow and red vertical bands. It is the flag of the Mali Federation without its black human figure, removed in 1961 partly because some Muslims objected to depicting a person.",
+  "origin": [
+    "The Mali Federation of 1959–1960 had a green-yellow-red tricolour with a black kanaga, a stylised human figure from Dogon culture. After Senegal left in 1960, the Republic of Mali kept the flag.",
+    "On 1 March 1961 the kanaga was removed, reportedly because of objections from Muslims to depicting the human figure."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#14B53A", "family": "green", "meaning": "The fertility of the land.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Purity and mineral wealth, including gold.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood shed for independence.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1959, "to": 1961, "label": "Mali Federation and early Republic", "note": "With a black kanaga figure." },
+    { "from": 1961, "to": null, "label": "Plain tricolour" }
+  ],
+  "facts": [
+    "Guinea's flag uses the same colours in reverse order.",
+    "Senegal's flag is identical except for a green star.",
+    "Its name comes from the medieval Mali Empire of Mansa Musa."
+  ],
+  "clues": [
+    "Green, yellow and red vertical bands, no emblem.",
+    "A human figure was removed from it in 1961.",
+    "A neighbour's flag has the same colours in reverse order."
+  ],
+  "lookalikes": ["guinea", "senegal", "cameroon"],
+  "tags": ["vertical-tricolour", "pan-african"],
+  "sources": [
+    { "title": "Flag of Mali (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mali" },
+    { "title": "Mali (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ml.html" }
+  ]
+}

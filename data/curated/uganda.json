@@ -1,0 +1,46 @@
+{
+  "id": "uganda",
+  "wikidata": "Q1036",
+  "name": "Uganda",
+  "flagName": "Flag of Uganda",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1962,
+  "to": null,
+  "adopted": "1962-10-09",
+  "ratio": "2:3",
+  "designer": "Grace Ibingira",
+  "summary": "Six horizontal stripes of black, yellow and red, repeated, with a white disc in the centre bearing a grey crowned crane. Adopted at independence in 1962.",
+  "origin": [
+    "The colours come from the flag of the ruling Uganda People's Congress at independence. The Minister of Justice, Grace Ibingira, is credited with the design, adopted on 9 October 1962.",
+    "The crowned crane had been the badge of the British Uganda Protectorate and was kept as the national bird."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The people of Africa.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCDC04", "family": "yellow", "meaning": "Africa's sunshine.", "basis": "official" },
+    { "name": "Red", "hex": "#D90000", "family": "red", "meaning": "African brotherhood, the blood that connects all Africans.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Grey crowned crane", "description": "A crane standing on one leg in a white disc, facing the hoist.", "meaning": "The national bird; the raised leg symbolises the country moving forward.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1914, "to": 1962, "label": "Uganda Protectorate", "note": "Blue ensign with a crane badge." },
+    { "from": 1962, "to": null, "label": "Republic of Uganda" }
+  ],
+  "facts": [
+    "The crane is said to be raising its leg to show the country moving forward.",
+    "Uganda's Independence Day is 9 October.",
+    "The crane is also on the coat of arms, together with a Uganda kob."
+  ],
+  "clues": [
+    "Black, yellow and red stripes repeated twice, with a crane in a white disc.",
+    "Its bird stands on one leg to show forward movement.",
+    "Its crane was the badge of a British protectorate."
+  ],
+  "lookalikes": ["germany", "belgium"],
+  "tags": ["horizontal-stripes", "disc", "bird", "pan-african"],
+  "sources": [
+    { "title": "Flag of Uganda (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Uganda" },
+    { "title": "Uganda (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ug.html" }
+  ]
+}

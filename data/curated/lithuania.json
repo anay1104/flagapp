@@ -1,0 +1,45 @@
+{
+  "id": "lithuania",
+  "wikidata": "Q37",
+  "name": "Lithuania",
+  "flagName": "Flag of Lithuania",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2004,
+  "to": null,
+  "adopted": "1989-03-20",
+  "ratio": "3:5",
+  "summary": "Yellow, green and red horizontal bands. Adopted in 1918 for the independent Republic of Lithuania, it was restored in 1988–1989. The historical state flag, the Vytis (a white knight on red), is also an official flag.",
+  "origin": [
+    "Lithuania's historical banner was the Vytis, a mounted knight with a sword on red, used by the Grand Duchy of Lithuania. In 1918 the Council of Lithuania chose a tricolour of colours found in Lithuanian folk weaving.",
+    "Banned under the Soviet occupation from 1940, the tricolour returned during the independence movement in 1988 and was restored on 20 March 1989. A 2004 law set the current 3:5 ratio and made the Vytis flag the historical state flag."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FDB913", "family": "yellow", "meaning": "The sun, light and prosperity.", "basis": "official" },
+    { "name": "Green", "hex": "#006A44", "family": "green", "meaning": "The forests and countryside, liberty and hope.", "basis": "official" },
+    { "name": "Red", "hex": "#C1272D", "family": "red", "meaning": "The land, and the courage and blood shed for Lithuania.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1918, "to": 1940, "label": "Republic of Lithuania" },
+    { "from": 1953, "to": 1988, "label": "Lithuanian SSR", "note": "Red with white and green stripes." },
+    { "from": 1989, "to": 2004, "label": "Restored (1:2 ratio)" },
+    { "from": 2004, "to": null, "label": "3:5 ratio" }
+  ],
+  "facts": [
+    "The Vytis flag, a white knight on red, is flown at the Palace of the Grand Dukes and other historic sites.",
+    "Bolivia and Ghana use the same colours in different orders; Myanmar adds a star.",
+    "Flag Day is 1 January, the anniversary of the 1919 raising of the tricolour on Gediminas Tower."
+  ],
+  "clues": [
+    "Yellow, green and red horizontal bands.",
+    "Its historical companion flag shows a mounted knight.",
+    "Its colours were chosen from traditional folk weaving in 1918."
+  ],
+  "lookalikes": ["bolivia", "ghana", "myanmar"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Lithuania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Lithuania" },
+    { "title": "Lithuania (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lt.html" }
+  ]
+}

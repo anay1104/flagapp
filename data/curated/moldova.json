@@ -1,0 +1,47 @@
+{
+  "id": "moldova",
+  "wikidata": "Q217",
+  "name": "Moldova",
+  "flagName": "Flag of Moldova",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2010,
+  "to": null,
+  "adopted": "1990-04-27",
+  "ratio": "1:2",
+  "summary": "Blue, yellow and red vertical bands with the coat of arms in the centre: an eagle holding a cross, sceptre and olive branch, with an aurochs head on its shield. It shares its colours with Romania.",
+  "origin": [
+    "The colours reflect Moldova's shared history and language with Romania. The tricolour was adopted on 27 April 1990, during the last years of the Soviet Union, and the coat of arms was added soon after.",
+    "The aurochs head on the shield comes from the medieval Principality of Moldavia. The design of the arms was refined in 2010."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "Commonly read as the past, or democracy.", "basis": "popular" },
+    { "name": "Yellow", "hex": "#FFD200", "family": "yellow", "meaning": "Commonly read as the present, or tradition.", "basis": "popular" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "Commonly read as the future, or equality and brotherhood.", "basis": "popular" }
+  ],
+  "symbols": [
+    { "name": "Eagle", "description": "A golden eagle holding an Orthodox cross in its beak, a sceptre and an olive branch.", "meaning": "The Latin heritage and Orthodox faith; the sceptre for sovereignty and the olive branch for peace.", "basis": "official" },
+    { "name": "Aurochs head", "description": "A head of an aurochs (wild ox) with a star between its horns, a rose and a crescent, on a red and blue shield.", "meaning": "The arms of the medieval Principality of Moldavia.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1990, "label": "Moldavian SSR", "note": "Red with a green band." },
+    { "from": 1990, "to": 2010, "label": "Tricolour with arms" },
+    { "from": 2010, "to": null, "label": "Refined arms" }
+  ],
+  "facts": [
+    "Its reverse side shows the coat of arms mirrored, making it one of the flags whose sides differ.",
+    "Without the arms it would be identical to Romania's and close to Chad's.",
+    "Andorra's flag also has blue, yellow and red vertical bands with arms."
+  ],
+  "clues": [
+    "Blue, yellow and red vertical bands with an eagle holding a cross.",
+    "Its shield shows the head of an extinct wild ox.",
+    "Remove the emblem and it matches its western neighbour's flag."
+  ],
+  "lookalikes": ["romania", "andorra", "chad"],
+  "tags": ["vertical-tricolour", "coat-of-arms", "eagle", "bird", "animal", "shield", "religious-symbol", "plant", "star", "crescent"],
+  "sources": [
+    { "title": "Flag of Moldova (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Moldova" },
+    { "title": "Moldova (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/md.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "malawi",
+  "wikidata": "Q1020",
+  "name": "Malawi",
+  "flagName": "Flag of Malawi",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2012,
+  "to": null,
+  "adopted": "1964-07-06",
+  "ratio": "2:3",
+  "summary": "Black, red and green horizontal bands with a red rising sun of 31 rays in the black band. Adopted at independence in 1964, it was briefly replaced in 2010–2012 by a version with a full white sun.",
+  "origin": [
+    "Nyasaland became independent as Malawi on 6 July 1964. The flag was based on the colours of the Malawi Congress Party, led by Hastings Banda.",
+    "In 2010 President Bingu wa Mutharika changed the flag to red, black and green with a full white sun, saying Malawi had already 'risen'. The change was unpopular, and parliament restored the original in 2012."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The people of Africa.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood of martyrs of African freedom.", "basis": "official" },
+    { "name": "Green", "hex": "#339E35", "family": "green", "meaning": "Malawi's ever-green nature.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Rising sun", "description": "A red half-sun with 31 rays in the black band.", "meaning": "The dawn of hope and freedom for Africa; Malawi was the 31st African country to become independent.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1964, "to": 2010, "label": "Original flag" },
+    { "from": 2010, "to": 2012, "label": "Mutharika's flag", "note": "Full white sun in the centre." },
+    { "from": 2012, "to": null, "label": "Original flag restored" }
+  ],
+  "facts": [
+    "Biafra's 1967 flag also had a rising sun in a black band of a red-black-green tricolour.",
+    "Its colours are those of Marcus Garvey's UNIA flag."
+  ],
+  "clues": [
+    "Black, red and green bands with a red rising sun in the black band.",
+    "Its sun has 31 rays.",
+    "It was changed to a full white sun in 2010 and changed back in 2012."
+  ],
+  "lookalikes": ["biafra", "kenya", "libya"],
+  "tags": ["horizontal-tricolour", "sun", "pan-african"],
+  "sources": [
+    { "title": "Flag of Malawi (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Malawi" },
+    { "title": "Malawi (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mw.html" }
+  ]
+}

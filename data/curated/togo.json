@@ -1,0 +1,46 @@
+{
+  "id": "togo",
+  "wikidata": "Q945",
+  "name": "Togo",
+  "flagName": "Flag of Togo",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-04-27",
+  "ratio": "≈ 1:1.618",
+  "designer": "Paul Ahyi",
+  "summary": "Five green and yellow horizontal stripes with a red canton bearing a white star. Designed by the artist Paul Ahyi, it is said to follow the golden ratio in its proportions.",
+  "origin": [
+    "Togo, a UN trust territory under French administration, became independent on 27 April 1960. The artist Paul Ahyi designed the flag, adopted the same day."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#006A4E", "family": "green", "meaning": "Hope, and agriculture.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFCE00", "family": "yellow", "meaning": "Faith in work as the basis of prosperity; also mineral wealth.", "basis": "official" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The blood shed for independence; also charity and love.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity, peace and dignity.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Five stripes", "description": "Three green and two yellow stripes.", "meaning": "The five regions of Togo.", "basis": "official" },
+    { "name": "White star", "description": "A five-pointed star in the red canton.", "meaning": "Life, purity and peace; the star of hope.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1957, "to": 1960, "label": "Autonomous Republic of Togo", "note": "Green with two white stars." },
+    { "from": 1960, "to": null, "label": "Independent Togo" }
+  ],
+  "facts": [
+    "Its proportions approximate the golden ratio, about 1:1.618.",
+    "It is one of few African flags with a canton, a layout more common in the Americas and Oceania."
+  ],
+  "clues": [
+    "Green and yellow stripes with a red canton holding a white star.",
+    "Its proportions approximate the golden ratio.",
+    "Its five stripes stand for five regions."
+  ],
+  "lookalikes": ["liberia", "brazil"],
+  "tags": ["horizontal-stripes", "canton", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Togo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Togo" },
+    { "title": "Togo (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tg.html" }
+  ]
+}

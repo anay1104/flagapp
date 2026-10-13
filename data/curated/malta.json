@@ -1,0 +1,44 @@
+{
+  "id": "malta",
+  "wikidata": "Q233",
+  "name": "Malta",
+  "flagName": "Flag of Malta",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1964,
+  "to": null,
+  "adopted": "1964-09-21",
+  "ratio": "2:3",
+  "summary": "Vertical halves of white and red, with a representation of the George Cross, edged in red, in the upper hoist. The cross was awarded to Malta by King George VI in 1942 for its resistance during the Second World War siege.",
+  "origin": [
+    "Red and white are traditionally said to date from Count Roger I of Sicily, who conquered Malta in 1091 and is said to have given the Maltese part of his red and white banner; the story is legendary. The colours are also those of the Knights Hospitaller, who ruled Malta from 1530 to 1798.",
+    "On 15 April 1942, during the siege of Malta, George VI awarded the island the George Cross. From 1943 it appeared on a blue canton; at independence in 1964 the blue was replaced by a red edging."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Traditionally linked to Count Roger and the Knights of St John.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CF142B", "family": "red", "meaning": "See white.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "George Cross", "description": "A grey medal with a silver cross and St George slaying the dragon, edged in red.", "meaning": "The George Cross, Britain's highest civilian award for gallantry, awarded to the people of Malta in 1942.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1943, "to": 1964, "label": "Crown Colony of Malta", "note": "George Cross on a blue canton." },
+    { "from": 1964, "to": null, "label": "Independent Malta" }
+  ],
+  "facts": [
+    "Malta is the only country to carry a British gallantry award on its flag.",
+    "The George Cross citation reads: 'To honour her brave people I award the George Cross to the Island Fortress of Malta'.",
+    "The Maltese cross, the emblem of the Knights, is on the civil ensign, not the national flag."
+  ],
+  "clues": [
+    "White and red vertical halves with a small grey cross in the corner.",
+    "Its cross is a medal awarded by a king in 1942.",
+    "Its colours are linked to a Norman count and a knightly order."
+  ],
+  "lookalikes": ["monaco", "poland"],
+  "tags": ["vertical-bicolour", "cross", "religious-symbol", "dragon", "animal"],
+  "sources": [
+    { "title": "Flag of Malta (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Malta" },
+    { "title": "Malta (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mt.html" }
+  ]
+}

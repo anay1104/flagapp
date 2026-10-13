@@ -1,0 +1,48 @@
+{
+  "id": "vatican-city",
+  "wikidata": "Q237",
+  "name": "Vatican City",
+  "flagName": "Flag of Vatican City",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2023,
+  "to": null,
+  "adopted": "1929-06-07",
+  "ratio": "1:1",
+  "aliases": ["Vatican", "Holy See"],
+  "summary": "A square flag of yellow and white vertical halves, with the crossed keys of Saint Peter and the papal tiara in the white half. It has been the flag of Vatican City since the Lateran Treaty of 1929.",
+  "origin": [
+    "Yellow and white became the papal colours in 1808, when Pope Pius VII replaced the red and yellow of Rome to distinguish his troops from Napoleon's. The Papal States used yellow and white flags until 1870.",
+    "The Lateran Treaty with Italy created the sovereign Vatican City State in 1929, and its Fundamental Law of 7 June 1929 described the flag. The 2023 Fundamental Law slightly updated the depiction of the keys and tiara."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFE000", "family": "yellow", "meaning": "The golden key; spiritual power.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The silver key; temporal power.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Crossed keys", "description": "A gold key and a silver key crossed, tied with a red cord.", "meaning": "The keys of the kingdom of heaven given to Saint Peter (Matthew 16:19); gold for spiritual authority and silver for earthly authority.", "basis": "official" },
+    { "name": "Papal tiara", "description": "A triple crown above the keys.", "meaning": "The authority of the pope; its three tiers are often explained as the pope's roles as father, pastor and teacher, or as priest, prophet and king.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1808, "to": 1870, "label": "Papal States", "note": "Yellow and white flags." },
+    { "from": 1929, "to": 2001, "label": "Vatican City State" },
+    { "from": 2001, "to": 2023, "label": "Revised depiction" },
+    { "from": 2023, "to": null, "label": "Fundamental Law of 2023" }
+  ],
+  "facts": [
+    "It is one of only two square national flags; the other is Switzerland's.",
+    "The papal coat of arms of each pope also features the crossed keys.",
+    "Pope Benedict XVI replaced the tiara with a mitre in his personal arms, but the flag keeps the tiara."
+  ],
+  "clues": [
+    "A square flag of yellow and white halves with crossed keys and a triple crown.",
+    "Its keys refer to a biblical promise made to an apostle.",
+    "One of two square national flags."
+  ],
+  "lookalikes": ["switzerland"],
+  "tags": ["vertical-bicolour", "emblem", "crown", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Flag of Vatican City (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Vatican_City" },
+    { "title": "Vatican City (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/va.html" }
+  ]
+}

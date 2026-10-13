@@ -1,0 +1,46 @@
+{
+  "id": "montenegro",
+  "wikidata": "Q236",
+  "name": "Montenegro",
+  "flagName": "Flag of Montenegro",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2004,
+  "to": null,
+  "adopted": "2004-07-13",
+  "ratio": "1:2",
+  "summary": "A red field with a golden border and the coat of arms in the centre: a crowned golden double-headed eagle holding a sceptre and orb, with a lion on its breast. It was adopted in 2004, two years before independence from Serbia and Montenegro.",
+  "origin": [
+    "The design is based on the royal standard of King Nikola I of Montenegro (r. 1860–1918), whose kingdom was absorbed into Yugoslavia in 1918.",
+    "Montenegro adopted the flag on 13 July 2004, Statehood Day, while still in a union with Serbia, and kept it after independence was declared in June 2006."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C40308", "family": "red", "meaning": "From the royal standard of the Petrović-Njegoš dynasty.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#D3AE3B", "family": "yellow", "meaning": "The border and the arms; royal heritage.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Double-headed eagle", "description": "A crowned golden eagle holding a sceptre and an orb.", "meaning": "From the Nemanjić and Crnojević traditions; Byzantine heritage and sovereignty.", "basis": "official" },
+    { "name": "Lion passant", "description": "A golden lion on a blue shield over green, on the eagle's breast.", "meaning": "The lion of Judah, a symbol of episcopal and royal authority in old Montenegro.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1880, "to": 1918, "label": "Principality and Kingdom of Montenegro" },
+    { "from": 1946, "to": 1993, "label": "Socialist Republic of Montenegro", "note": "Yugoslav tricolour with a red star." },
+    { "from": 2004, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "It is one of the few national flags with a border all the way around.",
+    "Statehood Day, 13 July, marks recognition by the Congress of Berlin in 1878 and the 1941 uprising.",
+    "Albania's flag also shows a double-headed eagle on red, in black rather than gold."
+  ],
+  "clues": [
+    "A gold-bordered red flag with a crowned golden double-headed eagle.",
+    "Its eagle has a lion on its breast.",
+    "Adopted two years before its country left a union in 2006."
+  ],
+  "lookalikes": ["albania", "serbia"],
+  "tags": ["border", "coat-of-arms", "eagle", "bird", "animal", "crown", "shield", "monarchy"],
+  "sources": [
+    { "title": "Flag of Montenegro (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Montenegro" },
+    { "title": "Montenegro (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/me.html" }
+  ]
+}

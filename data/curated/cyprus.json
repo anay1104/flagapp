@@ -1,0 +1,47 @@
+{
+  "id": "cyprus",
+  "wikidata": "Q229",
+  "name": "Cyprus",
+  "flagName": "Flag of Cyprus",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2006,
+  "to": null,
+  "adopted": "1960-08-16",
+  "ratio": "3:5",
+  "designer": "İsmet Güney",
+  "summary": "A copper-orange map of Cyprus on white, above two crossed green olive branches. Designed for independence in 1960 to be neutral between Greek and Turkish Cypriots, it avoids blue (Greece) and red (Turkey).",
+  "origin": [
+    "The Zürich and London Agreements of 1959 required a flag that would not use blue and white or red and white, nor a cross or crescent. İsmet Güney, a Turkish Cypriot art teacher, designed the winning entry.",
+    "In practice many Greek Cypriots fly the Greek flag and Turkish Cypriots the Turkish flag or the flag of the self-declared Turkish Republic of Northern Cyprus. The map's colour was adjusted in 2006."
+  ],
+  "colors": [
+    { "name": "Copper orange", "hex": "#D57800", "family": "orange", "meaning": "Copper; the island's name is linked to the Greek word for copper, long mined there.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" },
+    { "name": "Green", "hex": "#4E5B31", "family": "green", "meaning": "The olive branches.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Map of Cyprus", "description": "The island's silhouette in copper orange.", "meaning": "The island and its copper.", "basis": "official" },
+    { "name": "Olive branches", "description": "Two crossed green olive branches.", "meaning": "Peace between the Greek and Turkish communities.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1960, "to": 2006, "label": "Republic of Cyprus" },
+    { "from": 2006, "to": null, "label": "Adjusted colours" }
+  ],
+  "facts": [
+    "Cyprus and Kosovo are the only countries with their own map on their national flags.",
+    "The flag is rarely seen in daily life; Greek and Turkish flags are more common.",
+    "Its design rules banned blue and red to avoid favouring either community."
+  ],
+  "clues": [
+    "A copper-orange map of an island on white, above olive branches.",
+    "Its colours were chosen to favour neither of two communities.",
+    "Its island's name is linked to a metal."
+  ],
+  "lookalikes": ["kosovo"],
+  "tags": ["plain-field", "map", "plant"],
+  "sources": [
+    { "title": "Flag of Cyprus (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Cyprus" },
+    { "title": "Cyprus (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cy.html" }
+  ]
+}

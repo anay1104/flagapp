@@ -1,0 +1,40 @@
+{
+  "id": "monaco",
+  "wikidata": "Q235",
+  "name": "Monaco",
+  "flagName": "Flag of Monaco",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1881,
+  "to": null,
+  "adopted": "1881-04-04",
+  "ratio": "4:5",
+  "summary": "Two equal horizontal bands of red over white, the heraldic colours of the House of Grimaldi, which has ruled Monaco since the 13th century. It is almost identical to Indonesia's flag.",
+  "origin": [
+    "Red and white come from the coat of arms of the Grimaldi family, whose shield is lozengy (diamond-patterned) red and white. Prince Charles III adopted the plain red-and-white flag on 4 April 1881."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The Grimaldi arms.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Grimaldi arms.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1881, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "When Indonesia adopted its flag in 1945, Monaco objected to the similarity; Indonesia's design was older in origin and nothing changed.",
+    "Monaco's flag is 4:5, Indonesia's 2:3.",
+    "The state flag adds the princely arms on a white field."
+  ],
+  "clues": [
+    "Red over white, nearly square.",
+    "Its colours come from the arms of a family that has ruled since the 13th century.",
+    "An Asian country's flag is almost identical."
+  ],
+  "lookalikes": ["indonesia", "poland", "singapore"],
+  "tags": ["horizontal-bicolour", "monarchy"],
+  "sources": [
+    { "title": "Flag of Monaco (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Monaco" },
+    { "title": "Monaco (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mc.html" }
+  ]
+}

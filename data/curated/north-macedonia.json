@@ -1,0 +1,47 @@
+{
+  "id": "north-macedonia",
+  "wikidata": "Q221",
+  "name": "North Macedonia",
+  "flagName": "Flag of North Macedonia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "adopted": "1995-10-05",
+  "ratio": "1:2",
+  "designer": "Miroslav Grčev",
+  "aliases": ["Macedonia", "FYROM", "Republic of Macedonia"],
+  "summary": "A yellow sun with eight broadening rays on a red field. It replaced the Vergina Sun flag in 1995 after a dispute with Greece.",
+  "origin": [
+    "After independence from Yugoslavia in 1991, the republic adopted a red flag with the Vergina Sun, a 16-rayed star from the tomb of Philip II of Macedon. Greece regarded it as a Hellenic symbol and imposed a trade embargo.",
+    "Under the 1995 Interim Accord, the country adopted a new design by Miroslav Grčev: a stylised sun with eight rays reaching the edges. The country was renamed North Macedonia in 2019 under the Prespa Agreement; the flag was unchanged."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE2028", "family": "red", "meaning": "The field; red and yellow were the colours of the People's Republic of Macedonia.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#F9D616", "family": "yellow", "meaning": "The sun.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun with eight rays", "description": "A yellow disc with eight rays widening toward the edges of the flag.", "meaning": "The 'new sun of liberty', referenced in the national anthem 'Denes nad Makedonija'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1946, "to": 1992, "label": "Socialist Republic of Macedonia", "note": "Red with a gold-edged star." },
+    { "from": 1992, "to": 1995, "label": "Vergina Sun flag" },
+    { "from": 1995, "to": null, "label": "Eight-rayed sun" }
+  ],
+  "facts": [
+    "The rays touch the edges of the flag, making it one of the boldest designs among national flags.",
+    "Kyrgyzstan's flag also shows a yellow sun on red.",
+    "The 2019 Prespa Agreement also restricted official use of the Vergina Sun in North Macedonia."
+  ],
+  "clues": [
+    "A yellow sun with eight rays spreading to the edges of a red field.",
+    "It replaced a 16-rayed star flag after a dispute with a southern neighbour.",
+    "Its sun is the 'new sun of liberty' from its national anthem."
+  ],
+  "lookalikes": ["kyrgyzstan", "japan"],
+  "tags": ["plain-field", "sun"],
+  "sources": [
+    { "title": "Flag of North Macedonia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_North_Macedonia" },
+    { "title": "North Macedonia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mk.html" }
+  ]
+}

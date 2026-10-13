@@ -1,0 +1,47 @@
+{
+  "id": "bosnia-and-herzegovina",
+  "wikidata": "Q225",
+  "name": "Bosnia and Herzegovina",
+  "flagName": "Flag of Bosnia and Herzegovina",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1998,
+  "to": null,
+  "adopted": "1998-02-04",
+  "ratio": "1:2",
+  "summary": "A blue field with a yellow right triangle and a diagonal line of white stars, half-stars at each end. It was imposed in 1998 by the international High Representative, as the country's ethnic communities could not agree on a design.",
+  "origin": [
+    "During the war of 1992–1995 the Republic of Bosnia and Herzegovina used a white flag with a blue shield of fleurs-de-lis, a symbol associated with Bosniaks and the medieval Kotromanić dynasty. Bosnian Serbs and Croats rejected it.",
+    "After the Dayton Agreement, the parliament failed to agree on a flag. High Representative Carlos Westendorp chose this design from several proposals, and it was introduced in time for the 1998 Winter Olympics in Nagano."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002395", "family": "blue", "meaning": "Europe, and the European flag.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FECB00", "family": "yellow", "meaning": "Hope; the triangle's yellow.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Triangle", "description": "A yellow right triangle near the hoist.", "meaning": "The rough shape of the country; its three points are often said to represent the three constituent peoples: Bosniaks, Croats and Serbs.", "basis": "traditional" },
+    { "name": "Stars", "description": "Seven full and two half white stars along the triangle's hypotenuse.", "meaning": "Europe; the stars are meant to continue infinitely, so they are cut off at the edges.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1992, "to": 1998, "label": "Republic of Bosnia and Herzegovina", "note": "White with a blue shield of fleurs-de-lis." },
+    { "from": 1998, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "It is one of the few national flags chosen by an international official rather than the country itself.",
+    "Its blue and stars are deliberately reminiscent of the flag of the European Union.",
+    "The constituent entities, the Federation and Republika Srpska, have their own flags."
+  ],
+  "clues": [
+    "A yellow triangle on blue with a diagonal line of white stars.",
+    "Chosen by an international official after local leaders could not agree.",
+    "Its triangle is said to show the shape of the country.",
+    "Its stars are cut off at the edges to suggest they continue forever."
+  ],
+  "lookalikes": [],
+  "tags": ["diagonal", "star", "map"],
+  "sources": [
+    { "title": "Flag of Bosnia and Herzegovina (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina" },
+    { "title": "Bosnia and Herzegovina (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ba.html" }
+  ]
+}
