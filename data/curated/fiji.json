@@ -1,0 +1,45 @@
+{
+  "id": "fiji",
+  "wikidata": "Q712",
+  "name": "Fiji",
+  "flagName": "Flag of Fiji",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1970,
+  "to": null,
+  "adopted": "1970-10-10",
+  "ratio": "1:2",
+  "summary": "A light blue ensign with the Union Flag in the canton and the shield of Fiji's coat of arms in the fly. A 2015 plan to replace it was abandoned after Fiji's rugby sevens team won Olympic gold in 2016.",
+  "origin": [
+    "The flag was adopted at independence from Britain on 10 October 1970, based on the colonial blue ensign but with a lighter blue.",
+    "In 2015 Prime Minister Frank Bainimarama announced the Union Flag would be removed, and a competition was held. The plan was dropped in 2016, partly in recognition of Fiji's Olympic rugby sevens victory under the existing flag."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#68BFE5", "family": "light-blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "Navy (Union Flag)", "hex": "#012169", "family": "blue", "meaning": "The Union Flag: Fiji's links with Britain.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The cross and lion on the shield.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Shield of the arms", "description": "A white shield with a red cross; a golden lion holding a cocoa pod in the chief; sugar cane, a coconut palm, bananas and a dove with an olive branch in the quarters.", "meaning": "Fiji's agriculture and peace; the lion and cross recall Britain.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1908, "to": 1970, "label": "Colony of Fiji", "note": "Dark blue ensign with the arms." },
+    { "from": 1970, "to": null, "label": "Fiji" }
+  ],
+  "facts": [
+    "Fiji won its first-ever Olympic medal, a gold in rugby sevens, at Rio 2016.",
+    "Fiji's light blue is one of the lightest blues used on a blue ensign.",
+    "The shield includes a dove of peace, a symbol from King Cakobau's 1871 flag."
+  ],
+  "clues": [
+    "A light blue ensign with the Union Flag and a shield showing a lion, sugar cane, a palm and a dove.",
+    "A plan to remove its Union Flag was dropped after an Olympic rugby victory.",
+    "Its shield shows bananas and a coconut palm."
+  ],
+  "lookalikes": ["tuvalu", "australia", "new-zealand"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "bird", "plant", "cross", "former-colony"],
+  "sources": [
+    { "title": "Flag of Fiji (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Fiji" },
+    { "title": "Fiji (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/fj.html" }
+  ]
+}

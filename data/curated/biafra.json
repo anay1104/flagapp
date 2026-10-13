@@ -39,7 +39,6 @@
   "lookalikes": ["malawi"],
   "tags": ["horizontal-tricolour", "sun", "pan-african"],
   "sources": [
-    { "title": "Flag of Biafra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Biafra" },
-    { "title": "Biafra (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ng-biafr.html" }
+    { "title": "Flag of Biafra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Biafra" }
   ]
 }

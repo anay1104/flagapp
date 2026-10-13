@@ -1,0 +1,43 @@
+{
+  "id": "trinidad-and-tobago",
+  "wikidata": "Q754",
+  "name": "Trinidad and Tobago",
+  "flagName": "Flag of Trinidad and Tobago",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1962,
+  "to": null,
+  "adopted": "1962-08-31",
+  "ratio": "3:5",
+  "summary": "A red field with a black diagonal band edged in white running from the upper hoist to the lower fly. Chosen by an independence committee in 1962.",
+  "origin": [
+    "The flag was selected by the Independence Committee, chaired by Carlton Ottley, and adopted on 31 August 1962, the day of independence from Britain."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The vitality of the land and people, the warmth of the sun, and courage.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The sea, and the purity of aspirations and equality.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The dedication of the people, the strength of unity, and the wealth of the land.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Diagonal band", "description": "A black band edged in white from upper hoist to lower fly.", "meaning": "Often read as the two islands joined by the sea, and the past, present and future.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1962, "to": null, "label": "Trinidad and Tobago" }
+  ],
+  "facts": [
+    "The colours are said to represent the elements earth, water and fire.",
+    "The flag is a symbol of national identity at Carnival.",
+    "Its diagonal runs in the opposite direction from Saint Kitts and Nevis's."
+  ],
+  "clues": [
+    "Red with a black diagonal band edged in white.",
+    "Its three colours are said to stand for earth, water and fire.",
+    "Chosen by an independence committee in 1962."
+  ],
+  "lookalikes": ["saint-kitts-and-nevis", "namibia"],
+  "tags": ["diagonal", "fimbriation"],
+  "sources": [
+    { "title": "Flag of Trinidad and Tobago (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Trinidad_and_Tobago" },
+    { "title": "Trinidad and Tobago (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tt.html" }
+  ]
+}

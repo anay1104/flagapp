@@ -1,0 +1,45 @@
+{
+  "id": "grenada",
+  "wikidata": "Q769",
+  "name": "Grenada",
+  "flagName": "Flag of Grenada",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1974,
+  "to": null,
+  "adopted": "1974-02-07",
+  "ratio": "3:5",
+  "designer": "Anthony C. George",
+  "summary": "A red border with six yellow stars, around a field divided diagonally into yellow and green triangles, with a red disc and yellow star in the centre and a nutmeg pod near the hoist.",
+  "origin": [
+    "Anthony C. George designed the flag for independence from Britain on 7 February 1974."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Courage and vitality, and the harmony and unity of the people.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Wisdom, warmth and the sunshine.", "basis": "official" },
+    { "name": "Green", "hex": "#007A5E", "family": "green", "meaning": "The fertility of the land and its vegetation.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Seven stars", "description": "Six stars in the border and one in the central red disc.", "meaning": "The seven parishes; the central star is the capital parish, St George's.", "basis": "official" },
+    { "name": "Nutmeg", "description": "A split nutmeg pod in the hoist triangle.", "meaning": "Grenada's main export; Grenada is known as the 'Isle of Spice'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1974, "to": null, "label": "Grenada" }
+  ],
+  "facts": [
+    "It is the only national flag showing a nutmeg.",
+    "Grenada produces a large share of the world's nutmeg.",
+    "Its seven stars represent the six parishes plus Carriacou and Petite Martinique."
+  ],
+  "clues": [
+    "A red border with stars around yellow and green triangles, with a nutmeg near the hoist.",
+    "The only national flag with a spice on it.",
+    "Its country is called the 'Isle of Spice'."
+  ],
+  "lookalikes": ["dominica"],
+  "tags": ["border", "diagonal", "disc", "star", "plant"],
+  "sources": [
+    { "title": "Flag of Grenada (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Grenada" },
+    { "title": "Grenada (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gd.html" }
+  ]
+}

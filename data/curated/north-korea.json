@@ -1,0 +1,46 @@
+{
+  "id": "north-korea",
+  "wikidata": "Q423",
+  "name": "North Korea",
+  "flagName": "Flag of North Korea",
+  "nickname": "Ramhongsaek Konghwagukgi (Red-coloured Flag of the Republic)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "adopted": "1948-09-08",
+  "ratio": "1:2",
+  "aliases": ["DPRK", "Democratic People's Republic of Korea"],
+  "summary": "A broad red stripe edged with thin white stripes between blue bands, with a red star on a white disc toward the hoist. It replaced the Taegukgi in 1948, following Soviet advice.",
+  "origin": [
+    "After the division of Korea in 1945, the North initially used the Taegukgi, the traditional Korean flag. In 1948 the Provisional People's Committee, on Soviet guidance, adopted a new design; it became official with the founding of the Democratic People's Republic of Korea on 9 September 1948."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#ED1C27", "family": "red", "meaning": "Patriotism and the revolutionary traditions of the Korean people.", "basis": "official" },
+    { "name": "Blue", "hex": "#024FA2", "family": "blue", "meaning": "The desire to unite with revolutionary forces worldwide for independence, peace and friendship.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The purity, strength and dignity of the Korean nation.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Red star on white disc", "description": "A five-pointed red star in a white circle toward the hoist.", "meaning": "Socialism and the revolutionary traditions; the white disc is sometimes linked to the taegeuk of the earlier flag.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1945, "to": 1948, "label": "Taegukgi", "note": "The traditional Korean flag." },
+    { "from": 1948, "to": null, "label": "Democratic People's Republic of Korea" }
+  ],
+  "facts": [
+    "Kijŏng-dong, a village near the border, flies the flag on one of the world's tallest flagpoles, about 160 m.",
+    "Korean unification teams have competed under a white flag showing a blue map of the peninsula.",
+    "Its stripe pattern is similar to Thailand's and Costa Rica's, with a star added."
+  ],
+  "clues": [
+    "A broad red stripe edged in white between blue bands, with a red star on a white disc.",
+    "It replaced a yin-yang flag in 1948 on Soviet advice.",
+    "A village near the border flies it from an enormous flagpole."
+  ],
+  "lookalikes": ["thailand", "costa-rica"],
+  "tags": ["horizontal-stripes", "fimbriation", "disc", "star", "communist"],
+  "sources": [
+    { "title": "Flag of North Korea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_North_Korea" },
+    { "title": "North Korea (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/kp.html" }
+  ]
+}

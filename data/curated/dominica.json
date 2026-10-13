@@ -1,0 +1,50 @@
+{
+  "id": "dominica",
+  "wikidata": "Q784",
+  "name": "Dominica",
+  "flagName": "Flag of Dominica",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1978-11-03",
+  "ratio": "1:2",
+  "designer": "Alwin Bully",
+  "summary": "A green field with a cross of yellow, black and white stripes and a red disc in the centre showing a Sisserou parrot surrounded by ten green stars. It is one of only two national flags with purple, in the parrot's plumage.",
+  "origin": [
+    "The playwright and artist Alwin Bully designed the flag for independence from Britain on 3 November 1978. Minor changes followed in 1981, 1988 and 1990, mostly to the order of the stripes and the colour of the stars."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#006B3F", "family": "green", "meaning": "The island's rich vegetation.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The sun, the main agricultural products, and the Carib and Arawak peoples.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The fertile soil and the African heritage of the people.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The rivers and waterfalls, and the purity of aspirations.", "basis": "official" },
+    { "name": "Red", "hex": "#D41C30", "family": "red", "meaning": "Social justice.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sisserou parrot", "description": "A purple and green Imperial Amazon parrot, endemic to Dominica.", "meaning": "The national bird; the flight toward greater heights.", "basis": "official" },
+    { "name": "Ten stars", "description": "Ten green five-pointed stars around the parrot.", "meaning": "The ten parishes of Dominica.", "basis": "official" },
+    { "name": "Triple cross", "description": "A cross of yellow, black and white stripes.", "meaning": "The Holy Trinity and Christianity.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1978, "to": 1981, "label": "Independence flag" },
+    { "from": 1981, "to": 1990, "label": "Revised versions" },
+    { "from": 1990, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "With Nicaragua's, it is one of only two national flags containing purple.",
+    "The Sisserou parrot is found only on Dominica and is endangered.",
+    "Dominica is often confused with the Dominican Republic."
+  ],
+  "clues": [
+    "Green with a cross of yellow, black and white stripes and a parrot in a red disc.",
+    "One of only two national flags with purple.",
+    "Its ten stars stand for ten parishes."
+  ],
+  "lookalikes": ["grenada"],
+  "tags": ["cross", "disc", "bird", "star", "religious-symbol", "purple"],
+  "sources": [
+    { "title": "Flag of Dominica (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Dominica" },
+    { "title": "Dominica (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/dm.html" }
+  ]
+}

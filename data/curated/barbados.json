@@ -1,0 +1,45 @@
+{
+  "id": "barbados",
+  "wikidata": "Q244",
+  "name": "Barbados",
+  "flagName": "Flag of Barbados",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1966,
+  "to": null,
+  "adopted": "1966-11-30",
+  "ratio": "2:3",
+  "designer": "Grantley W. Prescod",
+  "summary": "Ultramarine, gold and ultramarine vertical bands with a black broken trident in the centre. The trident comes from the colonial badge, which showed Britannia holding a trident; breaking its shaft symbolised the break from colonial rule.",
+  "origin": [
+    "A competition for an independence flag received over 1,000 entries. Grantley Prescod's design was chosen, and the flag was raised at independence on 30 November 1966.",
+    "The colonial badge of Barbados showed Britannia with a trident. The national flag keeps only the head of the trident, its shaft broken off."
+  ],
+  "colors": [
+    { "name": "Ultramarine", "hex": "#00267F", "family": "blue", "meaning": "The sea and the sky.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC726", "family": "yellow", "meaning": "The sand of the island's beaches.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The trident.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Broken trident", "description": "The head of a trident, with its shaft broken.", "meaning": "The break with Barbados's colonial past; the three points stand for the three principles of democracy: government of, for and by the people.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1966, "to": null, "label": "Barbados", "note": "Kept when Barbados became a republic in 2021." }
+  ],
+  "facts": [
+    "Barbados became a republic on 30 November 2021, exactly 55 years after independence, without changing its flag.",
+    "Its trident is the only one on a national flag.",
+    "Saint Vincent and the Grenadines also has a blue-gold-green vertical tricolour."
+  ],
+  "clues": [
+    "Blue, gold and blue vertical bands with a black trident head.",
+    "Its trident's broken shaft symbolises a break from colonial rule.",
+    "Its country became a republic on its 55th independence anniversary."
+  ],
+  "lookalikes": ["saint-vincent-and-the-grenadines"],
+  "tags": ["vertical-tricolour", "weapon"],
+  "sources": [
+    { "title": "Flag of Barbados (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Barbados" },
+    { "title": "Barbados (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bb.html" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "antigua-and-barbuda",
+  "wikidata": "Q781",
+  "name": "Antigua and Barbuda",
+  "flagName": "Flag of Antigua and Barbuda",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1967,
+  "to": null,
+  "adopted": "1967-02-27",
+  "ratio": "2:3",
+  "designer": "Reginald Samuel",
+  "summary": "A red field with an inverted triangle containing a golden rising sun over black, blue and white bands. Designed by the artist and teacher Reginald Samuel, it was adopted in 1967 when the islands became an associated state.",
+  "origin": [
+    "In 1966 a competition was held for a flag for the new Associated State of Antigua; more than 600 designs were submitted. Reginald Samuel's design was adopted on 27 February 1967 and kept at full independence on 1 November 1981."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The dynamism and energy of the people.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The African heritage of the people.", "basis": "official" },
+    { "name": "Blue", "hex": "#0072C6", "family": "blue", "meaning": "Hope; also the Caribbean Sea.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The islands' sandy beaches.", "basis": "official" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "The sun.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Rising sun", "description": "A golden sun with seven rays rising over the black band.", "meaning": "The dawn of a new era.", "basis": "official" },
+    { "name": "V shape", "description": "The red sides form a V around the triangle.", "meaning": "Victory.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1967, "to": null, "label": "Associated State and independent Antigua and Barbuda" }
+  ],
+  "facts": [
+    "The combination of gold, blue and white is often summarised as 'sun, sea and sand'.",
+    "Independence Day is 1 November."
+  ],
+  "clues": [
+    "A red flag with a V-shaped triangle holding a rising gold sun over black, blue and white.",
+    "Its colours are summed up as sun, sea and sand.",
+    "Its red sides form a V for victory."
+  ],
+  "lookalikes": ["saint-lucia"],
+  "tags": ["chevron", "sun"],
+  "sources": [
+    { "title": "Flag of Antigua and Barbuda (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Antigua_and_Barbuda" },
+    { "title": "Antigua and Barbuda (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ag.html" }
+  ]
+}

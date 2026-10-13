@@ -47,7 +47,6 @@
   "tags": ["plain-field", "disc", "religious-symbol"],
   "sources": [
     { "title": "National Flag Act (Korea)", "url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=NATIONAL%20FLAG" },
-    { "title": "Taegeukgi (Ministry of the Interior and Safety)", "url": "https://www.mois.go.kr/eng/sub/a03/nationalSymbol1/screen.do" },
     { "title": "Flag of South Korea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Korea" }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "id": "saint-kitts-and-nevis",
+  "wikidata": "Q763",
+  "name": "Saint Kitts and Nevis",
+  "flagName": "Flag of Saint Kitts and Nevis",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1983,
+  "to": null,
+  "adopted": "1983-09-19",
+  "ratio": "2:3",
+  "designer": "Edrice Lewis",
+  "aliases": ["St Kitts and Nevis", "Saint Christopher and Nevis"],
+  "summary": "A black diagonal band edged in yellow, bearing two white stars, separating a green upper-hoist triangle from a red lower-fly triangle. Designed by a student, Edrice Lewis, for independence in 1983.",
+  "origin": [
+    "A competition held for independence drew 258 entries. The design by Edrice Lewis, a student, was chosen and adopted on 19 September 1983, when Saint Kitts and Nevis became independent from Britain."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#009E49", "family": "green", "meaning": "The fertility of the land.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Year-round sunshine.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The African heritage of the people.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The struggle from slavery through colonialism to independence.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Two stars", "description": "White five-pointed stars on the black band.", "meaning": "Hope and liberty; often read as the two islands.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1983, "to": null, "label": "Saint Kitts and Nevis" }
+  ],
+  "facts": [
+    "It is the smallest country in the Americas by area and population.",
+    "Its diagonal layout is similar to Tanzania's and Namibia's.",
+    "Saint Kitts's official name is Saint Christopher."
+  ],
+  "clues": [
+    "A black diagonal band edged in yellow with two white stars, between green and red triangles.",
+    "The flag of the smallest country in the Americas.",
+    "Designed by a student for independence in 1983."
+  ],
+  "lookalikes": ["tanzania", "namibia", "trinidad-and-tobago"],
+  "tags": ["diagonal", "fimbriation", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Saint Kitts and Nevis (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis" },
+    { "title": "Saint Kitts and Nevis (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/kn.html" }
+  ]
+}

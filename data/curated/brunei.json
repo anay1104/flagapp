@@ -1,0 +1,49 @@
+{
+  "id": "brunei",
+  "wikidata": "Q921",
+  "name": "Brunei",
+  "flagName": "Flag of Brunei",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1959,
+  "to": null,
+  "adopted": "1959-09-29",
+  "ratio": "1:2",
+  "aliases": ["Brunei Darussalam"],
+  "summary": "A yellow field crossed diagonally by white and black stripes, with the red national emblem in the centre: a parasol, wings, raised hands and a crescent bearing the national motto.",
+  "origin": [
+    "The yellow field represents the Sultan of Brunei, and the stripes his two chief ministers. The stripes were added in 1906 under the British protectorate. The national emblem was added on 29 September 1959, with the first written constitution."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#F7E017", "family": "yellow", "meaning": "The Sultan; yellow is the royal colour in Malay tradition.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Pengiran Bendahara, the chief minister.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The Pengiran Pemancha, the second minister.", "basis": "official" },
+    { "name": "Red", "hex": "#CF1126", "family": "red", "meaning": "The emblem.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Parasol (payung)", "description": "A royal umbrella with a flag above it.", "meaning": "Royalty.", "basis": "official" },
+    { "name": "Wings", "description": "Four-feathered wings below the parasol.", "meaning": "The protection of justice, tranquillity, prosperity and peace.", "basis": "official" },
+    { "name": "Hands", "description": "Two raised hands on either side.", "meaning": "The government's duty to promote welfare, peace and prosperity.", "basis": "official" },
+    { "name": "Crescent with motto", "description": "An upturned crescent with 'Always in service with God's guidance' in Jawi script, above a ribbon reading 'Brunei Darussalam'.", "meaning": "Islam, the state religion.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1906, "to": 1959, "label": "Protectorate flag", "note": "Yellow with white and black stripes." },
+    { "from": 1959, "to": null, "label": "Emblem added" }
+  ],
+  "facts": [
+    "Brunei is one of the world's few remaining absolute monarchies.",
+    "Darussalam means 'abode of peace'.",
+    "The white stripe is slightly wider than the black one."
+  ],
+  "clues": [
+    "Yellow with diagonal white and black stripes and a red emblem with a parasol and two hands.",
+    "Its stripes stand for two chief ministers.",
+    "Its yellow is the colour of its sultan."
+  ],
+  "lookalikes": [],
+  "tags": ["diagonal", "emblem", "crescent", "text", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Flag of Brunei (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Brunei" },
+    { "title": "Brunei (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bn.html" }
+  ]
+}

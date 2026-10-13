@@ -1,0 +1,44 @@
+{
+  "id": "federated-states-of-micronesia",
+  "wikidata": "Q702",
+  "name": "Federated States of Micronesia",
+  "flagName": "Flag of the Federated States of Micronesia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "adopted": "1979-11-30",
+  "ratio": "10:19",
+  "aliases": ["Micronesia", "FSM"],
+  "summary": "Four white five-pointed stars arranged in a diamond on a light blue field. The stars represent the four states of the federation, and the blue the Pacific Ocean.",
+  "origin": [
+    "The Trust Territory of the Pacific Islands, administered by the US, used a light blue flag with six white stars from 1965. When four of its districts formed the Federated States of Micronesia in 1979, they adopted a version with four stars."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#75B2DD", "family": "light-blue", "meaning": "The Pacific Ocean; also the UN flag, under whose trusteeship the islands were administered.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Four stars", "description": "White stars arranged like the points of a compass.", "meaning": "The four states: Chuuk, Kosrae, Pohnpei and Yap.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1965, "to": 1979, "label": "Trust Territory of the Pacific Islands", "note": "Six stars." },
+    { "from": 1979, "to": null, "label": "Federated States of Micronesia" }
+  ],
+  "facts": [
+    "Its blue was inspired by the flag of the United Nations.",
+    "Its 10:19 ratio matches the US flag.",
+    "Palau and the Marshall Islands left the Trust Territory separately."
+  ],
+  "clues": [
+    "Four white stars in a diamond on light blue.",
+    "Its stars stand for four island states.",
+    "Its predecessor had six stars for six districts."
+  ],
+  "lookalikes": ["somalia"],
+  "tags": ["plain-field", "star"],
+  "sources": [
+    { "title": "Flag of the Federated States of Micronesia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia" },
+    { "title": "Micronesia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/fm.html" }
+  ]
+}

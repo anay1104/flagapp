@@ -1,0 +1,42 @@
+{
+  "id": "tonga",
+  "wikidata": "Q678",
+  "name": "Tonga",
+  "flagName": "Flag of Tonga",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1875,
+  "to": null,
+  "adopted": "1875-11-04",
+  "ratio": "1:2",
+  "summary": "A red field with a white canton bearing a red cross. Adopted in 1875 under King George Tupou I, its design is protected by the constitution, which says it may never be changed.",
+  "origin": [
+    "King George Tupou I, who converted to Christianity and unified Tonga, wanted a flag expressing the Christian faith. An earlier version resembled the Red Cross flag, so a red field was added. The 1875 Constitution established it and forbids altering it."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C10000", "family": "red", "meaning": "The blood of Christ shed on the cross.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Red cross", "description": "A red cross in the white canton.", "meaning": "Christianity, the faith of the nation.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1875, "to": null, "label": "Kingdom of Tonga" }
+  ],
+  "facts": [
+    "Article 47 of the Constitution states the flag shall never be altered.",
+    "Tonga was never formally colonised, though it was a British protected state from 1900 to 1970.",
+    "It is one of the few flags with a cross in the canton, along with Greece's."
+  ],
+  "clues": [
+    "Red with a white canton holding a red cross.",
+    "Its constitution says it may never be changed.",
+    "Its king chose it to express his Christian faith in 1875."
+  ],
+  "lookalikes": ["switzerland", "georgia"],
+  "tags": ["canton", "cross", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Flag of Tonga (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tonga" },
+    { "title": "Tonga (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/to.html" }
+  ]
+}

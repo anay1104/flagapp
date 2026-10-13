@@ -1,0 +1,46 @@
+{
+  "id": "suriname",
+  "wikidata": "Q730",
+  "name": "Suriname",
+  "flagName": "Flag of Suriname",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "adopted": "1975-11-25",
+  "ratio": "2:3",
+  "designer": "Jack Pinas",
+  "summary": "Five horizontal bands of green, white, red, white and green, the red twice as tall, with a yellow star in the centre. Adopted at independence from the Netherlands in 1975.",
+  "origin": [
+    "From 1959 Suriname used a white flag with five coloured stars joined by an ellipse, representing its main ethnic groups. For independence on 25 November 1975 a new design by Jack Pinas, chosen in a competition, emphasised unity rather than separate groups."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#377E3F", "family": "green", "meaning": "Fertility and hope for a new Suriname.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Justice and freedom.", "basis": "official" },
+    { "name": "Red", "hex": "#B40A2D", "family": "red", "meaning": "Progress and love.", "basis": "official" },
+    { "name": "Yellow", "hex": "#ECC81D", "family": "yellow", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Yellow star", "description": "A five-pointed star in the red band.", "meaning": "Unity, and a golden future through sacrifice.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1959, "to": 1975, "label": "Autonomous country in the Kingdom of the Netherlands", "note": "Five stars joined by an ellipse." },
+    { "from": 1975, "to": null, "label": "Republic of Suriname" }
+  ],
+  "facts": [
+    "Suriname is the smallest sovereign country in South America.",
+    "Dutch is its official language, unique in South America.",
+    "The red band is twice the height of the green bands."
+  ],
+  "clues": [
+    "Green, white, red, white and green bands with a yellow star in the red.",
+    "Its predecessor had five stars joined by an ellipse.",
+    "Adopted at independence from the Netherlands in 1975."
+  ],
+  "lookalikes": ["burkina-faso"],
+  "tags": ["horizontal-stripes", "fimbriation", "star"],
+  "sources": [
+    { "title": "Flag of Suriname (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Suriname" },
+    { "title": "Suriname (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sr.html" }
+  ]
+}

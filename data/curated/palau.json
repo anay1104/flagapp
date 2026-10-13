@@ -1,0 +1,43 @@
+{
+  "id": "palau",
+  "wikidata": "Q695",
+  "name": "Palau",
+  "flagName": "Flag of Palau",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1981-01-01",
+  "ratio": "5:8",
+  "designer": "Blau Skebong",
+  "summary": "A yellow disc on a light blue field, set slightly toward the hoist. The disc represents the full moon, which in Palauan tradition marks the best time for fishing, planting and celebrations.",
+  "origin": [
+    "Palau left the Trust Territory of the Pacific Islands and became self-governing on 1 January 1981, adopting the flag designed by Blau Skebong. It kept the flag at full independence in 1994."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#4AADD6", "family": "light-blue", "meaning": "The Pacific Ocean, and the transition from foreign rule to self-government.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFDE00", "family": "yellow", "meaning": "The full moon.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Full moon", "description": "A yellow disc slightly toward the hoist.", "meaning": "The full moon, regarded as the most auspicious time for activities; also peace, love and tranquillity.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1981, "to": null, "label": "Republic of Palau" }
+  ],
+  "facts": [
+    "Its off-centre disc resembles Japan's and Bangladesh's flags.",
+    "Palau was under Japanese rule from 1914 to 1944.",
+    "The moon is placed off-centre so it appears centred when the flag flies."
+  ],
+  "clues": [
+    "A yellow disc set slightly toward the hoist on light blue.",
+    "Its disc is the full moon, a good time for fishing and planting.",
+    "It looks like an Asian sun flag recoloured."
+  ],
+  "lookalikes": ["japan", "bangladesh"],
+  "tags": ["disc", "moon", "plain-field"],
+  "sources": [
+    { "title": "Flag of Palau (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Palau" },
+    { "title": "Palau (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pw.html" }
+  ]
+}

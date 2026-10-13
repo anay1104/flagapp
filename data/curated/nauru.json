@@ -1,0 +1,43 @@
+{
+  "id": "nauru",
+  "wikidata": "Q697",
+  "name": "Nauru",
+  "flagName": "Flag of Nauru",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1968,
+  "to": null,
+  "adopted": "1968-01-31",
+  "ratio": "1:2",
+  "summary": "A dark blue field divided by a narrow gold horizontal stripe, with a white twelve-pointed star below it toward the hoist. It is a map in symbol form: the island lies just south of the equator.",
+  "origin": [
+    "The flag was chosen in a local competition and adopted at independence from Australian-administered trusteeship on 31 January 1968."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002B7F", "family": "blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC61E", "family": "yellow", "meaning": "The equator.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Phosphate, the island's main resource.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Twelve-pointed star", "description": "A white star below the gold stripe.", "meaning": "Nauru's position one degree south of the equator; the twelve points stand for the twelve original tribes.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1968, "to": null, "label": "Republic of Nauru" }
+  ],
+  "facts": [
+    "Nauru is the third-smallest country in the world by area.",
+    "It has no official capital; government offices are in Yaren.",
+    "Its white star is said to be white for the phosphate that made Nauru briefly one of the richest countries per person."
+  ],
+  "clues": [
+    "Dark blue with a thin gold line and a white twelve-pointed star below it.",
+    "Its stripe is the equator and its star the island just south of it.",
+    "Its star's points stand for twelve tribes."
+  ],
+  "lookalikes": ["federated-states-of-micronesia", "somalia"],
+  "tags": ["star", "map"],
+  "sources": [
+    { "title": "Flag of Nauru (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nauru" },
+    { "title": "Nauru (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/nr.html" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "samoa",
+  "wikidata": "Q683",
+  "name": "Samoa",
+  "flagName": "Flag of Samoa",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1949,
+  "to": null,
+  "adopted": "1949-02-24",
+  "ratio": "1:2",
+  "summary": "A red field with a blue canton bearing five white stars of the Southern Cross. Adopted in 1948–1949 under New Zealand administration and kept at independence in 1962.",
+  "origin": [
+    "Under New Zealand trusteeship, Samoa adopted a red flag with a blue canton and four stars in 1948. A fifth, smaller star was added on 24 February 1949. The flag was kept when Samoa became independent on 1 January 1962, the first Pacific island nation to do so."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Courage.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#002B7F", "family": "blue", "meaning": "Freedom.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Southern Cross", "description": "Four large and one small white stars in the canton.", "meaning": "Samoa's place in the southern hemisphere.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1948, "to": 1949, "label": "Trust Territory", "note": "Four stars." },
+    { "from": 1949, "to": null, "label": "Five stars" }
+  ],
+  "facts": [
+    "Samoa was the first Pacific island nation to gain independence, in 1962.",
+    "In 2011 Samoa moved west of the International Date Line, skipping 30 December.",
+    "Taiwan's flag has a similar layout with a white sun in the canton."
+  ],
+  "clues": [
+    "Red with a blue canton holding five white stars of the Southern Cross.",
+    "The flag of the first Pacific island nation to become independent.",
+    "Its country skipped a whole day in 2011 by moving across the date line."
+  ],
+  "lookalikes": ["taiwan", "myanmar"],
+  "tags": ["canton", "star", "southern-cross", "astronomy"],
+  "sources": [
+    { "title": "Flag of Samoa (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Samoa" },
+    { "title": "Samoa (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ws.html" }
+  ]
+}

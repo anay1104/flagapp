@@ -1,0 +1,45 @@
+{
+  "id": "marshall-islands",
+  "wikidata": "Q709",
+  "name": "Marshall Islands",
+  "flagName": "Flag of the Marshall Islands",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "adopted": "1979-05-01",
+  "ratio": "10:19",
+  "designer": "Emlain Kabua",
+  "summary": "A blue field with two diagonal stripes of orange and white widening toward the fly, and a white star with 24 rays in the upper hoist. Designed by Emlain Kabua, wife of the first president.",
+  "origin": [
+    "The Marshall Islands became self-governing on 1 May 1979, leaving the US-administered Trust Territory of the Pacific Islands. Emlain Kabua, wife of President Amata Kabua, designed the flag."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003893", "family": "blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "Orange", "hex": "#DD7500", "family": "orange", "meaning": "The Ralik Chain (sunset), and bravery and wealth.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Ratak Chain (sunrise), and peace.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Diagonal stripes", "description": "Orange and white stripes rising from the lower hoist.", "meaning": "The two island chains, and the equator, with the islands just north of it.", "basis": "official" },
+    { "name": "Star with 24 rays", "description": "A white star with 24 points; four longer points form a cross.", "meaning": "The 24 municipalities; the cross symbolises Christianity.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1979, "to": null, "label": "Republic of the Marshall Islands" }
+  ],
+  "facts": [
+    "The rising stripes suggest the islands' growth and development.",
+    "Bikini Atoll, site of US nuclear tests, is in the Marshall Islands.",
+    "The country became fully independent under a Compact of Free Association with the US in 1986."
+  ],
+  "clues": [
+    "Blue with orange and white diagonal stripes and a white star with 24 points.",
+    "Its stripes are two island chains named after sunrise and sunset.",
+    "Its star's points stand for 24 municipalities."
+  ],
+  "lookalikes": [],
+  "tags": ["diagonal", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of the Marshall Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Marshall_Islands" },
+    { "title": "Marshall Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mh.html" }
+  ]
+}

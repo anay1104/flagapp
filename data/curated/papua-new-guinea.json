@@ -1,0 +1,46 @@
+{
+  "id": "papua-new-guinea",
+  "wikidata": "Q691",
+  "name": "Papua New Guinea",
+  "flagName": "Flag of Papua New Guinea",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1971,
+  "to": null,
+  "adopted": "1971-07-01",
+  "ratio": "3:4",
+  "designer": "Susan Karike Huhume",
+  "summary": "A diagonal division with a red upper-fly triangle bearing a yellow bird of paradise, and a black lower-hoist triangle with the Southern Cross in white stars. Designed by a 15-year-old schoolgirl, Susan Karike Huhume.",
+  "origin": [
+    "In 1970 the territory's administration proposed a design, but local opposition led to a competition. Susan Karike Huhume, then a 15-year-old student, submitted the winning design, adopted on 1 July 1971, four years before independence from Australia in 1975."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Traditional colour of art and ceremony in Papua New Guinea.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Traditional colour of art and ceremony; also the people.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The bird of paradise.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Raggiana bird of paradise", "description": "A yellow bird in flight with long plumes.", "meaning": "The emergence of Papua New Guinea into nationhood.", "basis": "official" },
+    { "name": "Southern Cross", "description": "Five white stars in the black triangle.", "meaning": "The country's place in the South Pacific and its links with Australia and other southern nations.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1971, "to": null, "label": "Papua New Guinea" }
+  ],
+  "facts": [
+    "Its designer was 15 years old when she won the competition.",
+    "It is one of the few national flags with a bird of paradise.",
+    "Papua New Guinea has over 800 languages, more than any other country."
+  ],
+  "clues": [
+    "A diagonal split of red with a yellow bird of paradise and black with the Southern Cross.",
+    "Designed by a 15-year-old schoolgirl.",
+    "Adopted four years before independence from Australia."
+  ],
+  "lookalikes": ["samoa"],
+  "tags": ["diagonal", "bird", "star", "southern-cross", "astronomy"],
+  "sources": [
+    { "title": "Flag of Papua New Guinea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Papua_New_Guinea" },
+    { "title": "Papua New Guinea (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pg.html" }
+  ]
+}

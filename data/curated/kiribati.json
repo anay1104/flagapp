@@ -1,0 +1,46 @@
+{
+  "id": "kiribati",
+  "wikidata": "Q710",
+  "name": "Kiribati",
+  "flagName": "Flag of Kiribati",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "adopted": "1979-07-12",
+  "ratio": "1:2",
+  "summary": "A red upper half with a golden frigatebird flying over a rising sun, and a lower half of wavy blue and white bands representing the Pacific Ocean. It is based on the colonial badge of the Gilbert and Ellice Islands.",
+  "origin": [
+    "The badge of the Gilbert and Ellice Islands colony, designed by Sir Arthur Grimble in 1932, showed a frigatebird over a sun and sea. At independence on 12 July 1979, Kiribati adopted a flag based on the badge's design, rejecting a version proposed by the College of Arms in favour of the local design."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The sky.", "basis": "official" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "The sun and the frigatebird.", "basis": "official" },
+    { "name": "Blue", "hex": "#003F87", "family": "blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The waves.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Frigatebird", "description": "A golden frigatebird in flight.", "meaning": "Command over the sea, freedom and power.", "basis": "official" },
+    { "name": "Rising sun", "description": "A golden sun with 17 rays.", "meaning": "The 16 Gilbert Islands and Banaba (Ocean Island); also the equator, which crosses the country.", "basis": "official" },
+    { "name": "Wavy bands", "description": "Three white and three blue wavy bands.", "meaning": "The ocean and the three island groups: the Gilbert, Phoenix and Line Islands.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1979, "to": null, "label": "Republic of Kiribati" }
+  ],
+  "facts": [
+    "Kiribati straddles both the equator and the 180th meridian.",
+    "Its Line Islands are among the first places on Earth to see each new day.",
+    "Its name is the local spelling of 'Gilberts'."
+  ],
+  "clues": [
+    "A golden frigatebird over a rising sun above wavy blue and white bands.",
+    "Its sun's rays stand for 17 islands.",
+    "Its country's name is a local form of the word 'Gilberts'."
+  ],
+  "lookalikes": [],
+  "tags": ["bird", "sun", "water"],
+  "sources": [
+    { "title": "Flag of Kiribati (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kiribati" },
+    { "title": "Kiribati (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ki.html" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "saint-lucia",
+  "wikidata": "Q760",
+  "name": "Saint Lucia",
+  "flagName": "Flag of Saint Lucia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2002,
+  "to": null,
+  "adopted": "1967-03-01",
+  "ratio": "1:2",
+  "designer": "Dunstan St. Omer",
+  "aliases": ["St Lucia"],
+  "summary": "A cerulean blue field with a black triangle edged in white, overlaid by a gold triangle at its base. The triangles evoke the Pitons, two volcanic peaks rising from the sea.",
+  "origin": [
+    "The artist Dunstan St. Omer designed the flag when Saint Lucia became an associated state on 1 March 1967. It was kept at independence in 1979, and the shade of blue and the triangle proportions were adjusted in 2002."
+  ],
+  "colors": [
+    { "name": "Cerulean blue", "hex": "#66CCFF", "family": "light-blue", "meaning": "The sky and the surrounding sea.", "basis": "official" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "Sunshine and prosperity.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The African heritage of the population.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The European heritage; with black, the harmony between the two cultures.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Two triangles", "description": "A black triangle edged in white, with a smaller gold triangle in front.", "meaning": "The Pitons, the twin volcanic peaks that are Saint Lucia's landmark.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1967, "to": 2002, "label": "Associated State and independent Saint Lucia" },
+    { "from": 2002, "to": null, "label": "Revised shade and proportions" }
+  ],
+  "facts": [
+    "The Pitons are a UNESCO World Heritage Site.",
+    "Dunstan St. Omer also painted church murals across the island."
+  ],
+  "clues": [
+    "Light blue with a black triangle edged in white and a gold triangle in front.",
+    "Its triangles evoke twin volcanic peaks.",
+    "Designed by a local painter in 1967."
+  ],
+  "lookalikes": ["antigua-and-barbuda"],
+  "tags": ["mountain"],
+  "sources": [
+    { "title": "Flag of Saint Lucia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saint_Lucia" },
+    { "title": "Saint Lucia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lc.html" }
+  ]
+}

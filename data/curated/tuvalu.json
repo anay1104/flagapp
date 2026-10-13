@@ -1,0 +1,46 @@
+{
+  "id": "tuvalu",
+  "wikidata": "Q672",
+  "name": "Tuvalu",
+  "flagName": "Flag of Tuvalu",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1997,
+  "to": null,
+  "adopted": "1978-10-01",
+  "ratio": "1:2",
+  "summary": "A light blue ensign with the Union Flag in the canton and nine yellow stars arranged as a map of the country's nine islands. It was briefly replaced in 1995–1997, then restored.",
+  "origin": [
+    "Tuvalu, formerly the Ellice Islands, became independent on 1 October 1978 with this flag.",
+    "In 1995 the government removed the Union Flag and adopted a new design with eight stars in a triangle. It was unpopular, and the original was restored in 1997."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#00AEEF", "family": "light-blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFCE00", "family": "yellow", "meaning": "The stars, the islands.", "basis": "official" },
+    { "name": "Union Flag", "hex": "#012169", "family": "blue", "meaning": "Historical links with Britain.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Nine stars", "description": "Yellow stars arranged like the islands on a map, with north toward the hoist.", "meaning": "The nine islands of Tuvalu; the name means 'eight standing together', since one island was originally uninhabited.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1978, "to": 1995, "label": "Independence flag" },
+    { "from": 1995, "to": 1997, "label": "Alternative flag", "note": "No Union Flag, eight stars." },
+    { "from": 1997, "to": null, "label": "Original flag restored" }
+  ],
+  "facts": [
+    "Its stars are a map of the islands, rotated so north points to the hoist.",
+    "Tuvalu is one of the countries most threatened by sea-level rise.",
+    "Its internet domain, .tv, is a major source of government income."
+  ],
+  "clues": [
+    "A light blue ensign with the Union Flag and nine yellow stars forming a map.",
+    "Its country's name means 'eight standing together'.",
+    "It was replaced in 1995 and brought back in 1997."
+  ],
+  "lookalikes": ["fiji", "australia", "new-zealand"],
+  "tags": ["canton", "union-jack", "star", "map", "former-colony"],
+  "sources": [
+    { "title": "Flag of Tuvalu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tuvalu" },
+    { "title": "Tuvalu (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tv.html" }
+  ]
+}

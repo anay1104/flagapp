@@ -1,0 +1,46 @@
+{
+  "id": "guyana",
+  "wikidata": "Q734",
+  "name": "Guyana",
+  "flagName": "Flag of Guyana",
+  "nickname": "The Golden Arrowhead",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1966,
+  "to": null,
+  "adopted": "1966-05-26",
+  "ratio": "3:5",
+  "designer": "Whitney Smith",
+  "summary": "A green field with a yellow arrowhead edged in white pointing from the hoist, overlaid by a red triangle edged in black. Designed by the American vexillologist Whitney Smith, who coined the word 'vexillology'.",
+  "origin": [
+    "Whitney Smith proposed the design in 1960. The British College of Arms modified it, adding the white and black edging, and it was adopted at independence on 26 May 1966."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#009E49", "family": "green", "meaning": "Agriculture and the forests.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The rivers and water resources.", "basis": "official" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "Mineral wealth.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Endurance.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Zeal and dynamism in nation-building.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Golden arrowhead", "description": "A yellow triangle pointing toward the fly.", "meaning": "The country's bright future.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1966, "to": null, "label": "Guyana" }
+  ],
+  "facts": [
+    "Whitney Smith, its designer, founded the Flag Research Center and coined the term 'vexillology' in 1957.",
+    "Guyana is the only English-speaking country in South America."
+  ],
+  "clues": [
+    "A yellow arrowhead and red triangle edged in white and black on green.",
+    "Designed by the man who coined the word 'vexillology'.",
+    "Its nickname is 'the Golden Arrowhead'."
+  ],
+  "lookalikes": ["eritrea", "zimbabwe"],
+  "tags": ["hoist-triangle", "fimbriation"],
+  "sources": [
+    { "title": "Flag of Guyana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Guyana" },
+    { "title": "Guyana (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gy.html" }
+  ]
+}

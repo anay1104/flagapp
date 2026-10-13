@@ -1,0 +1,49 @@
+{
+  "id": "taiwan",
+  "wikidata": "Q865",
+  "name": "Taiwan",
+  "flagName": "Flag of the Republic of China",
+  "nickname": "Blue Sky, White Sun, and a Wholly Red Earth",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1928,
+  "to": null,
+  "adopted": "1928-12-17",
+  "ratio": "2:3",
+  "designer": "Lu Haodong (canton); Sun Yat-sen",
+  "aliases": ["Republic of China", "ROC", "Chinese Taipei", "Formosa"],
+  "summary": "A red field with a blue canton bearing a white sun with twelve rays. The flag of the Republic of China, it was adopted for all of China in 1928 and has been used in Taiwan since the government moved there in 1949.",
+  "origin": [
+    "The 'Blue Sky with a White Sun' was designed by the revolutionary Lu Haodong in 1895 for the Revive China Society. Sun Yat-sen added the red field.",
+    "The Republic of China first used a five-coloured striped flag (1912–1928). After the Nationalist Northern Expedition reunified much of China, the current flag became the national flag on 17 December 1928. After the Chinese Civil War, the ROC government retreated to Taiwan in 1949."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#FE0000", "family": "red", "meaning": "Fraternity; also the blood of revolutionaries.", "basis": "official" },
+    { "name": "Blue", "hex": "#000095", "family": "blue", "meaning": "Nationalism and liberty, from Sun Yat-sen's Three Principles of the People.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Equality and democracy.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "White sun with twelve rays", "description": "A white sun on blue, with twelve triangular rays.", "meaning": "Progress; the twelve rays stand for the twelve months and the twelve traditional Chinese hours (shichen).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1912, "to": 1928, "label": "Five-Coloured Flag", "note": "Five horizontal stripes for five peoples." },
+    { "from": 1928, "to": null, "label": "Blue Sky, White Sun, and a Wholly Red Earth" }
+  ],
+  "facts": [
+    "At the Olympics and many international events, Taiwan competes as 'Chinese Taipei' under a separate flag with a plum blossom and Olympic rings.",
+    "The canton alone is the party flag of the Kuomintang (KMT).",
+    "Taiwan's political status is disputed; the People's Republic of China claims it."
+  ],
+  "clues": [
+    "Red with a blue canton holding a white twelve-rayed sun.",
+    "It competes at the Olympics under a different flag with a plum blossom.",
+    "Its sun's rays stand for the twelve months and twelve two-hour periods.",
+    "Adopted for all of China in 1928."
+  ],
+  "lookalikes": ["myanmar", "samoa"],
+  "tags": ["canton", "sun"],
+  "sources": [
+    { "title": "Flag of the Republic of China (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_China" },
+    { "title": "Taiwan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tw.html" }
+  ]
+}

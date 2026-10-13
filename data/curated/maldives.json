@@ -1,0 +1,45 @@
+{
+  "id": "maldives",
+  "wikidata": "Q826",
+  "name": "Maldives",
+  "flagName": "Flag of the Maldives",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1965,
+  "to": null,
+  "adopted": "1965-07-26",
+  "ratio": "2:3",
+  "summary": "A red field with a green rectangle in the centre bearing a white crescent. The plain red flag of the sultanate gained a green panel and crescent in the 20th century.",
+  "origin": [
+    "The Maldives historically flew a plain red flag. In the early 20th century a black and white striped band (the dhandimathi) was added at the hoist, and a green panel with a crescent was added in the 1930s under Prime Minister Abdul Majeed Didi.",
+    "The striped hoist band was removed at independence from Britain on 26 July 1965."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The courage of the nation's heroes and their willingness to give their lives.", "basis": "official" },
+    { "name": "Green", "hex": "#007E3A", "family": "green", "meaning": "Peace and prosperity; also the coconut palms.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The crescent.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "White crescent", "description": "A crescent in the green rectangle, opening toward the fly.", "meaning": "Islam, the religion of the state.", "basis": "official" }
+  ],
+  "history": [
+    { "from": null, "to": 1965, "label": "Sultanate", "note": "Plain red, later with a black and white hoist band, then a green panel and crescent." },
+    { "from": 1965, "to": null, "label": "Independent Maldives" }
+  ],
+  "facts": [
+    "The Maldives is the lowest-lying country in the world.",
+    "It is also the smallest country in Asia by area.",
+    "The green panel is sometimes said to represent the coconut palm, essential to island life."
+  ],
+  "clues": [
+    "A red field with a green rectangle containing a white crescent.",
+    "The flag of the world's lowest-lying country.",
+    "A black and white hoist band was removed at independence in 1965."
+  ],
+  "lookalikes": ["pakistan", "turkey"],
+  "tags": ["border", "crescent", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of the Maldives (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Maldives" },
+    { "title": "Maldives (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mv.html" }
+  ]
+}

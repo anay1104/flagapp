@@ -1,0 +1,46 @@
+{
+  "id": "saint-vincent-and-the-grenadines",
+  "wikidata": "Q757",
+  "name": "Saint Vincent and the Grenadines",
+  "flagName": "Flag of Saint Vincent and the Grenadines",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1985,
+  "to": null,
+  "adopted": "1985-10-22",
+  "ratio": "2:3",
+  "designer": "Julien van der Wal",
+  "aliases": ["St Vincent and the Grenadines", "Saint Vincent"],
+  "summary": "Blue, gold and green vertical bands, the gold twice as wide, with three green diamonds arranged in a V. The V stands for Vincent, and the diamonds give the islands' nickname, 'the Gems of the Antilles'.",
+  "origin": [
+    "The independence flag of 1979 had a breadfruit leaf with the coat of arms. In 1985 it was replaced by a simpler design by the Swiss artist Julien van der Wal."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0072C6", "family": "blue", "meaning": "The sky and the sea.", "basis": "official" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "Warmth, the bright spirit of the people and the golden sands of the Grenadines.", "basis": "official" },
+    { "name": "Green", "hex": "#009E60", "family": "green", "meaning": "The lush vegetation and the vitality of the people.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Three diamonds", "description": "Green diamonds arranged in a V.", "meaning": "The islands as 'the Gems of the Antilles'; the V stands for Vincent.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1979, "to": 1985, "label": "Independence flag", "note": "Breadfruit leaf and coat of arms." },
+    { "from": 1985, "to": null, "label": "Diamonds flag" }
+  ],
+  "facts": [
+    "The middle band is twice as wide as the outer bands, a feature called a Canadian pale.",
+    "Barbados's flag also uses blue and gold vertical bands.",
+    "The country comprises Saint Vincent and 32 smaller islands and cays."
+  ],
+  "clues": [
+    "Blue, wide gold and green vertical bands with three green diamonds in a V.",
+    "Its diamonds make the first letter of its main island's name.",
+    "Its islands are called the 'Gems of the Antilles'."
+  ],
+  "lookalikes": ["barbados"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Flag of Saint Vincent and the Grenadines (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines" },
+    { "title": "Saint Vincent and the Grenadines (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/vc.html" }
+  ]
+}

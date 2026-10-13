@@ -1,0 +1,44 @@
+{
+  "id": "solomon-islands",
+  "wikidata": "Q685",
+  "name": "Solomon Islands",
+  "flagName": "Flag of the Solomon Islands",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1977,
+  "to": null,
+  "adopted": "1977-11-18",
+  "ratio": "1:2",
+  "summary": "A thin yellow diagonal band dividing a blue upper-hoist triangle with five white stars from a green lower-fly triangle. Adopted in 1977, a year before independence from Britain.",
+  "origin": [
+    "The flag was adopted on 18 November 1977, ahead of independence on 7 July 1978. The five stars originally stood for the five districts of the protectorate."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0051BA", "family": "blue", "meaning": "Water: the ocean, rivers and rain.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Sunshine.", "basis": "official" },
+    { "name": "Green", "hex": "#215B33", "family": "green", "meaning": "The land and its trees.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Five stars", "description": "Five white stars in the blue triangle.", "meaning": "Originally the five districts; now the main island groups.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1977, "to": null, "label": "Solomon Islands" }
+  ],
+  "facts": [
+    "The country now has nine provinces, but the flag keeps five stars.",
+    "Guadalcanal, the largest island, was the site of a major Second World War campaign.",
+    "Its thin yellow diagonal is one of the narrowest bands on a national flag."
+  ],
+  "clues": [
+    "A thin yellow diagonal between blue with five white stars and green.",
+    "Its stars stood for five districts, though there are now nine provinces.",
+    "Adopted a year before independence in 1978."
+  ],
+  "lookalikes": ["tanzania", "bosnia-and-herzegovina"],
+  "tags": ["diagonal", "star"],
+  "sources": [
+    { "title": "Flag of the Solomon Islands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Solomon_Islands" },
+    { "title": "Solomon Islands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sb.html" }
+  ]
+}

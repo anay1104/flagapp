@@ -1,0 +1,47 @@
+{
+  "id": "timor-leste",
+  "wikidata": "Q574",
+  "name": "Timor-Leste",
+  "flagName": "Flag of Timor-Leste",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2002,
+  "to": null,
+  "adopted": "2002-05-20",
+  "ratio": "1:2",
+  "aliases": ["East Timor"],
+  "summary": "A red field with a yellow triangle at the hoist, overlaid by a black triangle bearing a white star. First raised by FRETILIN in 1975, it was restored at independence in 2002 after Indonesian occupation and UN administration.",
+  "origin": [
+    "The Revolutionary Front for an Independent East Timor (FRETILIN) declared independence from Portugal on 28 November 1975 and raised this flag. Indonesia invaded nine days later and occupied the territory until 1999.",
+    "After a UN-supervised referendum and a period of UN administration, the flag was raised again when Timor-Leste became independent on 20 May 2002."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#DC241F", "family": "red", "meaning": "The struggle for national liberation.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFC726", "family": "yellow", "meaning": "The traces of colonialism.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The obscurantism that needs to be overcome.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "White star", "description": "A five-pointed star in the black triangle, tilted.", "meaning": "The light that guides the nation; peace.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": 1975, "label": "Democratic Republic of East Timor", "note": "Flown for nine days before the invasion." },
+    { "from": 2002, "to": null, "label": "Timor-Leste" }
+  ],
+  "facts": [
+    "Timor-Leste was the first new sovereign state of the 21st century.",
+    "The star is tilted so that one point aims toward the upper hoist.",
+    "During the UN administration (1999–2002) the UN flag was flown."
+  ],
+  "clues": [
+    "Red with a yellow triangle and a black triangle holding a tilted white star.",
+    "Raised in 1975 and again in 2002 after years of occupation.",
+    "The flag of the first new state of the 21st century."
+  ],
+  "lookalikes": ["cuba", "jordan"],
+  "tags": ["hoist-triangle", "star"],
+  "sources": [
+    { "title": "Flag of Timor-Leste (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_East_Timor" },
+    { "title": "East Timor (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tl.html" }
+  ]
+}

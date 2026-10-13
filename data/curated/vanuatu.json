@@ -1,0 +1,47 @@
+{
+  "id": "vanuatu",
+  "wikidata": "Q686",
+  "name": "Vanuatu",
+  "flagName": "Flag of Vanuatu",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1980,
+  "to": null,
+  "adopted": "1980-02-18",
+  "ratio": "3:5",
+  "designer": "Kalontas Malon",
+  "summary": "Red over green divided by a black-edged yellow horizontal Y, with a black triangle at the hoist bearing a curled boar's tusk and two crossed namele fern leaves. Adopted in 1980 for independence from the Anglo-French condominium of the New Hebrides.",
+  "origin": [
+    "The colours come from the Vanua'aku Pati, which led the independence movement. Kalontas Malon's design was adopted on 18 February 1980, ahead of independence on 30 July 1980."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The blood of boars and of the people.", "basis": "official" },
+    { "name": "Green", "hex": "#009543", "family": "green", "meaning": "The richness of the islands.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The ni-Vanuatu people.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FDCE12", "family": "yellow", "meaning": "The light of Christianity spreading through the islands.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Boar's tusk", "description": "A curled tusk in the black triangle.", "meaning": "Prosperity; tusked boars are a traditional sign of wealth.", "basis": "official" },
+    { "name": "Namele leaves", "description": "Two crossed fern leaves inside the tusk.", "meaning": "Peace; their 39 fronds represent the 39 members of the first parliament.", "basis": "official" },
+    { "name": "Yellow Y", "description": "A horizontal Y shape.", "meaning": "The shape of the island chain and the light of the Gospel.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1980, "to": null, "label": "Republic of Vanuatu" }
+  ],
+  "facts": [
+    "Before 1980 the islands were jointly ruled by Britain and France as the New Hebrides.",
+    "South Africa's flag also uses a horizontal Y shape.",
+    "Its designer was an art student when he won the competition."
+  ],
+  "clues": [
+    "Red and green divided by a yellow Y, with a boar's tusk and fern leaves in a black triangle.",
+    "Its fern fronds number the members of the first parliament.",
+    "Its country was once ruled jointly by two European powers."
+  ],
+  "lookalikes": ["south-africa", "guyana"],
+  "tags": ["hoist-triangle", "fimbriation", "animal", "plant", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Vanuatu (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Vanuatu" },
+    { "title": "Vanuatu (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/vu.html" }
+  ]
+}
