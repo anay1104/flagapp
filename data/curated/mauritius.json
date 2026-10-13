@@ -1,0 +1,43 @@
+{
+  "id": "mauritius",
+  "wikidata": "Q1027",
+  "name": "Mauritius",
+  "flagName": "Flag of Mauritius",
+  "nickname": "Les Quatre Bandes (the four bands)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1968,
+  "to": null,
+  "adopted": "1968-03-12",
+  "ratio": "2:3",
+  "summary": "Four equal horizontal stripes of red, blue, yellow and green. Adopted at independence from Britain on 12 March 1968, it has no emblem.",
+  "origin": [
+    "The flag was designed for independence, combining colours associated with the country's political parties and its landscape. It was first raised on 12 March 1968."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EA2839", "family": "red", "meaning": "The struggle for freedom and independence.", "basis": "official" },
+    { "name": "Blue", "hex": "#1A206D", "family": "blue", "meaning": "The Indian Ocean surrounding the island.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFD500", "family": "yellow", "meaning": "The new light of independence shining over the island.", "basis": "official" },
+    { "name": "Green", "hex": "#00A551", "family": "green", "meaning": "The agriculture of Mauritius, and its colour throughout the year.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1968, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "It is one of the few national flags with four equal horizontal stripes.",
+    "Mauritius was the only known home of the dodo, which appears on its coat of arms.",
+    "Its stripes are often compared to a rainbow."
+  ],
+  "clues": [
+    "Four equal stripes of red, blue, yellow and green.",
+    "Its island country was the home of the dodo.",
+    "Its blue stands for the surrounding Indian Ocean."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-stripes"],
+  "sources": [
+    { "title": "Flag of Mauritius (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mauritius" },
+    { "title": "Mauritius (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mu.html" }
+  ]
+}

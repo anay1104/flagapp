@@ -1,0 +1,44 @@
+{
+  "id": "djibouti",
+  "wikidata": "Q977",
+  "name": "Djibouti",
+  "flagName": "Flag of Djibouti",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1977,
+  "to": null,
+  "adopted": "1977-06-27",
+  "ratio": "2:3",
+  "summary": "Light blue over green with a white triangle at the hoist bearing a red star. Adopted at independence from France in 1977, it comes from the flag of the African People's League for Independence.",
+  "origin": [
+    "The design is based on a flag used by the African People's League for Independence (LPAI) from the 1970s. It was first raised at independence on 27 June 1977."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#6AB2E7", "family": "light-blue", "meaning": "The sea and sky; also the Issa Somali people.", "basis": "traditional" },
+    { "name": "Green", "hex": "#12AD2B", "family": "green", "meaning": "The earth; also the Afar people.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D7141A", "family": "red", "meaning": "The star.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Red star", "description": "A five-pointed red star in the triangle.", "meaning": "Unity, and the blood shed for independence.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1977, "to": null, "label": "Republic of Djibouti" }
+  ],
+  "facts": [
+    "Its blue and green represent the country's two main communities, the Issa and the Afar.",
+    "Djibouti was called French Somaliland, then the French Territory of the Afars and the Issas, before independence.",
+    "It hosts military bases of several foreign powers on its strategic coast."
+  ],
+  "clues": [
+    "Light blue over green with a white hoist triangle and a red star.",
+    "Its two colours stand for two communities.",
+    "It was once called the Territory of the Afars and the Issas."
+  ],
+  "lookalikes": ["somalia", "cuba"],
+  "tags": ["horizontal-bicolour", "hoist-triangle", "star"],
+  "sources": [
+    { "title": "Flag of Djibouti (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Djibouti" },
+    { "title": "Djibouti (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/dj.html" }
+  ]
+}

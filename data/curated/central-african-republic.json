@@ -1,0 +1,47 @@
+{
+  "id": "central-african-republic",
+  "wikidata": "Q929",
+  "name": "Central African Republic",
+  "flagName": "Flag of the Central African Republic",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1958,
+  "to": null,
+  "adopted": "1958-12-01",
+  "ratio": "2:3",
+  "designer": "Barthélemy Boganda",
+  "summary": "Blue, white, green and yellow horizontal bands crossed by a vertical red band, with a yellow star in the upper hoist. Designed by Barthélemy Boganda, it combines French colours with Pan-African ones.",
+  "origin": [
+    "Barthélemy Boganda, leader of the independence movement, designed the flag for the autonomous Republic of Ubangi-Shari in 1958. He hoped it would serve a wider union of Central African states.",
+    "It was kept at independence in 1960 and through Jean-Bédel Bokassa's Central African Empire (1976–1979)."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003082", "family": "blue", "meaning": "Liberty; with white and red, the French colours.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and dignity.", "basis": "traditional" },
+    { "name": "Green", "hex": "#289728", "family": "green", "meaning": "Hope and faith; with yellow and red, the Pan-African colours.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FFCE00", "family": "yellow", "meaning": "Tolerance.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The blood shared by all humanity, uniting Europe and Africa.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Star", "description": "A yellow five-pointed star in the upper hoist.", "meaning": "Independence and a guiding light toward the future.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1958, "to": null, "label": "National flag", "note": "Unchanged through the Central African Empire." }
+  ],
+  "facts": [
+    "Boganda said the red band symbolised the blood common to Europeans and Africans.",
+    "It is one of few national flags with both horizontal and vertical stripes crossing.",
+    "Boganda died in a plane crash in 1959, before independence."
+  ],
+  "clues": [
+    "Blue, white, green and yellow bands crossed by a vertical red stripe, with a yellow star.",
+    "Its colours combine French and Pan-African palettes.",
+    "It survived unchanged through a self-proclaimed empire in the 1970s."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-stripes", "vertical-stripes", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of the Central African Republic (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Central_African_Republic" },
+    { "title": "Central African Republic (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cf.html" }
+  ]
+}

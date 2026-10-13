@@ -1,0 +1,47 @@
+{
+  "id": "haiti",
+  "wikidata": "Q790",
+  "name": "Haiti",
+  "flagName": "Flag of Haiti",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1986,
+  "to": null,
+  "adopted": "1986-02-25",
+  "ratio": "3:5",
+  "summary": "Blue over red with the coat of arms on a white square: a royal palm topped by a liberty cap, with cannons, muskets and drums, and the motto 'L'Union fait la force'. Its origin is the French tricolour, with the white torn out by Jean-Jacques Dessalines in 1803.",
+  "origin": [
+    "During the Haitian Revolution, on 18 May 1803 at the Congress of Arcahaie, Dessalines is said to have torn the white out of a French tricolour, symbolically rejecting the white colonists, and sewn the blue and red together; tradition credits Catherine Flon with the sewing.",
+    "Haiti became independent on 1 January 1804. The Duvalier dictatorship (1964–1986) used a black and red flag. After Jean-Claude Duvalier fled in 1986, the blue and red flag was restored."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#00209F", "family": "blue", "meaning": "The Black people of Haiti.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The gens de couleur (mixed-race people), united with the Black population.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Royal palm and liberty cap", "description": "A palm tree topped by a red and blue Phrygian cap.", "meaning": "Independence and liberty.", "basis": "official" },
+    { "name": "Weapons and drums", "description": "Cannons, muskets with bayonets, flags, a drum and cannonballs.", "meaning": "Readiness to defend liberty.", "basis": "official" },
+    { "name": "Motto", "description": "'L'UNION FAIT LA FORCE' on a ribbon.", "meaning": "Unity makes strength.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1803, "to": 1964, "label": "Blue and red flags", "note": "Horizontal and vertical versions at various times." },
+    { "from": 1964, "to": 1986, "label": "Duvalier era", "note": "Black and red." },
+    { "from": 1986, "to": null, "label": "Restored" }
+  ],
+  "facts": [
+    "Flag Day, 18 May, is one of Haiti's most important holidays.",
+    "At the 1936 Olympics, Liechtenstein discovered its flag was identical to Haiti's plain civil flag.",
+    "Haiti was the first nation founded by formerly enslaved people."
+  ],
+  "clues": [
+    "Blue over red with a palm tree and liberty cap on a white square.",
+    "Created by tearing the white out of a colonial power's tricolour.",
+    "Its motto means 'Unity makes strength'."
+  ],
+  "lookalikes": ["liechtenstein"],
+  "tags": ["horizontal-bicolour", "coat-of-arms", "plant", "weapon", "text"],
+  "sources": [
+    { "title": "Flag of Haiti (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Haiti" },
+    { "title": "Haiti (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ht.html" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "guatemala",
+  "wikidata": "Q774",
+  "name": "Guatemala",
+  "flagName": "Flag of Guatemala",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1997,
+  "to": null,
+  "adopted": "1871-08-17",
+  "ratio": "5:8",
+  "summary": "Sky blue, white and sky blue vertical bands with the coat of arms: a resplendent quetzal perched on a scroll bearing the date of independence, over crossed rifles and swords, in a laurel wreath.",
+  "origin": [
+    "Guatemala used the Central American blue and white after independence, then a red-and-yellow conservative flag in the mid-19th century. The liberal government of Miguel García Granados adopted the vertical blue-white-blue flag on 17 August 1871.",
+    "The coat of arms was redrawn in 1968 and its details standardised in 1997."
+  ],
+  "colors": [
+    { "name": "Sky blue", "hex": "#4997D0", "family": "light-blue", "meaning": "The Pacific Ocean and the Caribbean Sea; also justice and loyalty.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and purity; the land between the oceans.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Resplendent quetzal", "description": "A green bird with a long tail perched on the scroll.", "meaning": "Liberty; the quetzal is said to die in captivity. It is also the name of the currency.", "basis": "traditional" },
+    { "name": "Scroll", "description": "A parchment reading 'LIBERTAD 15 DE SEPTIEMBRE DE 1821'.", "meaning": "Independence from Spain on 15 September 1821.", "basis": "official" },
+    { "name": "Rifles and swords", "description": "Two crossed Remington rifles and two crossed swords.", "meaning": "Willingness to defend the country by force; the swords stand for justice and sovereignty.", "basis": "official" },
+    { "name": "Laurel wreath", "description": "Two laurel branches.", "meaning": "Victory.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1851, "to": 1871, "label": "Conservative flag", "note": "Red, yellow and blue." },
+    { "from": 1871, "to": 1997, "label": "Blue-white-blue vertical flag" },
+    { "from": 1997, "to": null, "label": "Standardised arms" }
+  ],
+  "facts": [
+    "It is the only Central American flag with vertical bands.",
+    "The quetzal is Guatemala's national bird and gives its name to the currency.",
+    "The civil flag omits the coat of arms."
+  ],
+  "clues": [
+    "Sky blue and white vertical bands with a long-tailed green bird on a scroll.",
+    "Its scroll gives a date in September 1821.",
+    "Its bird is also the name of the country's currency."
+  ],
+  "lookalikes": ["nicaragua", "el-salvador", "argentina"],
+  "tags": ["vertical-tricolour", "coat-of-arms", "bird", "weapon", "plant", "text"],
+  "sources": [
+    { "title": "Flag of Guatemala (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Guatemala" },
+    { "title": "Guatemala (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gt.html" }
+  ]
+}

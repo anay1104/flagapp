@@ -1,0 +1,42 @@
+{
+  "id": "gabon",
+  "wikidata": "Q1000",
+  "name": "Gabon",
+  "flagName": "Flag of Gabon",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-08-09",
+  "ratio": "3:4",
+  "summary": "Green, yellow and blue horizontal bands. Adopted at independence from France in 1960, the colours represent the country's forests, the equator and the sea.",
+  "origin": [
+    "Before independence, Gabon's flag had a narrow yellow band and a French tricolour in the canton. At independence on 17 August 1960 the canton was removed and the yellow band widened."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#009E60", "family": "green", "meaning": "The forests that cover most of the country.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The equator, which crosses Gabon, and the sun.", "basis": "official" },
+    { "name": "Blue", "hex": "#3A75C4", "family": "blue", "meaning": "The Atlantic Ocean.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1959, "to": 1960, "label": "Autonomous republic", "note": "With a French tricolour canton." },
+    { "from": 1960, "to": null, "label": "Gabonese Republic" }
+  ],
+  "facts": [
+    "Its 3:4 ratio is unusually square for a tricolour.",
+    "About 85% of Gabon is covered by rainforest.",
+    "Sierra Leone's flag uses green and blue with white instead of yellow."
+  ],
+  "clues": [
+    "Green, yellow and blue horizontal bands.",
+    "Its yellow stands for the equator, which crosses the country.",
+    "A French tricolour was removed from its canton at independence."
+  ],
+  "lookalikes": ["sierra-leone", "rwanda"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Gabon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Gabon" },
+    { "title": "Gabon (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ga.html" }
+  ]
+}

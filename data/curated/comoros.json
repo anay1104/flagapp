@@ -1,0 +1,48 @@
+{
+  "id": "comoros",
+  "wikidata": "Q970",
+  "name": "Comoros",
+  "flagName": "Flag of the Comoros",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2002,
+  "to": null,
+  "adopted": "2002-01-07",
+  "ratio": "3:5",
+  "summary": "Four horizontal stripes of yellow, white, red and blue with a green triangle at the hoist bearing a white crescent and four white stars. Each stripe and star stands for one of the islands.",
+  "origin": [
+    "The Comoros has changed its flag several times since independence from France in 1975. The current design was adopted with the 2001 constitution, in force from January 2002, after a secession crisis on Anjouan."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFC61E", "family": "yellow", "meaning": "Mohéli (Mwali).", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Mayotte (Maore), claimed by the Comoros but administered by France.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Anjouan (Ndzuwani).", "basis": "official" },
+    { "name": "Blue", "hex": "#3A75C4", "family": "blue", "meaning": "Grande Comore (Ngazidja).", "basis": "official" },
+    { "name": "Green", "hex": "#3D8E33", "family": "green", "meaning": "Islam.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent and four stars", "description": "A white crescent with four white stars in the green triangle.", "meaning": "Islam, and the four islands of the archipelago.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": 1978, "label": "State of the Comoros" },
+    { "from": 1978, "to": 1996, "label": "Federal Islamic Republic", "note": "Green with a crescent and four stars." },
+    { "from": 1996, "to": 2001, "label": "Various designs" },
+    { "from": 2002, "to": null, "label": "Union of the Comoros" }
+  ],
+  "facts": [
+    "One stripe represents Mayotte, which voted to remain French and is now a French department.",
+    "Its flag has changed at least six times since 1975.",
+    "The Comoros is a member of the Arab League."
+  ],
+  "clues": [
+    "Four stripes with a green hoist triangle holding a white crescent and four stars.",
+    "Each stripe stands for an island, including one it does not control.",
+    "Its flag has changed many times since 1975."
+  ],
+  "lookalikes": ["mauritius"],
+  "tags": ["horizontal-stripes", "hoist-triangle", "crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of the Comoros (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Comoros" },
+    { "title": "Comoros (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/km.html" }
+  ]
+}

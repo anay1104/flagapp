@@ -1,0 +1,45 @@
+{
+  "id": "laos",
+  "wikidata": "Q819",
+  "name": "Laos",
+  "flagName": "Flag of Laos",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "adopted": "1975-12-02",
+  "ratio": "2:3",
+  "summary": "Red, blue and red horizontal bands, the blue twice as tall, with a white disc in the centre. Used by the Lao Issara and Pathet Lao movements, it became the national flag when the communist Lao People's Democratic Republic was declared in 1975.",
+  "origin": [
+    "The flag was first used by the Lao Issara nationalist government in 1945, and later by the communist Pathet Lao. The Kingdom of Laos (1949–1975) used a red flag with a three-headed white elephant under a parasol.",
+    "When the monarchy was abolished on 2 December 1975, the Pathet Lao flag became the national flag."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood shed for independence.", "basis": "official" },
+    { "name": "Blue", "hex": "#002868", "family": "blue", "meaning": "The wealth of the country; also the Mekong River.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The disc.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "White disc", "description": "A circle centred in the blue band.", "meaning": "The full moon over the Mekong; also the unity of the people under the government.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1975, "label": "Kingdom of Laos", "note": "Three-headed elephant under a parasol." },
+    { "from": 1975, "to": null, "label": "Lao People's Democratic Republic" }
+  ],
+  "facts": [
+    "It is one of the few communist-state flags without a star or a hammer and sickle.",
+    "The royal flag's three-headed elephant is Erawan, mount of the god Indra.",
+    "Its disc is often described as the moon rising over the Mekong."
+  ],
+  "clues": [
+    "Red, double-height blue and red bands with a white disc in the centre.",
+    "Its disc is the full moon over a great river.",
+    "It replaced a flag showing a three-headed elephant in 1975."
+  ],
+  "lookalikes": ["thailand", "cambodia"],
+  "tags": ["horizontal-stripes", "disc", "moon", "communist"],
+  "sources": [
+    { "title": "Flag of Laos (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Laos" },
+    { "title": "Laos (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/la.html" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cape-verde",
+  "wikidata": "Q1011",
+  "name": "Cape Verde",
+  "flagName": "Flag of Cape Verde",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-09-22",
+  "ratio": "10:17",
+  "aliases": ["Cabo Verde"],
+  "summary": "A blue field with white and red stripes below the centre and a ring of ten yellow stars toward the hoist. Adopted in 1992, it replaced a Pan-African flag linked to the former ruling party.",
+  "origin": [
+    "From independence in 1975, Cape Verde used a flag similar to Guinea-Bissau's, reflecting the shared liberation movement PAIGC. After the first multi-party elections in 1991, a new flag was adopted on 22 September 1992."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003893", "family": "blue", "meaning": "The ocean and the sky.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" },
+    { "name": "Red", "hex": "#CF2027", "family": "red", "meaning": "Effort and the road to building the nation.", "basis": "official" },
+    { "name": "Yellow", "hex": "#F7D116", "family": "yellow", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Ten stars", "description": "Ten yellow stars in a circle.", "meaning": "The ten main islands of the archipelago.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": 1992, "label": "PAIGC-style flag", "note": "Red hoist band with an emblem, yellow and green." },
+    { "from": 1992, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "Its ring of stars echoes the flag of the European Union.",
+    "The stripes are often read as the road toward building the nation.",
+    "Cape Verde's ten islands include nine inhabited ones."
+  ],
+  "clues": [
+    "Blue with white and red stripes and a ring of ten yellow stars.",
+    "Its stars stand for ten islands.",
+    "It replaced a flag shared in style with a mainland neighbour."
+  ],
+  "lookalikes": ["guinea-bissau"],
+  "tags": ["horizontal-stripes", "star"],
+  "sources": [
+    { "title": "Flag of Cape Verde (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde" },
+    { "title": "Cape Verde (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cv.html" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "the-bahamas",
+  "wikidata": "Q778",
+  "name": "The Bahamas",
+  "flagName": "Flag of The Bahamas",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1973,
+  "to": null,
+  "adopted": "1973-07-10",
+  "ratio": "1:2",
+  "aliases": ["Bahamas"],
+  "summary": "Aquamarine, gold and aquamarine horizontal bands with a black triangle at the hoist. Adopted at independence from Britain on 10 July 1973.",
+  "origin": [
+    "The flag was designed for independence, chosen from public submissions; elements of several entries were combined. It was raised on 10 July 1973."
+  ],
+  "colors": [
+    { "name": "Aquamarine", "hex": "#00ABC9", "family": "light-blue", "meaning": "The clear waters surrounding the islands.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The sun and the golden beaches.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The vigour and strength of a united people.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Black triangle", "description": "An equilateral triangle at the hoist.", "meaning": "The determination of the people to develop the resources of land and sea.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1973, "to": null, "label": "Commonwealth of The Bahamas" }
+  ],
+  "facts": [
+    "The Bahamas consist of about 700 islands and cays.",
+    "Its aquamarine is one of the lightest blues on any national flag.",
+    "The Bahamas' official name includes 'The'."
+  ],
+  "clues": [
+    "Aquamarine, gold and aquamarine bands with a black triangle at the hoist.",
+    "Its gold stands for beaches and its blue for clear seas.",
+    "Adopted in July 1973 for an archipelago of hundreds of islands."
+  ],
+  "lookalikes": ["ukraine", "jamaica"],
+  "tags": ["horizontal-tricolour", "hoist-triangle"],
+  "sources": [
+    { "title": "Flag of the Bahamas (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas" },
+    { "title": "Bahamas (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bs.html" }
+  ]
+}

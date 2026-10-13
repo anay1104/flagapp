@@ -1,0 +1,43 @@
+{
+  "id": "yemen",
+  "wikidata": "Q805",
+  "name": "Yemen",
+  "flagName": "Flag of Yemen",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-05-22",
+  "ratio": "2:3",
+  "summary": "A plain horizontal tricolour of red, white and black, in the Pan-Arab colours. It was adopted on 22 May 1990, when North and South Yemen united.",
+  "origin": [
+    "North Yemen used red-white-black with a green star from 1962, and South Yemen used red-white-black with a blue triangle and red star from 1967. At unification, the emblems were dropped, leaving the plain tricolour."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood of martyrs and unity.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "A bright future.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The dark past.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1962, "to": 1990, "label": "Yemen Arab Republic (North)", "note": "With a green star." },
+    { "from": 1967, "to": 1990, "label": "People's Democratic Republic (South)", "note": "Blue triangle with a red star." },
+    { "from": 1990, "to": null, "label": "Republic of Yemen" }
+  ],
+  "facts": [
+    "Egypt, Iraq and Syria use the same colours with added emblems; Yemen's has none.",
+    "Southern separatists still use the former flag of South Yemen.",
+    "It is the simplest of the red-white-black Pan-Arab flags."
+  ],
+  "clues": [
+    "Plain red, white and black horizontal bands.",
+    "Adopted when two states united in 1990.",
+    "Egypt's and Iraq's flags are similar but add emblems."
+  ],
+  "lookalikes": ["egypt", "iraq", "syria", "german-empire"],
+  "tags": ["horizontal-tricolour", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Yemen (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Yemen" },
+    { "title": "Yemen (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ye.html" }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "botswana",
+  "wikidata": "Q963",
+  "name": "Botswana",
+  "flagName": "Flag of Botswana",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1966,
+  "to": null,
+  "adopted": "1966-09-30",
+  "ratio": "2:3",
+  "summary": "A light blue field with a black horizontal band edged in white. Adopted at independence in 1966, it is one of few African flags that do not use the Pan-African colours or the colours of a political party.",
+  "origin": [
+    "Bechuanaland became independent as Botswana on 30 September 1966. The new flag deliberately avoided the colours of the ruling Botswana Democratic Party and of the opposition, to emphasise national unity."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#6DA9D2", "family": "light-blue", "meaning": "Water and rain; reflects the national motto 'Pula', meaning 'rain'.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The Black majority, in racial harmony with the white minority.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The white minority; together with black, racial harmony. Also the zebra, the national animal.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1966, "to": null, "label": "Republic of Botswana" }
+  ],
+  "facts": [
+    "Botswana's currency is called the pula, the same word as the national motto.",
+    "The black and white stripes are often linked to the zebra on the coat of arms.",
+    "Estonia's flag also has light blue, black and white."
+  ],
+  "clues": [
+    "Light blue with a black band edged in white.",
+    "Its blue reflects a motto meaning 'rain'.",
+    "Its black and white bands are linked to a striped national animal."
+  ],
+  "lookalikes": ["estonia", "the-gambia"],
+  "tags": ["horizontal-stripes", "fimbriation"],
+  "sources": [
+    { "title": "Flag of Botswana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Botswana" },
+    { "title": "Botswana (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bw.html" }
+  ]
+}

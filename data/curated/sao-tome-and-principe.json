@@ -1,0 +1,45 @@
+{
+  "id": "sao-tome-and-principe",
+  "wikidata": "Q1039",
+  "name": "São Tomé and Príncipe",
+  "flagName": "Flag of São Tomé and Príncipe",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "adopted": "1975-11-05",
+  "ratio": "1:2",
+  "aliases": ["Sao Tome and Principe", "São Tomé"],
+  "summary": "Green, yellow and green horizontal bands with a red triangle at the hoist and two black stars in the yellow band. The two stars represent the two main islands.",
+  "origin": [
+    "The flag is based on that of the Movement for the Liberation of São Tomé and Príncipe (MLSTP). It was adopted after independence from Portugal on 12 July 1975."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#12AD2B", "family": "green", "meaning": "The islands' vegetation.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFCE00", "family": "yellow", "meaning": "The sun and cocoa, the main export.", "basis": "official" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The struggle for independence.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Two black stars", "description": "Two five-pointed black stars in the yellow band.", "meaning": "The two main islands, São Tomé and Príncipe.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1975, "to": null, "label": "Democratic Republic of São Tomé and Príncipe" }
+  ],
+  "facts": [
+    "It is the second-smallest African country by area, after Seychelles.",
+    "The islands lie on the equator in the Gulf of Guinea.",
+    "Its black stars echo Ghana's 'Black Star of Africa'."
+  ],
+  "clues": [
+    "Green, yellow and green bands with a red hoist triangle and two black stars.",
+    "Its two stars are two islands on the equator.",
+    "Its yellow is linked to cocoa."
+  ],
+  "lookalikes": ["ghana", "guinea-bissau"],
+  "tags": ["horizontal-stripes", "hoist-triangle", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of São Tomé and Príncipe (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" },
+    { "title": "São Tomé and Príncipe (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/st.html" }
+  ]
+}

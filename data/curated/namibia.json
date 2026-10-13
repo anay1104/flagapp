@@ -1,0 +1,45 @@
+{
+  "id": "namibia",
+  "wikidata": "Q1030",
+  "name": "Namibia",
+  "flagName": "Flag of Namibia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-03-21",
+  "ratio": "2:3",
+  "summary": "A red diagonal band edged in white, separating a blue upper-hoist triangle with a golden sun of 12 rays from a green lower-fly triangle. It was adopted at independence from South Africa in 1990.",
+  "origin": [
+    "A committee chose the design from public submissions in early 1990, combining the colours of the main liberation movement SWAPO (blue, red, green) with those of other parties. It was raised at independence on 21 March 1990."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003580", "family": "blue", "meaning": "The sky, the Atlantic Ocean, and the importance of water and rain.", "basis": "official" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The people, their heroism and determination to build a future of equal opportunity.", "basis": "official" },
+    { "name": "Green", "hex": "#009A44", "family": "green", "meaning": "Vegetation and agricultural resources.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and unity.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFCE00", "family": "yellow", "meaning": "The sun: life and energy; also the plains of the Namib Desert.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun with 12 rays", "description": "A golden sun in the upper hoist.", "meaning": "Life and energy.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1990, "to": null, "label": "Republic of Namibia" }
+  ],
+  "facts": [
+    "Namibia was administered by South Africa until 1990.",
+    "Its diagonal layout resembles those of Tanzania and the Republic of the Congo.",
+    "The Namib is one of the oldest deserts in the world."
+  ],
+  "clues": [
+    "A red diagonal band edged in white, with a sun in the blue triangle and green below.",
+    "Adopted in 1990 at independence from a neighbour's administration.",
+    "Its gold sun recalls a coastal desert."
+  ],
+  "lookalikes": ["tanzania", "saint-kitts-and-nevis"],
+  "tags": ["diagonal", "fimbriation", "sun"],
+  "sources": [
+    { "title": "Flag of Namibia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Namibia" },
+    { "title": "Namibia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/na.html" }
+  ]
+}

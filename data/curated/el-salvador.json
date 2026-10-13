@@ -1,0 +1,47 @@
+{
+  "id": "el-salvador",
+  "wikidata": "Q792",
+  "name": "El Salvador",
+  "flagName": "Flag of El Salvador",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1912,
+  "to": null,
+  "adopted": "1912-05-27",
+  "ratio": "189:335",
+  "summary": "Blue, white and blue horizontal bands with the coat of arms in the centre: a triangle containing five volcanoes, a Phrygian cap and a rainbow, inside a wreath and the words 'República de El Salvador en la América Central'.",
+  "origin": [
+    "El Salvador used the blue and white of the Federal Republic of Central America after independence. Between 1865 and 1912 it used a flag modelled on the US flag, with stars on a red canton.",
+    "On 27 May 1912 it returned to the blue-white-blue Central American design, with a new coat of arms."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0F47AF", "family": "blue", "meaning": "The two oceans, the Pacific and the Caribbean (Atlantic), that border Central America.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and the land between the oceans.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Triangle with volcanoes", "description": "An equilateral triangle with five volcanoes rising from the sea.", "meaning": "Equality; the five volcanoes are the five members of the former Federal Republic of Central America.", "basis": "official" },
+    { "name": "Phrygian cap and rainbow", "description": "A red liberty cap on a staff, under a rainbow.", "meaning": "Liberty and peace.", "basis": "official" },
+    { "name": "Motto", "description": "'DIOS UNIÓN LIBERTAD' on a ribbon.", "meaning": "God, Union, Liberty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1823, "to": 1865, "label": "Central American colours" },
+    { "from": 1865, "to": 1912, "label": "US-style flag", "note": "Blue and white stripes with stars on a red canton." },
+    { "from": 1912, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "Nicaragua's flag is very similar, with a different emblem showing the same five volcanoes.",
+    "Its unusual 189:335 ratio is set by law.",
+    "Honduras's flag uses the same blue-white-blue with five stars instead of volcanoes."
+  ],
+  "clues": [
+    "Blue, white and blue bands with a triangular emblem of five volcanoes and a liberty cap.",
+    "Its emblem's text names its country 'in Central America'.",
+    "From 1865 to 1912 it used a flag copied from the US."
+  ],
+  "lookalikes": ["nicaragua", "honduras", "argentina"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "mountain", "text", "water", "plant"],
+  "sources": [
+    { "title": "Flag of El Salvador (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_El_Salvador" },
+    { "title": "El Salvador (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sv.html" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "eritrea",
+  "wikidata": "Q986",
+  "name": "Eritrea",
+  "flagName": "Flag of Eritrea",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "adopted": "1995-12-05",
+  "ratio": "1:2",
+  "summary": "A red triangle pointing from the hoist to the fly, separating green and light blue triangles, with a gold olive wreath and branch in the red. It derives from the flag of the Eritrean People's Liberation Front.",
+  "origin": [
+    "The Eritrean People's Liberation Front (EPLF) fought for independence from Ethiopia from the 1970s, using a flag of red, green and blue with a yellow star.",
+    "After independence in 1993, the star was replaced with the olive emblem from the 1952 federal flag. The proportions were changed to 1:2 on 5 December 1995."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EA0437", "family": "red", "meaning": "The blood shed in the fight for freedom.", "basis": "official" },
+    { "name": "Light blue", "hex": "#4189DD", "family": "light-blue", "meaning": "The sea (the Red Sea coast).", "basis": "official" },
+    { "name": "Green", "hex": "#12AD2B", "family": "green", "meaning": "Agriculture and livestock.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC726", "family": "yellow", "meaning": "Mineral wealth.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Olive wreath and branch", "description": "A gold olive branch inside a wreath of olive leaves.", "meaning": "Peace; from the flag of the Eritrean federation of 1952, which was light blue with a green olive emblem.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1962, "label": "Federated Eritrea", "note": "Light blue with a green olive emblem." },
+    { "from": 1993, "to": 1995, "label": "Independence flag (2:3)" },
+    { "from": 1995, "to": null, "label": "1:2 proportions" }
+  ],
+  "facts": [
+    "The olive wreath has 30 leaves, often said to represent the 30 years of the independence war (1961–1991).",
+    "Its large red triangle points from the hoist all the way to the fly.",
+    "Eritrea was federated with Ethiopia in 1952 and annexed in 1962."
+  ],
+  "clues": [
+    "A red triangle spanning the flag between green and light blue triangles, with a gold olive wreath.",
+    "Its wreath's leaves are said to count the years of a war of independence.",
+    "Its olive emblem came from a 1950s federal flag."
+  ],
+  "lookalikes": ["guyana", "south-sudan"],
+  "tags": ["hoist-triangle", "plant"],
+  "sources": [
+    { "title": "Flag of Eritrea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Eritrea" },
+    { "title": "Eritrea (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/er.html" }
+  ]
+}

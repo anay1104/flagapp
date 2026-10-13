@@ -1,0 +1,47 @@
+{
+  "id": "lesotho",
+  "wikidata": "Q1013",
+  "name": "Lesotho",
+  "flagName": "Flag of Lesotho",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2006,
+  "to": null,
+  "adopted": "2006-10-04",
+  "ratio": "2:3",
+  "summary": "Blue, white and green horizontal bands with a black mokorotlo, the traditional Basotho conical straw hat, in the centre. Adopted in 2006 for the 40th anniversary of independence.",
+  "origin": [
+    "At independence in 1966 Lesotho's flag was blue with a white mokorotlo and green and red stripes. A military government replaced it in 1987 with a flag showing a shield, assegai and knobkerrie.",
+    "On 4 October 2006, the 40th anniversary of independence, a new flag was introduced with a peaceful symbol: the mokorotlo alone."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#00209F", "family": "blue", "meaning": "Rain and the sky.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" },
+    { "name": "Green", "hex": "#009543", "family": "green", "meaning": "Prosperity.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The mokorotlo; the Basotho nation, an African state.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Mokorotlo", "description": "A black conical straw hat with a knob on top.", "meaning": "The Basotho people and their culture; the hat's shape is said to resemble Mount Qiloane.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1966, "to": 1987, "label": "Kingdom of Lesotho", "note": "Blue with a white mokorotlo." },
+    { "from": 1987, "to": 2006, "label": "Shield and weapons flag" },
+    { "from": 2006, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "Lesotho is entirely surrounded by South Africa.",
+    "It is the only independent state lying entirely above 1,000 metres.",
+    "The mokorotlo also appears on Lesotho's licence plates."
+  ],
+  "clues": [
+    "Blue, white and green bands with a black conical hat in the centre.",
+    "Its hat is said to resemble a mountain.",
+    "Adopted in 2006 to replace a flag showing weapons."
+  ],
+  "lookalikes": ["sierra-leone", "gabon"],
+  "tags": ["horizontal-tricolour", "emblem"],
+  "sources": [
+    { "title": "Flag of Lesotho (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Lesotho" },
+    { "title": "Lesotho (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ls.html" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "belize",
+  "wikidata": "Q242",
+  "name": "Belize",
+  "flagName": "Flag of Belize",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1981-09-21",
+  "ratio": "2:3",
+  "summary": "A blue field with narrow red stripes at top and bottom and a large white disc holding the coat of arms: two woodcutters beside a shield, under a mahogany tree, with the motto 'Sub Umbra Floreo'. It has twelve colours, more than any other national flag.",
+  "origin": [
+    "Before independence, British Honduras used a blue flag with the arms in a white disc, adopted in 1950, which became a symbol of the independence movement. The red stripes were added at independence on 21 September 1981."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003F87", "family": "blue", "meaning": "The People's United Party.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The United Democratic Party.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The disc around the arms.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Two woodcutters", "description": "A Mestizo man holding an axe and a Creole man holding a paddle, flanking the shield.", "meaning": "The logwood and mahogany trade that founded the colony, and the country's diverse people.", "basis": "official" },
+    { "name": "Mahogany tree", "description": "A tree above the shield.", "meaning": "The timber industry; the motto 'Sub Umbra Floreo' means 'Under the shade I flourish'.", "basis": "official" },
+    { "name": "Wreath of 50 leaves", "description": "A green wreath around the arms.", "meaning": "1950, the year the independence movement began.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1950, "to": 1981, "label": "British Honduras", "note": "Unofficial flag without the red stripes." },
+    { "from": 1981, "to": null, "label": "Belize" }
+  ],
+  "facts": [
+    "It is the only national flag to depict human beings as a main element.",
+    "With twelve colours, it has more than any other national flag.",
+    "Belize is the only Central American country with English as the official language."
+  ],
+  "clues": [
+    "Blue with red edge stripes and two men flanking a shield under a tree in a white disc.",
+    "The only national flag depicting people as its main element.",
+    "Its motto means 'Under the shade I flourish'."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-stripes", "disc", "coat-of-arms", "shield", "plant", "tool", "text"],
+  "sources": [
+    { "title": "Flag of Belize (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Belize" },
+    { "title": "Belize (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bz.html" }
+  ]
+}

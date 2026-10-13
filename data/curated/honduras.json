@@ -1,0 +1,44 @@
+{
+  "id": "honduras",
+  "wikidata": "Q783",
+  "name": "Honduras",
+  "flagName": "Flag of Honduras",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1866,
+  "to": null,
+  "adopted": "1866-02-16",
+  "ratio": "1:2",
+  "summary": "Blue, white and blue horizontal bands with five blue stars in an X pattern in the centre. The stars stand for the five states of the former Federal Republic of Central America and the hope of reuniting them.",
+  "origin": [
+    "Honduras was one of five states in the Federal Republic of Central America (1823–1841), which used blue and white. A decree of 16 February 1866 added five stars to the Honduran flag.",
+    "In 2022 the government changed the blue to a turquoise shade, citing the original 1866 decree; in 2026 the earlier navy blue was reinstated."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0073CF", "family": "blue", "meaning": "The Pacific Ocean and the Caribbean Sea; also the sky and brotherhood.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The land between the seas, and peace.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Five stars", "description": "Five five-pointed blue stars in an X pattern.", "meaning": "The five members of the Central American federation (Honduras, Guatemala, El Salvador, Nicaragua, Costa Rica) and the hope of reunification.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1823, "to": 1866, "label": "Central American colours" },
+    { "from": 1866, "to": null, "label": "Five stars added", "note": "Shade of blue changed in 2022 and reverted in 2026." }
+  ],
+  "facts": [
+    "Honduras's flag has changed shade several times; the stars have stayed the same since 1866.",
+    "El Salvador and Nicaragua also use the blue-white-blue Central American pattern.",
+    "The five stars echo the five volcanoes on the arms of El Salvador and Nicaragua."
+  ],
+  "clues": [
+    "Blue, white and blue bands with five blue stars arranged like an X.",
+    "Its stars represent the five states of a former federation.",
+    "Its shade of blue changed in 2022."
+  ],
+  "lookalikes": ["el-salvador", "nicaragua", "argentina"],
+  "tags": ["horizontal-tricolour", "star"],
+  "sources": [
+    { "title": "Flag of Honduras (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Honduras" },
+    { "title": "Honduras (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/hn.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "panama",
+  "wikidata": "Q804",
+  "name": "Panama",
+  "flagName": "Flag of Panama",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1903,
+  "to": null,
+  "adopted": "1903-11-03",
+  "ratio": "2:3",
+  "designer": "Manuel Amador Guerrero and María Ossa de Amador",
+  "summary": "A rectangle divided into quarters: white with a blue star, red, blue, and white with a red star. Designed for independence from Colombia in 1903, it represents the two main political parties working together in peace.",
+  "origin": [
+    "Panama separated from Colombia on 3 November 1903 with US support. The flag was designed by Manuel Amador Guerrero, the first president, and sewn by his wife María Ossa de Amador. It was officially adopted in 1925."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#005293", "family": "blue", "meaning": "The Conservative Party.", "basis": "official" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The Liberal Party.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace between the two parties.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Blue star", "description": "In the upper hoist white quarter.", "meaning": "Purity and honesty in civic life.", "basis": "official" },
+    { "name": "Red star", "description": "In the lower fly white quarter.", "meaning": "Authority and law.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1903, "to": null, "label": "Republic of Panama" }
+  ],
+  "facts": [
+    "Flag Day is 4 November, the day after independence.",
+    "The quartered design is unusual among national flags.",
+    "The Panama Canal Zone was administered by the US until 1979."
+  ],
+  "clues": [
+    "Four quarters: white with a blue star, red, blue, and white with a red star.",
+    "Its blue and red stand for two rival political parties.",
+    "Sewn by the wife of its country's first president in 1903."
+  ],
+  "lookalikes": ["dominican-republic"],
+  "tags": ["quartered", "star"],
+  "sources": [
+    { "title": "Flag of Panama (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Panama" },
+    { "title": "Panama (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pa.html" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "nicaragua",
+  "wikidata": "Q811",
+  "name": "Nicaragua",
+  "flagName": "Flag of Nicaragua",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1971,
+  "to": null,
+  "adopted": "1908-09-04",
+  "ratio": "3:5",
+  "summary": "Blue, white and blue horizontal bands with the coat of arms: a triangle with five volcanoes, a Phrygian cap and a rainbow, encircled by 'República de Nicaragua — América Central'. It is one of the few national flags to include the colour purple, in the rainbow.",
+  "origin": [
+    "The design follows the flag of the Federal Republic of Central America (1823–1841). Nicaragua adopted it on 4 September 1908, and the specifications were set by law on 27 August 1971."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0067C6", "family": "blue", "meaning": "The two oceans bordering the country; also justice and loyalty.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The land between the oceans; also peace and purity.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Triangle with five volcanoes", "description": "An equilateral triangle with five green volcanoes between two seas.", "meaning": "Equality; the volcanoes represent the five former members of the Central American federation.", "basis": "official" },
+    { "name": "Phrygian cap", "description": "A liberty cap radiating light.", "meaning": "Liberty.", "basis": "official" },
+    { "name": "Rainbow", "description": "A rainbow across the top of the triangle, including purple.", "meaning": "Peace.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1908, "to": 1971, "label": "Republic of Nicaragua" },
+    { "from": 1971, "to": null, "label": "Specifications set by law" }
+  ],
+  "facts": [
+    "Its rainbow makes it one of only two national flags with purple, along with Dominica's.",
+    "El Salvador's flag is very similar, with a different emblem.",
+    "The Sandinista movement uses a red and black flag, flown alongside the national flag."
+  ],
+  "clues": [
+    "Blue, white and blue bands with a triangle of five volcanoes under a rainbow.",
+    "Its rainbow makes it one of only two national flags with purple.",
+    "Its emblem names its country and 'América Central'."
+  ],
+  "lookalikes": ["el-salvador", "honduras", "argentina"],
+  "tags": ["horizontal-tricolour", "emblem", "mountain", "water", "text", "purple"],
+  "sources": [
+    { "title": "Flag of Nicaragua (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nicaragua" },
+    { "title": "Nicaragua (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ni.html" }
+  ]
+}

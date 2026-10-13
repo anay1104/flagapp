@@ -1,0 +1,48 @@
+{
+  "id": "equatorial-guinea",
+  "wikidata": "Q983",
+  "name": "Equatorial Guinea",
+  "flagName": "Flag of Equatorial Guinea",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "adopted": "1968-10-12",
+  "ratio": "2:3",
+  "summary": "Green, white and red horizontal bands with a blue triangle at the hoist and the coat of arms in the centre: a silk-cotton tree under six stars, with the motto 'Unidad, Paz, Justicia'.",
+  "origin": [
+    "The flag was adopted at independence from Spain on 12 October 1968. Under the dictator Francisco Macías Nguema (1972–1979) the arms were replaced with a symbol including a cockerel, tools and a sword.",
+    "After Macías was overthrown in 1979, the original coat of arms was restored."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#3E9A00", "family": "green", "meaning": "Natural resources, agriculture and the jungle.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "official" },
+    { "name": "Red", "hex": "#E32118", "family": "red", "meaning": "The fight for independence.", "basis": "official" },
+    { "name": "Blue", "hex": "#0073CE", "family": "blue", "meaning": "The sea that connects the mainland and the islands.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Silk-cotton tree", "description": "A ceiba (God tree) in a silver shield.", "meaning": "The tree under which a treaty between local ruler Bonkoro and Spain was said to be signed.", "basis": "official" },
+    { "name": "Six stars", "description": "Six yellow six-pointed stars above the shield.", "meaning": "The mainland and the five main islands.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1968, "to": 1973, "label": "Republic of Equatorial Guinea" },
+    { "from": 1973, "to": 1979, "label": "Macías regime", "note": "Different emblem." },
+    { "from": 1979, "to": null, "label": "Original arms restored" }
+  ],
+  "facts": [
+    "It is the only African country with Spanish as an official language.",
+    "Its capital, Malabo, is on the island of Bioko, not the mainland.",
+    "The six stars stand for Río Muni, Bioko, Annobón, Corisco, Elobey Grande and Elobey Chico."
+  ],
+  "clues": [
+    "Green, white and red bands with a blue hoist triangle and a tree under six stars.",
+    "Its six stars are the mainland and five islands.",
+    "Its motto is 'Unidad, Paz, Justicia'."
+  ],
+  "lookalikes": ["sudan", "palestine"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "coat-of-arms", "shield", "plant", "star", "text"],
+  "sources": [
+    { "title": "Flag of Equatorial Guinea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Equatorial_Guinea" },
+    { "title": "Equatorial Guinea (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gq.html" }
+  ]
+}

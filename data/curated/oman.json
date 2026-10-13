@@ -1,0 +1,46 @@
+{
+  "id": "oman",
+  "wikidata": "Q842",
+  "name": "Oman",
+  "flagName": "Flag of Oman",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "adopted": "1970-12-17",
+  "ratio": "1:2",
+  "summary": "A vertical red band at the hoist with the national emblem of a khanjar dagger over crossed swords, beside white, red and green horizontal bands. It was introduced in 1970 by Sultan Qaboos bin Said.",
+  "origin": [
+    "Oman historically used plain red flags. Sultan Qaboos introduced the current design on 17 December 1970, shortly after taking power, adding white and green.",
+    "In 1995 the proportions were changed and the white and green bands made equal in width to the red."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#DB161B", "family": "red", "meaning": "The battles against invaders; the traditional colour of Omani flags.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and prosperity; also the Imam, the religious leader.", "basis": "traditional" },
+    { "name": "Green", "hex": "#008000", "family": "green", "meaning": "Fertility, the Jebel Akhdar (Green Mountain) and Islam.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Khanjar and swords", "description": "A traditional curved dagger in its sheath over two crossed swords, joined by a belt.", "meaning": "The national emblem of the Al Said dynasty, adopted in the 18th century.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1856, "to": 1970, "label": "Plain red flag" },
+    { "from": 1970, "to": 1995, "label": "Introduced by Sultan Qaboos" },
+    { "from": 1995, "to": null, "label": "Proportions changed" }
+  ],
+  "facts": [
+    "The khanjar is still worn on formal occasions by Omani men.",
+    "The emblem also appears on Omani banknotes.",
+    "Sultan Qaboos ruled from 1970 until his death in 2020."
+  ],
+  "clues": [
+    "A red hoist band with a dagger over crossed swords, beside white, red and green bands.",
+    "Its emblem shows a traditional curved dagger.",
+    "Introduced in 1970 by a sultan who ruled for fifty years."
+  ],
+  "lookalikes": ["united-arab-emirates", "belarus"],
+  "tags": ["horizontal-stripes", "emblem", "weapon", "monarchy"],
+  "sources": [
+    { "title": "Flag of Oman (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Oman" },
+    { "title": "Oman (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/om.html" }
+  ]
+}

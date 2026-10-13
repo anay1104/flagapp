@@ -1,0 +1,45 @@
+{
+  "id": "costa-rica",
+  "wikidata": "Q800",
+  "name": "Costa Rica",
+  "flagName": "Flag of Costa Rica",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1906,
+  "to": null,
+  "adopted": "1848-09-29",
+  "ratio": "3:5",
+  "designer": "Pacífica Fernández Oreamuno",
+  "summary": "Five horizontal stripes of blue, white, red, white and blue, the red twice as tall. Designed in 1848 by Pacífica Fernández, the First Lady, and inspired by the French Revolution of that year.",
+  "origin": [
+    "Costa Rica used the blue-white-blue flag of the Federal Republic of Central America after independence from Spain. In 1848 Pacífica Fernández, wife of President José María Castro Madriz, added a red stripe, inspired by the ideals of the 1848 revolution in France.",
+    "The state flag carries the coat of arms on a white oval on the red band; the plain version is the civil flag. The current arms date from 1906."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002B7F", "family": "blue", "meaning": "The sky, opportunities, idealism and perseverance.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace, wisdom and happiness.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The warmth and generosity of the people, and the blood of martyrs for freedom.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1823, "to": 1848, "label": "Central American colours", "note": "Blue and white." },
+    { "from": 1848, "to": 1906, "label": "Red stripe added" },
+    { "from": 1906, "to": null, "label": "Current arms on the state flag" }
+  ],
+  "facts": [
+    "Thailand's flag has the same stripe pattern, with red and blue swapped.",
+    "Costa Rica abolished its army in 1948.",
+    "Its coat of arms shows three volcanoes between two oceans, with ships."
+  ],
+  "clues": [
+    "Blue, white, double-height red, white and blue stripes.",
+    "Designed by a First Lady inspired by a European revolution in 1848.",
+    "An Asian kingdom's flag has the same pattern with two colours swapped."
+  ],
+  "lookalikes": ["thailand", "north-korea"],
+  "tags": ["horizontal-stripes"],
+  "sources": [
+    { "title": "Flag of Costa Rica (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica" },
+    { "title": "Costa Rica (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cr.html" }
+  ]
+}

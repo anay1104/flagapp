@@ -1,0 +1,46 @@
+{
+  "id": "dominican-republic",
+  "wikidata": "Q786",
+  "name": "Dominican Republic",
+  "flagName": "Flag of the Dominican Republic",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1844,
+  "to": null,
+  "adopted": "1844-11-06",
+  "ratio": "2:3",
+  "designer": "Juan Pablo Duarte",
+  "summary": "A white cross dividing blue and red quarters, with the coat of arms in the centre: a shield with an open Bible, a cross and six spears and flags. It is the only national flag that shows a Bible.",
+  "origin": [
+    "Juan Pablo Duarte, founder of the secret society La Trinitaria, designed the flag based on the Haitian blue and red with a white cross added. It was raised at independence from Haiti on 27 February 1844 and adopted in the constitution of 6 November 1844."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002D62", "family": "blue", "meaning": "Liberty.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood shed by the heroes of independence.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Salvation and faith.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Open Bible", "description": "A Bible open at John 8:32, 'And ye shall know the truth, and the truth shall make you free'.", "meaning": "Faith.", "basis": "official" },
+    { "name": "Cross", "description": "A small golden cross above the Bible.", "meaning": "Christianity and sacrifice.", "basis": "official" },
+    { "name": "Mottoes", "description": "'DIOS, PATRIA, LIBERTAD' above and 'REPÚBLICA DOMINICANA' below.", "meaning": "God, Homeland, Liberty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1844, "to": null, "label": "Dominican Republic", "note": "Interrupted by Spanish annexation 1861–1865 and US occupation 1916–1924." }
+  ],
+  "facts": [
+    "It is the only national flag with a Bible.",
+    "The quarters alternate so that blue is at the upper hoist and lower fly.",
+    "Flag Day is 27 February, Independence Day."
+  ],
+  "clues": [
+    "A white cross between blue and red quarters, with a shield holding an open book.",
+    "The only national flag that shows a Bible.",
+    "Its design added a white cross to a neighbour's colours."
+  ],
+  "lookalikes": ["panama", "haiti"],
+  "tags": ["cross", "coat-of-arms", "shield", "book", "religious-symbol", "weapon", "plant", "text"],
+  "sources": [
+    { "title": "Flag of the Dominican Republic (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic" },
+    { "title": "Dominican Republic (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/do.html" }
+  ]
+}

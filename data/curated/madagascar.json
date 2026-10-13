@@ -1,0 +1,41 @@
+{
+  "id": "madagascar",
+  "wikidata": "Q1019",
+  "name": "Madagascar",
+  "flagName": "Flag of Madagascar",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1958,
+  "to": null,
+  "adopted": "1958-10-21",
+  "ratio": "2:3",
+  "summary": "A white vertical band at the hoist with red over green horizontal bands. Adopted in 1958 before independence from France, its red and white come from the Merina Kingdom.",
+  "origin": [
+    "Red and white were the colours of the Merina Kingdom, which ruled much of Madagascar until the French conquest in 1897. The flag was adopted on 21 October 1958, when Madagascar became an autonomous republic, and kept at independence in 1960."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity; also the Merina Kingdom's colours.", "basis": "traditional" },
+    { "name": "Red", "hex": "#FC3D32", "family": "red", "meaning": "Sovereignty; from the Merina Kingdom.", "basis": "traditional" },
+    { "name": "Green", "hex": "#007E3A", "family": "green", "meaning": "Hope; commonly also linked to the peasantry and the coastal peoples.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1958, "to": null, "label": "Malagasy Republic and Republic of Madagascar" }
+  ],
+  "facts": [
+    "Benin's flag has a similar layout with a green hoist band and yellow over red.",
+    "Belarus's flag has red over green with an ornamental band at the hoist.",
+    "The Merina queen Ranavalona III was the last monarch before the French conquest."
+  ],
+  "clues": [
+    "A white vertical band at the hoist with red over green.",
+    "Its red and white came from a highland kingdom conquered in 1897.",
+    "Adopted in 1958 for an island republic."
+  ],
+  "lookalikes": ["benin", "belarus"],
+  "tags": ["horizontal-bicolour"],
+  "sources": [
+    { "title": "Flag of Madagascar (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Madagascar" },
+    { "title": "Madagascar (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mg.html" }
+  ]
+}

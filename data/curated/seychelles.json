@@ -1,0 +1,48 @@
+{
+  "id": "seychelles",
+  "wikidata": "Q1042",
+  "name": "Seychelles",
+  "flagName": "Flag of Seychelles",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1996,
+  "to": null,
+  "adopted": "1996-01-08",
+  "ratio": "1:2",
+  "summary": "Five oblique bands of blue, yellow, red, white and green radiating from the lower hoist corner. Adopted in 1996, the rays suggest a dynamic country moving into the future.",
+  "origin": [
+    "At independence in 1976 Seychelles used a flag with blue and red triangles divided by a white saltire. A one-party flag of red, white and green followed in 1977.",
+    "With the return of multi-party democracy, the current flag was adopted on 8 January 1996, combining the colours of the main political parties."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003F87", "family": "blue", "meaning": "The sky and the sea.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD856", "family": "yellow", "meaning": "The sun, giving light and life.", "basis": "official" },
+    { "name": "Red", "hex": "#D62828", "family": "red", "meaning": "The people and their determination to work for the future in unity and love.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Social justice and harmony.", "basis": "official" },
+    { "name": "Green", "hex": "#007A3D", "family": "green", "meaning": "The land and the natural environment.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Oblique bands", "description": "Five bands fanning from the lower hoist corner.", "meaning": "A dynamic new country moving into the future.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1976, "to": 1977, "label": "Independence flag" },
+    { "from": 1977, "to": 1996, "label": "One-party flag", "note": "Red and green with a wavy white band." },
+    { "from": 1996, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "It is the only national flag with rays fanning out from a corner.",
+    "Seychelles is the smallest African country by population.",
+    "The colours combine those of the Seychelles People's United Party and the Democratic Party."
+  ],
+  "clues": [
+    "Five coloured bands fanning out from the lower hoist corner.",
+    "The only national flag with bands radiating from a corner.",
+    "Adopted in 1996 with the return of multi-party politics."
+  ],
+  "lookalikes": [],
+  "tags": ["diagonal"],
+  "sources": [
+    { "title": "Flag of Seychelles (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Seychelles" },
+    { "title": "Seychelles (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sc.html" }
+  ]
+}

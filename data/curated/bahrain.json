@@ -1,0 +1,45 @@
+{
+  "id": "bahrain",
+  "wikidata": "Q398",
+  "name": "Bahrain",
+  "flagName": "Flag of Bahrain",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2002,
+  "to": null,
+  "adopted": "2002-02-14",
+  "ratio": "3:5",
+  "summary": "A red field with a white band at the hoist, divided by five white triangles forming a serrated line. The five points represent the Five Pillars of Islam.",
+  "origin": [
+    "Like other Gulf states, Bahrain once flew plain red flags. After the General Maritime Treaty with Britain in 1820, a white band was added to show friendly status.",
+    "The serrated line was introduced in 1932 to distinguish Bahrain's flag from neighbours'. In 2002 the number of points was reduced to five."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The traditional colour of flags in the Gulf region.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace; from the 1820 treaty.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Five-point serration", "description": "A zigzag line of five white triangles.", "meaning": "The Five Pillars of Islam.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1820, "to": 1932, "label": "Red with white band" },
+    { "from": 1932, "to": 2002, "label": "Serrated line", "note": "Many points, later eight." },
+    { "from": 2002, "to": null, "label": "Five points" }
+  ],
+  "facts": [
+    "Qatar's flag is similar but maroon, with nine points and a much longer ratio.",
+    "Bahrain became a kingdom in 2002, the same year the flag was changed.",
+    "Its white band is a legacy of an 1820 treaty with Britain."
+  ],
+  "clues": [
+    "Red with a white hoist band and a zigzag edge of five points.",
+    "Its five points stand for the pillars of a religion.",
+    "A neighbour's similar flag is maroon with nine points."
+  ],
+  "lookalikes": ["qatar"],
+  "tags": ["serration", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Bahrain (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bahrain" },
+    { "title": "Bahrain (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bh.html" }
+  ]
+}

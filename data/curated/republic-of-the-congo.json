@@ -1,0 +1,45 @@
+{
+  "id": "republic-of-the-congo",
+  "wikidata": "Q971",
+  "name": "Republic of the Congo",
+  "flagName": "Flag of the Republic of the Congo",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "adopted": "1959-08-18",
+  "ratio": "2:3",
+  "aliases": ["Congo-Brazzaville", "Congo"],
+  "summary": "Green and red triangles divided by a diagonal yellow band. First adopted in 1959, replaced during the Marxist People's Republic, and restored in 1991.",
+  "origin": [
+    "The flag was adopted on 18 August 1959, before independence from France in 1960.",
+    "From 1970 to 1991 the People's Republic of the Congo used a red flag with a yellow hammer and hoe in a green wreath. The original flag returned on 10 June 1991 during the transition to multi-party rule."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#009543", "family": "green", "meaning": "Forests, agriculture and hope.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FBDE4A", "family": "yellow", "meaning": "Friendship and the nobility of the people.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DC241F", "family": "red", "meaning": "The struggle for independence.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1959, "to": 1970, "label": "Republic of the Congo" },
+    { "from": 1970, "to": 1991, "label": "People's Republic of the Congo", "note": "Red with hammer, hoe and star." },
+    { "from": 1991, "to": null, "label": "Original flag restored" }
+  ],
+  "facts": [
+    "Its diagonal layout is unusual among African flags.",
+    "Its larger neighbour, the DR Congo, also has a diagonal band, red edged in yellow on blue.",
+    "The capital, Brazzaville, faces Kinshasa across the Congo River."
+  ],
+  "clues": [
+    "A yellow diagonal band between green and red triangles.",
+    "Replaced by a communist emblem flag from 1970 to 1991.",
+    "Its capital faces another capital across a river."
+  ],
+  "lookalikes": ["democratic-republic-of-the-congo", "tanzania"],
+  "tags": ["diagonal", "pan-african"],
+  "sources": [
+    { "title": "Flag of the Republic of the Congo (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo" },
+    { "title": "Republic of the Congo (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cg.html" }
+  ]
+}

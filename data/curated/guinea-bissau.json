@@ -1,0 +1,44 @@
+{
+  "id": "guinea-bissau",
+  "wikidata": "Q1007",
+  "name": "Guinea-Bissau",
+  "flagName": "Flag of Guinea-Bissau",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1973,
+  "to": null,
+  "adopted": "1973-09-24",
+  "ratio": "1:2",
+  "summary": "A red vertical band at the hoist with a black star, and yellow over green horizontal bands. Based on the flag of the liberation movement PAIGC, it was adopted when independence was declared in 1973.",
+  "origin": [
+    "The African Party for the Independence of Guinea and Cape Verde (PAIGC), led by Amílcar Cabral, used a similar flag in its war against Portugal. Guinea-Bissau declared independence on 24 September 1973, recognised by Portugal in 1974."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood shed during the struggle for independence.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The sun and the wealth of the land; also gold.", "basis": "official" },
+    { "name": "Green", "hex": "#009E49", "family": "green", "meaning": "Hope and the forests.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The star; Africa.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Black star", "description": "A five-pointed black star in the red band.", "meaning": "African unity; the 'Black Star of Africa'.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1973, "to": null, "label": "Republic of Guinea-Bissau" }
+  ],
+  "facts": [
+    "Ghana's flag also features a black star in the Pan-African colours.",
+    "Cape Verde used a similar flag until 1992.",
+    "Amílcar Cabral was assassinated in 1973, months before independence was declared."
+  ],
+  "clues": [
+    "A red hoist band with a black star, beside yellow over green.",
+    "Its design came from a liberation party shared with an island nation.",
+    "Independence was declared months after its leader was assassinated."
+  ],
+  "lookalikes": ["ghana", "benin"],
+  "tags": ["star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Guinea-Bissau (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau" },
+    { "title": "Guinea-Bissau (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gw.html" }
+  ]
+}

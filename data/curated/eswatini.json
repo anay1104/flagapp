@@ -1,0 +1,45 @@
+{
+  "id": "eswatini",
+  "wikidata": "Q1050",
+  "name": "Eswatini",
+  "flagName": "Flag of Eswatini",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1968,
+  "to": null,
+  "adopted": "1968-10-06",
+  "ratio": "2:3",
+  "aliases": ["Swaziland"],
+  "summary": "Blue, yellow, crimson, yellow and blue horizontal stripes with a black and white Nguni shield, two spears and a staff with tassels in the centre. It is based on a military banner given by King Sobhuza II in 1941.",
+  "origin": [
+    "King Sobhuza II gave a banner to the Swazi Pioneer Corps that served in the Second World War; it formed the basis of the national flag, adopted on 6 October 1968, a month after independence."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#3E5EB9", "family": "blue", "meaning": "Peace and stability.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFD900", "family": "yellow", "meaning": "The country's resources.", "basis": "official" },
+    { "name": "Crimson", "hex": "#B10C0C", "family": "red", "meaning": "Past battles.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Nguni shield", "description": "A black and white oxhide shield laid horizontally.", "meaning": "Protection of the country; the black and white show that Black and white people live in peace together.", "basis": "official" },
+    { "name": "Spears and staff", "description": "Two assegais and a staff decorated with tassels of widow bird feathers (injobo).", "meaning": "Protection; the feathers are a sign of royalty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1968, "to": null, "label": "Kingdom of Eswatini" }
+  ],
+  "facts": [
+    "The country changed its English name from Swaziland to Eswatini in 2018.",
+    "Eswatini is one of the world's last absolute monarchies.",
+    "Kenya's flag also shows a shield and two spears."
+  ],
+  "clues": [
+    "Blue, yellow and crimson stripes with a horizontal black and white shield and spears.",
+    "Based on a banner given to a wartime pioneer corps.",
+    "Its country changed its English name in 2018."
+  ],
+  "lookalikes": ["kenya"],
+  "tags": ["horizontal-stripes", "shield", "weapon", "monarchy"],
+  "sources": [
+    { "title": "Flag of Eswatini (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Eswatini" },
+    { "title": "Eswatini (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sz.html" }
+  ]
+}

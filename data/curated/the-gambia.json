@@ -1,0 +1,44 @@
+{
+  "id": "the-gambia",
+  "wikidata": "Q1005",
+  "name": "The Gambia",
+  "flagName": "Flag of The Gambia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1965,
+  "to": null,
+  "adopted": "1965-02-18",
+  "ratio": "2:3",
+  "designer": "Louis Thomasi",
+  "aliases": ["Gambia"],
+  "summary": "Red, blue and green horizontal bands, with the blue edged in white. The blue band represents the Gambia River, which runs through the length of this narrow country.",
+  "origin": [
+    "The flag was designed by Louis Thomasi, an accountant, and adopted at independence from Britain on 18 February 1965. It avoids the colours of any political party."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The sun and the savannah.", "basis": "official" },
+    { "name": "Blue", "hex": "#0C1C8C", "family": "blue", "meaning": "The Gambia River.", "basis": "official" },
+    { "name": "Green", "hex": "#3A7728", "family": "green", "meaning": "Forests and agriculture.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Unity and peace.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1965, "to": null, "label": "Republic of The Gambia" }
+  ],
+  "facts": [
+    "The Gambia is almost entirely surrounded by Senegal.",
+    "It is the smallest country on mainland Africa.",
+    "The country's official name includes 'The'."
+  ],
+  "clues": [
+    "Red, white-edged blue, and green horizontal bands.",
+    "Its blue band is a river running through a narrow country.",
+    "Its country is almost entirely surrounded by one neighbour."
+  ],
+  "lookalikes": ["botswana", "sierra-leone"],
+  "tags": ["horizontal-stripes", "fimbriation"],
+  "sources": [
+    { "title": "Flag of the Gambia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Gambia" },
+    { "title": "Gambia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gm.html" }
+  ]
+}

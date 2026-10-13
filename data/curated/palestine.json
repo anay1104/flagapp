@@ -1,0 +1,44 @@
+{
+  "id": "palestine",
+  "wikidata": "Q219060",
+  "name": "Palestine",
+  "flagName": "Flag of Palestine",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1964,
+  "to": null,
+  "adopted": "1964-05-28",
+  "ratio": "1:2",
+  "aliases": ["State of Palestine"],
+  "summary": "Black, white and green horizontal bands with a red triangle at the hoist, in the Pan-Arab colours of the Arab Revolt flag. Adopted by the Palestine Liberation Organization in 1964 and by the State of Palestine in 1988.",
+  "origin": [
+    "The design comes from the flag of the Arab Revolt of 1916–1918 against the Ottoman Empire. The Palestinian Arab Congress used it in the 1920s and 1930s.",
+    "The Palestine Liberation Organization adopted it on 28 May 1964, and the Palestinian National Council declared it the flag of the State of Palestine in 1988."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The Abbasid Caliphate.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Umayyad Caliphate.", "basis": "traditional" },
+    { "name": "Green", "hex": "#009736", "family": "green", "meaning": "The Fatimid Caliphate.", "basis": "traditional" },
+    { "name": "Red", "hex": "#EE2A35", "family": "red", "meaning": "The Hashemite dynasty and the Arab Revolt.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1917, "to": 1964, "label": "Arab Revolt flag", "note": "Used by Palestinian nationalists." },
+    { "from": 1964, "to": null, "label": "PLO and State of Palestine" }
+  ],
+  "facts": [
+    "Jordan's flag is identical except for a white seven-pointed star in the triangle.",
+    "The flag is used widely in solidarity demonstrations around the world.",
+    "Palestine has been a non-member observer state of the United Nations since 2012."
+  ],
+  "clues": [
+    "Black, white and green bands with a red triangle at the hoist, no emblem.",
+    "Identical to a neighbour's flag except for a missing star.",
+    "Based on the flag of a 1916 revolt against the Ottomans."
+  ],
+  "lookalikes": ["jordan", "sudan", "kuwait"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Palestine (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Palestine" }
+  ]
+}

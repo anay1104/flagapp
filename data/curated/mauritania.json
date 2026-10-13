@@ -1,0 +1,45 @@
+{
+  "id": "mauritania",
+  "wikidata": "Q1025",
+  "name": "Mauritania",
+  "flagName": "Flag of Mauritania",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2017,
+  "to": null,
+  "adopted": "2017-08-15",
+  "ratio": "2:3",
+  "summary": "A green field with a gold crescent and star, and red stripes along the top and bottom edges. The red stripes were added in 2017 to honour those who fought for independence.",
+  "origin": [
+    "Mauritania adopted a green flag with a gold crescent and star on 1 April 1959, before independence from France in 1960.",
+    "In a 2017 constitutional referendum, voters approved adding red stripes, introduced on 15 August 2017. The referendum was boycotted by much of the opposition."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#006233", "family": "green", "meaning": "Islam and hope.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC400", "family": "yellow", "meaning": "The sands of the Sahara.", "basis": "official" },
+    { "name": "Red", "hex": "#D01C1F", "family": "red", "meaning": "The blood shed by those who fought for independence.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A gold crescent opening upward, with a gold star above it.", "meaning": "Islam, the state religion.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1959, "to": 2017, "label": "Islamic Republic of Mauritania" },
+    { "from": 2017, "to": null, "label": "Red stripes added" }
+  ],
+  "facts": [
+    "Its crescent opens upward, unlike most crescents on national flags.",
+    "The 2017 referendum also abolished the Senate.",
+    "Mauritania is one of the few countries with 'Islamic Republic' in its official name."
+  ],
+  "clues": [
+    "Green with a gold upward-facing crescent and star, and red stripes at top and bottom.",
+    "Its red stripes were added after a 2017 referendum.",
+    "Its gold represents desert sand."
+  ],
+  "lookalikes": ["pakistan", "algeria"],
+  "tags": ["horizontal-stripes", "crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Mauritania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mauritania" },
+    { "title": "Mauritania (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mr.html" }
+  ]
+}
