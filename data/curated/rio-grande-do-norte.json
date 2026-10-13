@@ -1,0 +1,78 @@
+{
+  "id": "rio-grande-do-norte",
+  "wikidata": "Q43255",
+  "image": "Bandeira do Rio Grande do Norte.svg",
+  "name": "Rio Grande do Norte",
+  "flagName": "Flag of Rio Grande do Norte",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1957,
+  "to": null,
+  "adopted": "1957-12-03",
+  "ratio": "2:3",
+  "designer": "Luís da Câmara Cascudo",
+  "country": "Brazil",
+  "summary": "Green over white with the state arms: a coconut palm and a carnaúba palm, sugarcane, cotton and a jangada sailing on the sea.",
+  "origin": [
+    "The folklorist Luís da Câmara Cascudo designed the flag, adopted on 3 December 1957."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Palms, cane and cotton",
+      "description": "Plants framing the shield.",
+      "meaning": "The state's flora and crops.",
+      "basis": "official"
+    },
+    {
+      "name": "Jangada",
+      "description": "A raft under sail.",
+      "meaning": "Fishing and salt production.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1957,
+      "to": null,
+      "label": "State of Rio Grande do Norte"
+    }
+  ],
+  "facts": [
+    "The state produces most of Brazil's sea salt.",
+    "Natal, the capital, was named for Christmas, when it was founded."
+  ],
+  "clues": [
+    "Green over white with a shield of palms and a raft.",
+    "Designed by a famous folklorist.",
+    "Its capital is named after Christmas."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-bicolour",
+    "coat-of-arms",
+    "plant",
+    "ship"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Rio Grande do Norte (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Rio_Grande_do_Norte"
+    }
+  ]
+}

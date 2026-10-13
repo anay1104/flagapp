@@ -1,0 +1,84 @@
+{
+  "id": "marche",
+  "wikidata": "Q1279",
+  "image": "Flag of Marche.svg",
+  "name": "Marche",
+  "flagName": "Flag of Marche",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "The regional emblem on white: a stylised woodpecker overlapping a black letter M, inside a green-bordered shield.",
+  "origin": [
+    "The emblem was adopted in 1980. With no flag law, the emblem was placed on white for the Quirinale display on 4 November 1995."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#036F3A",
+      "family": "green",
+      "meaning": "The border of the shield.",
+      "basis": "official"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The letter M.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Woodpecker",
+      "description": "A stylised bird.",
+      "meaning": "The Picentes, an ancient people whose totem animal was the woodpecker (picus).",
+      "basis": "traditional"
+    },
+    {
+      "name": "Letter M",
+      "description": "A bold black M.",
+      "meaning": "Marche.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Region of Marche"
+    }
+  ],
+  "facts": [
+    "The woodpecker comes from the legend of the Picentes, led to the area by a woodpecker.",
+    "Ancona is the regional capital."
+  ],
+  "clues": [
+    "A woodpecker merged with the letter M in a green shield, on white.",
+    "Its bird comes from an ancient people's legend."
+  ],
+  "lookalikes": [
+    "emilia-romagna"
+  ],
+  "tags": [
+    "plain-field",
+    "shield",
+    "bird",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Marche (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Marche"
+    }
+  ]
+}

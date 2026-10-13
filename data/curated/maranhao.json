@@ -1,0 +1,87 @@
+{
+  "id": "maranhao",
+  "wikidata": "Q42362",
+  "image": "Bandeira do Maranhão.svg",
+  "name": "Maranhão",
+  "flagName": "Flag of Maranhão",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1889,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Nine horizontal stripes (four white, three red, two black) with a blue canton holding a white star.",
+  "origin": [
+    "The poet Joaquim de Sousa Andrade created the flag after the proclamation of the Republic."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "White Brazilians.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Indigenous peoples.",
+      "basis": "official"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "Black Brazilians.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The canton.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "White star",
+      "description": "A single star in the canton.",
+      "meaning": "Beta Scorpii, the star that represents Maranhão on the national flag.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1889,
+      "to": null,
+      "label": "State of Maranhão"
+    }
+  ],
+  "facts": [
+    "The three stripe colours stand for the three groups that formed the population.",
+    "São Luís, the capital, was founded by the French in 1612."
+  ],
+  "clues": [
+    "White, red and black stripes with a star in a blue canton.",
+    "Its stripe colours represent three peoples.",
+    "Its star is in the constellation Scorpius."
+  ],
+  "lookalikes": [
+    "sao-paulo",
+    "piaui"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "star",
+    "astronomy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Maranhão (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Maranhão"
+    }
+  ]
+}

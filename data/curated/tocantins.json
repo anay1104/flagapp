@@ -1,0 +1,75 @@
+{
+  "id": "tocantins",
+  "wikidata": "Q43695",
+  "image": "Bandeira do Tocantins.svg",
+  "name": "Tocantins",
+  "flagName": "Flag of Tocantins",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1989,
+  "to": null,
+  "adopted": "1989-11-17",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A diagonal white band from lower hoist to upper fly with a yellow-gold sun, between blue at the upper hoist and gold at the lower fly.",
+  "origin": [
+    "Tocantins was created from northern Goiás on 1 January 1989. Its flag was adopted by State Law 94/89 on 17 November 1989."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The cultivation of peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "The state's waters.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Gold and mineral wealth; the sun.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Sun",
+      "description": "A yellow-gold sun.",
+      "meaning": "A land where the sun rises for everyone.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1989,
+      "to": null,
+      "label": "State of Tocantins"
+    }
+  ],
+  "facts": [
+    "Tocantins is Brazil's newest state.",
+    "Palmas, its capital, was founded in 1989."
+  ],
+  "clues": [
+    "A sun on a white diagonal band between blue and gold.",
+    "Brazil's newest state, created in 1989."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "diagonal",
+    "sun"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Tocantins (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Tocantins"
+    }
+  ]
+}

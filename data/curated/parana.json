@@ -1,0 +1,92 @@
+{
+  "id": "parana",
+  "wikidata": "Q15499",
+  "image": "Bandeira do Paraná.svg",
+  "name": "Paraná",
+  "flagName": "Flag of Paraná",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1947,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A green field crossed by a white diagonal band holding a blue sphere with the Southern Cross, the word 'PARANÁ', and branches of Paraná pine and yerba mate.",
+  "origin": [
+    "First adopted on 9 January 1892, the flag took its present form on 31 March 1947 and was revised in 1990."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The Tropic of Capricorn.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The sky.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Southern Cross",
+      "description": "Five stars in a blue sphere.",
+      "meaning": "The southern sky, shown as seen from the ground.",
+      "basis": "official"
+    },
+    {
+      "name": "Pine and mate",
+      "description": "Branches of Paraná pine and yerba mate.",
+      "meaning": "The state's emblematic trees.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1892,
+      "to": 1947,
+      "label": "First flag"
+    },
+    {
+      "from": 1947,
+      "to": null,
+      "label": "Current design"
+    }
+  ],
+  "facts": [
+    "The Tropic of Capricorn crosses northern Paraná.",
+    "Iguaçu Falls is in Paraná."
+  ],
+  "clues": [
+    "A white diagonal band on green with a blue sphere and the Southern Cross.",
+    "Its band stands for the Tropic of Capricorn.",
+    "The state of Iguaçu Falls."
+  ],
+  "lookalikes": [
+    "brazil"
+  ],
+  "tags": [
+    "diagonal",
+    "disc",
+    "star",
+    "southern-cross",
+    "plant",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Paraná (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Paraná"
+    }
+  ]
+}

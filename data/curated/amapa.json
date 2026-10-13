@@ -1,0 +1,93 @@
+{
+  "id": "amapa",
+  "wikidata": "Q40130",
+  "image": "Bandeira do Amapá.svg",
+  "name": "Amapá",
+  "flagName": "Flag of Amapá",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Blue, green and yellow horizontal bands divided by thin black and white stripes, with a white outline of the Fortress of São José de Macapá at the hoist.",
+  "origin": [
+    "The flag was chosen by a commission and set by Decree No. 8 of 23 April 1984 for the Federal Territory of Amapá. It was kept when Amapá became a state in 1988."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "Justice and the sky.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "The forests covering most of the state; hope.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "The federal union and rich soil.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "Those who died fighting for the region.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Fortress of São José",
+      "description": "A white geometric outline.",
+      "meaning": "The 18th-century fortress of Macapá.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1984,
+      "to": 1988,
+      "label": "Federal Territory of Amapá"
+    },
+    {
+      "from": 1988,
+      "to": null,
+      "label": "State of Amapá"
+    }
+  ],
+  "facts": [
+    "The area was once disputed between France and Brazil.",
+    "The equator passes through Macapá, the capital."
+  ],
+  "clues": [
+    "Blue, green and yellow bands with a white fortress outline.",
+    "A state crossed by the equator, once disputed with France."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-stripes",
+    "building"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Amapá (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Amapá"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "basilicata",
+  "wikidata": "Q1452",
+  "image": "Flag of Basilicata.svg",
+  "name": "Basilicata",
+  "flagName": "Flag of Basilicata",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1999-04-06",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A dark blue field with the regional arms: a white shield with four blue wavy lines for the region's four main rivers.",
+  "origin": [
+    "The flag was adopted in 1999. An unofficial variant adds the words 'Regione Basilicata'."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#2C4878",
+      "family": "blue",
+      "meaning": "The field and rivers.",
+      "basis": "official"
+    },
+    {
+      "name": "Silver",
+      "hex": "#C5C5C5",
+      "family": "grey",
+      "meaning": "The shield.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Four waves",
+      "description": "Four blue wavy lines on silver.",
+      "meaning": "The rivers Basento, Agri, Bradano and Sinni.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1999,
+      "to": null,
+      "label": "Region of Basilicata"
+    }
+  ],
+  "facts": [
+    "Matera's cave dwellings, the Sassi, are a UNESCO World Heritage Site.",
+    "The region's older name is Lucania."
+  ],
+  "clues": [
+    "A silver shield with four wavy blue lines on blue.",
+    "Its waves stand for four rivers.",
+    "The region of the Sassi of Matera."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "shield",
+    "water"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Basilicata (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Basilicata"
+    }
+  ]
+}

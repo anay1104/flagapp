@@ -1,0 +1,93 @@
+{
+  "id": "roraima",
+  "wikidata": "Q42508",
+  "image": "Bandeira de Roraima.svg",
+  "name": "Roraima",
+  "flagName": "Flag of Roraima",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1996,
+  "to": null,
+  "adopted": "1996-06-14",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Diagonal bands of turquoise blue, white and green with a thin red band near the bottom and a gold star resting on it.",
+  "origin": [
+    "Mário Barreto designed the flag, adopted by state law No. 133 on 14 June 1996."
+  ],
+  "colors": [
+    {
+      "name": "Turquoise",
+      "hex": "#00A3E0",
+      "family": "light-blue",
+      "meaning": "The sky and pure air.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Forests and scrubland.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The equator.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Mineral wealth.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Gold star",
+      "description": "A star resting on the red band.",
+      "meaning": "Wezen in Canis Major, which represents Roraima on the national flag.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1996,
+      "to": null,
+      "label": "State of Roraima"
+    }
+  ],
+  "facts": [
+    "Mount Roraima, a famous tabletop mountain, marks the tripoint with Venezuela and Guyana.",
+    "Boa Vista is the only Brazilian state capital entirely north of the equator."
+  ],
+  "clues": [
+    "Blue, white and green diagonals with a red line and a gold star.",
+    "Its red line is the equator.",
+    "Brazil's northernmost state."
+  ],
+  "lookalikes": [
+    "rondonia"
+  ],
+  "tags": [
+    "diagonal",
+    "star",
+    "astronomy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Roraima (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Roraima"
+    }
+  ]
+}

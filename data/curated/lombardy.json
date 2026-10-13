@@ -1,0 +1,74 @@
+{
+  "id": "lombardy",
+  "wikidata": "Q1210",
+  "image": "Flag of Lombardy.svg",
+  "name": "Lombardy",
+  "flagName": "Flag of Lombardy",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "ratio": "2:3",
+  "designer": "Bruno Munari, Bob Noorda, Roberto Sambonet and Pino Tovaglia",
+  "country": "Italy",
+  "summary": "A green field with a white Camunian Rose, a symbol taken from prehistoric rock carvings in the Val Camonica.",
+  "origin": [
+    "The modern Camunian Rose was designed by Bruno Munari, Bob Noorda, Roberto Sambonet and Pino Tovaglia for the region's emblem in 1975. The flag was used de facto from 12 June 1975 and adopted by law on 4 February 2019."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009246",
+      "family": "green",
+      "meaning": "The Po Valley.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Light.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Camunian Rose",
+      "description": "A curving shape of nine dots joined by a line, like a four-leafed rose.",
+      "meaning": "The prehistoric Camuni people's rock art.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1975,
+      "to": 2019,
+      "label": "De facto flag"
+    },
+    {
+      "from": 2019,
+      "to": null,
+      "label": "Official flag"
+    }
+  ],
+  "facts": [
+    "The rock carvings of Val Camonica were Italy's first UNESCO World Heritage Site, in 1979.",
+    "Milan is the regional capital."
+  ],
+  "clues": [
+    "A white curving rose of nine dots on green.",
+    "Its symbol comes from prehistoric rock carvings.",
+    "The region of Milan."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "plant"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Lombardy (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Lombardy"
+    }
+  ]
+}

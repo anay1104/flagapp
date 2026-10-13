@@ -1,0 +1,106 @@
+{
+  "id": "pernambuco",
+  "wikidata": "Q40942",
+  "image": "Bandeira de Pernambuco.svg",
+  "name": "Pernambuco",
+  "flagName": "Flag of Pernambuco",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1917,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Blue above and white below, with a rainbow of red, yellow and green, a star and a sun in the blue and a red cross in the white.",
+  "origin": [
+    "The flag comes from the Pernambucan Revolt of 1817, designed by the priest João Ribeiro Pessoa de Melo Montenegro. It was made official for the centenary in 1917."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "The grandeur of the sky.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The cross and rainbow.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "The sun, star and rainbow.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Rainbow",
+      "description": "Red, yellow and green arcs.",
+      "meaning": "The union of all Pernambucans; a new era of peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Sun",
+      "description": "A yellow sun.",
+      "meaning": "Pernambucans as children of the sun.",
+      "basis": "official"
+    },
+    {
+      "name": "Star",
+      "description": "A yellow star.",
+      "meaning": "The state in the federation.",
+      "basis": "official"
+    },
+    {
+      "name": "Red cross",
+      "description": "A cross in the white.",
+      "meaning": "Brazil's early name, Terra de Santa Cruz.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1817,
+      "to": 1817,
+      "label": "Pernambucan Revolt"
+    },
+    {
+      "from": 1917,
+      "to": null,
+      "label": "State of Pernambuco"
+    }
+  ],
+  "facts": [
+    "The 1817 flag had three stars, for Pernambuco, Paraíba and Rio Grande do Norte.",
+    "Recife, the capital, is called 'the Brazilian Venice' for its canals."
+  ],
+  "clues": [
+    "A rainbow, star and sun on blue above a red cross on white.",
+    "It comes from a revolt in 1817."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-bicolour",
+    "sun",
+    "star",
+    "cross"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Pernambuco (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Pernambuco"
+    }
+  ]
+}

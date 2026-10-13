@@ -1,0 +1,76 @@
+{
+  "id": "para",
+  "wikidata": "Q39517",
+  "image": "Bandeira do Pará.svg",
+  "name": "Pará",
+  "flagName": "Flag of Pará",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1890,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A red field with a white diagonal band from upper hoist to lower fly, with a blue star in the centre.",
+  "origin": [
+    "The flag first served as the badge of the Clube Republicano Paraense and appeared as the state flag after the Republic in 1889. Belém's council adopted it on 10 April 1890; the state constitution confirms it."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Blood shed in the Cabanagem revolt.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The zodiac, the equator and the Amazon River.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The star.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Blue star",
+      "description": "A single star.",
+      "meaning": "Spica, which represents Pará on the national flag.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1890,
+      "to": null,
+      "label": "State of Pará"
+    }
+  ],
+  "facts": [
+    "Spica is the only star above the 'Ordem e Progresso' band of the national flag.",
+    "Belém, the capital, sits at the mouth of the Amazon."
+  ],
+  "clues": [
+    "A white diagonal band on red with a blue star.",
+    "Its star sits alone above Brazil's motto band.",
+    "Its band stands for the Amazon and the equator."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "diagonal",
+    "star",
+    "astronomy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Pará (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Pará"
+    }
+  ]
+}

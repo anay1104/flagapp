@@ -1,0 +1,81 @@
+{
+  "id": "umbria",
+  "wikidata": "Q1280",
+  "image": "Flag of Umbria.svg",
+  "name": "Umbria",
+  "flagName": "Flag of Umbria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2004,
+  "to": null,
+  "adopted": "2004-03-18",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A green field with the regional emblem: three red candles (ceri) on a silver rectangle, from the Festa dei Ceri of Gubbio.",
+  "origin": [
+    "The emblem comes from a 1971 design by the architects Gino and Alberto Anselmi. The flag was adopted in 2004; the official version adds 'Regione Umbria' in red, which is usually omitted."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#00943A",
+      "family": "green",
+      "meaning": "The field; Umbria is called 'the green heart of Italy'.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#C4262E",
+      "family": "red",
+      "meaning": "The candles.",
+      "basis": "official"
+    },
+    {
+      "name": "Silver",
+      "hex": "#A2A4A3",
+      "family": "grey",
+      "meaning": "The background of the emblem.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Three ceri",
+      "description": "Three tall wooden 'candles' with red bands.",
+      "meaning": "The Festa dei Ceri, raced through Gubbio every 15 May in honour of Saint Ubaldo.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1971,
+      "to": 2004,
+      "label": "Emblem and gonfalon"
+    },
+    {
+      "from": 2004,
+      "to": null,
+      "label": "Official flag"
+    }
+  ],
+  "facts": [
+    "The Ceri race in Gubbio is one of Italy's oldest festivals.",
+    "Umbria is Italy's only region with neither a coast nor a foreign border."
+  ],
+  "clues": [
+    "Three red candle-like shapes in a silver box, on green.",
+    "Its emblem comes from a race through Gubbio.",
+    "Called 'the green heart of Italy'."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Umbria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Umbria"
+    }
+  ]
+}

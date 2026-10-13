@@ -1,0 +1,86 @@
+{
+  "id": "rio-grande-do-sul",
+  "wikidata": "Q40030",
+  "image": "Bandeira do Rio Grande do Sul.svg",
+  "name": "Rio Grande do Sul",
+  "flagName": "Flag of Rio Grande do Sul",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1966,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A diagonal tricolour of green, red and yellow from upper hoist to lower fly, with the state arms in the centre. It is the flag of the Riograndense Republic.",
+  "origin": [
+    "The flag comes from the Riograndense Republic, which seceded from Brazil from 1836 to 1845 during the Ragamuffin War. The arms were added in 1891. Banned in 1937, it was re-adopted on 5 January 1966."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Often read as Brazil or the pampas forests.",
+      "basis": "popular"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Often read as war, revolution and courage.",
+      "basis": "popular"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Often read as Brazil or riches.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Coat of arms",
+      "description": "An oval with a Phrygian cap and the motto 'Liberdade, Igualdade, Humanidade'.",
+      "meaning": "The republican ideals of the Ragamuffin War.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1836,
+      "to": 1845,
+      "label": "Riograndense Republic"
+    },
+    {
+      "from": 1891,
+      "to": 1937,
+      "label": "State flag with arms"
+    },
+    {
+      "from": 1966,
+      "to": null,
+      "label": "Re-adopted"
+    }
+  ],
+  "facts": [
+    "The official meaning of the colours has never been settled.",
+    "Giuseppe Garibaldi fought for the Riograndense Republic."
+  ],
+  "clues": [
+    "A green, red and yellow diagonal tricolour with an oval coat of arms.",
+    "The flag of a breakaway republic of 1836–1845.",
+    "Garibaldi fought under it."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "diagonal",
+    "coat-of-arms",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Rio Grande do Sul (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Rio_Grande_do_Sul"
+    }
+  ]
+}

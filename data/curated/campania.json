@@ -1,0 +1,77 @@
+{
+  "id": "campania",
+  "wikidata": "Q1438",
+  "image": "Flag of Campania.svg",
+  "name": "Campania",
+  "flagName": "Flag of Campania",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A blue field with the regional arms, a red bend on white taken from the arms of the medieval Maritime Republic of Amalfi.",
+  "origin": [
+    "Campania's arms reuse those of the Republic of Amalfi, one of the four great Italian maritime republics. The flag places them on blue."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#1B2F8D",
+      "family": "blue",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "The bend of Amalfi.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field of the Amalfi arms.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Amalfi arms",
+      "description": "A red diagonal band on white.",
+      "meaning": "The Maritime Republic of Amalfi.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Region of Campania"
+    }
+  ],
+  "facts": [
+    "Amalfi's cross appears on the Italian naval ensign along with those of Venice, Genoa and Pisa.",
+    "Naples is the regional capital."
+  ],
+  "clues": [
+    "A blue field with a red diagonal band on a white shield.",
+    "Its arms belonged to a medieval maritime republic.",
+    "The region of Naples and Vesuvius."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "coat-of-arms",
+    "shield",
+    "diagonal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Campania (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Campania"
+    }
+  ]
+}

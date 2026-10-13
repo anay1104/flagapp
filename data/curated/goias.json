@@ -1,0 +1,79 @@
+{
+  "id": "goias",
+  "wikidata": "Q41587",
+  "image": "Flag of Goiás.svg",
+  "name": "Goiás",
+  "flagName": "Flag of Goiás",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1919,
+  "to": null,
+  "adopted": "1919-07-30",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Eight alternating green and yellow horizontal stripes with a blue canton holding five white stars of the Southern Cross.",
+  "origin": [
+    "Joaquim Bonifácio de Siqueira created the flag, adopted by Law No. 650 on 30 July 1919."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "The House of Braganza of Emperor Pedro I.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "The House of Habsburg of Empress Maria Leopoldina.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The canton.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Southern Cross",
+      "description": "Five white stars.",
+      "meaning": "The constellation behind Brazil's early names, Ilha de Vera Cruz and Terra de Santa Cruz.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1919,
+      "to": null,
+      "label": "State of Goiás"
+    }
+  ],
+  "facts": [
+    "Tocantins was split from northern Goiás in 1988.",
+    "Goiânia, the capital, is a planned city founded in 1933."
+  ],
+  "clues": [
+    "Green and yellow stripes with the Southern Cross in a blue canton.",
+    "Its colours honour an emperor and empress."
+  ],
+  "lookalikes": [
+    "sergipe"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "star",
+    "southern-cross"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Goiás (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Goiás"
+    }
+  ]
+}

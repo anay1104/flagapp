@@ -1,0 +1,90 @@
+{
+  "id": "sardinia",
+  "wikidata": "Q1462",
+  "image": "Flag of Sardinia, Italy.svg",
+  "name": "Sardinia",
+  "flagName": "Flag of Sardinia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1950,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "The Four Moors: a red Saint George's Cross on white with a Moor's head in each quarter, wearing a white bandana on the forehead and facing away from the hoist.",
+  "origin": [
+    "The Four Moors were the arms of the Aragonese, later Spanish and Savoyard, Kingdom of Sardinia. The region adopted the flag in 1950 and revised it in 1999 to turn the heads away from the hoist and move the bandanas from the eyes to the forehead."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#D81921",
+      "family": "red",
+      "meaning": "The cross.",
+      "basis": "official"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The Moors' heads.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Four Moors' heads",
+      "description": "Black heads with white headbands.",
+      "meaning": "Traditionally Aragonese victories over the Moors; the exact origin is debated.",
+      "basis": "popular"
+    },
+    {
+      "name": "Saint George's Cross",
+      "description": "A red cross on white.",
+      "meaning": "Saint George, patron of the Crown of Aragon.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1950,
+      "to": 1999,
+      "label": "Blindfolded heads facing the hoist"
+    },
+    {
+      "from": 1999,
+      "to": null,
+      "label": "Revised Four Moors"
+    }
+  ],
+  "facts": [
+    "Before 1999 the Moors were blindfolded and faced the hoist.",
+    "Corsica's flag uses a single similar Moor's head."
+  ],
+  "clues": [
+    "A red cross with a Moor's head in each quarter.",
+    "Its heads once wore blindfolds, now worn on the forehead.",
+    "An island flag; its neighbour shows a single head."
+  ],
+  "lookalikes": [
+    "corsica",
+    "england"
+  ],
+  "tags": [
+    "cross",
+    "person",
+    "quartered"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Sardinia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Sardinia"
+    }
+  ]
+}

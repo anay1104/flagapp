@@ -1,0 +1,91 @@
+{
+  "id": "piaui",
+  "wikidata": "Q42722",
+  "image": "Bandeira do Piauí.svg",
+  "name": "Piauí",
+  "flagName": "Flag of Piauí",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1922,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Thirteen alternating green and yellow horizontal stripes with a dark blue canton holding a white star and the date '13 DE MARÇO DE 1823'.",
+  "origin": [
+    "The flag was adopted by law on 24 July 1922. The date was added in 2005 to commemorate the Battle of Jenipapo, fought in the state during the War of Independence."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Hope.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Mineral wealth.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The canton.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "White star",
+      "description": "A single star.",
+      "meaning": "Antares, which represents Piauí on the national flag.",
+      "basis": "official"
+    },
+    {
+      "name": "Date",
+      "description": "'13 de março de 1823'.",
+      "meaning": "The Battle of Jenipapo.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1922,
+      "to": 2005,
+      "label": "Original flag"
+    },
+    {
+      "from": 2005,
+      "to": null,
+      "label": "With battle date"
+    }
+  ],
+  "facts": [
+    "The Battle of Jenipapo was one of the bloodiest of Brazil's independence war.",
+    "Teresina, the capital, is one of Brazil's hottest cities."
+  ],
+  "clues": [
+    "Thirteen green and yellow stripes with a star and a date in a blue canton.",
+    "Its date marks an independence battle."
+  ],
+  "lookalikes": [
+    "goias",
+    "sergipe",
+    "united-states"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "star",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Piauí (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Piauí"
+    }
+  ]
+}

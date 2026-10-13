@@ -1,0 +1,96 @@
+{
+  "id": "abruzzo",
+  "wikidata": "Q1284",
+  "image": "Flag of Abruzzo.svg",
+  "name": "Abruzzo",
+  "flagName": "Flag of Abruzzo",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1999-05-21",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A crimson field with the regional arms: a shield divided diagonally into white, green and blue, standing for the region's mountains, hills and sea. The 2023 version adds the Warrior of Capestrano, an ancient Italic statue.",
+  "origin": [
+    "Abruzzo's arms were set by regional law in 1986 and the flag in 1999. A law of 27 December 2023 modified the design."
+  ],
+  "colors": [
+    {
+      "name": "Crimson",
+      "hex": "#E4134F",
+      "family": "red",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The snowy peaks of the Apennines.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#00843D",
+      "family": "green",
+      "meaning": "The hills and national parks.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0072BC",
+      "family": "blue",
+      "meaning": "The Adriatic Sea.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Tricolour shield",
+      "description": "White, green and blue diagonal bands.",
+      "meaning": "Mountains, hills and sea, ordered by distance from the coast.",
+      "basis": "official"
+    },
+    {
+      "name": "Warrior of Capestrano",
+      "description": "A 6th-century BC limestone statue of a warrior with a wide hat.",
+      "meaning": "Abruzzo's ancient Italic heritage.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1999,
+      "to": 2023,
+      "label": "Regional flag"
+    },
+    {
+      "from": 2023,
+      "to": null,
+      "label": "Revised flag"
+    }
+  ],
+  "facts": [
+    "Abruzzo holds the highest peaks of the Apennines, including the Corno Grande.",
+    "Its three national parks led to the nickname 'the greenest region in Europe'."
+  ],
+  "clues": [
+    "Crimson with a diagonal white, green and blue shield.",
+    "Its shield maps mountains, hills and sea.",
+    "An ancient warrior statue appears on the latest version."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "coat-of-arms",
+    "shield",
+    "person"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Abruzzo (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Abruzzo"
+    }
+  ]
+}

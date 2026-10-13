@@ -1,0 +1,93 @@
+{
+  "id": "liguria",
+  "wikidata": "Q1256",
+  "image": "Flag of Liguria.svg",
+  "name": "Liguria",
+  "flagName": "Flag of Liguria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1997,
+  "to": null,
+  "adopted": "1997-07-07",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "Vertical bands of green, red and sea blue with the regional arms: a stylised caravel beneath the Cross of Saint George of Genoa, with four stars for the provinces.",
+  "origin": [
+    "The arms were adopted in 1985 and the flag by regional law on 7 July 1997."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009246",
+      "family": "green",
+      "meaning": "The Ligurian Alps and Apennines.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#CE2B37",
+      "family": "red",
+      "meaning": "Blood shed for Italian unification.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0072CE",
+      "family": "blue",
+      "meaning": "The Ligurian Sea.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Caravel",
+      "description": "A stylised sailing ship.",
+      "meaning": "The maritime tradition and navigators such as Columbus.",
+      "basis": "official"
+    },
+    {
+      "name": "Cross of Saint George",
+      "description": "The red cross on white of the Republic of Genoa.",
+      "meaning": "Genoa, the regional capital.",
+      "basis": "official"
+    },
+    {
+      "name": "Four stars",
+      "description": "Six-pointed stars on the cross.",
+      "meaning": "The provinces of Genoa, Imperia, La Spezia and Savona.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1997,
+      "to": null,
+      "label": "Region of Liguria"
+    }
+  ],
+  "facts": [
+    "Christopher Columbus was born in Genoa.",
+    "Genoa's red cross on white is also the flag of England."
+  ],
+  "clues": [
+    "Green, red and blue vertical bands with a caravel under a red cross.",
+    "Its ship honours a region of navigators.",
+    "Four stars stand for its provinces."
+  ],
+  "lookalikes": [
+    "italy"
+  ],
+  "tags": [
+    "vertical-tricolour",
+    "coat-of-arms",
+    "ship",
+    "cross",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Liguria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Liguria"
+    }
+  ]
+}

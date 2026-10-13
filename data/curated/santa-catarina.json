@@ -1,0 +1,87 @@
+{
+  "id": "santa-catarina",
+  "wikidata": "Q41115",
+  "image": "Bandeira de Santa Catarina.svg",
+  "name": "Santa Catarina",
+  "flagName": "Flag of Santa Catarina",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1953,
+  "to": null,
+  "adopted": "1953-10-29",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Red, white and red horizontal bands with a green lozenge holding the state arms.",
+  "origin": [
+    "The first flag dated from 1895. After the 1937 ban on state symbols, Law No. 975 introduced the current design on 29 October 1953."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "No official meaning.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "No official meaning.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#7BC043",
+      "family": "green",
+      "meaning": "The lozenge; Saint Catherine of Alexandria.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Coat of arms",
+      "description": "A star with a key and anchor under an eagle, with wheat and coffee.",
+      "meaning": "The state's economy and its patron saint.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1895,
+      "to": 1937,
+      "label": "First flag"
+    },
+    {
+      "from": 1953,
+      "to": null,
+      "label": "Current flag"
+    }
+  ],
+  "facts": [
+    "The state is named after Saint Catherine of Alexandria.",
+    "Florianópolis, the capital, is mostly on an island."
+  ],
+  "clues": [
+    "Red, white and red bands with a lime green lozenge.",
+    "Named after a saint martyred on a wheel."
+  ],
+  "lookalikes": [
+    "austria",
+    "lebanon"
+  ],
+  "tags": [
+    "triband",
+    "rhombus",
+    "coat-of-arms",
+    "eagle",
+    "bird",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Santa Catarina (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Santa_Catarina"
+    }
+  ]
+}

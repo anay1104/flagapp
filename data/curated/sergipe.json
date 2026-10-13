@@ -1,0 +1,90 @@
+{
+  "id": "sergipe",
+  "wikidata": "Q43783",
+  "image": "Bandeira de Sergipe.svg",
+  "name": "Sergipe",
+  "flagName": "Flag of Sergipe",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1952,
+  "to": null,
+  "adopted": "1952-12-03",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Four alternating green and yellow horizontal stripes with a square blue canton of five white stars.",
+  "origin": [
+    "The merchant José Rodrigues Bastos Coelho designed it in the late 19th century to mark his ships. Adopted in 1920 with five stars, banned in 1937, briefly restored in 1951 with 42 stars, and returned to five stars on 3 December 1952."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Integration with Brazil.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Integration with Brazil.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The canton.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Five stars",
+      "description": "White stars in the canton.",
+      "meaning": "The five estuaries of Sergipe.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1920,
+      "to": 1937,
+      "label": "First official flag"
+    },
+    {
+      "from": 1951,
+      "to": 1952,
+      "label": "With 42 stars"
+    },
+    {
+      "from": 1952,
+      "to": null,
+      "label": "Current flag"
+    }
+  ],
+  "facts": [
+    "Sergipe is Brazil's smallest state.",
+    "It began as a merchant's ship flag."
+  ],
+  "clues": [
+    "Green and yellow stripes with five white stars in a blue square.",
+    "Its stars are estuaries.",
+    "Brazil's smallest state."
+  ],
+  "lookalikes": [
+    "goias",
+    "piaui"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Sergipe (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Sergipe"
+    }
+  ]
+}

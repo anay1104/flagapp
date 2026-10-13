@@ -1,0 +1,90 @@
+{
+  "id": "piedmont",
+  "wikidata": "Q1216",
+  "image": "Flag of Piedmont.svg",
+  "name": "Piedmont",
+  "flagName": "Flag of Piedmont",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "adopted": "1995-11-24",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "The white cross of Savoy on red, with a blue three-pointed label across the top. It is the banner of arms of the Prince of Piedmont, heir to the House of Savoy.",
+  "origin": [
+    "Duke Amadeus VIII of Savoy gave his eldest surviving son the title Prince of Piedmont in 1424, adding a heraldic label to distinguish his arms. The flag was adopted by the region in 1995."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#D5001D",
+      "family": "red",
+      "meaning": "The Savoy field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The Savoy cross.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#01419C",
+      "family": "blue",
+      "meaning": "The label and the dynastic Savoy blue.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Savoy cross",
+      "description": "A white cross on red.",
+      "meaning": "The House of Savoy, later kings of Italy.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Label",
+      "description": "A blue bar with three pendants.",
+      "meaning": "The heir, the Prince of Piedmont.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1424,
+      "to": 1946,
+      "label": "Arms of the Prince of Piedmont"
+    },
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Region of Piedmont"
+    }
+  ],
+  "facts": [
+    "Savoy blue is still Italy's sporting colour, the 'azzurro'.",
+    "Turin, the regional capital, was Italy's first capital in 1861."
+  ],
+  "clues": [
+    "A white cross on red with a blue three-pointed label.",
+    "The arms of a royal heir.",
+    "The region of Turin."
+  ],
+  "lookalikes": [
+    "switzerland",
+    "denmark"
+  ],
+  "tags": [
+    "cross",
+    "monarchy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Piedmont (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Piedmont"
+    }
+  ]
+}

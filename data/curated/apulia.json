@@ -1,0 +1,102 @@
+{
+  "id": "apulia",
+  "wikidata": "Q1447",
+  "image": "Flag of Apulia.svg",
+  "name": "Apulia",
+  "flagName": "Flag of Apulia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2001,
+  "to": null,
+  "adopted": "2001-08-10",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A white field with green and red stripes recalling the Italian tricolour, the words 'Regione Puglia' in gold and the regional arms: an olive tree inside an octagon under six bezants and the crown of Frederick II.",
+  "origin": [
+    "The flag was adopted in 2001 and changed in 2011 to add a sixth bezant after the province of Barletta-Andria-Trani was created in 2009."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#008F4C",
+      "family": "green",
+      "meaning": "From the Italian tricolour; also the olive.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#F82920",
+      "family": "red",
+      "meaning": "From the Italian tricolour.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#F2CE26",
+      "family": "yellow",
+      "meaning": "The lettering and crown.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Octagon",
+      "description": "An eight-sided frame.",
+      "meaning": "Castel del Monte, the octagonal castle of Frederick II.",
+      "basis": "official"
+    },
+    {
+      "name": "Olive tree",
+      "description": "An olive tree in the centre.",
+      "meaning": "Peace, brotherhood and the Apulian countryside.",
+      "basis": "official"
+    },
+    {
+      "name": "Six bezants",
+      "description": "Gold coins at the top.",
+      "meaning": "The six provinces.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 2001,
+      "to": 2011,
+      "label": "Five bezants"
+    },
+    {
+      "from": 2011,
+      "to": null,
+      "label": "Six bezants"
+    }
+  ],
+  "facts": [
+    "Castel del Monte appears on Italy's one-cent euro coin.",
+    "Apulia produces around half of Italy's olive oil."
+  ],
+  "clues": [
+    "An olive tree inside an octagon, under six coins and a crown.",
+    "Its octagon stands for a castle built by Emperor Frederick II.",
+    "It gained a coin when a new province was created."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "coat-of-arms",
+    "plant",
+    "crown",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Apulia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Apulia"
+    }
+  ]
+}

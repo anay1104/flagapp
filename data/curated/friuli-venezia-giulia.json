@@ -1,0 +1,87 @@
+{
+  "id": "friuli-venezia-giulia",
+  "wikidata": "Q1250",
+  "image": "Flag of Friuli-Venezia Giulia.svg",
+  "name": "Friuli-Venezia Giulia",
+  "flagName": "Flag of Friuli-Venezia Giulia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2001,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A blue field with a golden eagle, wings raised, standing on white battlements.",
+  "origin": [
+    "The gold and blue come from the flag of the medieval Patria del Friuli, ruled by the Patriarchs of Aquileia from 1077 to 1420."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0072CE",
+      "family": "blue",
+      "meaning": "From the Patria del Friuli.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFCE00",
+      "family": "yellow",
+      "meaning": "The eagle.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#F2EFEC",
+      "family": "white",
+      "meaning": "The battlements.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Eagle",
+      "description": "A golden eagle facing the fly.",
+      "meaning": "Aquileia, whose name is linked by legend to an eagle (aquila).",
+      "basis": "popular"
+    },
+    {
+      "name": "Battlements",
+      "description": "A white fortified wall.",
+      "meaning": "The region's defensive history.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1077,
+      "to": 1420,
+      "label": "Patria del Friuli"
+    },
+    {
+      "from": 2001,
+      "to": null,
+      "label": "Autonomous Region of Friuli-Venezia Giulia"
+    }
+  ],
+  "facts": [
+    "The Friulian language is officially recognised in the region.",
+    "Trieste is the regional capital."
+  ],
+  "clues": [
+    "A golden eagle on white battlements, on blue.",
+    "Its colours come from a medieval patriarchal state."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "eagle",
+    "bird",
+    "building"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Friuli-Venezia Giulia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Friuli-Venezia_Giulia"
+    }
+  ]
+}

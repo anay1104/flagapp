@@ -1,0 +1,77 @@
+{
+  "id": "emilia-romagna",
+  "wikidata": "Q1263",
+  "image": "Flag of Emilia-Romagna (de facto).svg",
+  "name": "Emilia-Romagna",
+  "flagName": "Flag of Emilia-Romagna",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "The regional emblem on white: a green curved line and a red straight bar outlining the region, with green lettering. It has no legal status but is used de facto.",
+  "origin": [
+    "The emblem was adopted in 1989. The white flag was improvised for a display of regional flags at the Quirinale Palace on 4 November 1995 and has been used since."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Green",
+      "hex": "#009A44",
+      "family": "green",
+      "meaning": "The Po Valley.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "The straight bar.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Emblem",
+      "description": "A curved green line and a straight red bar.",
+      "meaning": "The Po and nature (curve) and the Via Emilia and human work (straight line).",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "De facto flag"
+    }
+  ],
+  "facts": [
+    "The straight line evokes the Via Emilia, the Roman road that names half the region.",
+    "Bologna is the regional capital."
+  ],
+  "clues": [
+    "A white flag with a green curve and a red bar.",
+    "Its straight line evokes a Roman road.",
+    "It was created for a 1995 display at the Quirinale."
+  ],
+  "lookalikes": [
+    "marche"
+  ],
+  "tags": [
+    "plain-field",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Emilia-Romagna (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Emilia-Romagna"
+    }
+  ]
+}

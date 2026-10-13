@@ -1,0 +1,81 @@
+{
+  "id": "molise",
+  "wikidata": "Q1443",
+  "image": "Flag of Molise.svg",
+  "name": "Molise",
+  "flagName": "Flag of Molise",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A light blue field with the regional arms, a red shield with a silver diagonal band and an eight-pointed star, above the words 'Regione Molise'.",
+  "origin": [
+    "The arms derive from those of the medieval Counts of Molise. The flag was in use by the mid-1990s."
+  ],
+  "colors": [
+    {
+      "name": "Light blue",
+      "hex": "#0085CE",
+      "family": "light-blue",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#D71919",
+      "family": "red",
+      "meaning": "The shield.",
+      "basis": "official"
+    },
+    {
+      "name": "Silver",
+      "hex": "#BEBEBE",
+      "family": "grey",
+      "meaning": "The bend.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Eight-pointed star",
+      "description": "A white star in the upper hoist of the shield.",
+      "meaning": "From the arms of the Counts of Molise.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Region of Molise"
+    }
+  ],
+  "facts": [
+    "Molise separated from Abruzzo in 1963, becoming Italy's youngest region.",
+    "Campobasso is the regional capital."
+  ],
+  "clues": [
+    "A red shield with a silver diagonal band and a star, on light blue.",
+    "Italy's youngest region, split from its neighbour in 1963."
+  ],
+  "lookalikes": [
+    "calabria",
+    "lazio"
+  ],
+  "tags": [
+    "plain-field",
+    "coat-of-arms",
+    "shield",
+    "star",
+    "diagonal",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Molise (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Molise"
+    }
+  ]
+}

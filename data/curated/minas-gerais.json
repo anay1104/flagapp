@@ -1,0 +1,82 @@
+{
+  "id": "minas-gerais",
+  "wikidata": "Q39109",
+  "image": "Bandeira de Minas Gerais.svg",
+  "name": "Minas Gerais",
+  "flagName": "Flag of Minas Gerais",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1963,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A white field with a red triangle surrounded by the Latin motto 'LIBERTAS QUÆ SERA TAMEN' ('Liberty, even if late').",
+  "origin": [
+    "The flag is based on that of the Inconfidência Mineira, the 1789 separatist plot led by Tiradentes. Alvarenga Peixoto took the motto from Virgil's Eclogues. Law 2793 adopted it on 8 January 1963."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Revolution.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Triangle",
+      "description": "An equilateral triangle.",
+      "meaning": "The Holy Trinity.",
+      "basis": "official"
+    },
+    {
+      "name": "Motto",
+      "description": "'Libertas quæ sera tamen'.",
+      "meaning": "Freedom, however late it comes.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1789,
+      "to": 1789,
+      "label": "Inconfidência Mineira"
+    },
+    {
+      "from": 1963,
+      "to": null,
+      "label": "State of Minas Gerais"
+    }
+  ],
+  "facts": [
+    "Tiradentes, the plot's leader, is a national hero; his execution day, 21 April, is a holiday.",
+    "The motto comes from Virgil."
+  ],
+  "clues": [
+    "A red triangle on white with a Latin motto about late liberty.",
+    "Based on a 1789 independence plot."
+  ],
+  "lookalikes": [
+    "bahia"
+  ],
+  "tags": [
+    "plain-field",
+    "triangle",
+    "text",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Minas Gerais (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Minas_Gerais"
+    }
+  ]
+}

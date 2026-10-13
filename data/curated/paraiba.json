@@ -1,0 +1,86 @@
+{
+  "id": "paraiba",
+  "wikidata": "Q38088",
+  "image": "Bandeira da Paraíba.svg",
+  "name": "Paraíba",
+  "flagName": "Flag of Paraíba",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1930,
+  "to": null,
+  "adopted": "1930-09-25",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Red at the hoist and black at the fly, with the word 'NEGO' ('I refuse') in white on the red.",
+  "origin": [
+    "The flag was adopted on 25 September 1930 to honour Governor João Pessoa, who refused to back Júlio Prestes for president and was murdered that year. State symbols were banned in 1937; the flag returned and was formally re-adopted in 1967."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "João Pessoa's blood.",
+      "basis": "official"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "Mourning and the struggle after his death.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The word NEGO.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "NEGO",
+      "description": "The word 'I refuse'.",
+      "meaning": "João Pessoa's refusal to support the 'café com leite' presidential arrangement.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1907,
+      "to": 1922,
+      "label": "First official flag"
+    },
+    {
+      "from": 1930,
+      "to": 1937,
+      "label": "NEGO flag"
+    },
+    {
+      "from": 1967,
+      "to": null,
+      "label": "Re-adopted"
+    }
+  ],
+  "facts": [
+    "The capital was renamed João Pessoa in his honour.",
+    "The spelling changed from 'NÉGO' to 'NEGO' after a 1971 reform."
+  ],
+  "clues": [
+    "Red and black with the word 'NEGO'.",
+    "Its word means 'I refuse'.",
+    "It honours a murdered governor."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "vertical-bicolour",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Paraíba (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Paraíba"
+    }
+  ]
+}

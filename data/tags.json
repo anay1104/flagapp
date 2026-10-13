@@ -19,7 +19,8 @@
     "plain-field": "Plain field with a central emblem",
     "quartered": "Quartered",
     "serration": "Serrated or zigzag edge",
-    "non-rectangular": "Non-rectangular shape"
+    "non-rectangular": "Non-rectangular shape",
+    "rhombus": "Rhombus or lozenge"
   },
   "symbol": {
     "star": "Star(s)",
@@ -47,7 +48,10 @@
     "building": "Building",
     "shield": "Shield",
     "water": "Water or waves",
-    "mountain": "Mountain"
+    "mountain": "Mountain",
+    "ship": "Ship or boat",
+    "person": "Human figure or head",
+    "triangle": "Triangle"
   },
   "colour": {
     "red": "Red",
@@ -61,7 +65,8 @@
     "maroon": "Maroon",
     "purple": "Purple",
     "brown": "Brown",
-    "grey": "Grey or silver"
+    "grey": "Grey or silver",
+    "pink": "Pink"
   },
   "theme": {
     "pan-african": "Pan-African colours",

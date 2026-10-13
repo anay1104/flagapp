@@ -1,0 +1,85 @@
+{
+  "id": "rondonia",
+  "wikidata": "Q43235",
+  "image": "Bandeira de Rondônia.svg",
+  "name": "Rondônia",
+  "flagName": "Flag of Rondônia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Blue above, with a white star; below, a yellow and green perspective of land and roads converging on the horizon.",
+  "origin": [
+    "Seventeen-year-old Sílvio Carvajal Feitosa designed the flag for a contest that required the national colours. It was adopted on 31 December 1981, nine days after Rondônia became a state."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The sky.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The star.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "The roads that brought migrants in the 1970s.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "The state's resources.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "White star",
+      "description": "A single star.",
+      "meaning": "Muliphein, which represents Rondônia on the national flag: 'the newest star shining in the sky of the Union'.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1981,
+      "to": null,
+      "label": "State of Rondônia"
+    }
+  ],
+  "facts": [
+    "The state is named after the explorer Cândido Rondon.",
+    "Its designer was 17 years old."
+  ],
+  "clues": [
+    "A white star in a blue sky over a green and yellow landscape.",
+    "Designed by a 17-year-old.",
+    "Named after an explorer."
+  ],
+  "lookalikes": [
+    "roraima"
+  ],
+  "tags": [
+    "star",
+    "triangle",
+    "astronomy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Rondônia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Rondônia"
+    }
+  ]
+}

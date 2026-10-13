@@ -1,0 +1,86 @@
+{
+  "id": "calabria",
+  "wikidata": "Q1458",
+  "image": "Flag of Calabria.svg",
+  "name": "Calabria",
+  "flagName": "Flag of Calabria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-06-15",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A blue field with 'Regione Calabria' in gold and the regional arms: a disc divided in saltire, showing a pine tree, a Teutonic cross, a Doric column and a Byzantine cross.",
+  "origin": [
+    "The arms and flag were adopted in 1992. The four symbols summarise the region's landscape and its Greek, Byzantine and Norman-Swabian history."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0A4FA2",
+      "family": "blue",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#DEB308",
+      "family": "yellow",
+      "meaning": "The lettering and quarters.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Pine tree",
+      "description": "A Laricio pine.",
+      "meaning": "The forests of the Sila and Aspromonte.",
+      "basis": "official"
+    },
+    {
+      "name": "Doric column",
+      "description": "A truncated light-blue column.",
+      "meaning": "Magna Graecia, the ancient Greek colonies.",
+      "basis": "official"
+    },
+    {
+      "name": "Two crosses",
+      "description": "A Teutonic and a Byzantine cross.",
+      "meaning": "Medieval Christian and Byzantine heritage.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1992,
+      "to": null,
+      "label": "Region of Calabria"
+    }
+  ],
+  "facts": [
+    "Calabria is the 'toe' of the Italian boot.",
+    "Ancient Greek colonies such as Sybaris and Kroton were in Calabria."
+  ],
+  "clues": [
+    "A disc with a pine, a column and two crosses, on blue with gold lettering.",
+    "The flag of Italy's 'toe'."
+  ],
+  "lookalikes": [
+    "molise"
+  ],
+  "tags": [
+    "plain-field",
+    "coat-of-arms",
+    "plant",
+    "cross",
+    "text",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Calabria (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Calabria"
+    }
+  ]
+}

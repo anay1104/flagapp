@@ -1,0 +1,83 @@
+{
+  "id": "mato-grosso-do-sul",
+  "wikidata": "Q43319",
+  "image": "Bandeira de Mato Grosso do Sul.svg",
+  "name": "Mato Grosso do Sul",
+  "flagName": "Flag of Mato Grosso do Sul",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1979,
+  "to": null,
+  "adopted": "1979-01-01",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Divided diagonally by a white band: green at the upper hoist and blue at the lower fly, with a yellow star in the blue.",
+  "origin": [
+    "University of São Paulo architecture students designed the winning entry in a national contest. The government changed the students' ochre (for the red soil) to blue to match the national flag. It was first hoisted on 31 December 1978."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Forests and fields.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace and friendship.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The sky and the people's hope.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Wealth from the people's work.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Yellow star",
+      "description": "A single five-pointed star.",
+      "meaning": "The new state.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1979,
+      "to": null,
+      "label": "State of Mato Grosso do Sul"
+    }
+  ],
+  "facts": [
+    "The state was split from Mato Grosso in 1977.",
+    "The students' favourite design was rejected as too similar to the flags of Somalia and North Vietnam."
+  ],
+  "clues": [
+    "Green and blue separated by a white diagonal band, with a yellow star.",
+    "Its blue was meant to be ochre.",
+    "A state created in 1977."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "diagonal",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Mato Grosso do Sul (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Mato_Grosso_do_Sul"
+    }
+  ]
+}

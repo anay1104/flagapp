@@ -1,0 +1,87 @@
+{
+  "id": "mato-grosso",
+  "wikidata": "Q42824",
+  "image": "Bandeira de Mato Grosso.svg",
+  "name": "Mato Grosso",
+  "flagName": "Flag of Mato Grosso",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1890,
+  "to": null,
+  "adopted": "1890-01-31",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A blue field with a white rhombus holding a green globe and a yellow star whose points touch the globe's edge.",
+  "origin": [
+    "News of the Republic reached Cuiabá only on 9 December 1889. The first governor, Antônio Maria Coelho, created the flag by decree on 31 January 1890, making it one of the first Brazilian state flags."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The sky over Rio de Janeiro on the night of the Republic.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Positivism; purity and peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Hope and nature; the state's size.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Wealth and the bandeirante explorers.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Yellow star",
+      "description": "A star touching the edges of the globe.",
+      "meaning": "Sirius, which represents Mato Grosso on the national flag.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1890,
+      "to": null,
+      "label": "State of Mato Grosso"
+    }
+  ],
+  "facts": [
+    "It is one of the oldest Brazilian state flags.",
+    "The star is Sirius, the brightest star in the night sky."
+  ],
+  "clues": [
+    "A green globe with a yellow star inside a white rhombus, on blue.",
+    "Its star is the brightest in the night sky.",
+    "One of the first state flags of the Republic."
+  ],
+  "lookalikes": [
+    "brazil"
+  ],
+  "tags": [
+    "rhombus",
+    "star",
+    "disc",
+    "astronomy"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Mato Grosso (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Mato_Grosso"
+    }
+  ]
+}

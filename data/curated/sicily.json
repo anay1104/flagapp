@@ -1,0 +1,92 @@
+{
+  "id": "sicily",
+  "wikidata": "Q1460",
+  "image": "Flag of Sicily (revised).svg",
+  "name": "Sicily",
+  "flagName": "Flag of Sicily",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2000,
+  "to": null,
+  "adopted": "2000-01-04",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "Divided diagonally into red and yellow, with the Trinacria at the centre: a Gorgon's head with wings and three ears of wheat, from which three bent legs radiate.",
+  "origin": [
+    "The red and yellow were adopted after the Sicilian Vespers of 1282, showing loyalty to the Aragonese party. The triskeles appears on coins of Syracuse from the 4th century BC. The diagonal design was used by separatists from 1943 and became the official regional flag on 4 January 2000."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Palermo; Aragonese loyalty after 1282.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FCDD09",
+      "family": "yellow",
+      "meaning": "Corleone; the Aragonese colours.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Trinacria",
+      "description": "Three bent legs around a head.",
+      "meaning": "The three capes of Sicily: Peloro, Passero and Lilibeo.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gorgon's head",
+      "description": "A head with snakes, wings and wheat.",
+      "meaning": "Protection; the wheat stands for the island's fertility.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1282,
+      "to": null,
+      "label": "Red and yellow after the Vespers"
+    },
+    {
+      "from": 1943,
+      "to": 2000,
+      "label": "Separatist flag"
+    },
+    {
+      "from": 1995,
+      "to": 2000,
+      "label": "First regional flag with arms"
+    },
+    {
+      "from": 2000,
+      "to": null,
+      "label": "Official regional flag"
+    }
+  ],
+  "facts": [
+    "The wings were added in 1848 and the wheat in the 1940s.",
+    "The Isle of Man uses a similar three-legged symbol."
+  ],
+  "clues": [
+    "Red and yellow split diagonally, with three legs around a head.",
+    "Its three legs stand for three capes of an island.",
+    "An island symbol found on ancient Greek coins."
+  ],
+  "lookalikes": [
+    "isle-of-man"
+  ],
+  "tags": [
+    "diagonal",
+    "person"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Sicily (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Sicily"
+    }
+  ]
+}

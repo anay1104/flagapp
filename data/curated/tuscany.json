@@ -1,0 +1,77 @@
+{
+  "id": "tuscany",
+  "wikidata": "Q1273",
+  "image": "Flag of Tuscany.svg",
+  "name": "Tuscany",
+  "flagName": "Flag of Tuscany",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "adopted": "1995-02-03",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A white field between two red bands with a silver winged horse (Pegasus) rearing in the centre.",
+  "origin": [
+    "The Pegasus comes from a coin made by Benvenuto Cellini in 1537 to honour Cardinal Pietro Bembo. The Tuscan Committee of National Liberation used it on the Italian flag during the Second World War, and the region adopted it in 1995."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Shared with many Tuscan cities' arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "Used for Tuscany since Margrave Hugh in the 10th century.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Pegasus",
+      "description": "A rearing winged horse.",
+      "meaning": "Creativity; later resistance to occupation in the Second World War.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1975,
+      "to": 1995,
+      "label": "Gonfalon with 'Regione Toscana'"
+    },
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Official flag"
+    }
+  ],
+  "facts": [
+    "The regional council chose Pegasus over Leonardo's Vitruvian Man, which was considered too hard to reproduce.",
+    "The seat of the regional government is nicknamed the Palazzo del Pegaso."
+  ],
+  "clues": [
+    "A winged horse on white between two red bands.",
+    "Its horse comes from a Renaissance coin by Cellini.",
+    "The region of Florence."
+  ],
+  "lookalikes": [
+    "austria",
+    "lebanon"
+  ],
+  "tags": [
+    "triband",
+    "animal"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Tuscany (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Tuscany"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "veneto",
+  "wikidata": "Q1243",
+  "image": "Flag of Veneto.svg",
+  "name": "Veneto",
+  "flagName": "Flag of Veneto",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1975,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "The banner of the Republic of Venice, adapted: the winged Lion of Saint Mark holding an open gospel and resting on sea, land and mountains, with tails along the fly and a border of the provincial arms.",
+  "origin": [
+    "The flag derives from the banner of the Republic of Venice (697–1797). It was adopted by regional law in 1975; a 1999 law removed the words 'Regione del Veneto'."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#C8102E",
+      "family": "red",
+      "meaning": "From the Venetian banner.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Gold",
+      "hex": "#E2AF54",
+      "family": "yellow",
+      "meaning": "The lion.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#003F57",
+      "family": "blue",
+      "meaning": "The sea.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Lion of Saint Mark",
+      "description": "A winged gold lion with an open book reading 'Pax tibi Marce evangelista meus'.",
+      "meaning": "Saint Mark, patron of Venice.",
+      "basis": "official"
+    },
+    {
+      "name": "Sea, land and mountains",
+      "description": "The ground under the lion's paws.",
+      "meaning": "The Adriatic, the Venetian Plain and the Alps.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 697,
+      "to": 1797,
+      "label": "Republic of Venice"
+    },
+    {
+      "from": 1975,
+      "to": 1999,
+      "label": "With 'Regione del Veneto'"
+    },
+    {
+      "from": 1999,
+      "to": null,
+      "label": "Current flag"
+    }
+  ],
+  "facts": [
+    "The open book means peace; a closed book was traditionally associated with war.",
+    "Venice is the regional capital."
+  ],
+  "clues": [
+    "A winged lion with an open book, on a banner with tails.",
+    "Its lion is the symbol of an evangelist.",
+    "The flag of a former maritime republic."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "animal",
+    "book",
+    "religious-symbol",
+    "text",
+    "non-rectangular"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Veneto (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Veneto"
+    }
+  ]
+}

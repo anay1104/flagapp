@@ -343,6 +343,7 @@ const COLOUR_NAMES: Record<string, string> = {
   purple: 'Purple',
   brown: 'Brown',
   grey: 'Grey',
+  pink: 'Pink',
 };
 
 const SWATCH: Record<string, string> = {
@@ -358,6 +359,7 @@ const SWATCH: Record<string, string> = {
   purple: '#6A2C91',
   brown: '#7B4A12',
   grey: '#9AA0A6',
+  pink: '#F4A6C0',
 };
 
 function listJoin(items: string[]): string {

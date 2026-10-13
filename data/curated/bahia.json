@@ -1,0 +1,84 @@
+{
+  "id": "bahia",
+  "wikidata": "Q40430",
+  "image": "Bandeira da Bahia.svg",
+  "name": "Bahia",
+  "flagName": "Flag of Bahia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Four horizontal stripes of white and red, with a blue canton holding a white triangle. Strongly influenced by the US flag, with a Masonic-style triangle.",
+  "origin": [
+    "The physician Deocleciano Ramos presented the flag at a Republican Party meeting in Salvador on 25 May 1889. The triangle echoes the 1789 Inconfidência Mineira. Governor Juracy Magalhães made it official on 11 June 1960."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The stripes.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The stripes.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "The canton.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "White triangle",
+      "description": "A triangle in the blue canton.",
+      "meaning": "Freedom and equality, echoing Freemasonry and the Inconfidência Mineira.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1889,
+      "to": 1960,
+      "label": "Republican Party flag"
+    },
+    {
+      "from": 1960,
+      "to": null,
+      "label": "State of Bahia"
+    }
+  ],
+  "facts": [
+    "Salvador, the capital, was Brazil's first capital (1549–1763).",
+    "Red, white and blue were also used in the 1798 Revolt of the Tailors."
+  ],
+  "clues": [
+    "Red and white stripes with a blue canton containing a white triangle.",
+    "It was first a Republican Party flag in 1889.",
+    "The state of Brazil's first capital."
+  ],
+  "lookalikes": [
+    "united-states",
+    "minas-gerais"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "triangle"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Bahia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Bahia"
+    }
+  ]
+}

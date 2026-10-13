@@ -1,0 +1,96 @@
+{
+  "id": "ceara",
+  "wikidata": "Q40123",
+  "image": "Bandeira do Ceará.svg",
+  "name": "Ceará",
+  "flagName": "Flag of Ceará",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1922,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Based on the national flag: a green field with a yellow rhombus, with the state arms in place of the blue globe.",
+  "origin": [
+    "The merchant João Tibúrcio Albano designed the flag by replacing the national flag's globe with the state arms. It was adopted by decree on 25 August 1922, and updated in 1967 and 2007."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "From the national flag.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "From the national flag.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Fort and lighthouse",
+      "description": "The Mucuripe lighthouse and a fort.",
+      "meaning": "Protection against naval attack and guidance for friendly ships.",
+      "basis": "official"
+    },
+    {
+      "name": "Classical elements",
+      "description": "A sun, dove and mountains, a jangada boat and a carnaúba palm.",
+      "meaning": "Fire, air, water and earth.",
+      "basis": "official"
+    },
+    {
+      "name": "Seven stars",
+      "description": "Stars on the seal.",
+      "meaning": "The seven mesoregions.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1922,
+      "to": 1967,
+      "label": "Original arms"
+    },
+    {
+      "from": 1967,
+      "to": 2007,
+      "label": "Updated arms"
+    },
+    {
+      "from": 2007,
+      "to": null,
+      "label": "Simplified arms"
+    }
+  ],
+  "facts": [
+    "Ceará abolished slavery in 1884, four years before the rest of Brazil.",
+    "The jangada recalls the raftsmen's strike that helped end slavery there."
+  ],
+  "clues": [
+    "Brazil's green and yellow with a coat of arms instead of the globe.",
+    "Its arms show the four classical elements.",
+    "The first province to abolish slavery."
+  ],
+  "lookalikes": [
+    "brazil"
+  ],
+  "tags": [
+    "rhombus",
+    "coat-of-arms",
+    "star",
+    "sun",
+    "ship",
+    "bird"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Ceará (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Ceará"
+    }
+  ]
+}

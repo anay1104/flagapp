@@ -1,0 +1,79 @@
+{
+  "id": "lazio",
+  "wikidata": "Q1282",
+  "image": "Flag of Lazio.svg",
+  "name": "Lazio",
+  "flagName": "Flag of Lazio",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A sky-blue field with 'Regione Lazio' in gold and the regional arms: a gold-edged octagon holding the arms of its five provinces, between laurel and olive branches and under a gold crown.",
+  "origin": [
+    "The arms place the province of Rome at the centre, with Frosinone, Latina, Rieti and Viterbo around it."
+  ],
+  "colors": [
+    {
+      "name": "Sky blue",
+      "hex": "#0075D0",
+      "family": "light-blue",
+      "meaning": "The field.",
+      "basis": "official"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FDD212",
+      "family": "yellow",
+      "meaning": "The lettering, crown and branches.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Octagon",
+      "description": "A gold-edged octagon with provincial arms.",
+      "meaning": "The five provinces united in one region.",
+      "basis": "official"
+    },
+    {
+      "name": "Laurel and olive",
+      "description": "Branches around the arms.",
+      "meaning": "Victory and peace.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Region of Lazio"
+    }
+  ],
+  "facts": [
+    "Rome, Italy's capital, is in Lazio.",
+    "The name comes from Latium, home of the ancient Latins."
+  ],
+  "clues": [
+    "An octagon of provincial arms under a crown, on sky blue with gold lettering.",
+    "The region around Rome."
+  ],
+  "lookalikes": [
+    "calabria",
+    "molise"
+  ],
+  "tags": [
+    "plain-field",
+    "coat-of-arms",
+    "crown",
+    "plant",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Lazio (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Lazio"
+    }
+  ]
+}

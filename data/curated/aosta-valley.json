@@ -1,0 +1,66 @@
+{
+  "id": "aosta-valley",
+  "wikidata": "Q1222",
+  "image": "Flag of Valle d'Aosta.svg",
+  "name": "Aosta Valley",
+  "flagName": "Flag of Aosta Valley",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 2006,
+  "to": null,
+  "adopted": "2006-03-16",
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "A vertical bicolour of black and red. The colours come from the 16th-century arms of the Duchy of Aosta: a silver lion with a red tongue on black.",
+  "origin": [
+    "Canon Joseph Bréan proposed the black and red flag in an anti-fascist brochure in 1942. The Valdostan resistance adopted it, and it was used unofficially from 1947 until a regional law of 2006."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The field of the ducal arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#E30613",
+      "family": "red",
+      "meaning": "The lion's tongue.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1942,
+      "to": 2006,
+      "label": "Resistance and unofficial flag"
+    },
+    {
+      "from": 2006,
+      "to": null,
+      "label": "Autonomous Region of Aosta Valley"
+    }
+  ],
+  "facts": [
+    "It was long left unofficial, partly because it resembled anarchist banners.",
+    "Aosta Valley is Italy's smallest region and is officially bilingual in Italian and French."
+  ],
+  "clues": [
+    "Black and red, halved vertically.",
+    "Proposed by a priest in a 1942 anti-fascist brochure.",
+    "Italy's smallest region."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "vertical-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Aosta Valley (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Aosta_Valley"
+    }
+  ]
+}

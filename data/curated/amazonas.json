@@ -1,0 +1,79 @@
+{
+  "id": "amazonas",
+  "wikidata": "Q40040",
+  "image": "Bandeira do Amazonas.svg",
+  "name": "Amazonas",
+  "flagName": "Flag of Amazonas",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1982,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "White and red horizontal bands with a blue canton full of white stars, one larger star in the centre for Manaus.",
+  "origin": [
+    "The flag was set by decree in 1982. Its original 25 stars stood for the municipalities existing on 4 August 1897, when the Amazonas military entered the War of Canudos."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Hope.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Overcoming difficulties.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The skies.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Stars",
+      "description": "White stars in the canton.",
+      "meaning": "The state's municipalities; the largest is Manaus.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1982,
+      "to": null,
+      "label": "State of Amazonas"
+    }
+  ],
+  "facts": [
+    "Amazonas is Brazil's largest state by area.",
+    "A 2026 decree updated the stars to match today's 62 municipalities."
+  ],
+  "clues": [
+    "Red and white bands with a blue canton of white stars.",
+    "Its stars recall a 19th-century war.",
+    "Brazil's largest state."
+  ],
+  "lookalikes": [
+    "united-states",
+    "piaui"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Amazonas (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Amazonas_(Brazilian_state)"
+    }
+  ]
+}

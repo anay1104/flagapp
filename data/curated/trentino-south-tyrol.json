@@ -1,0 +1,85 @@
+{
+  "id": "trentino-south-tyrol",
+  "wikidata": "Q1237",
+  "image": "Flag of Trentino-South Tyrol.svg",
+  "name": "Trentino-South Tyrol",
+  "flagName": "Flag of Trentino-South Tyrol",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "2:3",
+  "country": "Italy",
+  "summary": "White over blue with the regional arms: a quartered shield with the eagle of Saint Wenceslas of Trentino in the 1st and 4th quarters and the red Tyrolean eagle of South Tyrol in the 2nd and 3rd.",
+  "origin": [
+    "The white and blue flag has been used in a limited way since 1995 but has never been legally defined. The arms were approved in 1982–83. The eagle of Saint Wenceslas was granted to Trento by John of Luxembourg on 9 August 1339."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The historical field of Trento's arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0F47AF",
+      "family": "blue",
+      "meaning": "The historical field of Bolzano's arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The eagles.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Eagle of Saint Wenceslas",
+      "description": "A black eagle with red flames.",
+      "meaning": "Trentino.",
+      "basis": "official"
+    },
+    {
+      "name": "Tyrolean eagle",
+      "description": "A red eagle.",
+      "meaning": "South Tyrol.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1995,
+      "to": null,
+      "label": "Autonomous Region of Trentino-South Tyrol"
+    }
+  ],
+  "facts": [
+    "The region is made up of two autonomous provinces with their own flags.",
+    "German is the majority language in South Tyrol."
+  ],
+  "clues": [
+    "White over blue with a shield of four eagles.",
+    "A region of two autonomous provinces."
+  ],
+  "lookalikes": [
+    "tyrol"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "coat-of-arms",
+    "shield",
+    "eagle",
+    "bird"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Trentino-South Tyrol (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Trentino-Alto_Adige/Südtirol"
+    }
+  ]
+}

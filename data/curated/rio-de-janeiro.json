@@ -1,0 +1,76 @@
+{
+  "id": "rio-de-janeiro",
+  "wikidata": "Q41428",
+  "image": "Bandeira do estado do Rio de Janeiro.svg",
+  "name": "Rio de Janeiro",
+  "flagName": "Flag of Rio de Janeiro (state)",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1965,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Quartered in white and blue, with the state arms in the centre: an eagle above a shield with a mountain landscape, framed by sugarcane and coffee branches.",
+  "origin": [
+    "The flag was set by State Law No. 5588 of 5 October 1965 and kept unchanged after the merger with Guanabara in 1975."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "The quarters.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "The quarters.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Eagle",
+      "description": "A golden eagle above the shield.",
+      "meaning": "Vigilance.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Coffee and sugarcane",
+      "description": "Branches around the arms.",
+      "meaning": "The state's historical crops.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1965,
+      "to": null,
+      "label": "State of Rio de Janeiro"
+    }
+  ],
+  "facts": [
+    "The city of Rio was Brazil's capital from 1763 to 1960.",
+    "The state of Guanabara merged into Rio de Janeiro in 1975."
+  ],
+  "clues": [
+    "White and blue quarters with an eagle and a shield.",
+    "The state of Brazil's former capital."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "quartered",
+    "coat-of-arms",
+    "eagle",
+    "bird",
+    "plant"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Rio de Janeiro (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Rio_de_Janeiro_(state)"
+    }
+  ]
+}

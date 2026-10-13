@@ -1,0 +1,82 @@
+{
+  "id": "acre",
+  "wikidata": "Q40780",
+  "image": "Bandeira do Acre.svg",
+  "name": "Acre",
+  "flagName": "Flag of Acre",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1995,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Divided diagonally from lower hoist to upper fly: yellow above with a red star in the corner, green below. It is the flag of the short-lived Republic of Acre of 1899.",
+  "origin": [
+    "The design was decreed for the Republic of Acre on 15 July 1899, during the conflict with Bolivia over the rubber-rich territory, and modified in 1921. Law No. 1170 of 22 December 1995 made it the state flag."
+  ],
+  "colors": [
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "The riches of the land.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Hope.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "The star.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Altaneira Star",
+      "description": "A red five-pointed star.",
+      "meaning": "The blood of those who fought for Acre's annexation to Brazil.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1899,
+      "to": 1903,
+      "label": "Republic of Acre"
+    },
+    {
+      "from": 1995,
+      "to": null,
+      "label": "State of Acre"
+    }
+  ],
+  "facts": [
+    "Acre was bought from Bolivia by the Treaty of Petrópolis in 1903.",
+    "Its green and yellow match the national flag."
+  ],
+  "clues": [
+    "Yellow over green, divided diagonally, with a red star.",
+    "The flag of a short-lived rubber-boom republic.",
+    "Its territory was bought from Bolivia."
+  ],
+  "lookalikes": [
+    "brazil"
+  ],
+  "tags": [
+    "diagonal",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Acre (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Acre"
+    }
+  ]
+}

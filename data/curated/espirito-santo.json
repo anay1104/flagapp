@@ -1,0 +1,81 @@
+{
+  "id": "espirito-santo",
+  "wikidata": "Q43233",
+  "image": "Bandeira do Espírito Santo.svg",
+  "name": "Espírito Santo",
+  "flagName": "Flag of Espírito Santo",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1947,
+  "to": null,
+  "adopted": "1947-04-24",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "Three horizontal bands of blue, white and pink, with 'TRABALHA E CONFIA' ('Work and trust') on the white band. One of very few flags to use pink.",
+  "origin": [
+    "Governor Jerônimo Monteiro created the flag in 1908; blue, white and pink became state colours in 1909. It was adopted by Decree 16.618 on 24 April 1947. A 1989 campaign to change the pink to red was rejected."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0055A5",
+      "family": "blue",
+      "meaning": "Harmony; the mantle of Our Lady of Victory.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace.",
+      "basis": "official"
+    },
+    {
+      "name": "Pink",
+      "hex": "#F7A8B8",
+      "family": "pink",
+      "meaning": "Happiness; the mantle of Our Lady of Victory.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Motto",
+      "description": "'TRABALHA E CONFIA'.",
+      "meaning": "From Saint Ignatius of Loyola: work as if all depended on you, trust as if all depended on God.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1908,
+      "to": 1947,
+      "label": "Designed and used"
+    },
+    {
+      "from": 1947,
+      "to": null,
+      "label": "Official flag"
+    }
+  ],
+  "facts": [
+    "Its colours come from the mantle of Our Lady of Victory, patron of the capital Vitória.",
+    "Residents resisted a 1989 attempt to swap the pink for red."
+  ],
+  "clues": [
+    "Blue, white and pink bands with a motto about work and trust.",
+    "One of very few flags with pink.",
+    "Its motto comes from the founder of the Jesuits."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-tricolour",
+    "text"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Espírito Santo (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Espírito_Santo"
+    }
+  ]
+}

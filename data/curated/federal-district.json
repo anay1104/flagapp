@@ -1,0 +1,76 @@
+{
+  "id": "federal-district",
+  "wikidata": "Q119158",
+  "image": "Bandeira do Distrito Federal (Brasil).svg",
+  "name": "Federal District",
+  "flagName": "Flag of the Federal District (Brazil)",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1969,
+  "to": null,
+  "adopted": "1969-08-25",
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A white field with a green square in the centre holding the Cross of Brasília: four yellow arrows pointing outward, their feathers forming a lozenge.",
+  "origin": [
+    "The poet Guilherme de Almeida created the flag, made official on 25 August 1969."
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Peace and the vast Brazilian territory.",
+      "basis": "official"
+    },
+    {
+      "name": "Green",
+      "hex": "#009C3B",
+      "family": "green",
+      "meaning": "Brazil.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "Brazil; the national lozenge.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Cross of Brasília",
+      "description": "Four arrows pointing to the four directions.",
+      "meaning": "Indigenous heritage and the capital's power reaching all directions; also the Southern Cross and the cross of the first Mass of 1500.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1969,
+      "to": null,
+      "label": "Federal District"
+    }
+  ],
+  "facts": [
+    "Brasília became Brazil's capital in 1960.",
+    "The arrows' feathers form a lozenge echoing the national flag."
+  ],
+  "clues": [
+    "Four yellow arrows forming a cross in a green square, on white.",
+    "The flag of a planned capital opened in 1960."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "plain-field",
+    "cross",
+    "weapon"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Federal District (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Federal_District_(Brazil)"
+    }
+  ]
+}

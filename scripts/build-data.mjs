@@ -273,6 +273,7 @@ const COLOR_RULES = [
   [/purple|violet/, 'purple'],
   [/brown/, 'brown'],
   [/grey|gray|silver/, 'grey'],
+  [/pink/, 'pink'],
 ];
 function autoTags(depicts, colors) {
   const tags = new Set();

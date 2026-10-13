@@ -1,0 +1,112 @@
+{
+  "id": "sao-paulo",
+  "wikidata": "Q175",
+  "image": "Bandeira do estado de São Paulo.svg",
+  "name": "São Paulo",
+  "flagName": "Flag of São Paulo (state)",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1946,
+  "to": null,
+  "ratio": "13:19.5",
+  "designer": "Júlio Ribeiro",
+  "country": "Brazil",
+  "summary": "Thirteen black and white horizontal stripes with a red canton holding a white disc with a blue map of Brazil and four yellow stars in its corners.",
+  "origin": [
+    "Júlio Ribeiro designed it in 1888 as a proposed national flag for the coming Republic. Rejected nationally in 1889, it became the symbol of São Paulo after the 1932 Constitutionalist Revolution and was adopted officially in 1946."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "Black Brazilians; the nights of the bandeirantes' struggles.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "White Brazilians; the days.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "Indigenous peoples; the bandeirantes' blood.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#002776",
+      "family": "blue",
+      "meaning": "The map of Brazil.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFDF00",
+      "family": "yellow",
+      "meaning": "The stars.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Map of Brazil",
+      "description": "A blue outline in a white disc.",
+      "meaning": "Brazil; the flag was first proposed for the whole country.",
+      "basis": "official"
+    },
+    {
+      "name": "Four stars",
+      "description": "Yellow stars at the canton's corners.",
+      "meaning": "The Southern Cross.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1888,
+      "to": 1889,
+      "label": "Proposed national flag"
+    },
+    {
+      "from": 1932,
+      "to": 1946,
+      "label": "Symbol of the Constitutionalist Revolution"
+    },
+    {
+      "from": 1946,
+      "to": null,
+      "label": "State of São Paulo"
+    }
+  ],
+  "facts": [
+    "It flew over the governor's palace on 15 November 1889, four days before Brazil adopted its current flag.",
+    "Its three main colours echo von Martius's 'three races' theory."
+  ],
+  "clues": [
+    "Thirteen black and white stripes with a red canton showing a map of Brazil.",
+    "It was proposed as the national flag in 1888.",
+    "The flag of Brazil's most populous state."
+  ],
+  "lookalikes": [
+    "maranhao",
+    "united-states"
+  ],
+  "tags": [
+    "horizontal-stripes",
+    "canton",
+    "map",
+    "star",
+    "disc"
+  ],
+  "sources": [
+    {
+      "title": "Flag of São Paulo (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_São_Paulo"
+    }
+  ]
+}

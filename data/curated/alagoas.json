@@ -1,0 +1,91 @@
+{
+  "id": "alagoas",
+  "wikidata": "Q40885",
+  "image": "Bandeira de Alagoas.svg",
+  "name": "Alagoas",
+  "flagName": "Flag of Alagoas",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1963,
+  "to": null,
+  "ratio": "7:10",
+  "country": "Brazil",
+  "summary": "A vertical tricolour of red, white and blue with the state arms in the centre: a shield with shells and fish, a silver star, and sugarcane and cotton.",
+  "origin": [
+    "The flag was created by State Law No. 2628 on 23 September 1963. The colours echo the French Tricolour and its ideals."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#DA121A",
+      "family": "red",
+      "meaning": "From the French Tricolour.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "From the French Tricolour.",
+      "basis": "official"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "From the French Tricolour.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Three shells",
+      "description": "Shells on the shield.",
+      "meaning": "Three historic towns: Porto Calvo, Marechal Deodoro and Penedo.",
+      "basis": "official"
+    },
+    {
+      "name": "Three fish",
+      "description": "Fish on the shield.",
+      "meaning": "The lagoons Mundaú, Manguaba and Jequiá; fishing.",
+      "basis": "official"
+    },
+    {
+      "name": "Silver star",
+      "description": "A five-pointed star.",
+      "meaning": "Brazil's arms and the 'radiant star' of the state anthem.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1963,
+      "to": null,
+      "label": "State of Alagoas"
+    }
+  ],
+  "facts": [
+    "The state's name means 'lagoons'.",
+    "Maceió is the capital."
+  ],
+  "clues": [
+    "Red, white and blue vertical bands with a shield of shells and fish.",
+    "A state named after its lagoons."
+  ],
+  "lookalikes": [
+    "france"
+  ],
+  "tags": [
+    "vertical-tricolour",
+    "coat-of-arms",
+    "animal",
+    "star",
+    "plant"
+  ],
+  "sources": [
+    {
+      "title": "Flag of Alagoas (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Alagoas"
+    }
+  ]
+}
