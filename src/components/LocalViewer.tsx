@@ -1,6 +1,7 @@
 // Client-side page for city and municipal flags, which are too numerous for
 // static pages. Reads ?id= and loads the record from its data shard.
 
+import { url } from '../lib/paths';
 import { useEffect, useState } from 'preact/hooks';
 import FlagDetail, { type RelatedFlag } from './FlagDetail';
 import { flagHref, loadLocalIndex, loadLocalRecord } from '../lib/index-data';
@@ -41,7 +42,7 @@ export default function LocalViewer({ tagLabels }: { tagLabels: Record<string, s
       <div style={{ paddingTop: '2rem' }}>
         <h1>Flag not found</h1>
         <p>
-          <a href="/flags/">Browse all flags</a>
+          <a href={url("/flags/")}>Browse all flags</a>
         </p>
       </div>
     );

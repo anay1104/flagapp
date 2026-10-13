@@ -1,0 +1,48 @@
+{
+  "id": "croatia",
+  "wikidata": "Q224",
+  "name": "Croatia",
+  "flagName": "Flag of Croatia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-12-21",
+  "ratio": "1:2",
+  "designer": "Miroslav Šutej (coat of arms)",
+  "summary": "Red, white and blue horizontal bands with the Croatian coat of arms: a red and white chequerboard topped by a crown of five small shields. The tricolour dates from 1848.",
+  "origin": [
+    "Red, white and blue were adopted as Croatian colours during the revolutions of 1848, combining the red and white of Croatia with the blue of Dalmatia and Slavonia, and reflecting the Pan-Slavic colours.",
+    "The chequerboard (šahovnica) has been a Croatian symbol since at least the late 15th century. After the first multi-party elections in 1990, Croatia adopted the tricolour with a new coat of arms designed by Miroslav Šutej on 21 December 1990."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#FF0000", "family": "red", "meaning": "From the arms of Croatia proper.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the arms of Croatia proper.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#171796", "family": "blue", "meaning": "From the arms of Dalmatia and Slavonia; also the Pan-Slavic colours.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Chequerboard (šahovnica)", "description": "A shield of 25 red and white squares, starting with red in the top left.", "meaning": "Croatia; its origin is uncertain, with legends linking it to a medieval king playing chess.", "basis": "traditional" },
+    { "name": "Crown of five shields", "description": "Five small shields above the chequerboard.", "meaning": "Croatia's historical regions: the oldest Croatian arms, Dubrovnik, Dalmatia, Istria and Slavonia.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1848, "to": 1918, "label": "Kingdom of Croatia-Slavonia" },
+    { "from": 1947, "to": 1990, "label": "Socialist Republic of Croatia", "note": "Tricolour with a red star." },
+    { "from": 1990, "to": null, "label": "Republic of Croatia" }
+  ],
+  "facts": [
+    "Croatia's national football kit uses the red and white chequerboard pattern.",
+    "The coat of arms on the flag slightly overlaps the red and blue bands.",
+    "The Netherlands and Russia use the same colours; Croatia's arms tell them apart."
+  ],
+  "clues": [
+    "Red, white and blue bands with a red and white chequered shield.",
+    "Its shield is topped by a crown of five smaller shields.",
+    "Its national football kit copies the shield's pattern."
+  ],
+  "lookalikes": ["netherlands", "paraguay", "slovakia", "serbia"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "shield", "pan-slavic"],
+  "sources": [
+    { "title": "Flag of Croatia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Croatia" },
+    { "title": "Croatia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/hr.html" }
+  ]
+}

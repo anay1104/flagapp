@@ -1,0 +1,44 @@
+{
+  "id": "bulgaria",
+  "wikidata": "Q219",
+  "name": "Bulgaria",
+  "flagName": "Flag of Bulgaria",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-11-22",
+  "ratio": "3:5",
+  "summary": "White, green and red horizontal bands. First adopted in 1879 after liberation from Ottoman rule, it is often said to be modelled on the Russian tricolour, with green replacing blue.",
+  "origin": [
+    "Bulgaria became an autonomous principality after the Russo-Turkish War of 1877–1878. The Constituent Assembly at Tarnovo adopted the tricolour on 16 April 1879; the design is commonly said to adapt the Russian flag, with green for the land.",
+    "The communist People's Republic added its state emblem in the canton from 1947. The emblem was removed and the plain tricolour restored on 22 November 1990."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace, love and freedom.", "basis": "traditional" },
+    { "name": "Green", "hex": "#00966E", "family": "green", "meaning": "The fertility of the land and agriculture.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D62612", "family": "red", "meaning": "The courage of the people and the blood shed for independence.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1879, "to": 1946, "label": "Principality and Kingdom of Bulgaria" },
+    { "from": 1947, "to": 1990, "label": "People's Republic", "note": "Emblem in the canton." },
+    { "from": 1990, "to": null, "label": "Plain tricolour" }
+  ],
+  "facts": [
+    "Hungary's and Iran's flags use the same three colours in different orders.",
+    "The 1990 restoration came a year after the fall of the communist regime.",
+    "The flag is defined in Article 166 of the Constitution."
+  ],
+  "clues": [
+    "White, green and red horizontal bands.",
+    "Adopted in 1879 after liberation from an empire.",
+    "Often said to adapt a large Slavic neighbour's tricolour, replacing blue with green."
+  ],
+  "lookalikes": ["hungary", "iran", "tajikistan"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Bulgaria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bulgaria" },
+    { "title": "Bulgaria (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bg.html" }
+  ]
+}

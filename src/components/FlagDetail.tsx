@@ -1,6 +1,7 @@
 // Full flag page body. Rendered statically by /flag/[id] and on the client by
 // the local-flag viewer, so it must not depend on build-time-only data.
 
+import { url } from '../lib/paths';
 import type { FlagRecord } from '../lib/types';
 import { BASIS_LABELS, CATEGORY_LABELS, TIER_LABELS, formatDate, years } from '../lib/format';
 import { commonsPage, original, thumb } from '../lib/img';
@@ -254,7 +255,7 @@ export default function FlagDetail({ flag: f, related = [], lookalikes = [], tag
           <h2>Features</h2>
           <div class="tags">
             {f.tags.map((t) => (
-              <a class="chip" href={`/flags/?tag=${t}`} key={t}>
+              <a class="chip" href={url(`/flags/?tag=${t}`)} key={t}>
                 {tagLabels[t] ?? t}
               </a>
             ))}

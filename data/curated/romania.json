@@ -1,0 +1,47 @@
+{
+  "id": "romania",
+  "wikidata": "Q218",
+  "name": "Romania",
+  "flagName": "Flag of Romania",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1989,
+  "to": null,
+  "adopted": "1989-12-27",
+  "ratio": "2:3",
+  "summary": "Blue, yellow and red vertical bands. First used in Wallachia in 1848, it became the flag of the United Principalities and then the Kingdom of Romania. It is nearly identical to the flag of Chad.",
+  "origin": [
+    "Blue, yellow and red were the colours of the Wallachian and Moldavian principalities. Revolutionaries in Wallachia used a tricolour in 1848, with the motto 'Dreptate, Frăție' (Justice, Brotherhood).",
+    "After the union of Wallachia and Moldavia in 1859, the vertical tricolour became the flag of Romania. The communist regime added the socialist coat of arms in 1948.",
+    "During the revolution of December 1989, protesters cut the communist arms from the centre. The plain tricolour was confirmed by decree on 27 December 1989 and by the 1991 Constitution."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002B7F", "family": "blue", "meaning": "Commonly read as liberty or the sky; historically from Wallachian banners.", "basis": "popular" },
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "Commonly read as justice or the land's wealth.", "basis": "popular" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Commonly read as fraternity or blood.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1848, "to": 1859, "label": "Wallachian revolutionary flag" },
+    { "from": 1866, "to": 1947, "label": "Kingdom of Romania", "note": "Vertical tricolour, with arms on state flags." },
+    { "from": 1948, "to": 1989, "label": "Socialist Republic", "note": "Communist arms in the centre." },
+    { "from": 1989, "to": null, "label": "Plain tricolour" }
+  ],
+  "facts": [
+    "Chad's flag uses a slightly darker blue but is otherwise practically identical; Romania raised the issue in 2004 but did not pursue it.",
+    "Andorra's and Moldova's flags use the same colours with coats of arms.",
+    "Flag Day is 26 June, marking the 1848 adoption in Wallachia."
+  ],
+  "clues": [
+    "Blue, yellow and red vertical bands.",
+    "Almost identical to a Central African flag.",
+    "Its communist emblem was cut out by protesters in 1989.",
+    "Two principalities united under it in 1859."
+  ],
+  "lookalikes": ["chad", "andorra", "moldova"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Flag of Romania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Romania" },
+    { "title": "Romania (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ro.html" }
+  ]
+}

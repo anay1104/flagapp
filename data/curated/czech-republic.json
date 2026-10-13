@@ -1,0 +1,48 @@
+{
+  "id": "czech-republic",
+  "wikidata": "Q213",
+  "name": "Czech Republic",
+  "flagName": "Flag of the Czech Republic",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1920,
+  "to": null,
+  "adopted": "1920-03-30",
+  "ratio": "2:3",
+  "designer": "Jaroslav Kursa",
+  "aliases": ["Czechia", "Czechoslovakia"],
+  "summary": "White over red with a blue triangle at the hoist. Designed for Czechoslovakia in 1920, it was kept by the Czech Republic after the 1993 split, despite an agreement that neither successor would use the federal symbols.",
+  "origin": [
+    "After Czechoslovakia's independence in 1918, it used the white and red of Bohemia, which resembled Poland's flag. In 1920 a committee chose a design by the archivist Jaroslav Kursa, adding a blue triangle for Slovakia and Moravia.",
+    "The constitutional law dissolving Czechoslovakia said neither successor state would use its symbols. The Czech Republic nonetheless kept the flag on 1 January 1993."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the arms of Bohemia (a silver lion on red).", "basis": "traditional" },
+    { "name": "Red", "hex": "#D7141A", "family": "red", "meaning": "From the arms of Bohemia.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#11457E", "family": "blue", "meaning": "Originally Slovakia; also linked to Moravia's arms.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Blue triangle", "description": "An isosceles triangle at the hoist, reaching half the flag's length.", "meaning": "Originally added for Slovakia; now often explained as Moravia.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1918, "to": 1920, "label": "White over red", "note": "The Bohemian colours." },
+    { "from": 1920, "to": 1992, "label": "Czechoslovakia" },
+    { "from": 1993, "to": null, "label": "Czech Republic", "note": "Kept the Czechoslovak flag." }
+  ],
+  "facts": [
+    "Czech law states the triangle reaches to the middle of the flag.",
+    "The Philippines flag has a similar triangle layout but with a sun and stars.",
+    "The flag was banned during the German occupation (1939–1945)."
+  ],
+  "clues": [
+    "White over red with a blue triangle at the hoist.",
+    "Kept by one successor state despite an agreement not to.",
+    "Its triangle was added for a region that later became independent."
+  ],
+  "lookalikes": ["philippines", "poland"],
+  "tags": ["horizontal-bicolour", "hoist-triangle", "pan-slavic"],
+  "sources": [
+    { "title": "Flag of the Czech Republic (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Czech_Republic" },
+    { "title": "Czech Republic (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cz.html" }
+  ]
+}

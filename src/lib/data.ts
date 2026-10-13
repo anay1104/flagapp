@@ -1,5 +1,6 @@
 // Build-time access to generated flag data. Only import from .astro frontmatter.
 
+import { url } from './paths';
 import pages from '../generated/pages.json';
 import tagsFile from '../generated/tags.json';
 import type { FlagRecord } from './types';
@@ -20,7 +21,7 @@ export function toRelated(f: FlagRecord): RelatedFlag {
     from: f.from,
     to: f.to,
     current: f.current,
-    href: `/flag/${f.id}/`,
+    href: url(`/flag/${f.id}/`),
   };
 }
 

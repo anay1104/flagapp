@@ -1,5 +1,6 @@
 // Client-side access to the compact flag index written by scripts/build-data.mjs.
 
+import { url } from './paths';
 import type { Category, FlagRecord, Tier } from './types';
 
 export interface IndexEntry {
@@ -32,7 +33,7 @@ interface IndexFile {
 const cache = new Map<string, Promise<IndexEntry[]>>();
 
 async function load(file: string, local: boolean): Promise<IndexEntry[]> {
-  const res = await fetch(`/data/${file}`);
+  const res = await fetch(url(`/data/${file}`));
   if (!res.ok) throw new Error(`Failed to load ${file}: ${res.status}`);
   const data: IndexFile = await res.json();
   return data.rows.map(([id, name, img, cat, tier, from, to, current, country, tags, role]) => ({
@@ -64,7 +65,7 @@ export function loadLocalIndex(): Promise<IndexEntry[]> {
 }
 
 export function flagHref(e: Pick<IndexEntry, 'id' | 'local'>): string {
-  return e.local ? `/flag/view/?id=${encodeURIComponent(e.id)}` : `/flag/${e.id}/`;
+  return e.local ? url(`/flag/view/?id=${encodeURIComponent(e.id)}`) : url(`/flag/${e.id}/`);
 }
 
 export const LOCAL_SHARDS = 64;
@@ -76,7 +77,7 @@ export function shardOf(id: string): number {
 }
 
 export async function loadLocalRecord(id: string): Promise<FlagRecord | undefined> {
-  const res = await fetch(`/data/local/${shardOf(id)}.json`);
+  const res = await fetch(url(`/data/local/${shardOf(id)}.json`));
   if (!res.ok) return undefined;
   const shard: Record<string, FlagRecord> = await res.json();
   return shard[id];

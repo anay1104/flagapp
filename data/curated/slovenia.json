@@ -1,0 +1,49 @@
+{
+  "id": "slovenia",
+  "wikidata": "Q215",
+  "name": "Slovenia",
+  "flagName": "Flag of Slovenia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "adopted": "1991-06-25",
+  "ratio": "1:2",
+  "designer": "Marko Pogačnik (coat of arms)",
+  "summary": "White, blue and red horizontal bands with the coat of arms in the upper hoist: Mount Triglav in white over two wavy blue lines, under three gold stars. Adopted on independence in 1991.",
+  "origin": [
+    "The white-blue-red tricolour was first raised by Slovenes in Ljubljana in 1848, based on the colours of the Duchy of Carniola, and was used under Yugoslavia with a red star.",
+    "On independence on 25 June 1991, Slovenia removed the star and added a new coat of arms by the artist Marko Pogačnik."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the arms of Carniola.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#005DA4", "family": "blue", "meaning": "From the arms of Carniola.", "basis": "traditional" },
+    { "name": "Red", "hex": "#ED1C24", "family": "red", "meaning": "From the arms of Carniola.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Mount Triglav", "description": "A three-peaked white mountain on blue.", "meaning": "Triglav, Slovenia's highest peak and a national symbol.", "basis": "official" },
+    { "name": "Two wavy lines", "description": "Blue wavy lines beneath the mountain.", "meaning": "The Adriatic Sea and Slovenia's rivers.", "basis": "official" },
+    { "name": "Three stars", "description": "Six-pointed gold stars in a downward triangle.", "meaning": "From the arms of the Counts of Celje, a medieval Slovenian dynasty.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1848, "to": 1918, "label": "Slovene national colours" },
+    { "from": 1945, "to": 1991, "label": "Socialist Republic of Slovenia", "note": "Tricolour with a red star." },
+    { "from": 1991, "to": null, "label": "Republic of Slovenia" }
+  ],
+  "facts": [
+    "Slovakia's and Russia's flags use the same three colours in the same order; Slovenia's arms sit higher and toward the hoist.",
+    "Triglav also appears on Slovenia's euro coins.",
+    "Proposals to change the flag to distinguish it from Slovakia's were considered in 2003 but not adopted."
+  ],
+  "clues": [
+    "White, blue and red bands with a shield showing a three-peaked mountain and three gold stars.",
+    "Its stars come from a medieval family of counts.",
+    "Often confused with a neighbour whose name differs by a few letters."
+  ],
+  "lookalikes": ["slovakia", "russia", "serbia"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "shield", "mountain", "water", "star", "pan-slavic"],
+  "sources": [
+    { "title": "Flag of Slovenia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Slovenia" },
+    { "title": "Slovenia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/si.html" }
+  ]
+}

@@ -1,4 +1,5 @@
 ---
+import { url } from '../lib/paths';
 import Base from '../layouts/Base.astro';
 import { tagCounts, tagVocab } from '../lib/data';
 
@@ -24,12 +25,12 @@ const GROUP_LABELS: Record<string, string> = {
           <div class="tag-grid">
             {Object.entries(tags).map(([id, label]) => (
               <div class="tag card">
-                <a href={`/flags/?tag=${id}`}>
+                <a href={url(`/flags/?tag=${id}`)}>
                   <strong>{label}</strong>
                 </a>
                 <span class="muted small">{(tagCounts[id] ?? 0).toLocaleString()} flags</span>
                 {(tagCounts[id] ?? 0) >= 2 && (
-                  <a class="small" href={`/quiz/?mode=list&tag=${id}&pool=all`}>
+                  <a class="small" href={url(`/quiz/?mode=list&tag=${id}&pool=all`)}>
                     List challenge
                   </a>
                 )}

@@ -1,0 +1,48 @@
+{
+  "id": "serbia",
+  "wikidata": "Q403",
+  "name": "Serbia",
+  "flagName": "Flag of Serbia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2004,
+  "to": null,
+  "adopted": "2004-08-17",
+  "ratio": "2:3",
+  "summary": "Red, blue and white horizontal bands with the lesser coat of arms toward the hoist: a crowned white double-headed eagle with a shield bearing a cross and four firesteels. The tricolour dates from the 1830s.",
+  "origin": [
+    "The red-blue-white tricolour was adopted by the Principality of Serbia in 1835, an inverted Russian flag reflecting Slavic ties. It was used by the Kingdom of Serbia and, with a star, by the Socialist Republic of Serbia within Yugoslavia.",
+    "After the breakup of Yugoslavia, Serbia used the plain tricolour, and the state flag with the coat of arms was adopted in 2004; the 2006 Constitution confirmed it after Montenegro's independence."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C6363C", "family": "red", "meaning": "Commonly read as the blood shed for freedom.", "basis": "popular" },
+    { "name": "Blue", "hex": "#0C4076", "family": "blue", "meaning": "Commonly read as the sky.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly read as purity or light.", "basis": "popular" }
+  ],
+  "symbols": [
+    { "name": "Double-headed eagle", "description": "A crowned white eagle with two heads.", "meaning": "The Nemanjić dynasty of medieval Serbia, ultimately derived from Byzantine symbolism.", "basis": "traditional" },
+    { "name": "Serbian cross", "description": "A cross with four firesteels (often read as Cyrillic 'С').", "meaning": "Serbian identity and Orthodoxy; popularly read as 'Само слога Србина спасава' (Only unity saves the Serbs).", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1835, "to": 1882, "label": "Principality of Serbia" },
+    { "from": 1882, "to": 1918, "label": "Kingdom of Serbia" },
+    { "from": 1947, "to": 1992, "label": "Socialist Republic of Serbia", "note": "With a red star." },
+    { "from": 2004, "to": null, "label": "Current state flag" }
+  ],
+  "facts": [
+    "The plain tricolour without the arms is the national flag; the version with arms is the state flag, also widely used.",
+    "Its colour order is the Russian flag upside down.",
+    "Montenegro, Albania and Russia also use double-headed eagles."
+  ],
+  "clues": [
+    "Red, blue and white bands with a crowned double-headed white eagle.",
+    "Its shield shows a cross with four firesteels.",
+    "Its colours are those of a Slavic power's flag turned upside down."
+  ],
+  "lookalikes": ["russia", "slovakia", "slovenia", "croatia"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "eagle", "bird", "crown", "shield", "cross", "religious-symbol", "pan-slavic"],
+  "sources": [
+    { "title": "Flag of Serbia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Serbia" },
+    { "title": "Serbia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/rs.html" }
+  ]
+}

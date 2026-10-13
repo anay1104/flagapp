@@ -1,0 +1,47 @@
+{
+  "id": "hungary",
+  "wikidata": "Q28",
+  "name": "Hungary",
+  "flagName": "Flag of Hungary",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1957,
+  "to": null,
+  "adopted": "1957-05-23",
+  "ratio": "1:2",
+  "summary": "Red, white and green horizontal bands. The colours come from the Hungarian coat of arms and were first combined as a tricolour during the Revolution of 1848, inspired by the French flag.",
+  "origin": [
+    "Red and white appear in the Árpád stripes, the arms of the first Hungarian royal dynasty, and green in the triple mount of the coat of arms. Red, white and green ribbons were used on royal seals from the 15th century.",
+    "The tricolour became the national flag in the Revolution of 1848–1849, and Hungary used it with various coats of arms under the Austro-Hungarian monarchy and the regency. The communist People's Republic added a Soviet-style emblem in 1949.",
+    "During the 1956 revolution, protesters cut the communist emblem out of flags, leaving a hole, which became a symbol of the uprising. The plain tricolour was confirmed in 1957 and is defined in Article I of the Fundamental Law."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE2939", "family": "red", "meaning": "Strength; from the Árpád stripes. Often linked to blood shed for the homeland.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Faithfulness; from the Árpád stripes and the double cross.", "basis": "traditional" },
+    { "name": "Green", "hex": "#477050", "family": "green", "meaning": "Hope; from the triple mount of the coat of arms.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1848, "to": 1849, "label": "Revolution of 1848" },
+    { "from": 1867, "to": 1946, "label": "Kingdom of Hungary", "note": "Tricolour, often with the crowned arms." },
+    { "from": 1949, "to": 1956, "label": "People's Republic", "note": "Communist emblem in the centre." },
+    { "from": 1957, "to": null, "label": "Plain tricolour" }
+  ],
+  "facts": [
+    "The 'flag with a hole' from 1956 remains a symbol of resistance to Soviet rule.",
+    "Italy's colours are the same but vertical; Bulgaria's are white, green and red.",
+    "Hungary celebrates Flag Day on 16 March, the day after the 1848 revolution's anniversary."
+  ],
+  "clues": [
+    "Red, white and green horizontal bands.",
+    "In 1956 protesters cut the emblem out of its centre.",
+    "Its colours come from royal stripes and a triple mount in a coat of arms.",
+    "Turn it vertical and you get a southern European flag."
+  ],
+  "lookalikes": ["italy", "bulgaria", "iran", "tajikistan"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Hungary (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Hungary" },
+    { "title": "Hungary (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/hu.html" }
+  ]
+}

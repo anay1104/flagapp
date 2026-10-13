@@ -3,7 +3,10 @@ import { defineConfig } from 'astro/config';
 
 import preact from '@astrojs/preact';
 
-// https://astro.build/config
+// GitHub Pages serves the site from /flagapp/; the deploy workflow sets these.
+// Locally both are unset and the site runs at the root.
 export default defineConfig({
-  integrations: [preact()]
+  site: process.env.SITE_URL,
+  base: process.env.BASE_PATH ?? '/',
+  integrations: [preact()],
 });

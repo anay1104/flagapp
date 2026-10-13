@@ -1,3 +1,4 @@
+import { url } from '../lib/paths';
 import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
 import { flagHref, loadIndex, type IndexEntry } from '../lib/index-data';
 import { original, thumb } from '../lib/img';
@@ -65,8 +66,8 @@ export default function QuizApp({ tagLabels }: Props) {
     const pool = p.get('pool') as PoolId | null;
     if (pool && POOLS.some((x) => x.id === pool)) setPoolId(pool);
     loadIndex().then(setIndex);
-    fetch('/data/clues.json').then((r) => r.json()).then(setClues, () => {});
-    fetch('/data/aliases.json').then((r) => (r.ok ? r.json() : {})).then(setAliases, () => {});
+    fetch(url('/data/clues.json')).then((r) => r.json()).then(setClues, () => {});
+    fetch(url('/data/aliases.json')).then((r) => (r.ok ? r.json() : {})).then(setAliases, () => {});
   }, []);
 
   const pool = useMemo(() => {

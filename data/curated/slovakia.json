@@ -1,0 +1,47 @@
+{
+  "id": "slovakia",
+  "wikidata": "Q214",
+  "name": "Slovakia",
+  "flagName": "Flag of Slovakia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-09-01",
+  "ratio": "2:3",
+  "summary": "White, blue and red horizontal bands with the coat of arms toward the hoist: a white double cross on red, standing on three blue hills. The tricolour dates from the revolutions of 1848.",
+  "origin": [
+    "Slovak nationalists adopted the white-blue-red Pan-Slavic tricolour in 1848. It was used by the First Slovak Republic (1939–1945), a client state of Nazi Germany.",
+    "After the Velvet Revolution, Slovakia adopted the tricolour with the coat of arms on 1 September 1992, before the dissolution of Czechoslovakia on 1 January 1993. The arms were added partly to distinguish the flag from Russia's."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Pan-Slavic colours.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#0B4EA2", "family": "blue", "meaning": "The Pan-Slavic colours.", "basis": "traditional" },
+    { "name": "Red", "hex": "#EE1C25", "family": "red", "meaning": "The Pan-Slavic colours.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Double cross", "description": "A white double-barred cross on red.", "meaning": "Christianity; traced to the Byzantine mission of Saints Cyril and Methodius to Great Moravia in the 9th century.", "basis": "traditional" },
+    { "name": "Three hills", "description": "Three blue hills beneath the cross.", "meaning": "Commonly identified as the mountain ranges Tatra, Fatra and Mátra.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1848, "to": 1918, "label": "Slovak national colours" },
+    { "from": 1939, "to": 1945, "label": "Slovak Republic", "note": "Plain tricolour." },
+    { "from": 1992, "to": null, "label": "Slovak Republic", "note": "Tricolour with coat of arms." }
+  ],
+  "facts": [
+    "Hungary's arms also feature a double cross on three hills, reflecting shared history.",
+    "The Mátra range is now in Hungary.",
+    "Slovenia's flag is often confused with Slovakia's."
+  ],
+  "clues": [
+    "White, blue and red bands with a shield showing a white double cross on blue hills.",
+    "Its three hills are traditionally named after three mountain ranges.",
+    "Adopted months before its federation split peacefully in 1993."
+  ],
+  "lookalikes": ["slovenia", "russia", "serbia"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "shield", "cross", "mountain", "religious-symbol", "pan-slavic"],
+  "sources": [
+    { "title": "Flag of Slovakia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Slovakia" },
+    { "title": "Slovakia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sk.html" }
+  ]
+}

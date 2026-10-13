@@ -1,4 +1,5 @@
 ---
+import { url } from '../lib/paths';
 import Base from '../layouts/Base.astro';
 import { flags } from '../lib/data';
 import { CATEGORY_PLURALS, years } from '../lib/format';
@@ -24,8 +25,8 @@ const categories = (Object.keys(CATEGORY_PLURALS) as Category[]).filter((c) => c
         cities, with their colours, symbols and history. Then learn them.
       </p>
       <div class="cta">
-        <a class="btn primary" href="/quiz/">Start a quiz</a>
-        <a class="btn" href="/flags/">Browse all flags</a>
+        <a class="btn primary" href={url("/quiz/")}>Start a quiz</a>
+        <a class="btn" href={url("/flags/")}>Browse all flags</a>
       </div>
       <dl class="stats">
         <div><dt>Flags</dt><dd>{total.toLocaleString()}</dd></div>
@@ -41,7 +42,7 @@ const categories = (Object.keys(CATEGORY_PLURALS) as Category[]).filter((c) => c
     <div class="flag-grid">
       {
         featured.map((f) => (
-          <a class="flag-tile card" href={`/flag/${f.id}/`}>
+          <a class="flag-tile card" href={url(`/flag/${f.id}/`)}>
             <div class="frame">
               <img class="flag-img" src={thumb(f.img, 250)} data-original={original(f.img)} alt="" loading="lazy" />
             </div>
@@ -56,7 +57,7 @@ const categories = (Object.keys(CATEGORY_PLURALS) as Category[]).filter((c) => c
     <div class="cat-grid">
       {
         categories.map((c) => (
-          <a class="cat card" href={`/flags/?cat=${c}`}>
+          <a class="cat card" href={url(`/flags/?cat=${c}`)}>
             <strong>{CATEGORY_PLURALS[c]}</strong>
             <span class="muted">{counts.get(c)!.toLocaleString()}</span>
           </a>
@@ -66,11 +67,11 @@ const categories = (Object.keys(CATEGORY_PLURALS) as Category[]).filter((c) => c
 
     <h2>Ways to practise</h2>
     <div class="cat-grid">
-      <a class="cat card" href="/quiz/?mode=name"><strong>Name the flag</strong><span class="muted">Four options</span></a>
-      <a class="cat card" href="/quiz/?mode=type"><strong>Type the name</strong><span class="muted">No options</span></a>
-      <a class="cat card" href="/quiz/?mode=pick"><strong>Pick the flag</strong><span class="muted">Spot it among look-alikes</span></a>
-      <a class="cat card" href="/quiz/?mode=clue"><strong>Clue mode</strong><span class="muted">From a description</span></a>
-      <a class="cat card" href="/quiz/?mode=list&tag=crescent"><strong>List challenge</strong><span class="muted">Every flag with a crescent…</span></a>
+      <a class="cat card" href={url("/quiz/?mode=name")}><strong>Name the flag</strong><span class="muted">Four options</span></a>
+      <a class="cat card" href={url("/quiz/?mode=type")}><strong>Type the name</strong><span class="muted">No options</span></a>
+      <a class="cat card" href={url("/quiz/?mode=pick")}><strong>Pick the flag</strong><span class="muted">Spot it among look-alikes</span></a>
+      <a class="cat card" href={url("/quiz/?mode=clue")}><strong>Clue mode</strong><span class="muted">From a description</span></a>
+      <a class="cat card" href={url("/quiz/?mode=list&tag=crescent")}><strong>List challenge</strong><span class="muted">Every flag with a crescent…</span></a>
     </div>
   </div>
 </Base>
