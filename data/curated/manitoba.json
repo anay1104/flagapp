@@ -1,0 +1,46 @@
+{
+  "id": "manitoba",
+  "wikidata": "Q1948",
+  "image": "Flag of the Province of Manitoba.svg",
+  "name": "Manitoba",
+  "flagName": "Flag of Manitoba",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1966,
+  "to": null,
+  "adopted": "1966-05-12",
+  "ratio": "1:2",
+  "country": "Canada",
+  "summary": "A British red ensign with the Manitoba shield in the fly: a bison standing on a rock under the cross of St George.",
+  "origin": [
+    "Following Ontario's example, Manitoba adopted a red ensign with its shield on 12 May 1966, the anniversary of the Manitoba Act of 1870, to retain a link with the Canadian Red Ensign."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The British red ensign.", "basis": "traditional" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The shield's field.", "basis": "official" },
+    { "name": "Brown", "hex": "#7B4A12", "family": "brown", "meaning": "The bison.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Bison", "description": "An American bison standing on a rock.", "meaning": "The plains and the bison hunts central to Indigenous and Métis life.", "basis": "official" },
+    { "name": "St George's Cross", "description": "In the shield's chief.", "meaning": "British heritage.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1966, "to": null, "label": "Province of Manitoba" }
+  ],
+  "facts": [
+    "Its flag is nearly identical in layout to Ontario's.",
+    "The bison is Manitoba's provincial animal.",
+    "Proposals to change the flag to better represent Indigenous peoples have been made in recent years."
+  ],
+  "clues": [
+    "A red ensign with a shield showing a bison on a rock.",
+    "Adopted in 1966, a year after a similar neighbouring flag.",
+    "Its animal is a symbol of the prairies."
+  ],
+  "lookalikes": ["ontario"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "animal", "cross"],
+  "sources": [
+    { "title": "Flag of Manitoba (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Manitoba" },
+    { "title": "Manitoba (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-mb.html" }
+  ]
+}

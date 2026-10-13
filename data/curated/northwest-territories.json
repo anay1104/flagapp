@@ -1,0 +1,45 @@
+{
+  "id": "northwest-territories",
+  "wikidata": "Q2007",
+  "image": "Flag of the Northwest Territories.svg",
+  "name": "Northwest Territories",
+  "flagName": "Flag of the Northwest Territories",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1969,
+  "to": null,
+  "adopted": "1969-01-01",
+  "ratio": "1:2",
+  "designer": "Robert Bessant",
+  "country": "Canada",
+  "summary": "Blue, white and blue vertical bands, the white as wide as the flag is tall, with the territorial shield in the centre.",
+  "origin": [
+    "Robert Bessant won a national competition, and the flag was adopted on 1 January 1969, after the territorial capital moved to Yellowknife."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0062A4", "family": "blue", "meaning": "The lakes and waters.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The ice and snow.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Shield", "description": "A white chief with a wavy blue line, and below, green and red divided diagonally by a wavy line, with gold billets and a fox's head.", "meaning": "The polar ice cap and the Northwest Passage; the tree line between forest (green) and tundra (red); minerals (gold billets) and the fur trade (white fox).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1969, "to": null, "label": "Northwest Territories" }
+  ],
+  "facts": [
+    "The central white pale uses the same proportions as Canada's national flag.",
+    "Nunavut was split off from the Northwest Territories in 1999.",
+    "The wavy line on the shield represents the Northwest Passage."
+  ],
+  "clues": [
+    "Blue and white vertical bands with a shield showing a fox's head and a wavy line.",
+    "Its shield marks the tree line between forest and tundra.",
+    "A new territory was carved from it in 1999."
+  ],
+  "lookalikes": ["yukon", "canada"],
+  "tags": ["vertical-tricolour", "coat-of-arms", "shield", "animal", "water"],
+  "sources": [
+    { "title": "Flag of the Northwest Territories (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories" },
+    { "title": "Northwest Territories (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-nt.html" }
+  ]
+}

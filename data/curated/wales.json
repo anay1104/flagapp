@@ -1,0 +1,48 @@
+{
+  "id": "wales",
+  "wikidata": "Q25",
+  "image": "Flag of Wales.svg",
+  "name": "Wales",
+  "flagName": "Flag of Wales",
+  "nickname": "Y Ddraig Goch (The Red Dragon)",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1959,
+  "to": null,
+  "adopted": "1959-02-23",
+  "ratio": "3:5",
+  "country": "United Kingdom",
+  "summary": "A red dragon passant on a field of white over green. The dragon has been a Welsh symbol since at least the early Middle Ages; the white and green were the colours of the House of Tudor.",
+  "origin": [
+    "The red dragon appears in the 9th-century 'Historia Brittonum', in the legend of a red dragon (the Britons) defeating a white dragon (the Saxons). Henry Tudor, of Welsh descent, carried a red dragon on green and white at the Battle of Bosworth in 1485.",
+    "The flag was officially recognised as the flag of Wales by Queen Elizabeth II in 1959. Wales is not represented on the Union Flag because it was annexed to England before the union with Scotland."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The dragon.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the livery of the House of Tudor.", "basis": "traditional" },
+    { "name": "Green", "hex": "#00B140", "family": "green", "meaning": "From the livery of the House of Tudor; also the Welsh landscape.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Red dragon", "description": "A red dragon walking with one foreleg raised.", "meaning": "Wales and the Welsh people, from early British legend.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1485, "to": 1959, "label": "Tudor dragon banners and unofficial use" },
+    { "from": 1959, "to": null, "label": "Officially recognised" }
+  ],
+  "facts": [
+    "Wales is not represented on the Union Flag.",
+    "Bhutan's national flag is the only sovereign state's flag that also features a dragon.",
+    "The flag was officially recognised in 1959."
+  ],
+  "clues": [
+    "A red dragon on white over green.",
+    "Its country is not represented on its union's flag.",
+    "Its colours come from a royal house that won the Battle of Bosworth."
+  ],
+  "lookalikes": ["bhutan"],
+  "tags": ["horizontal-bicolour", "dragon", "animal"],
+  "sources": [
+    { "title": "Flag of Wales (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Wales" },
+    { "title": "Wales (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gb-wales.html" }
+  ]
+}

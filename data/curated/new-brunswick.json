@@ -1,0 +1,46 @@
+{
+  "id": "new-brunswick",
+  "wikidata": "Q1965",
+  "image": "Flag of New Brunswick.svg",
+  "name": "New Brunswick",
+  "flagName": "Flag of New Brunswick",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1965,
+  "to": null,
+  "adopted": "1965-02-24",
+  "ratio": "5:8",
+  "country": "Canada",
+  "summary": "A gold lion on red in the upper third, above an ancient galley with oars on blue and white waves on gold. It is a banner of the arms granted in 1868.",
+  "origin": [
+    "The arms were granted by Queen Victoria in 1868. The flag, a banner of the arms, was adopted on 24 February 1965."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The upper band.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The lion and lower field.", "basis": "official" },
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "The waves.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Gold lion", "description": "A lion passant guardant on red.", "meaning": "New Brunswick's ties to Brunswick (Germany) and to King George III, Duke of Brunswick-Lüneburg.", "basis": "official" },
+    { "name": "Ancient galley", "description": "A ship with oars on waves.", "meaning": "Shipbuilding and seafaring, important to the province's economy.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1965, "to": null, "label": "Province of New Brunswick" }
+  ],
+  "facts": [
+    "The province is named after the House of Brunswick, the British royal family of the time.",
+    "It is Canada's only officially bilingual province.",
+    "The galley recalls the province's 19th-century shipbuilding industry."
+  ],
+  "clues": [
+    "A gold lion on red above an oared ship on waves.",
+    "Its ship honours shipbuilding.",
+    "Canada's only officially bilingual province."
+  ],
+  "lookalikes": ["prince-edward-island"],
+  "tags": ["coat-of-arms", "animal", "water", "monarchy"],
+  "sources": [
+    { "title": "Flag of New Brunswick (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick" },
+    { "title": "New Brunswick (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-nb.html" }
+  ]
+}

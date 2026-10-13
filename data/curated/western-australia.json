@@ -1,0 +1,45 @@
+{
+  "id": "western-australia",
+  "wikidata": "Q3206",
+  "image": "Flag of Western Australia.svg",
+  "name": "Western Australia",
+  "flagName": "Flag of Western Australia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1953,
+  "to": null,
+  "adopted": "1870-11-03",
+  "ratio": "1:2",
+  "country": "Australia",
+  "summary": "A British blue ensign with a yellow disc in the fly bearing a black swan. The swan was turned to face the hoist in 1953.",
+  "origin": [
+    "The black swan has represented Western Australia since the Swan River Colony was founded in 1829. The flag dates from 1870; in 1953 the swan was redrawn facing the hoist, as heraldic animals traditionally do."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The British blue ensign.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFC72C", "family": "yellow", "meaning": "The disc.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The swan.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Black swan", "description": "A black swan swimming toward the hoist.", "meaning": "The state's emblem and its first colony on the Swan River.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1870, "to": 1953, "label": "Swan facing the fly" },
+    { "from": 1953, "to": null, "label": "Swan facing the hoist" }
+  ],
+  "facts": [
+    "Black swans are native to Australia; Europeans long assumed all swans were white.",
+    "Perth lies on the Swan River.",
+    "Western Australia is the largest Australian state."
+  ],
+  "clues": [
+    "A blue ensign with a black swan on a yellow disc.",
+    "Its swan was turned around in 1953.",
+    "Its capital lies on a river named after the bird."
+  ],
+  "lookalikes": ["south-australia", "tasmania"],
+  "tags": ["canton", "union-jack", "disc", "bird", "former-colony"],
+  "sources": [
+    { "title": "Flag of Western Australia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Western_Australia" }
+  ]
+}

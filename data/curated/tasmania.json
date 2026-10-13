@@ -1,0 +1,44 @@
+{
+  "id": "tasmania",
+  "wikidata": "Q34366",
+  "image": "Flag of Tasmania.svg",
+  "name": "Tasmania",
+  "flagName": "Flag of Tasmania",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1876,
+  "to": null,
+  "adopted": "1876-09-25",
+  "ratio": "1:2",
+  "country": "Australia",
+  "summary": "A British blue ensign with a white disc in the fly bearing a red lion passant.",
+  "origin": [
+    "Tasmania, originally Van Diemen's Land, adopted the red lion badge in 1876. The flag was formally proclaimed in 1975."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The British blue ensign.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The disc.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The lion.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Red lion", "description": "A red lion passant on white.", "meaning": "Britain and the Crown.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1876, "to": null, "label": "Colony and State of Tasmania" }
+  ],
+  "facts": [
+    "Tasmania was called Van Diemen's Land until 1856.",
+    "Hobart is its capital.",
+    "It is the only island state of Australia."
+  ],
+  "clues": [
+    "A blue ensign with a red lion on a white disc.",
+    "The flag of Australia's island state.",
+    "Its state was once called Van Diemen's Land."
+  ],
+  "lookalikes": ["western-australia", "south-australia"],
+  "tags": ["canton", "union-jack", "disc", "animal", "former-colony"],
+  "sources": [
+    { "title": "Flag of Tasmania (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tasmania" }
+  ]
+}

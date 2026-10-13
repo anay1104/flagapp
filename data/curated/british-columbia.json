@@ -1,0 +1,46 @@
+{
+  "id": "british-columbia",
+  "wikidata": "Q1973",
+  "image": "Flag of British Columbia.svg",
+  "name": "British Columbia",
+  "flagName": "Flag of British Columbia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1960,
+  "to": null,
+  "adopted": "1960-06-27",
+  "ratio": "3:5",
+  "country": "Canada",
+  "summary": "The Union Flag with a crown at its centre across the upper part, above a golden setting sun over blue and white wavy bars. It is a banner of the province's arms, granted in 1906.",
+  "origin": [
+    "The provincial arms were granted by King Edward VII in 1906. The flag, a banner of the shield, was adopted on 27 June 1960."
+  ],
+  "colors": [
+    { "name": "Blue and white", "hex": "#012169", "family": "blue", "meaning": "The Pacific Ocean.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The setting sun and crown.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The Union Flag.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Union Flag with crown", "description": "The Union Flag in the upper third, with a gold crown in the centre.", "meaning": "British heritage and the province's name.", "basis": "official" },
+    { "name": "Setting sun", "description": "A gold sun setting over the sea.", "meaning": "British Columbia as Canada's westernmost province; the motto 'Splendor sine occasu' (Splendour without diminishment).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1960, "to": null, "label": "Province of British Columbia" }
+  ],
+  "facts": [
+    "Its setting sun reflects its position on the Pacific coast.",
+    "The motto on the arms is a pun on the British Empire, 'on which the sun never sets'.",
+    "It is the only provincial flag with the Union Flag covering its full width."
+  ],
+  "clues": [
+    "A Union Flag with a crown above a golden setting sun over wavy blue and white lines.",
+    "Its sun sets over the westernmost province's ocean.",
+    "Its motto plays on a sun that never sets."
+  ],
+  "lookalikes": ["kiribati"],
+  "tags": ["union-jack", "sun", "crown", "water"],
+  "sources": [
+    { "title": "Flag of British Columbia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_British_Columbia" },
+    { "title": "British Columbia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-bc.html" }
+  ]
+}

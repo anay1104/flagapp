@@ -1,0 +1,46 @@
+{
+  "id": "england",
+  "wikidata": "Q21",
+  "image": "Flag of England.svg",
+  "name": "England",
+  "flagName": "Flag of England",
+  "nickname": "St George's Cross",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1277,
+  "to": null,
+  "ratio": "3:5",
+  "country": "United Kingdom",
+  "summary": "A red cross of Saint George on a white field. Associated with England since the 13th century, it is one of the three crosses combined in the Union Flag.",
+  "origin": [
+    "The red cross on white was worn by crusaders and by the late 13th century was associated with English soldiers; records from 1277 mention its use under Edward I. Saint George became England's patron saint in the 14th century.",
+    "It was the flag of the Kingdom of England until the union with Scotland, when it was combined with the Scottish saltire in 1606. It remains the national flag of England within the UK."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1124", "family": "red", "meaning": "The cross of St George.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Cross of St George", "description": "A centred red cross.", "meaning": "St George, patron saint of England, a Roman soldier martyr venerated as a warrior saint.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1277, "to": 1606, "label": "Kingdom of England" },
+    { "from": 1606, "to": null, "label": "England within the union", "note": "Combined into the Union Flag but still used on its own." }
+  ],
+  "facts": [
+    "It is widely flown at football and rugby matches.",
+    "The City of London and the Church of England also use the cross.",
+    "Georgia's national flag uses a red cross on white with four smaller crosses."
+  ],
+  "clues": [
+    "A red centred cross on white, nothing else.",
+    "Its saint is said to have slain a dragon.",
+    "It forms part of a union flag."
+  ],
+  "lookalikes": ["georgia", "guernsey", "united-kingdom"],
+  "tags": ["cross", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of England (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_England" },
+    { "title": "England (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gb-eng.html" }
+  ]
+}

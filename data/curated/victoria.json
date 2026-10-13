@@ -1,0 +1,46 @@
+{
+  "id": "victoria",
+  "wikidata": "Q36687",
+  "image": "Flag of Victoria (Australia).svg",
+  "name": "Victoria",
+  "flagName": "Flag of Victoria",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1953,
+  "to": null,
+  "adopted": "1870-02-04",
+  "ratio": "1:2",
+  "country": "Australia",
+  "summary": "A British blue ensign with the Southern Cross in white stars, topped by the St Edward's Crown, in the fly.",
+  "origin": [
+    "The colony of Victoria first used the Southern Cross on its blue ensign in 1870. A crown was added in 1877, changed to the Tudor crown in 1901 and to the St Edward's Crown in 1953 after Queen Elizabeth II's accession."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The British blue ensign.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Southern Cross", "description": "Five white stars of differing sizes and points.", "meaning": "Victoria's place in the southern hemisphere.", "basis": "official" },
+    { "name": "St Edward's Crown", "description": "A crown above the constellation.", "meaning": "The monarchy.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1870, "to": 1877, "label": "Southern Cross" },
+    { "from": 1877, "to": 1953, "label": "Imperial crowns added" },
+    { "from": 1953, "to": null, "label": "St Edward's Crown" }
+  ],
+  "facts": [
+    "Victoria was the first Australian colony to use the Southern Cross on its flag.",
+    "Its stars have between five and eight points depending on brightness.",
+    "Melbourne is its capital."
+  ],
+  "clues": [
+    "A blue ensign with the Southern Cross under a crown.",
+    "The first Australian colony to fly the Southern Cross.",
+    "Its crown was changed after a coronation in 1953."
+  ],
+  "lookalikes": ["new-south-wales", "australia"],
+  "tags": ["canton", "union-jack", "star", "southern-cross", "crown", "former-colony", "astronomy"],
+  "sources": [
+    { "title": "Flag of Victoria (Australia) (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Victoria_(state)" }
+  ]
+}

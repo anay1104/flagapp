@@ -1,0 +1,47 @@
+{
+  "id": "nunavut",
+  "wikidata": "Q2023",
+  "image": "Flag of Nunavut.svg",
+  "name": "Nunavut",
+  "flagName": "Flag of Nunavut",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1999,
+  "to": null,
+  "adopted": "1999-04-01",
+  "ratio": "9:16",
+  "country": "Canada",
+  "summary": "Gold and white vertical halves with a red inuksuk, a stone landmark, across the centre, and a blue star in the upper fly. It was introduced when Nunavut was created as a territory for the Inuit in 1999.",
+  "origin": [
+    "Nunavut was separated from the Northwest Territories on 1 April 1999. Its flag and arms were designed through consultation with elders and communities and granted by the Governor General."
+  ],
+  "colors": [
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The riches of the land, sea and sky.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The riches of the land, sea and sky.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "Canada.", "basis": "official" },
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Inuksuk", "description": "A red stone figure.", "meaning": "The stone monuments that guide people on the land and mark sacred places.", "basis": "official" },
+    { "name": "North Star (Niqirtsuituq)", "description": "A blue star in the upper fly.", "meaning": "The traditional guide for navigation, and the leadership of elders.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1999, "to": null, "label": "Nunavut" }
+  ],
+  "facts": [
+    "Nunavut means 'our land' in Inuktitut.",
+    "It is Canada's largest and least populated territory.",
+    "An inuksuk was also the logo of the 2010 Vancouver Winter Olympics."
+  ],
+  "clues": [
+    "Gold and white halves with a red stone figure and a blue star.",
+    "Its stone figure is a traditional landmark of the Inuit.",
+    "The flag of a territory created in 1999."
+  ],
+  "lookalikes": [],
+  "tags": ["vertical-bicolour", "star", "building"],
+  "sources": [
+    { "title": "Flag of Nunavut (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nunavut" },
+    { "title": "Nunavut (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-nu.html" }
+  ]
+}

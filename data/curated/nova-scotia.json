@@ -1,0 +1,47 @@
+{
+  "id": "nova-scotia",
+  "wikidata": "Q1952",
+  "image": "Flag of Nova Scotia.svg",
+  "name": "Nova Scotia",
+  "flagName": "Flag of Nova Scotia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1929,
+  "to": null,
+  "adopted": "1929-01-19",
+  "ratio": "3:4",
+  "country": "Canada",
+  "summary": "A blue saltire on white with the royal arms of Scotland, a red lion rampant on gold, in the centre. It is a banner of arms granted in 1625, the oldest provincial arms in Canada.",
+  "origin": [
+    "King Charles I granted arms to the colony of Nova Scotia ('New Scotland') in 1625, reversing the colours of the Scottish saltire and adding the royal arms of Scotland. The arms fell out of use after Confederation but were restored in 1929, and the flag has been used since."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field; the reversed Scottish saltire.", "basis": "official" },
+    { "name": "Blue", "hex": "#005EB8", "family": "blue", "meaning": "The saltire.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The shield.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The lion.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Saltire of St Andrew", "description": "A blue diagonal cross on white.", "meaning": "Scotland, in reversed colours, for 'New Scotland'.", "basis": "official" },
+    { "name": "Lion rampant", "description": "A red lion on a gold shield with a double red border.", "meaning": "The royal arms of Scotland.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1929, "to": null, "label": "Province of Nova Scotia" }
+  ],
+  "facts": [
+    "Its arms, granted in 1625, are the oldest provincial arms in the Commonwealth outside the UK.",
+    "Nova Scotia means 'New Scotland' in Latin.",
+    "It is the reverse of Scotland's flag with the royal lion added."
+  ],
+  "clues": [
+    "A blue saltire on white with a red lion on a gold shield.",
+    "Like Scotland's flag with colours reversed.",
+    "Its name means 'New Scotland'."
+  ],
+  "lookalikes": ["scotland", "jamaica"],
+  "tags": ["saltire", "coat-of-arms", "shield", "animal", "monarchy"],
+  "sources": [
+    { "title": "Flag of Nova Scotia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia" },
+    { "title": "Nova Scotia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-ns.html" }
+  ]
+}

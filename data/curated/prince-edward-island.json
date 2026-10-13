@@ -1,0 +1,47 @@
+{
+  "id": "prince-edward-island",
+  "wikidata": "Q1978",
+  "image": "Flag of Prince Edward Island.svg",
+  "name": "Prince Edward Island",
+  "flagName": "Flag of Prince Edward Island",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1964,
+  "to": null,
+  "adopted": "1964-03-24",
+  "ratio": "2:3",
+  "country": "Canada",
+  "summary": "A gold lion on red in the upper part, above a large oak tree and three oak saplings on a green island, with a border of alternating red and white rectangles on three sides.",
+  "origin": [
+    "The arms were granted in 1905. The flag, a banner of the arms with an added border, was adopted on 24 March 1964, the centenary of the Charlottetown Conference that led to Confederation."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The upper band and border.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The lion.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The trees and island.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field and border.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Lion", "description": "A gold lion passant guardant on red.", "meaning": "England, and Prince Edward, Duke of Kent, after whom the island is named.", "basis": "official" },
+    { "name": "Oak and three saplings", "description": "A large oak and three small oaks on an island.", "meaning": "The large oak is England; the saplings are the island's three counties, sheltering under it. The motto is 'Parva sub ingenti' (The small under the protection of the great).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1964, "to": null, "label": "Province of Prince Edward Island" }
+  ],
+  "facts": [
+    "The 1864 Charlottetown Conference was the first step to Canadian Confederation.",
+    "PEI is Canada's smallest province.",
+    "Its border of alternating colours is unusual among Canadian flags."
+  ],
+  "clues": [
+    "A gold lion above a large oak and three saplings, with a red and white border.",
+    "Its three saplings are three counties.",
+    "Adopted for the centenary of a conference that led to a country's founding."
+  ],
+  "lookalikes": ["new-brunswick"],
+  "tags": ["border", "coat-of-arms", "animal", "plant", "monarchy"],
+  "sources": [
+    { "title": "Flag of Prince Edward Island (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Prince_Edward_Island" },
+    { "title": "Prince Edward Island (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-pe.html" }
+  ]
+}

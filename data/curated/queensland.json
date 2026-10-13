@@ -1,0 +1,45 @@
+{
+  "id": "queensland",
+  "wikidata": "Q36074",
+  "image": "Flag of Queensland.svg",
+  "name": "Queensland",
+  "flagName": "Flag of Queensland",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1876,
+  "to": null,
+  "adopted": "1876-11-29",
+  "ratio": "1:2",
+  "country": "Australia",
+  "summary": "A British blue ensign with a light blue disc in the fly bearing a blue Maltese cross topped by a crown.",
+  "origin": [
+    "The colony of Queensland adopted its badge in 1876. The crown was changed to the St Edward's Crown in 1953."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The British blue ensign.", "basis": "official" },
+    { "name": "Light blue", "hex": "#6CACE4", "family": "light-blue", "meaning": "The disc.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Maltese cross", "description": "A light blue Maltese cross on the disc.", "meaning": "Commonly linked to the Victoria Cross, the highest military award.", "basis": "traditional" },
+    { "name": "Crown", "description": "St Edward's Crown on the cross.", "meaning": "The monarchy; Queensland is named after Queen Victoria.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1876, "to": 1953, "label": "Colonial crown" },
+    { "from": 1953, "to": null, "label": "St Edward's Crown" }
+  ],
+  "facts": [
+    "Queensland is named after Queen Victoria.",
+    "Brisbane is its capital.",
+    "Its Maltese cross is often compared to the Victoria Cross medal."
+  ],
+  "clues": [
+    "A blue ensign with a light blue disc holding a Maltese cross and crown.",
+    "Its state is named after a queen.",
+    "Its cross is linked to a military medal."
+  ],
+  "lookalikes": ["new-south-wales", "victoria"],
+  "tags": ["canton", "union-jack", "disc", "cross", "crown", "former-colony"],
+  "sources": [
+    { "title": "Flag of Queensland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Queensland" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "scotland",
+  "wikidata": "Q22",
+  "image": "Flag of Scotland.svg",
+  "name": "Scotland",
+  "flagName": "Flag of Scotland",
+  "nickname": "The Saltire, St Andrew's Cross",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1542,
+  "to": null,
+  "ratio": "3:5",
+  "country": "United Kingdom",
+  "summary": "A white saltire, the cross of Saint Andrew, on a blue field. Legend dates it to a battle in the 9th century, which would make it one of the oldest national flags in use.",
+  "origin": [
+    "According to legend, in 832 King Óengus II of the Picts saw a white saltire against the blue sky before a battle against the Angles at Athelstaneford, and adopted the cross after his victory.",
+    "The saltire was used as a Scottish emblem from at least the 14th century, and a white saltire on blue is recorded on Scottish flags from the 16th century. In 1606 it was combined with St George's Cross to form the first Union Flag."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0065BD", "family": "blue", "meaning": "The sky of the legend; the Scottish Parliament recommends Pantone 300.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The cross of clouds in the legend.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Saltire", "description": "A white diagonal cross.", "meaning": "St Andrew, patron saint of Scotland, who by tradition was crucified on an X-shaped cross.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1542, "to": 1606, "label": "Kingdom of Scotland" },
+    { "from": 1606, "to": null, "label": "Scotland within the union" }
+  ],
+  "facts": [
+    "St Andrew's Day, 30 November, is Scotland's national day.",
+    "The Royal Banner (the Lion Rampant) is the monarch's banner in Scotland, not the national flag.",
+    "Nova Scotia's flag is the saltire with colours reversed."
+  ],
+  "clues": [
+    "A white diagonal cross on blue.",
+    "A legend says it appeared in the sky before a 9th-century battle.",
+    "Its saint was crucified on an X-shaped cross."
+  ],
+  "lookalikes": ["nova-scotia", "jamaica", "jersey"],
+  "tags": ["saltire", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Scotland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Scotland" },
+    { "title": "Scotland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gb-scotl.html" }
+  ]
+}

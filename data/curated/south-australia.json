@@ -1,0 +1,44 @@
+{
+  "id": "south-australia",
+  "wikidata": "Q35715",
+  "image": "Flag of South Australia.svg",
+  "name": "South Australia",
+  "flagName": "Flag of South Australia",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1904,
+  "to": null,
+  "adopted": "1904-01-13",
+  "ratio": "1:2",
+  "country": "Australia",
+  "summary": "A British blue ensign with a yellow disc in the fly showing a piping shrike (Australian magpie) with wings outstretched on a branch.",
+  "origin": [
+    "South Australia's earlier badge (1876–1904) showed Britannia with a seated Aboriginal man. The piping shrike badge was adopted in 1904."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The British blue ensign.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The rising sun behind the bird.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Piping shrike", "description": "A black and white white-backed magpie on a gum tree branch.", "meaning": "The state's bird emblem.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1876, "to": 1904, "label": "Britannia badge" },
+    { "from": 1904, "to": null, "label": "Piping shrike badge" }
+  ],
+  "facts": [
+    "The 'piping shrike' is an old name for the white-backed Australian magpie.",
+    "Adelaide is its capital.",
+    "The yellow disc represents the rising sun."
+  ],
+  "clues": [
+    "A blue ensign with a black and white bird on a branch inside a yellow disc.",
+    "Its bird is known by an old name, the piping shrike.",
+    "Its disc is the rising sun."
+  ],
+  "lookalikes": ["western-australia", "tasmania"],
+  "tags": ["canton", "union-jack", "disc", "bird", "plant", "sun", "former-colony"],
+  "sources": [
+    { "title": "Flag of South Australia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Australia" }
+  ]
+}

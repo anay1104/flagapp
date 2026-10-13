@@ -1,0 +1,47 @@
+{
+  "id": "yukon",
+  "wikidata": "Q2009",
+  "image": "Flag of Yukon.svg",
+  "name": "Yukon",
+  "flagName": "Flag of Yukon",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1968,
+  "to": null,
+  "adopted": "1968-03-01",
+  "ratio": "1:2",
+  "designer": "Lynn Lambert",
+  "country": "Canada",
+  "summary": "Green, white and blue vertical bands with the territory's coat of arms in the white centre, over a wreath of fireweed, the territorial flower.",
+  "origin": [
+    "The flag was chosen in a 1967 competition for Canada's centennial and designed by Lynn Lambert, a librarian. It was adopted on 1 March 1968."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The forests.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The snow.", "basis": "official" },
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "The lakes and rivers.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Coat of arms", "description": "A shield with St George's Cross, a roundel of vair (fur), wavy lines and mountains, with a malamute dog on top.", "meaning": "British heritage, the fur trade, the Yukon River and mineral-rich mountains.", "basis": "official" },
+    { "name": "Fireweed", "description": "A wreath of purple fireweed flowers.", "meaning": "The territorial flower.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1968, "to": null, "label": "Yukon" }
+  ],
+  "facts": [
+    "The malamute represents the dog-sled heritage of the Klondike.",
+    "The Klondike Gold Rush of 1896–1899 brought tens of thousands to the territory.",
+    "Its centre band is wider than the outer bands."
+  ],
+  "clues": [
+    "Green, white and blue vertical bands with a coat of arms above purple flowers.",
+    "Its arms are topped by a sled dog.",
+    "Its territory saw a famous gold rush."
+  ],
+  "lookalikes": ["northwest-territories"],
+  "tags": ["vertical-tricolour", "coat-of-arms", "shield", "animal", "plant", "mountain", "cross", "purple"],
+  "sources": [
+    { "title": "Flag of Yukon (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Yukon" },
+    { "title": "Yukon (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-yt.html" }
+  ]
+}

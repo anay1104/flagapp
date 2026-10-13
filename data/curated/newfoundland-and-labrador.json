@@ -1,0 +1,50 @@
+{
+  "id": "newfoundland-and-labrador",
+  "wikidata": "Q2003",
+  "image": "Flag of Newfoundland and Labrador.svg",
+  "name": "Newfoundland and Labrador",
+  "flagName": "Flag of Newfoundland and Labrador",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1980,
+  "to": null,
+  "adopted": "1980-05-28",
+  "ratio": "1:2",
+  "designer": "Christopher Pratt",
+  "country": "Canada",
+  "summary": "A white field with blue triangles at the hoist recalling the Union Flag, and at the fly a gold arrow and red trident-like shapes. Designed by the artist Christopher Pratt, it was adopted in 1980.",
+  "origin": [
+    "Newfoundland used the Union Flag as its provincial flag until 1980. The painter Christopher Pratt designed a new flag, adopted on 28 May 1980 and first flown on 24 June, Discovery Day."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Snow and ice.", "basis": "official" },
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "The sea, and the province's Commonwealth heritage.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "Human effort.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "Confidence in the future.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Blue triangles", "description": "Triangles at the hoist resembling part of the Union Flag.", "meaning": "The province's British heritage.", "basis": "official" },
+    { "name": "Two red triangles", "description": "Red triangles in the fly.", "meaning": "The mainland (Labrador) and island (Newfoundland) parts of the province.", "basis": "official" },
+    { "name": "Gold arrow", "description": "An arrow pointing toward the hoist.", "meaning": "Hope for a brighter future; together with the triangles it suggests a trident, for the fishing industry.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1949, "to": 1980, "label": "Union Flag" },
+    { "from": 1980, "to": null, "label": "Pratt flag" }
+  ],
+  "facts": [
+    "Newfoundland was a separate Dominion until it joined Canada in 1949.",
+    "The 'Pink, White and Green' tricolour is a popular unofficial Newfoundland flag.",
+    "Christopher Pratt was a well-known Canadian painter."
+  ],
+  "clues": [
+    "White with blue triangles at the hoist and a gold arrow with red triangles in the fly.",
+    "Designed by a painter in 1980 to replace the Union Flag.",
+    "Its fly shapes together suggest a trident."
+  ],
+  "lookalikes": [],
+  "tags": ["hoist-triangle"],
+  "sources": [
+    { "title": "Flag of Newfoundland and Labrador (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador" },
+    { "title": "Newfoundland and Labrador (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-nl.html" }
+  ]
+}

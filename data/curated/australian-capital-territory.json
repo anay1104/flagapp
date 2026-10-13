@@ -1,0 +1,47 @@
+{
+  "id": "australian-capital-territory",
+  "wikidata": "Q3258",
+  "image": "Flag of the Australian Capital Territory.svg",
+  "name": "Australian Capital Territory",
+  "flagName": "Flag of the Australian Capital Territory",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1993,
+  "to": null,
+  "adopted": "1993-03-25",
+  "ratio": "1:2",
+  "designer": "Ivo Ostyn",
+  "aliases": ["ACT", "Canberra"],
+  "country": "Australia",
+  "summary": "A blue band at the hoist with the Southern Cross in white, beside a white field bearing a modified version of the City of Canberra's coat of arms, with a black swan and a white swan.",
+  "origin": [
+    "The ACT gained self-government in 1989. A flag designed by Ivo Ostyn, chosen after public consultation, was adopted on 25 March 1993."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "The Southern Cross band.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The crown and details of the arms.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The field and stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Black and white swans", "description": "Supporting the shield.", "meaning": "Aboriginal and non-Aboriginal Australians.", "basis": "official" },
+    { "name": "Shield", "description": "A castle, a sword of justice, a mace and a crown.", "meaning": "The capital, justice and parliamentary government.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1993, "to": null, "label": "Australian Capital Territory" }
+  ],
+  "facts": [
+    "Its two swans stand for Aboriginal and non-Aboriginal Australians.",
+    "The ACT contains Canberra, the national capital.",
+    "The motto 'For the Queen, the Law and the People' appears on the arms."
+  ],
+  "clues": [
+    "A blue band with the Southern Cross beside white with a shield held by a black swan and a white swan.",
+    "Its swans stand for two groups of Australians.",
+    "The flag of the territory containing the national capital."
+  ],
+  "lookalikes": ["northern-territory"],
+  "tags": ["vertical-bicolour", "star", "southern-cross", "coat-of-arms", "shield", "bird", "building", "crown", "weapon"],
+  "sources": [
+    { "title": "Flag of the Australian Capital Territory (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Australian_Capital_Territory" }
+  ]
+}

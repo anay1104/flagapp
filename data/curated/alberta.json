@@ -1,0 +1,46 @@
+{
+  "id": "alberta",
+  "wikidata": "Q1951",
+  "image": "Flag of Alberta.svg",
+  "name": "Alberta",
+  "flagName": "Flag of Alberta",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1968,
+  "to": null,
+  "adopted": "1968-06-01",
+  "ratio": "1:2",
+  "country": "Canada",
+  "summary": "The provincial shield on ultramarine blue: St George's Cross above a landscape of snow-capped mountains, green foothills, prairie and a wheat field.",
+  "origin": [
+    "The shield was granted in 1907, two years after Alberta became a province. The flag was adopted on 1 June 1968."
+  ],
+  "colors": [
+    { "name": "Ultramarine", "hex": "#003DA5", "family": "blue", "meaning": "The field.", "basis": "official" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The foothills.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The wheat.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Landscape", "description": "Rocky Mountains, foothills, prairie and wheat, from top to bottom.", "meaning": "Alberta's geography from west to east.", "basis": "official" },
+    { "name": "St George's Cross", "description": "In the shield's chief.", "meaning": "British heritage.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1968, "to": null, "label": "Province of Alberta" }
+  ],
+  "facts": [
+    "The shield shows Alberta's landscape from mountains to prairie.",
+    "The flag's blue matches the blue of the provincial arms.",
+    "Alberta became a province in 1905."
+  ],
+  "clues": [
+    "A shield with mountains, foothills, prairie and wheat under St George's Cross, on blue.",
+    "Its shield shows a landscape from west to east.",
+    "A Canadian prairie province."
+  ],
+  "lookalikes": ["saskatchewan"],
+  "tags": ["plain-field", "coat-of-arms", "shield", "mountain", "plant", "cross"],
+  "sources": [
+    { "title": "Flag of Alberta (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Alberta" },
+    { "title": "Alberta (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-ab.html" }
+  ]
+}

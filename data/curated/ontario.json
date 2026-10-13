@@ -1,0 +1,46 @@
+{
+  "id": "ontario",
+  "wikidata": "Q1904",
+  "image": "Flag of Ontario.svg",
+  "name": "Ontario",
+  "flagName": "Flag of Ontario",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1965,
+  "to": null,
+  "adopted": "1965-05-21",
+  "ratio": "1:2",
+  "country": "Canada",
+  "summary": "A British red ensign with the Ontario shield in the fly: three gold maple leaves on green under the red cross of St George. It was adopted in 1965, shortly after Canada replaced the Red Ensign with the Maple Leaf flag.",
+  "origin": [
+    "When the national Maple Leaf flag replaced the Canadian Red Ensign in 1965, many in Ontario wanted to keep the British connection. Premier John Robarts's government adopted a red ensign with the provincial shield on 21 May 1965."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The British red ensign.", "basis": "traditional" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "The shield's field.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFC72C", "family": "yellow", "meaning": "The maple leaves.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Three maple leaves", "description": "A sprig of three gold maple leaves on green.", "meaning": "Canada.", "basis": "official" },
+    { "name": "St George's Cross", "description": "In the chief of the shield.", "meaning": "England and the province's British heritage.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1965, "to": null, "label": "Province of Ontario" }
+  ],
+  "facts": [
+    "Its adoption was seen as a protest against the loss of the Red Ensign as Canada's flag.",
+    "Manitoba adopted a very similar red ensign the following year.",
+    "The shield was granted by Queen Victoria in 1868."
+  ],
+  "clues": [
+    "A red ensign with a shield of three gold maple leaves under St George's Cross.",
+    "Adopted in 1965 to keep a link with a flag the country had just dropped.",
+    "A neighbouring province's flag is similar, with a bison."
+  ],
+  "lookalikes": ["manitoba", "bermuda"],
+  "tags": ["canton", "union-jack", "coat-of-arms", "shield", "plant", "cross"],
+  "sources": [
+    { "title": "Flag of Ontario (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ontario" },
+    { "title": "Ontario (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-on.html" }
+  ]
+}

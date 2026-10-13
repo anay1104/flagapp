@@ -1,0 +1,47 @@
+{
+  "id": "quebec",
+  "wikidata": "Q176",
+  "image": "Flag of Quebec.svg",
+  "name": "Quebec",
+  "flagName": "Flag of Quebec",
+  "nickname": "Le Fleurdelisé",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "adopted": "1948-01-21",
+  "ratio": "2:3",
+  "country": "Canada",
+  "summary": "A white cross on blue with a white fleur-de-lis in each quarter. Adopted in 1948 by Premier Maurice Duplessis, it recalls the French royal heritage of New France.",
+  "origin": [
+    "The design developed from the Carillon flag, a 19th-century banner linked to the French victory at Fort Carillon in 1758. Nationalists in the early 20th century promoted a version with a cross and fleurs-de-lis.",
+    "Premier Maurice Duplessis's government adopted the Fleurdelisé by order in council on 21 January 1948, now Quebec Flag Day, replacing the Union Flag over the National Assembly."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003DA5", "family": "blue", "meaning": "From French royal banners and the heavens.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The cross and lilies; from the royal white of France.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "White cross", "description": "A centred white cross.", "meaning": "Christianity and the French royal naval ensign of New France.", "basis": "traditional" },
+    { "name": "Four fleurs-de-lis", "description": "White lilies pointing upward in each quarter.", "meaning": "The French monarchy and Quebec's French origins.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1902, "to": 1948, "label": "Carillon-Sacré-Cœur flag", "note": "Used by nationalists; fleurs-de-lis pointed to the centre." },
+    { "from": 1948, "to": null, "label": "Fleurdelisé" }
+  ],
+  "facts": [
+    "Quebec's Flag Day is 21 January.",
+    "The fleurs-de-lis point upward; on the earlier Carillon flag they pointed toward the centre."
+  ],
+  "clues": [
+    "A white cross on blue with four white fleurs-de-lis.",
+    "Its lilies recall a French royal heritage in North America.",
+    "Adopted in 1948 to replace the Union Flag over a provincial assembly."
+  ],
+  "lookalikes": ["greece", "finland"],
+  "tags": ["cross", "plant", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Flag of Quebec (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Quebec" },
+    { "title": "Quebec (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-qc.html" }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "northern-territory",
+  "wikidata": "Q3235",
+  "image": "Flag of the Northern Territory.svg",
+  "name": "Northern Territory",
+  "flagName": "Flag of the Northern Territory",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1978,
+  "to": null,
+  "adopted": "1978-07-01",
+  "ratio": "1:2",
+  "designer": "Robert Ingpen",
+  "country": "Australia",
+  "summary": "A black vertical band with the Southern Cross in white at the hoist, and an ochre field with a stylised Sturt's desert rose in the fly. Designed by Robert Ingpen for self-government in 1978.",
+  "origin": [
+    "The flag was designed by the artist Robert Ingpen and adopted on 1 July 1978, when the Northern Territory gained self-government. It is the only Australian state or territory flag without the Union Flag."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The night sky.", "basis": "official" },
+    { "name": "Ochre", "hex": "#C8541E", "family": "orange", "meaning": "The colour of the land.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars and flower.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Southern Cross", "description": "Five white stars on black.", "meaning": "The territory's place in Australia and the southern sky.", "basis": "official" },
+    { "name": "Sturt's desert rose", "description": "A stylised white flower with a black seven-pointed star centre.", "meaning": "The territory's floral emblem; the star echoes the Commonwealth Star.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1978, "to": null, "label": "Northern Territory" }
+  ],
+  "facts": [
+    "It is the only Australian state or territory flag without the Union Flag.",
+    "Its colours (black, ochre and white) reflect the landscape and Aboriginal art.",
+    "Darwin is its capital."
+  ],
+  "clues": [
+    "A black band with the Southern Cross beside an ochre field with a desert flower.",
+    "The only Australian state or territory flag without the Union Flag.",
+    "Its ochre reflects the colour of the land."
+  ],
+  "lookalikes": ["australian-capital-territory"],
+  "tags": ["vertical-bicolour", "star", "southern-cross", "plant", "astronomy"],
+  "sources": [
+    { "title": "Flag of the Northern Territory (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Territory" }
+  ]
+}

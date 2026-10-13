@@ -1,0 +1,47 @@
+{
+  "id": "saskatchewan",
+  "wikidata": "Q1989",
+  "image": "Flag of Saskatchewan.svg",
+  "name": "Saskatchewan",
+  "flagName": "Flag of Saskatchewan",
+  "category": "subdivision",
+  "tier": 1,
+  "from": 1969,
+  "to": null,
+  "adopted": "1969-09-22",
+  "ratio": "1:2",
+  "designer": "Anthony Drake",
+  "country": "Canada",
+  "summary": "Green over gold horizontal halves with the provincial shield in the upper hoist and a western red lily in the fly. Designed by Anthony Drake, it won a competition with over 4,000 entries.",
+  "origin": [
+    "A provincial competition in 1968 drew more than 4,000 entries. Anthony Drake, a teacher, submitted the winning design, which was adopted on 22 September 1969."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#006A4E", "family": "green", "meaning": "The northern forests.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD100", "family": "yellow", "meaning": "The southern grain fields.", "basis": "official" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The lily and the shield's lion.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Western red lily", "description": "A red lily in the fly.", "meaning": "The provincial flower.", "basis": "official" },
+    { "name": "Shield", "description": "A red lion under St George's Cross, above three wheat sheaves on green.", "meaning": "British heritage and agriculture.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1969, "to": null, "label": "Province of Saskatchewan" }
+  ],
+  "facts": [
+    "Its green and gold are also the colours of the Saskatchewan Roughriders football team.",
+    "More than 4,000 designs were submitted to the competition.",
+    "The western red lily is a protected species in the province."
+  ],
+  "clues": [
+    "Green over gold with a shield at the hoist and a red lily in the fly.",
+    "Its halves are northern forest and southern grain.",
+    "Chosen from over 4,000 entries in a 1968 competition."
+  ],
+  "lookalikes": ["alberta"],
+  "tags": ["horizontal-bicolour", "coat-of-arms", "shield", "plant", "animal", "cross"],
+  "sources": [
+    { "title": "Flag of Saskatchewan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan" },
+    { "title": "Saskatchewan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ca-sk.html" }
+  ]
+}
