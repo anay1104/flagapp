@@ -1,0 +1,86 @@
+{
+  "id": "belgium",
+  "wikidata": "Q31",
+  "name": "Belgium",
+  "flagName": "Flag of Belgium",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1831,
+  "to": null,
+  "adopted": "1831-01-23",
+  "ratio": "13:15",
+  "summary": "Black, yellow and red vertical bands in an unusual nearly square 13:15 ratio. The colours come from the arms of the Duchy of Brabant, and the vertical layout follows the French tricolour.",
+  "origin": [
+    "Black, yellow and red were the colours of the Duchy of Brabant, whose arms are a golden lion with red claws and tongue on black. They were used in the Brabant Revolution of 1789 against Austrian rule.",
+    "During the Belgian Revolution of 1830 against the United Kingdom of the Netherlands, rebels at first used horizontal stripes. The Provisional Government adopted a vertical tricolour on 23 January 1831, following the French model, and the 1831 Constitution names the colours."
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "family": "black",
+      "meaning": "The black field of the Brabant arms.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FAE042",
+      "family": "yellow",
+      "meaning": "The golden lion of Brabant.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Red",
+      "hex": "#ED2939",
+      "family": "red",
+      "meaning": "The lion's red claws and tongue.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1830,
+      "to": 1831,
+      "label": "Revolutionary flag",
+      "note": "Horizontal red, yellow and black."
+    },
+    {
+      "from": 1831,
+      "to": null,
+      "label": "Vertical tricolour"
+    }
+  ],
+  "facts": [
+    "The 13:15 ratio is used at the Belgian Parliament; most flags in practice are made in 2:3.",
+    "Germany uses the same three colours in horizontal bands, in a different order."
+  ],
+  "clues": [
+    "Black, yellow and red vertical bands, almost square.",
+    "Its colours come from a golden lion with red claws on a black shield.",
+    "First flown with horizontal stripes during an 1830 revolution.",
+    "A larger neighbour uses the same colours horizontally."
+  ],
+  "lookalikes": [
+    "germany",
+    "romania",
+    "chad"
+  ],
+  "tags": [
+    "vertical-tricolour"
+  ],
+  "sources": [
+    {
+      "title": "Belgian Constitution, Article 193",
+      "url": "https://www.dekamer.be/kvvcr/pdf_sections/publications/constitution/GrondwetUK.pdf"
+    },
+    {
+      "title": "Flag of Belgium (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Belgium"
+    },
+    {
+      "title": "Belgium (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/be.html"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "armenia",
+  "wikidata": "Q399",
+  "name": "Armenia",
+  "flagName": "Flag of Armenia",
+  "nickname": "Եռագույն (Yeřaguyn, the tricolour)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1990,
+  "to": null,
+  "adopted": "1990-08-24",
+  "ratio": "1:2",
+  "summary": "Red, blue and orange horizontal bands. First adopted by the First Republic of Armenia in 1918, it was restored by the Supreme Council in 1990 as the Soviet Union was breaking up.",
+  "origin": [
+    "In the 19th century Armenian nationalists proposed several tricolours. The First Republic of Armenia (1918–1920) adopted red, blue and orange.",
+    "After the Soviet takeover in 1920, the Armenian SSR used red flags, from 1952 with a horizontal blue band. The tricolour was readopted on 24 August 1990, and the 2006 Law on the National Flag sets out its use."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D90012", "family": "red", "meaning": "The Armenian Highland, the struggle for survival, Christian faith, independence and freedom.", "basis": "official" },
+    { "name": "Blue", "hex": "#0033A0", "family": "blue", "meaning": "The will of the Armenian people to live under peaceful skies.", "basis": "official" },
+    { "name": "Orange", "hex": "#F2A800", "family": "orange", "meaning": "The creative talent and hard-working nature of the Armenian people.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1918, "to": 1920, "label": "First Republic of Armenia" },
+    { "from": 1952, "to": 1990, "label": "Armenian SSR", "note": "Red with a blue band." },
+    { "from": 1990, "to": null, "label": "Tricolour restored" }
+  ],
+  "facts": [
+    "Armenia celebrates National Flag Day on 15 June.",
+    "The colour meanings were set out by the Constitutional Court and in the 2006 flag law.",
+    "Its orange is sometimes rendered as apricot, a fruit closely associated with Armenia."
+  ],
+  "clues": [
+    "Red, blue and orange horizontal bands.",
+    "First adopted by a short-lived republic in 1918 and restored in 1990.",
+    "Its bottom band is sometimes said to be the colour of apricots."
+  ],
+  "lookalikes": ["colombia", "venezuela"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Armenia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Armenia" },
+    { "title": "Armenia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/am.html" }
+  ]
+}

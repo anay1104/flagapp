@@ -1,0 +1,54 @@
+{
+  "id": "syria",
+  "wikidata": "Q858",
+  "name": "Syria",
+  "flagName": "Flag of Syria",
+  "nickname": "Independence flag",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2025,
+  "to": null,
+  "adopted": "2025-03-13",
+  "ratio": "2:3",
+  "summary": "Green, white and black horizontal bands with three red stars in the white band. First adopted in 1932 under the French Mandate and used at independence, it was revived by the opposition in 2011 and became the national flag again after the fall of Bashar al-Assad in December 2024.",
+  "origin": [
+    "The flag was adopted in 1932 by the Syrian Republic under the French Mandate and kept at independence in 1946. Its three stars originally represented the districts of Damascus, Aleppo and Deir ez-Zor; the State of Latakia and Jabal Druze were later added, though the stars were not.",
+    "The independence flag was replaced in 1958 by the United Arab Republic flag (red-white-black with two green stars). It returned in 1961–1963, and from 1980 Syria used the UAR flag again. The opposition adopted the independence flag during the uprising that began in 2011.",
+    "After the Assad government fell on 8 December 2024, the new authorities adopted the independence flag; the constitutional declaration of March 2025 confirmed it."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#007A3D", "family": "green", "meaning": "Commonly linked to the Rashidun Caliphate, or to the land.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly linked to the Umayyad Caliphate, or to peace.", "basis": "popular" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Commonly linked to the Abbasid Caliphate.", "basis": "popular" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The stars; commonly linked to the blood of martyrs.", "basis": "popular" }
+  ],
+  "symbols": [
+    { "name": "Three red stars", "description": "Three five-pointed red stars in a row in the white band.", "meaning": "Originally the three districts of Damascus, Aleppo and Deir ez-Zor; now often read as the unity of Syria's regions.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1932, "to": 1958, "label": "Syrian Republic", "note": "Independence flag." },
+    { "from": 1958, "to": 1961, "label": "United Arab Republic", "note": "Red-white-black with two green stars." },
+    { "from": 1961, "to": 1963, "label": "Independence flag restored" },
+    { "from": 1963, "to": 1972, "label": "Ba'athist three-star flag" },
+    { "from": 1972, "to": 1980, "label": "Federation of Arab Republics" },
+    { "from": 1980, "to": 2024, "label": "Two-star flag under the Assads" },
+    { "from": 2025, "to": null, "label": "Independence flag readopted" }
+  ],
+  "facts": [
+    "From 2011 to 2024 the independence flag was the symbol of the Syrian opposition while the government used the two-star flag.",
+    "The two-star flag of 1980–2024 was the flag of the 1958 union with Egypt.",
+    "Iraq's former three-star flag (1963–2008) also came from the proposed Egypt–Syria–Iraq union."
+  ],
+  "clues": [
+    "Green, white and black bands with three red stars across the white band.",
+    "Flown by an opposition movement for thirteen years before becoming national again.",
+    "First adopted under a French Mandate in 1932.",
+    "Its stars once stood for three districts, including Aleppo."
+  ],
+  "lookalikes": ["iraq", "egypt"],
+  "tags": ["horizontal-tricolour", "star"],
+  "sources": [
+    { "title": "Flag of Syria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Syria" },
+    { "title": "Syria (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sy.html" }
+  ]
+}

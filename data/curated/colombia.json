@@ -1,0 +1,47 @@
+{
+  "id": "colombia",
+  "wikidata": "Q739",
+  "name": "Colombia",
+  "flagName": "Flag of Colombia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1861,
+  "to": null,
+  "adopted": "1861-11-26",
+  "ratio": "2:3",
+  "designer": "Francisco de Miranda (original colours)",
+  "summary": "Yellow, blue and red horizontal bands, the yellow taking the top half. Its colours come from Francisco de Miranda's flag of 1806, which also inspired the flags of Venezuela and Ecuador.",
+  "origin": [
+    "The Venezuelan revolutionary Francisco de Miranda first flew a yellow, blue and red flag during his failed expedition to liberate Venezuela in 1806. Miranda reportedly said the colours were inspired by a conversation with Goethe about primary colours; this account is uncertain.",
+    "Simón Bolívar's Gran Colombia (1819–1831), which included today's Colombia, Venezuela, Ecuador and Panama, used the tricolour. After its dissolution, each successor state kept the colours. Colombia's current form, with the yellow band doubled, was adopted on 26 November 1861."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FCD116", "family": "yellow", "meaning": "The riches of the land, sovereignty and justice; often read as gold.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#003893", "family": "blue", "meaning": "The two oceans bordering Colombia, the Pacific and the Caribbean (Atlantic).", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood shed for independence.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1806, "to": 1819, "label": "Miranda's flag" },
+    { "from": 1819, "to": 1831, "label": "Gran Colombia" },
+    { "from": 1834, "to": 1861, "label": "Republic of New Granada", "note": "Vertical red, blue and yellow." },
+    { "from": 1861, "to": null, "label": "United States of Colombia and Republic of Colombia" }
+  ],
+  "facts": [
+    "Ecuador's flag uses the same proportions of yellow, blue and red, with a coat of arms; Venezuela's has equal bands, stars and arms.",
+    "The yellow band is as tall as the blue and red bands combined.",
+    "A popular explanation reads the colours as gold separated from Spain (red) by the sea (blue)."
+  ],
+  "clues": [
+    "Yellow on the top half, then blue and red bands below.",
+    "Its colours were first flown by a revolutionary who reportedly discussed colour theory with Goethe.",
+    "Two neighbours, all once part of a union led by Bolívar, use the same colours.",
+    "Its blue band is said to represent two oceans."
+  ],
+  "lookalikes": ["ecuador", "venezuela"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Colombia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Colombia" },
+    { "title": "Colombia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/co.html" }
+  ]
+}

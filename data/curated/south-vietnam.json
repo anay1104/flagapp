@@ -1,0 +1,46 @@
+{
+  "id": "south-vietnam",
+  "wikidata": "Q180573",
+  "name": "South Vietnam",
+  "flagName": "Flag of South Vietnam",
+  "category": "historical",
+  "tier": 1,
+  "from": 1948,
+  "to": 1975,
+  "adopted": "1948-06-02",
+  "ratio": "2:3",
+  "aliases": ["Republic of Vietnam", "State of Vietnam"],
+  "summary": "Three horizontal red stripes on a yellow field. Adopted by the State of Vietnam in 1949 and kept by the Republic of Vietnam until 1975, it is still flown by many overseas Vietnamese communities as the 'Heritage and Freedom Flag'.",
+  "origin": [
+    "The yellow field and red stripes draw on earlier Vietnamese flags: yellow was the colour of the Nguyễn dynasty, and a flag with three red stripes was proposed in the late 19th and early 20th centuries.",
+    "The Provisional Central Government of Vietnam adopted the flag in June 1948, and the State of Vietnam, led by former emperor Bảo Đại, kept it from 1949. The Republic of Vietnam kept it from 1955 until the fall of Saigon on 30 April 1975."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFDA00", "family": "yellow", "meaning": "The Vietnamese people and the land; yellow was also the imperial colour.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DA251D", "family": "red", "meaning": "See stripes.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Three red stripes", "description": "Three thin horizontal red stripes across the middle of the yellow field.", "meaning": "The three regions of Vietnam: the north (Bắc Kỳ), centre (Trung Kỳ) and south (Nam Kỳ).", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1948, "to": 1955, "label": "Provisional Central Government and State of Vietnam" },
+    { "from": 1955, "to": 1975, "label": "Republic of Vietnam" }
+  ],
+  "facts": [
+    "Several US states and cities officially recognise it as the 'Vietnamese Heritage and Freedom Flag'.",
+    "Its three stripes represent the unity of the whole country, not just the south.",
+    "The flag of the Nguyễn dynasty's Empire of Vietnam in 1945 was yellow with a red 'Li' trigram."
+  ],
+  "clues": [
+    "Yellow with three thin red horizontal stripes.",
+    "Its stripes stand for the three regions of a country it claimed in full.",
+    "It is still flown by communities abroad as a 'heritage and freedom' flag.",
+    "Its state ended with the fall of its capital in April 1975."
+  ],
+  "lookalikes": ["vietnam"],
+  "tags": ["horizontal-stripes"],
+  "sources": [
+    { "title": "Flag of South Vietnam (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Vietnam" },
+    { "title": "South Vietnam (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/vn-south.html" }
+  ]
+}

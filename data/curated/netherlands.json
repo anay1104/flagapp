@@ -1,0 +1,48 @@
+{
+  "id": "netherlands",
+  "wikidata": "Q55",
+  "name": "Netherlands",
+  "flagName": "Flag of the Netherlands",
+  "nickname": "Het Driekleur (the tricolour)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1937,
+  "to": null,
+  "adopted": "1937-02-19",
+  "ratio": "2:3",
+  "aliases": ["Holland", "Kingdom of the Netherlands"],
+  "summary": "Red, white and blue horizontal bands. Descended from the orange-white-blue 'Prince's Flag' of the Dutch Revolt in the 16th century, it is among the oldest tricolours and influenced the flags of Russia, South Africa and New York.",
+  "origin": [
+    "During the Eighty Years' War against Spain, from 1568, the rebels used the Prinsenvlag (Prince's Flag) of orange, white and blue, the livery colours of William the Silent, Prince of Orange.",
+    "Over the 17th century red gradually replaced orange at sea. Orange dye was unstable and faded to red, red was more visible, and it was also associated with the States General rather than the House of Orange. By the 1660s red-white-blue dominated.",
+    "Red-white-blue remained the national flag through the Batavian Republic and the Kingdom of the Netherlands. A royal decree of 19 February 1937 fixed the colours as red, white and blue, ending a campaign by some groups to restore orange."
+  ],
+  "colors": [
+    { "name": "Red (bright vermilion)", "hex": "#AE1C28", "family": "red", "meaning": "No official meaning; replaced the orange of the House of Orange during the 17th century.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the Prince's Flag; no official meaning.", "basis": "traditional" },
+    { "name": "Blue (cobalt blue)", "hex": "#21468B", "family": "blue", "meaning": "From the Prince's Flag; no official meaning.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1572, "to": 1660, "label": "Prinsenvlag", "note": "Orange, white and blue, flown by the rebels of the Dutch Revolt." },
+    { "from": 1660, "to": 1937, "label": "Red, white and blue", "note": "Became the usual national colours, though without legal definition." },
+    { "from": 1937, "to": null, "label": "Fixed by royal decree" }
+  ],
+  "facts": [
+    "On national holidays the flag is flown with an orange pennant above it, honouring the royal House of Orange-Nassau.",
+    "Luxembourg's flag is nearly identical but longer and uses a lighter sky blue.",
+    "The Dutch tricolour is often cited as the inspiration for the Russian tricolour, adopted after Peter the Great's visit to the Netherlands."
+  ],
+  "clues": [
+    "Red, white and blue horizontal stripes of equal height.",
+    "Its top stripe was originally orange, after a princely house.",
+    "On royal holidays an orange pennant is flown above it.",
+    "A neighbouring grand duchy has a nearly identical flag with a lighter blue."
+  ],
+  "lookalikes": ["luxembourg", "france", "russia", "croatia"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of the Netherlands (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Netherlands" },
+    { "title": "Netherlands (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/nl.html" }
+  ]
+}

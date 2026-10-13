@@ -1,0 +1,45 @@
+{
+  "id": "qatar",
+  "wikidata": "Q846",
+  "name": "Qatar",
+  "flagName": "Flag of Qatar",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1971,
+  "to": null,
+  "adopted": "1971-07-09",
+  "ratio": "11:28",
+  "summary": "A maroon field with a white band at the hoist, separated by a serrated edge of nine points. With a ratio of 11:28, it is the only national flag more than twice as long as it is tall.",
+  "origin": [
+    "Like other Gulf states, Qatar historically used plain red flags; a white band was added in the 19th century, in line with an 1820 treaty with Britain that asked friendly Arab states to show white on their flags.",
+    "The red darkened to maroon, reportedly because natural dyes darkened in the sun, and the colour was standardised. The current flag, with nine serrations, was adopted on 9 July 1971, shortly before independence on 3 September."
+  ],
+  "colors": [
+    { "name": "Maroon", "hex": "#8A1538", "family": "maroon", "meaning": "The blood shed in Qatar's wars; the colour is often said to come from red dye darkening in the sun.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Nine-point serration", "description": "A zigzag dividing line with nine white points.", "meaning": "Qatar as the ninth member of the 'reconciled emirates' of the Persian Gulf after the 1916 treaty with Britain.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1868, "to": 1971, "label": "Red and maroon flags of Qatar", "note": "Various designs, sometimes with the name 'Qatar' or diamonds." },
+    { "from": 1971, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Its 11:28 ratio makes it the widest national flag.",
+    "Bahrain's flag is similar but red, with five serrations and a 3:5 ratio.",
+    "Qatar's National Day, 18 December, is marked by flags across the country."
+  ],
+  "clues": [
+    "Maroon with a white hoist band and a zigzag edge of nine points.",
+    "The only national flag more than twice as wide as it is tall.",
+    "Its colour is said to come from red dye darkening in desert sun.",
+    "A nearby kingdom has a similar red flag with five points."
+  ],
+  "lookalikes": ["bahrain", "latvia"],
+  "tags": ["serration"],
+  "sources": [
+    { "title": "Flag of Qatar (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Qatar" },
+    { "title": "Qatar (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/qa.html" }
+  ]
+}

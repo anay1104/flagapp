@@ -1,0 +1,49 @@
+{
+  "id": "turkmenistan",
+  "wikidata": "Q874",
+  "name": "Turkmenistan",
+  "flagName": "Flag of Turkmenistan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2001,
+  "to": null,
+  "adopted": "2001-01-24",
+  "ratio": "2:3",
+  "summary": "A green field with a vertical red band at the hoist bearing five ornate carpet guls above crossed olive branches, and a white crescent with five stars in the upper hoist of the green. It is often described as the most intricate national flag.",
+  "origin": [
+    "Turkmenistan adopted its first post-Soviet flag on 19 February 1992. The olive branches were added in 1997, symbolising the country's neutrality, recognised by the UN General Assembly in 1995.",
+    "In 2001 the proportions were changed from 1:2 to 2:3. The design reflects President Saparmurat Niyazov's emphasis on Turkmen identity and traditional carpets."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "Islam and the traditional Turkmen colour.", "basis": "official" },
+    { "name": "Red", "hex": "#D22630", "family": "red", "meaning": "The background of the carpet band.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The crescent and stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Five carpet guls", "description": "Stacked medallions from traditional Turkmen carpets, in the red band.", "meaning": "The five major Turkmen tribes: Teke, Yomut, Arsary, Chowdur and Saryk.", "basis": "official" },
+    { "name": "Olive branches", "description": "Crossed olive branches beneath the guls.", "meaning": "Turkmenistan's permanent neutrality.", "basis": "official" },
+    { "name": "Crescent and five stars", "description": "A white crescent with five stars.", "meaning": "Hope for a bright future; the stars stand for the five provinces (welayats).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1953, "to": 1992, "label": "Turkmen SSR" },
+    { "from": 1992, "to": 1997, "label": "First national flag" },
+    { "from": 1997, "to": 2001, "label": "Olive branches added" },
+    { "from": 2001, "to": null, "label": "2:3 proportions" }
+  ],
+  "facts": [
+    "The carpet guls are among the most detailed designs on any national flag.",
+    "Flag and Constitution Day is celebrated on 18 May.",
+    "Turkmenistan's neutrality is commemorated by the Arch of Neutrality in Ashgabat."
+  ],
+  "clues": [
+    "Green with a red hoist band of carpet patterns, olive branches, and a white crescent with five stars.",
+    "Its band shows designs from five tribes' carpets.",
+    "Olive branches were added for its UN-recognised neutrality."
+  ],
+  "lookalikes": ["pakistan", "uzbekistan"],
+  "tags": ["crescent", "star", "plant", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Turkmenistan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Turkmenistan" },
+    { "title": "Turkmenistan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tm.html" }
+  ]
+}

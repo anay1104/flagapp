@@ -1,0 +1,48 @@
+{
+  "id": "mongolia",
+  "wikidata": "Q711",
+  "name": "Mongolia",
+  "flagName": "Flag of Mongolia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-01-12",
+  "ratio": "1:2",
+  "summary": "Red, blue and red vertical bands with the golden Soyombo symbol in the hoist band. The Soyombo, a column of abstract symbols created by the monk Zanabazar in 1686, has been on Mongolia's flags since 1911.",
+  "origin": [
+    "After Mongolia declared independence from the Qing dynasty in 1911, the Bogd Khan's government used flags with the Soyombo. The Mongolian People's Republic from 1924 used red flags, and from 1940 added a communist star above the Soyombo.",
+    "After the democratic revolution of 1990, the star was removed. The flag was adopted with the new constitution on 12 January 1992; the shade of red was adjusted in 2011."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C4272F", "family": "red", "meaning": "Progress and prosperity; also the ability to thrive in a harsh climate.", "basis": "official" },
+    { "name": "Blue", "hex": "#015197", "family": "blue", "meaning": "The eternal blue sky, central to Mongolian tradition (Tengri).", "basis": "official" },
+    { "name": "Gold", "hex": "#F9CF02", "family": "yellow", "meaning": "The Soyombo.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Soyombo", "description": "A vertical stack of symbols: a flame, sun, crescent moon, triangles, horizontal bars, a yin-yang and two vertical bars.", "meaning": "Fire for growth and prosperity; sun and moon for the eternity of the Mongolian people; triangles (arrowheads) for defeat of enemies; bars for honesty; the yin-yang (as two fish) for vigilance; the pillars for unity and strength.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1911, "to": 1924, "label": "Bogd Khanate" },
+    { "from": 1924, "to": 1940, "label": "Mongolian People's Republic", "note": "Red flags with emblems." },
+    { "from": 1940, "to": 1992, "label": "With communist star", "note": "Red-blue-red with a star above the Soyombo." },
+    { "from": 1992, "to": null, "label": "Star removed" }
+  ],
+  "facts": [
+    "The Soyombo is also a letter of an alphabet Zanabazar devised for writing Mongolian, Tibetan and Sanskrit.",
+    "Mongolia's National Flag Day is 10 July.",
+    "Its blue is often called the 'eternal blue sky', a phrase from Genghis Khan's era."
+  ],
+  "clues": [
+    "Red, blue and red vertical bands with a golden column of symbols at the hoist.",
+    "Its emblem was created by a 17th-century monk as part of an alphabet.",
+    "A communist star was removed from it in 1992.",
+    "Its central blue represents the 'eternal blue sky'."
+  ],
+  "lookalikes": [],
+  "tags": ["vertical-tricolour", "emblem", "sun", "moon", "crescent", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Mongolia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Mongolia" },
+    { "title": "Mongolia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mn.html" }
+  ]
+}

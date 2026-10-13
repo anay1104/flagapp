@@ -1,0 +1,46 @@
+{
+  "id": "kuwait",
+  "wikidata": "Q817",
+  "name": "Kuwait",
+  "flagName": "Flag of Kuwait",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1961,
+  "to": null,
+  "adopted": "1961-09-07",
+  "ratio": "1:2",
+  "summary": "Green, white and red horizontal bands with a black trapezoid at the hoist, in the Pan-Arab colours. It was adopted soon after independence from Britain in 1961, replacing a red flag with the name 'Kuwait'.",
+  "origin": [
+    "Kuwait used red flags, at times with the name of the country or a crescent, until independence in June 1961.",
+    "The current flag was officially raised on 24 November 1961. The colours follow the Arab Revolt flag and Pan-Arab tradition, and are described in a line of poetry by Safi al-Din al-Hilli."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#007A3D", "family": "green", "meaning": "Fertile land.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Noble deeds.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood of the enemy on Kuwaiti swords.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Defeat of the enemy in battle.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Black trapezoid", "description": "A black trapezoid at the hoist, narrowing toward the fly.", "meaning": "See black.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1914, "to": 1961, "label": "Red flags of the Sheikhdom", "note": "Often with 'Kuwait' in Arabic." },
+    { "from": 1961, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "The colour meanings come from al-Hilli's poem: 'White are our deeds, black our battles, green our fields, and red our swords.'",
+    "The UAE flag uses the same colours with a red band at the hoist instead.",
+    "Kuwait's flag is one of the few with a trapezoid."
+  ],
+  "clues": [
+    "Green, white and red bands with a black trapezoid at the hoist.",
+    "Its colours are described in a medieval line of poetry about deeds, battles, fields and swords.",
+    "It replaced a red flag bearing the country's name in 1961."
+  ],
+  "lookalikes": ["united-arab-emirates", "jordan", "palestine"],
+  "tags": ["horizontal-tricolour", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Kuwait (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kuwait" },
+    { "title": "Kuwait (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/kw.html" }
+  ]
+}

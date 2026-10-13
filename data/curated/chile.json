@@ -1,0 +1,48 @@
+{
+  "id": "chile",
+  "wikidata": "Q298",
+  "name": "Chile",
+  "flagName": "Flag of Chile",
+  "nickname": "La Estrella Solitaria (the Lone Star)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1817,
+  "to": null,
+  "adopted": "1817-10-18",
+  "ratio": "2:3",
+  "summary": "Two horizontal bands of white and red, with a white five-pointed star on a blue square in the canton. Adopted during the war of independence in 1817, it has been used ever since.",
+  "origin": [
+    "During the Chilean War of Independence the 'Patria Vieja' government used a blue, white and yellow tricolour (1812–1814). After the victory at Chacabuco in 1817, a transitional flag of blue, white and red was used.",
+    "The current flag was adopted on 18 October 1817 and first flown officially at the declaration of independence on 12 February 1818. Its design is usually attributed to José Ignacio Zenteno or Antonio Arcos, though records are unclear."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0039A6", "family": "blue", "meaning": "The sky.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The snow of the Andes.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D52B1E", "family": "red", "meaning": "The blood shed for independence.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Lone star", "description": "A white five-pointed star in the blue canton.", "meaning": "A guide on the path of progress and honour; often linked to the star of the Mapuche, who resisted conquest.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1812, "to": 1814, "label": "Patria Vieja", "note": "Blue, white and yellow stripes." },
+    { "from": 1817, "to": 1817, "label": "Transition flag", "note": "Blue, white and red." },
+    { "from": 1817, "to": null, "label": "Current flag" }
+  ],
+  "facts": [
+    "The flag of Texas is often confused with Chile's; Texas uses a vertical blue band at the hoist rather than a canton.",
+    "Flying the flag is compulsory on certain national holidays, including the Fiestas Patrias of 18 September.",
+    "The star's meaning is often explained through the Mapuche tradition, though this is not in law."
+  ],
+  "clues": [
+    "White over red with a white star on a blue canton.",
+    "Often mixed up with a US state flag that has a vertical blue band.",
+    "Its white band stands for the snow of a mountain range.",
+    "First flown at its declaration of independence in 1818."
+  ],
+  "lookalikes": ["texas", "cuba", "liberia"],
+  "tags": ["horizontal-bicolour", "canton", "star"],
+  "sources": [
+    { "title": "Flag of Chile (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Chile" },
+    { "title": "Chile (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cl.html" }
+  ]
+}

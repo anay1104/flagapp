@@ -1,0 +1,50 @@
+{
+  "id": "egypt",
+  "wikidata": "Q79",
+  "name": "Egypt",
+  "flagName": "Flag of Egypt",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1984,
+  "to": null,
+  "adopted": "1984-10-04",
+  "ratio": "2:3",
+  "summary": "A horizontal tricolour of red, white and black with the golden Eagle of Saladin in the centre. The colours are the Arab Liberation colours of the 1952 revolution, and the design has been the model for several other Pan-Arab flags.",
+  "origin": [
+    "Under the monarchy Egypt used a green flag with a white crescent and three stars. The Free Officers' revolution of 1952 introduced the Arab Liberation Flag of red, white and black with a golden eagle.",
+    "From 1958 to 1971 Egypt used the flag of the United Arab Republic, the union with Syria, with two green stars in place of the eagle. From 1972 to 1984 the Federation of Arab Republics flag carried a golden hawk (the Hawk of Quraish). In 1984 the Eagle of Saladin returned."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The period before the 1952 revolution, when Egyptians struggled against the monarchy and British occupation.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The peaceful nature of the 1952 revolution, achieved without bloodshed.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The end of the oppression of the Egyptian people under the monarchy and colonialism.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#C09300", "family": "yellow", "meaning": "The eagle.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Eagle of Saladin", "description": "A golden eagle facing the hoist, with a shield on its breast and a scroll beneath it reading 'Arab Republic of Egypt' in Kufic script.", "meaning": "Linked to Saladin, the 12th-century sultan of Egypt and Syria, whose emblem it is traditionally said to be; adopted as a symbol of Arab nationalism.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1923, "to": 1953, "label": "Kingdom of Egypt", "note": "Green with a white crescent and three stars." },
+    { "from": 1953, "to": 1958, "label": "Republic: Arab Liberation Flag" },
+    { "from": 1958, "to": 1972, "label": "United Arab Republic", "note": "Two green stars; kept by Egypt after Syria left in 1961." },
+    { "from": 1972, "to": 1984, "label": "Federation of Arab Republics", "note": "Hawk of Quraish." },
+    { "from": 1984, "to": null, "label": "Current flag", "note": "Eagle of Saladin restored." }
+  ],
+  "facts": [
+    "Iraq, Syria, Yemen and Sudan all adopted red-white-black flags modelled on Egypt's revolutionary colours.",
+    "Yemen's flag is the plain red-white-black tricolour; Syria's former flag added two green stars, as on the UAR flag.",
+    "The eagle's shield repeats the flag's colours vertically."
+  ],
+  "clues": [
+    "Red, white and black horizontal bands with a golden eagle in the centre.",
+    "Its eagle is named after a 12th-century sultan.",
+    "Between 1958 and 1971 it showed two green stars from a short-lived union.",
+    "Its colours came from a revolution in 1952."
+  ],
+  "lookalikes": ["iraq", "yemen", "syria"],
+  "tags": ["horizontal-tricolour", "emblem", "eagle", "bird", "text", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Egypt (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Egypt" },
+    { "title": "Egypt (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/eg.html" }
+  ]
+}

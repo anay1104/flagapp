@@ -1,0 +1,53 @@
+{
+  "id": "south-korea",
+  "wikidata": "Q884",
+  "name": "South Korea",
+  "flagName": "Flag of South Korea",
+  "nickname": "Taegukgi",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1949,
+  "to": null,
+  "adopted": "1949-10-15",
+  "ratio": "2:3",
+  "aliases": ["Korea", "Republic of Korea", "ROK"],
+  "summary": "A red and blue taegeuk (yin-yang) circle on white, surrounded by four black trigrams from the I Ching. Its design dates to the Joseon dynasty in the 1880s and expresses balance between opposites in the universe.",
+  "origin": [
+    "The Joseon dynasty had no national flag until the 1880s, when treaties with foreign powers required one. In 1882 the diplomat Park Yeong-hyo used a taegeuk flag with four trigrams on his mission to Japan, and King Gojong proclaimed it the national flag in 1883.",
+    "Under Japanese rule (1910–1945) the flag was banned in Korea, but it was used by the independence movement, notably in the March 1st Movement of 1919, and by the Provisional Government in exile.",
+    "After liberation, designs varied. The Republic of Korea standardised the proportions and arrangement on 15 October 1949, with minor colour and size specifications revised in 1984, 1997 and 2007."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and purity; white was the colour of traditional Korean clothing, earning Koreans the name 'the white-clad people'.", "basis": "official" },
+    { "name": "Red", "hex": "#CD2E3A", "family": "red", "meaning": "The yang half of the taegeuk.", "basis": "official" },
+    { "name": "Blue", "hex": "#0047A0", "family": "blue", "meaning": "The yin half of the taegeuk.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The trigrams.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Taegeuk", "description": "A circle divided by an S-curve, red above and blue below.", "meaning": "The origin of all things in the universe, and the balance of opposing cosmic forces: yang (positive, red) and yin (negative, blue).", "basis": "official" },
+    { "name": "Four trigrams (gwae)", "description": "Black bars at the corners: geon (☰), gon (☷), gam (☵) and ri (☲).", "meaning": "Heaven, earth, water and fire respectively, together with the movement of yin and yang.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1883, "to": 1910, "label": "Joseon and Korean Empire", "note": "Taegeukgi with varying arrangements." },
+    { "from": 1919, "to": 1945, "label": "Independence movement and Provisional Government" },
+    { "from": 1949, "to": null, "label": "Standardised Taegukgi" }
+  ],
+  "facts": [
+    "North Korea used the Taegukgi briefly after 1945 before adopting its current flag in 1948.",
+    "Each trigram is a combination of three solid or broken lines from the I Ching (Book of Changes).",
+    "Mongolia's Soyombo and the flag of the Tibetan government in exile also use yin-yang imagery, but Korea's is the only national flag built around it."
+  ],
+  "clues": [
+    "A red and blue yin-yang circle on white with four black trigrams.",
+    "Its corner symbols stand for heaven, earth, water and fire.",
+    "A diplomat flew it on a mission abroad in 1882, the year before it became official.",
+    "It was banned in its own country for 35 years of occupation."
+  ],
+  "lookalikes": [],
+  "tags": ["plain-field", "disc", "religious-symbol"],
+  "sources": [
+    { "title": "National Flag Act (Korea)", "url": "https://www.law.go.kr/LSW/eng/engLsSc.do?menuId=2&query=NATIONAL%20FLAG" },
+    { "title": "Taegeukgi (Ministry of the Interior and Safety)", "url": "https://www.mois.go.kr/eng/sub/a03/nationalSymbol1/screen.do" },
+    { "title": "Flag of South Korea (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_South_Korea" }
+  ]
+}

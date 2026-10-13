@@ -1,0 +1,45 @@
+{
+  "id": "tunisia",
+  "wikidata": "Q948",
+  "name": "Tunisia",
+  "flagName": "Flag of Tunisia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1831,
+  "to": null,
+  "adopted": "1831",
+  "ratio": "2:3",
+  "summary": "A red field with a white disc containing a red crescent around a red five-pointed star. Introduced by the Bey of Tunis in 1831, it is one of the oldest flags in the Arab world.",
+  "origin": [
+    "Tunisia was an autonomous province of the Ottoman Empire under the Husainid beys. After the Ottoman-Egyptian fleet was destroyed at the Battle of Navarino in 1827, Al-Husayn II ibn Mahmud ordered a distinct flag for Tunisian ships, adopted in 1831.",
+    "The flag remained in use under the French protectorate (1881–1956) and after independence. Its proportions were standardised in 1999, and Article 4 of the 2014 Constitution describes it."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#E70013", "family": "red", "meaning": "The blood of martyrs; also the Ottoman red.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Disc", "description": "A white circle in the centre.", "meaning": "Commonly said to represent the sun, or peace.", "basis": "popular" },
+    { "name": "Crescent and star", "description": "A red crescent curving around a red star inside the disc.", "meaning": "The unity of Muslims; inherited from Ottoman symbolism.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1831, "to": 1999, "label": "Flag of the beylik and republic" },
+    { "from": 1999, "to": null, "label": "Standardised proportions" }
+  ],
+  "facts": [
+    "It is the oldest flag still in use in the Arab world.",
+    "Turkey's flag has the same colours but no disc and a different crescent placement.",
+    "The 1999 law fixed the disc's diameter at one-third of the flag's length."
+  ],
+  "clues": [
+    "A red crescent and star inside a white disc on a red field.",
+    "Introduced in 1831 after a fleet was destroyed at Navarino.",
+    "Used through a French protectorate and into independence."
+  ],
+  "lookalikes": ["turkey"],
+  "tags": ["plain-field", "disc", "crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Tunisia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tunisia" },
+    { "title": "Tunisia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tn.html" }
+  ]
+}

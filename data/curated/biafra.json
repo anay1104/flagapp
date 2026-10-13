@@ -1,0 +1,45 @@
+{
+  "id": "biafra",
+  "wikidata": "Q178469",
+  "name": "Biafra",
+  "flagName": "Flag of Biafra",
+  "category": "historical",
+  "tier": 1,
+  "from": 1967,
+  "to": 1970,
+  "adopted": "1967-05-30",
+  "ratio": "1:2",
+  "summary": "Red, black and green horizontal bands with a golden half-sun of eleven rays in the black band. It was the flag of the Republic of Biafra, the secessionist state in south-eastern Nigeria during the Nigerian Civil War of 1967–1970.",
+  "origin": [
+    "The Eastern Region of Nigeria declared independence as the Republic of Biafra on 30 May 1967, under Lieutenant Colonel Chukwuemeka Odumegwu Ojukwu. The flag used the Pan-African red, black and green associated with Marcus Garvey's movement.",
+    "Biafra was defeated in January 1970 after a war and blockade in which an estimated one to three million people died, many from famine. The flag remains a symbol of Igbo identity and of Biafran separatist movements today."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#FF0000", "family": "red", "meaning": "The blood of those massacred in Northern Nigeria in 1966 and of those who died in the war.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Mourning for the dead.", "basis": "traditional" },
+    { "name": "Green", "hex": "#008000", "family": "green", "meaning": "Prosperity.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Rising sun", "description": "A golden half-sun with eleven rays.", "meaning": "A glorious future; the eleven rays represent the eleven provinces of Biafra.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1967, "to": 1970, "label": "Republic of Biafra" }
+  ],
+  "facts": [
+    "The rising sun also appears on Biafra's coat of arms and currency.",
+    "Malawi's flag, adopted in 1964, also has a red rising sun in a black band of a red-black-green tricolour.",
+    "Biafra was recognised by only five UN member states: Tanzania, Gabon, Ivory Coast, Zambia and Haiti."
+  ],
+  "clues": [
+    "Red, black and green bands with a golden half-sun in the black band.",
+    "Its sun's eleven rays stood for eleven provinces.",
+    "The flag of a secessionist state in West Africa in 1967–1970.",
+    "A landlocked country in south-east Africa has a similar flag with a red sun."
+  ],
+  "lookalikes": ["malawi"],
+  "tags": ["horizontal-tricolour", "sun", "pan-african"],
+  "sources": [
+    { "title": "Flag of Biafra (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Biafra" },
+    { "title": "Biafra (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ng-biafr.html" }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ethiopia",
+  "wikidata": "Q115",
+  "name": "Ethiopia",
+  "flagName": "Flag of Ethiopia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2009,
+  "to": null,
+  "adopted": "1996-10-31",
+  "ratio": "1:2",
+  "summary": "Green, yellow and red horizontal bands with a blue disc and a yellow pentagram with rays in the centre. Ethiopia's green-yellow-red, used since the late 19th century, became the model for the Pan-African colours because Ethiopia resisted colonisation.",
+  "origin": [
+    "Green, yellow and red pennants were flown in the Ethiopian Empire in the 19th century, and a tricolour was adopted under Emperor Menelik II in 1897. The Lion of Judah, symbol of the Solomonic dynasty, was later added to the centre.",
+    "Ethiopia's defeat of Italy at Adwa in 1896, and its survival as one of only two African states never colonised, made its colours a symbol of African independence; many newly independent African states adopted them.",
+    "After the 1974 revolution the lion was removed, and the Derg and the People's Democratic Republic used various emblems. The current emblem was introduced in 1996, and its blue was lightened in 2009."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#078930", "family": "green", "meaning": "The land, its fertility and hope.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FCDD09", "family": "yellow", "meaning": "Peace, harmony and religious freedom.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DA121A", "family": "red", "meaning": "Strength and the sacrifice of those who defended the country.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#0F47AF", "family": "blue", "meaning": "Peace.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Pentagram with rays", "description": "A yellow five-pointed star of lines on a blue disc, with five rays between its points.", "meaning": "The unity and equality of Ethiopia's nations, nationalities and peoples; the rays stand for a bright future.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1897, "to": 1974, "label": "Ethiopian Empire", "note": "Tricolour, often with the Lion of Judah." },
+    { "from": 1974, "to": 1987, "label": "Derg", "note": "Plain tricolour and emblem variants." },
+    { "from": 1987, "to": 1991, "label": "People's Democratic Republic", "note": "Emblem with a red star." },
+    { "from": 1996, "to": 2009, "label": "Federal Democratic Republic" },
+    { "from": 2009, "to": null, "label": "Current flag", "note": "Lighter blue disc." }
+  ],
+  "facts": [
+    "The Rastafari movement uses Ethiopia's colours, often with the Lion of Judah, reflecting reverence for Emperor Haile Selassie I.",
+    "Ghana (1957) was the first newly independent state to adopt Ethiopia's colours, as red, gold and green."
+  ],
+  "clues": [
+    "Green, yellow and red bands with a yellow star of lines on a blue disc.",
+    "Its colours became the Pan-African colours because the country was never colonised.",
+    "A lion holding a staff was removed from its centre after a 1974 revolution.",
+    "A religious movement in Jamaica reveres its former emperor and uses its colours."
+  ],
+  "lookalikes": ["bolivia", "lithuania"],
+  "tags": ["horizontal-tricolour", "disc", "star", "emblem", "pan-african"],
+  "sources": [
+    { "title": "Flag of Ethiopia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ethiopia" },
+    { "title": "Ethiopia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/et.html" }
+  ]
+}

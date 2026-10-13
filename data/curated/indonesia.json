@@ -1,0 +1,46 @@
+{
+  "id": "indonesia",
+  "wikidata": "Q252",
+  "name": "Indonesia",
+  "flagName": "Flag of Indonesia",
+  "nickname": "Sang Saka Merah-Putih (the lofty red-white)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1945,
+  "to": null,
+  "adopted": "1945-08-17",
+  "ratio": "2:3",
+  "summary": "Two equal horizontal bands of red over white. Its colours come from the banner of the Majapahit Empire of the 13th–16th centuries, and it was raised at the proclamation of independence on 17 August 1945.",
+  "origin": [
+    "Red and white were the colours of the Majapahit Empire, the Javanese state that dominated much of the archipelago from the late 13th century; its banners are described as having red and white stripes.",
+    "During the independence movement of the 1920s, nationalists adopted red and white, sometimes with a buffalo head. The flag was sewn by Fatmawati, wife of Sukarno, and raised in Jakarta when Sukarno and Mohammad Hatta proclaimed independence on 17 August 1945.",
+    "That original flag, the 'Bendera Pusaka' (heirloom flag), is preserved; a replica is now used at the annual independence ceremony."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Courage; also linked to the human body and the physical life.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity; also linked to the soul and spiritual life.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1928, "to": 1945, "label": "Nationalist movement flag" },
+    { "from": 1945, "to": null, "label": "National flag", "note": "Raised at the proclamation of independence." }
+  ],
+  "facts": [
+    "Monaco's flag is almost identical; it uses a 4:5 ratio while Indonesia's is 2:3. Both have been in use since before 1950 and neither is a copy of the other.",
+    "Poland's flag uses the same colours the other way up.",
+    "The original 1945 flag became too fragile to fly and was retired from the ceremony in 1969."
+  ],
+  "clues": [
+    "Red over white, two equal horizontal bands.",
+    "Almost identical to a European principality's flag, except for proportions.",
+    "Its colours are traced to a medieval Javanese empire.",
+    "Its first copy was sewn by the wife of the country's first president."
+  ],
+  "lookalikes": ["monaco", "poland", "singapore"],
+  "tags": ["horizontal-bicolour"],
+  "sources": [
+    { "title": "Law No. 24 of 2009 on the National Flag, Language, Emblem and Anthem", "url": "https://peraturan.bpk.go.id/Details/38661" },
+    { "title": "Flag of Indonesia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Indonesia" },
+    { "title": "Indonesia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/id.html" }
+  ]
+}

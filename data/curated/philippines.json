@@ -1,0 +1,133 @@
+{
+  "id": "philippines",
+  "wikidata": "Q928",
+  "name": "Philippines",
+  "flagName": "Flag of the Philippines",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1998,
+  "to": null,
+  "adopted": "1998-02-12",
+  "ratio": "1:2",
+  "designer": "Emilio Aguinaldo",
+  "summary": "Blue over red horizontal bands with a white triangle at the hoist bearing a golden sun of eight rays and three stars. It is one of the few national flags that signal war: it is flown with red on top in a state of war.",
+  "origin": [
+    "General Emilio Aguinaldo designed the flag in Hong Kong during his exile in 1897. It was sewn by Marcela Agoncillo, her daughter and Delfina Herbosa de Natividad, and first raised at the proclamation of independence from Spain in Kawit, Cavite, on 12 June 1898.",
+    "During American rule the flag was banned from 1907 to 1919. It was restored and became the flag of the Commonwealth in 1936 and of the independent Republic in 1946. The shade of blue has changed several times; Republic Act 8491 of 1998 fixed the current colours."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0038A8",
+      "family": "blue",
+      "meaning": "Peace, truth and justice.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#CE1126",
+      "family": "red",
+      "meaning": "Patriotism and valour.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Equality and fraternity.",
+      "basis": "official"
+    },
+    {
+      "name": "Golden yellow",
+      "hex": "#FCD116",
+      "family": "yellow",
+      "meaning": "The sun and stars.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Sun with eight rays",
+      "description": "A golden sun in the centre of the triangle.",
+      "meaning": "Liberty and democracy; the eight rays stand for the eight provinces first placed under martial law by Spain for rebelling in 1896: Manila, Cavite, Bulacan, Pampanga, Nueva Ecija, Bataan, Laguna and Batangas.",
+      "basis": "official"
+    },
+    {
+      "name": "Three stars",
+      "description": "Five-pointed golden stars in the triangle's corners.",
+      "meaning": "Luzon, Visayas and Mindanao, the three main island groups.",
+      "basis": "official"
+    },
+    {
+      "name": "White triangle",
+      "description": "An equilateral triangle at the hoist.",
+      "meaning": "Equality and fraternity; also linked to the Katipunan revolutionary society.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1898,
+      "to": 1907,
+      "label": "First Philippine Republic",
+      "note": "Designed by Aguinaldo; a sun with a face."
+    },
+    {
+      "from": 1907,
+      "to": 1919,
+      "label": "Banned under American rule"
+    },
+    {
+      "from": 1936,
+      "to": 1985,
+      "label": "Commonwealth and Republic",
+      "note": "Various shades of blue."
+    },
+    {
+      "from": 1985,
+      "to": 1986,
+      "label": "Light blue version",
+      "note": "Briefly used under Marcos."
+    },
+    {
+      "from": 1998,
+      "to": null,
+      "label": "Republic Act 8491"
+    }
+  ],
+  "facts": [
+    "In wartime the flag is flown upside down, with the red band on top.",
+    "The sun on the 1898 flag had a face, a 'mythical sun'; later official versions dropped it.",
+    "Independence Day, 12 June, marks the first raising of the flag in 1898."
+  ],
+  "clues": [
+    "Blue over red with a white hoist triangle holding a gold sun and three stars.",
+    "Flown with red on top in wartime.",
+    "Its sun's eight rays stand for provinces that rose against a colonial power.",
+    "Designed by a general in exile in Hong Kong."
+  ],
+  "lookalikes": [
+    "czech-republic",
+    "cuba"
+  ],
+  "tags": [
+    "horizontal-bicolour",
+    "hoist-triangle",
+    "sun",
+    "star"
+  ],
+  "sources": [
+    {
+      "title": "Republic Act No. 8491 (Flag and Heraldic Code of the Philippines)",
+      "url": "https://www.officialgazette.gov.ph/1998/02/12/republic-act-no-8491/"
+    },
+    {
+      "title": "Flag of the Philippines (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_the_Philippines"
+    },
+    {
+      "title": "Philippines (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/ph.html"
+    }
+  ]
+}

@@ -109,4 +109,20 @@ export interface FlagRecord extends FlagSummary {
   flagItem?: string;
   /** True for hand-written entries in data/curated. */
   curated?: boolean;
+  /** Text from English Wikipedia (CC BY-SA 4.0): a flag article, or flag sections of the subject's article. */
+  /** Measured colour shares of the image, largest first, e.g. [["red", 0.42], ["white", 0.33]]. */
+  palette?: [string, number][];
+  wiki?: {
+    title: string;
+    url: string;
+    kind: 'article' | 'section';
+    sections: { heading: string; level: number; text: string }[];
+  };
+  /** Wikimedia Commons file page: description (if informative), licence and author. */
+  commons?: {
+    description?: string;
+    license?: string;
+    licenseUrl?: string;
+    artist?: string;
+  };
 }

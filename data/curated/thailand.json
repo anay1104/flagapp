@@ -1,0 +1,49 @@
+{
+  "id": "thailand",
+  "wikidata": "Q869",
+  "name": "Thailand",
+  "flagName": "Flag of Thailand",
+  "nickname": "Thong Trairong (tricolour flag)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1917,
+  "to": null,
+  "adopted": "1917-09-28",
+  "ratio": "2:3",
+  "designer": "King Vajiravudh (Rama VI)",
+  "aliases": ["Siam"],
+  "summary": "Five horizontal stripes of red, white, blue, white and red, the central blue band twice as tall. King Vajiravudh introduced it in 1917, replacing a red flag with a white elephant.",
+  "origin": [
+    "Siam's earlier flags were plain red, and from 1855 a red flag with a white elephant, a royal symbol, was used. According to a well-known story, King Vajiravudh saw an elephant flag hung upside down during a flood in 1916 and decided on a symmetrical design that could not be flown incorrectly.",
+    "A red-white-red striped flag was used briefly in 1917. On 28 September 1917 the king added the central blue stripe, partly in solidarity with the Allies in the First World War, whose flags were red, white and blue."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#A51931", "family": "red", "meaning": "The nation and the blood of life.", "basis": "official" },
+    { "name": "White", "hex": "#F4F5F8", "family": "white", "meaning": "Religion, especially Theravada Buddhism.", "basis": "official" },
+    { "name": "Blue", "hex": "#2D2A4A", "family": "blue", "meaning": "The monarchy; blue was also the king's personal colour.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1855, "to": 1916, "label": "White elephant on red" },
+    { "from": 1916, "to": 1917, "label": "Red and white stripes" },
+    { "from": 1917, "to": null, "label": "Trairong (tricolour)" }
+  ],
+  "facts": [
+    "The three colours represent the national motto 'Nation, Religion, King'.",
+    "The flag is raised daily at 8 a.m. and lowered at 6 p.m. while the national anthem plays on public broadcasts.",
+    "Costa Rica's flag has the same stripe pattern with the blue and red swapped."
+  ],
+  "clues": [
+    "Red, white, blue, white, red stripes with a double-height blue centre.",
+    "It replaced a flag with a white elephant.",
+    "A king is said to have designed it after seeing a flag hung upside down.",
+    "Its three colours stand for 'Nation, Religion, King'."
+  ],
+  "lookalikes": ["costa-rica", "north-korea"],
+  "tags": ["horizontal-stripes"],
+  "sources": [
+    { "title": "Flag Act B.E. 2522 (1979)", "url": "https://www.krisdika.go.th/" },
+    { "title": "Flag of Thailand (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Thailand" },
+    { "title": "Thailand (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/th.html" }
+  ]
+}

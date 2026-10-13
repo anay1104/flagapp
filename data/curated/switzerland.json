@@ -1,0 +1,48 @@
+{
+  "id": "switzerland",
+  "wikidata": "Q39",
+  "name": "Switzerland",
+  "flagName": "Flag of Switzerland",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1889,
+  "to": null,
+  "adopted": "1889-12-12",
+  "ratio": "1:1",
+  "summary": "A white cross on a red square. One of only two square national flags, it derives from the banner of the canton of Schwyz and has been the Swiss national flag since the federal state was founded in 1848.",
+  "origin": [
+    "The red banner of Schwyz, one of the three founding cantons of the Old Swiss Confederacy, had a small white cross in its corner from the 14th century. Confederate troops wore white crosses on their clothing from at least the Battle of Laupen in 1339.",
+    "During the Napoleonic period the Helvetic Republic used a green, red and yellow tricolour. After the Restoration, General Guillaume-Henri Dufour introduced a red flag with a white cross for the federal army in 1840, and the federal state adopted it in 1848.",
+    "The proportions of the cross were fixed by a federal decree of 12 December 1889: each arm is one-sixth longer than it is wide. The current federal law on coats of arms and symbols dates from 2013."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#DA291C", "family": "red", "meaning": "From the banner of Schwyz; traditionally linked to the blood of martyrs.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The cross of Christianity.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Swiss cross", "description": "A free-standing white cross, its arms one-sixth longer than wide, not touching the edges.", "meaning": "A Christian symbol inherited from the medieval Confederacy and its army's field signs.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1798, "to": 1803, "label": "Helvetic Republic", "note": "Green, red and yellow tricolour." },
+    { "from": 1840, "to": 1889, "label": "Federal army flag", "note": "Introduced by General Dufour; national flag from 1848." },
+    { "from": 1889, "to": null, "label": "Cross proportions fixed" }
+  ],
+  "facts": [
+    "Vatican City has the only other square national flag.",
+    "Switzerland's civil and state ensign on lakes and the Rhine uses a 2:3 rectangle.",
+    "The Red Cross emblem, created in Geneva in 1863, is the Swiss flag with its colours reversed in honour of Switzerland."
+  ],
+  "clues": [
+    "A white cross on a red square, not touching the edges.",
+    "One of only two square national flags.",
+    "Reverse its colours and you get a humanitarian emblem founded in its country.",
+    "Derived from the banner of one of three founding cantons."
+  ],
+  "lookalikes": ["denmark", "tonga"],
+  "tags": ["cross", "religious-symbol", "plain-field"],
+  "sources": [
+    { "title": "Federal Act on the Protection of the Swiss Coat of Arms and Other Public Signs (2013)", "url": "https://www.fedlex.admin.ch/eli/cc/2015/422/en" },
+    { "title": "Flag of Switzerland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Switzerland" },
+    { "title": "Switzerland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ch.html" }
+  ]
+}

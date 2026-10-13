@@ -1,0 +1,47 @@
+{
+  "id": "vietnam",
+  "wikidata": "Q881",
+  "name": "Vietnam",
+  "flagName": "Flag of Vietnam",
+  "nickname": "Cờ đỏ sao vàng (red flag with a yellow star)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1955,
+  "to": null,
+  "adopted": "1955-11-30",
+  "ratio": "2:3",
+  "summary": "A large five-pointed yellow star on a red field. First used in the Nam Kỳ uprising of 1940 and adopted by the Việt Minh, it became the flag of North Vietnam and, from 1976, of reunified Vietnam.",
+  "origin": [
+    "A red flag with a yellow star was used by communist insurgents in the Nam Kỳ (Cochinchina) uprising against French rule in November 1940. Its designer is usually given as Nguyễn Hữu Tiến, though this is disputed.",
+    "The Việt Minh adopted it in 1941, and Hồ Chí Minh's Democratic Republic of Vietnam made it the national flag in 1945. In 1955 the star was redrawn with straighter edges. After reunification in 1976 it became the flag of the Socialist Republic of Vietnam."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#DA251D", "family": "red", "meaning": "Revolution and the blood shed for independence.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFFF00", "family": "yellow", "meaning": "The star; yellow is also associated with the Vietnamese people.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Five-pointed star", "description": "A large yellow star centred on the flag.", "meaning": "Communist Party leadership; its five points are said to stand for the workers, peasants, soldiers, intellectuals and youth (or traders) united in building socialism.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1940, "to": 1945, "label": "Nam Kỳ uprising and Việt Minh" },
+    { "from": 1945, "to": 1955, "label": "Democratic Republic of Vietnam", "note": "Star with slightly curved edges." },
+    { "from": 1955, "to": null, "label": "Current design", "note": "National flag of reunified Vietnam from 1976." }
+  ],
+  "facts": [
+    "South Vietnam (1949–1975) used a yellow flag with three red horizontal stripes, still flown by many overseas Vietnamese communities.",
+    "China's flag also pairs yellow stars with red, but has five stars.",
+    "The 2013 Constitution describes the flag in Article 13."
+  ],
+  "clues": [
+    "A single large yellow star centred on red.",
+    "First used in an uprising against French colonial rule in 1940.",
+    "The flag of a former southern state, yellow with three red stripes, is still flown by communities abroad."
+  ],
+  "lookalikes": ["china", "morocco"],
+  "tags": ["plain-field", "star", "communist"],
+  "sources": [
+    { "title": "Constitution of Vietnam (2013), Article 13", "url": "https://www.constituteproject.org/constitution/Socialist_Republic_of_Vietnam_2013" },
+    { "title": "Flag of Vietnam (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Vietnam" },
+    { "title": "Vietnam (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/vn.html" }
+  ]
+}

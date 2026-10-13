@@ -1,0 +1,47 @@
+{
+  "id": "azerbaijan",
+  "wikidata": "Q227",
+  "name": "Azerbaijan",
+  "flagName": "Flag of Azerbaijan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "adopted": "1991-02-05",
+  "ratio": "1:2",
+  "summary": "Light blue, red and green horizontal bands with a white crescent and eight-pointed star in the red band. Adopted by the Azerbaijan Democratic Republic in 1918, it was restored in 1991.",
+  "origin": [
+    "The Azerbaijan Democratic Republic, the first parliamentary republic in the Muslim world, adopted this tricolour on 9 November 1918. After the Soviet takeover in 1920 it was replaced by the flags of the Azerbaijan SSR.",
+    "The tricolour was used by the opposition from the late 1980s, adopted by the Nakhchivan Autonomous Republic in 1990, and restored as the national flag on 5 February 1991."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#0092BC", "family": "light-blue", "meaning": "Turkic heritage.", "basis": "official" },
+    { "name": "Red", "hex": "#E4002B", "family": "red", "meaning": "Progress and the building of a modern, democratic state.", "basis": "official" },
+    { "name": "Green", "hex": "#00AF66", "family": "green", "meaning": "Islam.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent and eight-pointed star", "description": "A white crescent with an eight-pointed star to its right, in the red band.", "meaning": "The crescent is linked to Islam; the eight points are often said to represent the eight Turkic peoples, or the eight letters of the name 'Azerbaijan' in the Arabic script.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1918, "to": 1920, "label": "Azerbaijan Democratic Republic" },
+    { "from": 1952, "to": 1991, "label": "Azerbaijan SSR", "note": "Red with a blue band." },
+    { "from": 1991, "to": null, "label": "Tricolour restored" }
+  ],
+  "facts": [
+    "The National Flag Square in Baku held one of the tallest flagpoles in the world when it opened in 2010.",
+    "National Flag Day is 9 November, the anniversary of the 1918 adoption.",
+    "The three colours are often summarised as 'Turkify, Modernise, Islamise', a slogan of the writer Ali bey Huseynzade."
+  ],
+  "clues": [
+    "Light blue, red and green bands with a white crescent and eight-pointed star.",
+    "Its slogan was 'Turkify, Modernise, Islamise'.",
+    "First adopted by the first parliamentary republic in the Muslim world, in 1918.",
+    "Its star has eight points."
+  ],
+  "lookalikes": ["uzbekistan", "turkey"],
+  "tags": ["horizontal-tricolour", "crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Azerbaijan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Azerbaijan" },
+    { "title": "Azerbaijan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/az.html" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "united-arab-emirates",
+  "wikidata": "Q878",
+  "name": "United Arab Emirates",
+  "flagName": "Flag of the United Arab Emirates",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1971,
+  "to": null,
+  "adopted": "1971-12-02",
+  "ratio": "1:2",
+  "designer": "Abdullah Mohammed Al Maainah",
+  "aliases": ["UAE", "Emirates"],
+  "summary": "Green, white and black horizontal bands with a vertical red band at the hoist, in the Pan-Arab colours. Designed by a 19-year-old, it was raised when the federation was formed on 2 December 1971.",
+  "origin": [
+    "Before the union, the Trucial States used red-and-white flags. Ahead of federation, a public competition was held; Abdullah Mohammed Al Maainah, then 19, submitted the winning design among more than 1,000 entries.",
+    "The flag was first raised by Sheikh Zayed bin Sultan Al Nahyan, the first President, at Union House in Dubai on 2 December 1971."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EF3340", "family": "red", "meaning": "From the flags of the individual emirates; commonly linked to courage and sacrifice.", "basis": "traditional" },
+    { "name": "Green", "hex": "#00843D", "family": "green", "meaning": "Commonly linked to fertility and prosperity.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly linked to neutrality and peace.", "basis": "popular" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Commonly linked to the defeat of enemies, or the oil wealth of the country.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1971, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "UAE Flag Day is 3 November, marking the accession of President Khalifa bin Zayed in 2004.",
+    "The colours come from a line of Arab poetry by Safi al-Din al-Hilli, often quoted as their meaning: white deeds, black battles, green pastures, red swords.",
+    "Each of the seven emirates also has its own flag, most red with white."
+  ],
+  "clues": [
+    "A vertical red band at the hoist, with green, white and black horizontal bands.",
+    "Designed by a 19-year-old in a competition for a new federation in 1971.",
+    "Its seven member states each keep their own flags."
+  ],
+  "lookalikes": ["kuwait", "jordan", "sudan"],
+  "tags": ["horizontal-tricolour", "pan-arab"],
+  "sources": [
+    { "title": "Flag of the United Arab Emirates (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates" }
+  ]
+}

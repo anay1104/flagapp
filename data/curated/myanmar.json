@@ -1,0 +1,49 @@
+{
+  "id": "myanmar",
+  "wikidata": "Q836",
+  "name": "Myanmar",
+  "flagName": "Flag of Myanmar",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2010,
+  "to": null,
+  "adopted": "2010-10-21",
+  "ratio": "2:3",
+  "aliases": ["Burma"],
+  "summary": "Yellow, green and red horizontal bands with a large white five-pointed star in the centre. It was introduced in 2010 under the constitution drawn up by the military government, replacing the flag used since 1974.",
+  "origin": [
+    "After independence from Britain in 1948, Burma's flag was red with a blue canton holding a large white star and five small stars. The socialist government of 1974 replaced the stars with a cogwheel and rice plant surrounded by fourteen stars.",
+    "The 2008 constitution, written under the military government, specified a new flag, which was raised on 21 October 2010, shortly before elections. The design recalls the flag of the Japanese-backed State of Burma during the Second World War, which used the same colours with a peacock."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FECB00", "family": "yellow", "meaning": "Solidarity.", "basis": "official" },
+    { "name": "Green", "hex": "#34B233", "family": "green", "meaning": "Peace, tranquillity and the country's greenery.", "basis": "official" },
+    { "name": "Red", "hex": "#EA2839", "family": "red", "meaning": "Courage and decisiveness.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "White star", "description": "A large five-pointed star overlapping all three bands.", "meaning": "The significance of the union of the country.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1948, "to": 1974, "label": "Union of Burma", "note": "Red with a blue canton and stars." },
+    { "from": 1974, "to": 2010, "label": "Socialist Republic and Union of Myanmar", "note": "Cogwheel, rice and fourteen stars in the canton." },
+    { "from": 2010, "to": null, "label": "Republic of the Union of Myanmar" }
+  ],
+  "facts": [
+    "The old flags were ordered to be burned when the new flag was introduced in 2010.",
+    "Pro-democracy movements have used other flags, including a red flag with a fighting peacock.",
+    "Lithuania's flag uses the same three colours in a different order, without the star."
+  ],
+  "clues": [
+    "Yellow, green and red bands with a large white star across them.",
+    "Introduced in 2010 under a military-drafted constitution.",
+    "Its predecessor had a cogwheel and rice plant in the canton.",
+    "Its colours echo a wartime flag that featured a peacock."
+  ],
+  "lookalikes": ["lithuania", "ghana"],
+  "tags": ["horizontal-tricolour", "star"],
+  "sources": [
+    { "title": "Flag of Myanmar (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Myanmar" },
+    { "title": "Myanmar (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/mm.html" }
+  ]
+}

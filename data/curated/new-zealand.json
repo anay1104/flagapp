@@ -1,0 +1,51 @@
+{
+  "id": "new-zealand",
+  "wikidata": "Q664",
+  "name": "New Zealand",
+  "flagName": "Flag of New Zealand",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1902,
+  "to": null,
+  "adopted": "1902-06-12",
+  "ratio": "1:2",
+  "summary": "A blue ensign with the Union Flag in the canton and four red stars edged in white in the fly, representing the Southern Cross. In use since 1869 at sea and the national flag since 1902, it was retained in a 2016 referendum.",
+  "origin": [
+    "New Zealand's first flag, the United Tribes flag, was chosen by Māori chiefs in 1834 to register ships. After the Treaty of Waitangi in 1840, the Union Flag was used.",
+    "From 1869 colonial government ships flew a blue ensign with the Southern Cross. The New Zealand Ensign Act 1901 (in force 1902) made the blue ensign with four red stars the national flag; the Flags, Emblems, and Names Protection Act 1981 confirmed it.",
+    "Referendums in 2015 and 2016 chose an alternative design (a silver fern on black and blue) and then put it against the current flag; 56.7% voted to keep the existing flag."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The blue sea and sky surrounding New Zealand.", "basis": "official" },
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "The stars; red also appears in the Union Flag.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Fimbriation of the stars and the Union Flag.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Union Flag", "description": "In the canton.", "meaning": "New Zealand's historical origins as a British colony and dominion.", "basis": "official" },
+    { "name": "Southern Cross", "description": "Four red five-pointed stars edged in white.", "meaning": "New Zealand's location in the South Pacific.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1834, "to": 1840, "label": "United Tribes of New Zealand flag" },
+    { "from": 1840, "to": 1869, "label": "Union Flag" },
+    { "from": 1869, "to": 1902, "label": "Colonial blue ensign" },
+    { "from": 1902, "to": null, "label": "National flag", "note": "Retained after the 2015–2016 referendums." }
+  ],
+  "facts": [
+    "Australia's flag has white stars, five in its Southern Cross, and adds the seven-pointed Commonwealth Star.",
+    "The Tino Rangatiratanga flag, a Māori flag, has been flown alongside the national flag on Waitangi Day since 2010.",
+    "The 2016 alternative, by Kyle Lockwood, combined a silver fern with the Southern Cross."
+  ],
+  "clues": [
+    "A blue ensign with four red stars edged in white.",
+    "It survived a 2016 referendum against a silver-fern design.",
+    "Its neighbour's very similar flag has white stars and an extra seven-pointed star.",
+    "A flag chosen by Māori chiefs in 1834 preceded it."
+  ],
+  "lookalikes": ["australia", "tuvalu", "fiji"],
+  "tags": ["canton", "union-jack", "star", "southern-cross", "fimbriation", "former-colony", "astronomy"],
+  "sources": [
+    { "title": "New Zealand flag (Ministry for Culture and Heritage)", "url": "https://mch.govt.nz/nz-identity-heritage/flags-and-symbols/new-zealand-flag" },
+    { "title": "Flags, Emblems, and Names Protection Act 1981", "url": "https://www.legislation.govt.nz/act/public/1981/0047/latest/whole.html" },
+    { "title": "Flag of New Zealand (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_New_Zealand" }
+  ]
+}

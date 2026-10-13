@@ -1,0 +1,45 @@
+{
+  "id": "ottoman-empire",
+  "wikidata": "Q12560",
+  "name": "Ottoman Empire",
+  "flagName": "Flag of the Ottoman Empire (1844–1922)",
+  "category": "historical",
+  "tier": 1,
+  "from": 1844,
+  "to": 1922,
+  "adopted": "1844",
+  "ratio": "2:3",
+  "summary": "A white crescent and five-pointed star on a red field, the last flag of the Ottoman Empire. Introduced during the Tanzimat reforms, it passed almost unchanged to the Republic of Turkey.",
+  "origin": [
+    "For much of its history the Ottoman Empire had no single national flag; rulers, regiments and fleets used many banners, often green, red or white, sometimes with crescents, the double-bladed sword Zulfiqar, or inscriptions.",
+    "In 1793 Selim III introduced a red naval flag with a white crescent and eight-pointed star. Under the Tanzimat reforms, around 1844, the star was reduced to five points and the red crescent-and-star flag became the national flag of the empire.",
+    "After the empire was dissolved in 1922, the Republic of Turkey kept the design, standardising it in 1936."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#E30A17", "family": "red", "meaning": "Long associated with Ottoman military and naval banners.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The crescent and star.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A white crescent with a five-pointed star in its opening.", "meaning": "The crescent was a symbol of Byzantine Constantinople before the Ottoman conquest of 1453 and became an Ottoman emblem; it later came to be widely seen as a symbol of Islam.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1453, "to": 1793, "label": "Various imperial and military banners", "note": "Red, green and white banners with crescents, swords or inscriptions." },
+    { "from": 1793, "to": 1844, "label": "Naval flag of Selim III", "note": "Eight-pointed star." },
+    { "from": 1844, "to": 1922, "label": "National flag", "note": "Five-pointed star." }
+  ],
+  "facts": [
+    "The Ottoman sultan also had a personal standard, the imperial standard, with the tughra (calligraphic monogram).",
+    "Images of the Ottoman 'flag' from before the 18th century are often modern reconstructions; several such images circulate online as 'fictitious' designs.",
+    "Tunisia, Libya, Algeria and other former Ottoman lands kept crescent-and-star flags."
+  ],
+  "clues": [
+    "A white crescent and five-pointed star on red, from an empire that ended in 1922.",
+    "Its star was reduced from eight to five points during a reform era.",
+    "A republic kept its design almost unchanged."
+  ],
+  "lookalikes": ["turkey", "tunisia"],
+  "tags": ["crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flags of the Ottoman Empire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flags_of_the_Ottoman_Empire" }
+  ]
+}

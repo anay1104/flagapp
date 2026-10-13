@@ -75,7 +75,14 @@ export default function FlagDetail({ flag: f, related = [], lookalikes = [], tag
           </p>
           <h1>{f.flagName}</h1>
           {f.nickname && <p class="nickname">{f.nickname}</p>}
-          {f.summary ? <p class="summary">{f.summary}</p> : f.description && <p class="summary">{capitalise(f.description)}.</p>}
+          {f.summary ? (
+            <p class="summary">{f.summary}</p>
+          ) : (
+            <>
+              <p class="summary">{autoSummary(f)}</p>
+              <p class="muted small">Summary generated from Wikidata and the flag image.</p>
+            </>
+          )}
           <dl class="facts">
             {facts
               .filter(([, v]) => v)
@@ -177,6 +184,41 @@ export default function FlagDetail({ flag: f, related = [], lookalikes = [], tag
         </section>
       )}
 
+      {!f.colors?.length && f.palette && f.palette.length > 0 && (
+        <section>
+          <h2>Colours</h2>
+          <div class="palette" role="img" aria-label={f.palette.map(([c, s]) => `${COLOUR_NAMES[c] ?? c} ${Math.round(s * 100)}%`).join(', ')}>
+            {f.palette.map(([c, s]) => (
+              <span key={c} style={{ flexGrow: s, background: SWATCH[c] ?? '#888' }} />
+            ))}
+          </div>
+          <ul class="palette-legend small">
+            {f.palette.map(([c, s]) => (
+              <li key={c}>
+                <span class="dot" style={{ background: SWATCH[c] ?? '#888' }} />
+                {COLOUR_NAMES[c] ?? c} <span class="muted">{Math.round(s * 100)}%</span>
+              </li>
+            ))}
+          </ul>
+          <p class="muted small">Measured from the image; shares are approximate and fine details may be missed.</p>
+        </section>
+      )}
+
+      {f.wiki && <WikiText wiki={f.wiki} curated={!!f.curated} />}
+
+      {f.commons?.description && (
+        <section class="prose">
+          <h2>Image description</h2>
+          {f.commons.description.split(/\n+/).map((p, i) => (
+            <p key={i}>{p}</p>
+          ))}
+          <p class="muted small">
+            From the <a href={commonsPage(f.image)}>Wikimedia Commons file page</a>
+            {f.commons.license && <> ({f.commons.license})</>}.
+          </p>
+        </section>
+      )}
+
       {!f.curated && (f.depicts?.length || f.colorNames?.length) ? (
         <section>
           <h2>Elements</h2>
@@ -237,10 +279,19 @@ export default function FlagDetail({ flag: f, related = [], lookalikes = [], tag
             </li>
           )}
           <li>
-            <a href={commonsPage(f.image)}>Image on Wikimedia Commons</a> (see the file page for its licence)
+            <a href={commonsPage(f.image)}>Image on Wikimedia Commons</a>
+            {f.commons?.artist && <> by {f.commons.artist}</>}
+            {f.commons?.license ? (
+              <>
+                {', '}
+                {f.commons.licenseUrl ? <a href={f.commons.licenseUrl}>{f.commons.license}</a> : f.commons.license}
+              </>
+            ) : (
+              ' (see the file page for its licence)'
+            )}
           </li>
         </ul>
-        {!f.curated && (
+        {!f.curated && !f.wiki && (
           <p class="muted small">
             This is a catalogue entry imported from Wikidata. It has no written description yet, so check dates against the
             sources.
@@ -251,10 +302,76 @@ export default function FlagDetail({ flag: f, related = [], lookalikes = [], tag
   );
 }
 
+function WikiText({ wiki, curated }: { wiki: NonNullable<FlagRecord['wiki']>; curated: boolean }) {
+  const heading = curated ? 'More from Wikipedia' : wiki.kind === 'article' ? 'About this flag' : `From the article on ${wiki.title}`;
+  return (
+    <section class="prose wiki">
+      <h2>{heading}</h2>
+      {wiki.sections.map((s, i) => (
+        <div key={i}>
+          {s.heading && (s.level <= 2 ? <h3>{s.heading}</h3> : <h4>{s.heading}</h4>)}
+          {s.text.split(/\n+/).map((p, j) => (
+            <p key={j}>{p}</p>
+          ))}
+        </div>
+      ))}
+      <p class="attribution small muted">
+        Text from the Wikipedia article <a href={wiki.url}>{wiki.title}</a>, by{' '}
+        <a href={`${wiki.url}?action=history`}>its contributors</a>, licensed under{' '}
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Shown as plain text without the
+        article's citations; see the original for references.
+      </p>
+    </section>
+  );
+}
+
 function Basis({ basis }: { basis: keyof typeof BASIS_LABELS }) {
   return <span class={`basis basis-${basis}`}>{BASIS_LABELS[basis]}</span>;
 }
 
-function capitalise(s: string) {
-  return s.charAt(0).toUpperCase() + s.slice(1);
+const COLOUR_NAMES: Record<string, string> = {
+  red: 'Red',
+  white: 'White',
+  blue: 'Blue',
+  'light-blue': 'Light blue',
+  green: 'Green',
+  yellow: 'Yellow',
+  orange: 'Orange',
+  black: 'Black',
+  maroon: 'Maroon',
+  purple: 'Purple',
+  brown: 'Brown',
+  grey: 'Grey',
+};
+
+const SWATCH: Record<string, string> = {
+  red: '#D52B1E',
+  white: '#FFFFFF',
+  blue: '#0B3D91',
+  'light-blue': '#6CACE4',
+  green: '#007A3D',
+  yellow: '#FCD116',
+  orange: '#F7941D',
+  black: '#111111',
+  maroon: '#7A1F2B',
+  purple: '#6A2C91',
+  brown: '#7B4A12',
+  grey: '#9AA0A6',
+};
+
+function listJoin(items: string[]): string {
+  if (items.length <= 1) return items.join('');
+  return `${items.slice(0, -1).join(', ')} and ${items[items.length - 1]}`;
+}
+
+/** One-sentence overview for flags without written text, built only from known data. */
+function autoSummary(f: FlagRecord): string {
+  const colours = (f.palette ?? []).map(([c]) => (COLOUR_NAMES[c] ?? c).toLowerCase());
+  const what = colours.length ? `A ${listJoin(colours)} flag` : 'A flag';
+  const owner = f.description ? `${f.name}, ${f.description.replace(/\.$/, '')}` : f.name;
+  let s = `${what} used by ${owner}.`;
+  if (f.from !== null && f.to === null && f.current) s += ` In use since ${f.from < 0 ? `${-f.from} BCE` : f.from}.`;
+  else if (f.from !== null || f.to !== null) s += ` In use ${years(f.from, f.to, f.current)}.`;
+  if (f.depicts?.length) s += ` It shows ${listJoin(f.depicts.slice(0, 5))}.`;
+  return s;
 }

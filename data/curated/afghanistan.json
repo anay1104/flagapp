@@ -1,0 +1,47 @@
+{
+  "id": "afghanistan",
+  "wikidata": "Q889",
+  "name": "Afghanistan",
+  "flagName": "Flag of Afghanistan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2021,
+  "to": null,
+  "adopted": "2021-08-15",
+  "ratio": "2:3",
+  "summary": "A white field bearing the Shahada, the Islamic declaration of faith, in black. It is the flag of the Taliban's Islamic Emirate of Afghanistan, in control since August 2021. The black-red-green tricolour of the former Islamic Republic is still used by many Afghans abroad and at some international bodies.",
+  "origin": [
+    "Afghanistan has changed its flag more often than almost any other country, with over twenty designs since the early 20th century. Black, red and green, with the national emblem of a mosque, featured on most flags from 1928.",
+    "The Taliban first used a plain white flag after taking Kabul in 1996, adding the Shahada in 1997. After their removal in 2001 the Islamic Republic used a black-red-green tricolour with the national emblem. When the Taliban retook Kabul on 15 August 2021, they restored the white flag with the Shahada.",
+    "The Islamic Emirate is not widely recognised internationally, and the tricolour remains in use at the United Nations and at many Afghan embassies and diaspora events."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly explained as the purity of the Islamic faith.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The inscription.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Shahada", "description": "'There is no god but God; Muhammad is the Messenger of God' in black Arabic script.", "meaning": "The Islamic declaration of faith.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1928, "to": 1996, "label": "Kingdom, Republic and Democratic Republic", "note": "Many designs, mostly in black, red and green." },
+    { "from": 1997, "to": 2001, "label": "Islamic Emirate (first)", "note": "White with the Shahada." },
+    { "from": 2002, "to": 2021, "label": "Islamic Republic", "note": "Black-red-green tricolour with the national emblem." },
+    { "from": 2021, "to": null, "label": "Islamic Emirate (second)" }
+  ],
+  "facts": [
+    "Afghanistan's flag has changed more often in the 20th century than that of almost any other country.",
+    "Saudi Arabia's flag also bears the Shahada, in white on green.",
+    "The black-red-green tricolour is still flown by many Afghans as a symbol of the former republic."
+  ],
+  "clues": [
+    "White with the Islamic declaration of faith in black script.",
+    "The tricolour it replaced in 2021 is still used at the United Nations.",
+    "Its country has had more than twenty flags since the early 20th century."
+  ],
+  "lookalikes": ["saudi-arabia"],
+  "tags": ["plain-field", "text", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Afghanistan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Afghanistan" },
+    { "title": "Afghanistan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/af.html" }
+  ]
+}

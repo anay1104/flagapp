@@ -1,0 +1,47 @@
+{
+  "id": "paraguay",
+  "wikidata": "Q733",
+  "name": "Paraguay",
+  "flagName": "Flag of Paraguay",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2013,
+  "to": null,
+  "adopted": "1842-11-25",
+  "ratio": "3:5",
+  "summary": "Red, white and blue horizontal bands with a different emblem on each side: the national arms on the front and the treasury seal on the back. It is one of only a few national flags whose two sides differ.",
+  "origin": [
+    "Paraguay declared independence from Spain in 1811. Red, white and blue were used from the early years; the colours are often linked to the French tricolour or to the flags of the Río de la Plata.",
+    "The current design, with different emblems on each side, was set by Congress on 25 November 1842. The emblems were redrawn several times, most recently in 2013."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D52B1E", "family": "red", "meaning": "Patriotism, courage and equality.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and unity.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#0038A8", "family": "blue", "meaning": "Liberty and generosity.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Coat of arms (obverse)", "description": "A yellow five-pointed star (the Star of May) in a wreath of palm and olive, with 'República del Paraguay' around it.", "meaning": "Independence, declared in May 1811.", "basis": "official" },
+    { "name": "Treasury seal (reverse)", "description": "A lion beside a pole topped by a red Phrygian cap, with the motto 'Paz y Justicia' (Peace and Justice).", "meaning": "The lion defends liberty, symbolised by the cap.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1842, "to": 1990, "label": "Two-sided flag", "note": "Emblems redrawn several times." },
+    { "from": 1990, "to": 2013, "label": "Revised emblems" },
+    { "from": 2013, "to": null, "label": "Current emblems" }
+  ],
+  "facts": [
+    "Paraguay's flag is one of very few national flags with different designs on each side; the flag of Saudi Arabia is double-sided but identical.",
+    "Its lion and Phrygian cap echo French revolutionary symbolism.",
+    "Flag Day is 14 August."
+  ],
+  "clues": [
+    "Red, white and blue horizontal bands with a different emblem on each side.",
+    "Its reverse shows a lion guarding a liberty cap.",
+    "Its front shows a star named after the month of its independence."
+  ],
+  "lookalikes": ["netherlands", "luxembourg", "croatia"],
+  "tags": ["horizontal-tricolour", "emblem", "star", "plant", "animal", "text"],
+  "sources": [
+    { "title": "Flag of Paraguay (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Paraguay" },
+    { "title": "Paraguay (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/py.html" }
+  ]
+}

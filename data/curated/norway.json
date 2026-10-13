@@ -1,0 +1,106 @@
+{
+  "id": "norway",
+  "wikidata": "Q20",
+  "name": "Norway",
+  "flagName": "Flag of Norway",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1821,
+  "to": null,
+  "adopted": "1821-07-13",
+  "ratio": "8:11",
+  "designer": "Frederik Meltzer",
+  "summary": "A blue Nordic cross edged in white on a red field. Designed in 1821 by parliamentarian Frederik Meltzer, it combines the Danish Dannebrog with blue, and its red, white and blue were seen as colours of liberty, shared with France, the US and the UK.",
+  "origin": [
+    "Norway was ruled from Denmark for centuries and used the Dannebrog. After the union with Denmark ended in 1814 and Norway entered a union with Sweden, the Storting (parliament) debated a distinct national flag.",
+    "Frederik Meltzer's proposal, a blue cross superimposed on the Dannebrog, was approved by the Storting in 1821. At first merchant ships could fly it only north of Cape Finisterre, because Norwegian ships south of there relied on Swedish treaties for protection from Barbary corsairs. It was allowed on all seas from 1838, and from 1844 it carried the union mark in its canton.",
+    "In 1898 the Storting voted to remove the union mark from the merchant flag, and after the union was dissolved in 1905 the mark disappeared from all Norwegian flags."
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "hex": "#BA0C2F",
+      "family": "red",
+      "meaning": "From the Danish flag; red, white and blue were seen in 1821 as colours of freedom, after the flags of France, the US and Britain.",
+      "basis": "traditional"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "See red.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Blue",
+      "hex": "#00205B",
+      "family": "blue",
+      "meaning": "See red; the blue cross also marks Norway's distinction from Denmark.",
+      "basis": "traditional"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Fimbriated Nordic cross",
+      "description": "A blue cross with a white border, offset toward the hoist.",
+      "meaning": "Christianity and the Nordic tradition; nicknamed 'the mother of all flags' because it contains the flags of France, the Netherlands, Thailand and others within its pattern.",
+      "basis": "popular"
+    }
+  ],
+  "history": [
+    {
+      "from": 1821,
+      "to": 1844,
+      "label": "Adopted by the Storting",
+      "note": "Restricted at sea south of Cape Finisterre until 1838."
+    },
+    {
+      "from": 1844,
+      "to": 1899,
+      "label": "With the union mark",
+      "note": "The 'herring salad' in the canton."
+    },
+    {
+      "from": 1899,
+      "to": null,
+      "label": "Pure flag",
+      "note": "Union mark removed from merchant flags in 1899 and all flags in 1905."
+    }
+  ],
+  "facts": [
+    "Norway's flag is sometimes called 'the mother of flags': the flags of Indonesia, Poland, Finland, France, the Netherlands and Thailand can each be found within its pattern.",
+    "Iceland's flag uses the same pattern with the colours swapped: a red cross edged in white on blue.",
+    "The state flag and naval ensign are triple-tailed swallowtails."
+  ],
+  "clues": [
+    "A blue cross edged in white on red, offset toward the hoist.",
+    "Designed in 1821 by adding a blue cross to a neighbour's flag.",
+    "Its colours were chosen as colours of liberty, after three revolutionary-era nations.",
+    "A nearby island nation uses the same pattern with its colours swapped."
+  ],
+  "lookalikes": [
+    "iceland",
+    "denmark",
+    "faroe-islands"
+  ],
+  "tags": [
+    "nordic-cross",
+    "fimbriation",
+    "nordic",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Lov om Norges flagg (Lovdata)",
+      "url": "https://lovdata.no/dokument/NL/lov/1898-12-10-1"
+    },
+    {
+      "title": "Flag of Norway (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Norway"
+    },
+    {
+      "title": "Norway (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/no.html"
+    }
+  ]
+}

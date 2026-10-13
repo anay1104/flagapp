@@ -1,0 +1,46 @@
+{
+  "id": "jamaica",
+  "wikidata": "Q766",
+  "name": "Jamaica",
+  "flagName": "Flag of Jamaica",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1962,
+  "to": null,
+  "adopted": "1962-08-06",
+  "ratio": "1:2",
+  "summary": "A gold saltire dividing the field into green triangles at top and bottom and black triangles at hoist and fly. Raised at independence on 6 August 1962, it is the only national flag without red, white or blue.",
+  "origin": [
+    "A bipartisan parliamentary committee designed the flag in 1962 for independence from the United Kingdom, drawing on public suggestions.",
+    "The committee's first proposal had horizontal stripes, but it was found to resemble Tanganyika's flag, so the design was changed to a saltire. The flag was first raised at midnight on 6 August 1962."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The strength and creativity of the people.", "basis": "official" },
+    { "name": "Gold", "hex": "#FED100", "family": "yellow", "meaning": "The wealth of the land and the beauty of the sunlight.", "basis": "official" },
+    { "name": "Green", "hex": "#009B3A", "family": "green", "meaning": "Hope and the country's agricultural resources.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Saltire", "description": "A gold diagonal cross from corner to corner.", "meaning": "The diagonal cross recalls the Saltire of St Andrew; no official religious meaning is attached.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1875, "to": 1962, "label": "Colony of Jamaica", "note": "Blue ensign with the colonial badge." },
+    { "from": 1962, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "The official meaning was revised in 1996: originally black stood for 'hardships overcome and to be faced'.",
+    "The national motto, 'Out of Many, One People', appears on the coat of arms, not the flag.",
+    "It is the only current national flag that has none of red, white or blue."
+  ],
+  "clues": [
+    "A gold diagonal cross with green triangles top and bottom and black triangles at the sides.",
+    "The only national flag with no red, white or blue.",
+    "An earlier horizontal design was dropped for looking like an East African flag.",
+    "Its black triangles were once said to represent hardships."
+  ],
+  "lookalikes": ["scotland", "burundi"],
+  "tags": ["saltire"],
+  "sources": [
+    { "title": "National Symbols (Jamaica Information Service)", "url": "https://jis.gov.jm/information/symbols/" },
+    { "title": "Flag of Jamaica (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Jamaica" }
+  ]
+}

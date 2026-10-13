@@ -1,0 +1,46 @@
+{
+  "id": "bangladesh",
+  "wikidata": "Q902",
+  "name": "Bangladesh",
+  "flagName": "Flag of Bangladesh",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1972,
+  "to": null,
+  "adopted": "1972-01-17",
+  "ratio": "3:5",
+  "designer": "Quamrul Hassan (final version)",
+  "summary": "A red disc on a dark green field, set slightly toward the hoist so that it appears centred when the flag flies. The red stands for the sun rising over Bengal and the blood of those who died in the 1971 Liberation War.",
+  "origin": [
+    "During the struggle against West Pakistan, student activists created a flag in 1970 with a yellow map of East Pakistan inside the red disc. It was raised at Dhaka University on 2 March 1971 and used throughout the Liberation War.",
+    "After independence the map was removed, partly because it was hard to render correctly on both sides of the flag. The artist Quamrul Hassan produced the final design, adopted on 17 January 1972."
+  ],
+  "colors": [
+    { "name": "Bottle green", "hex": "#006A4E", "family": "green", "meaning": "The lushness of the land and its youthful vitality.", "basis": "traditional" },
+    { "name": "Red", "hex": "#F42A41", "family": "red", "meaning": "The rising sun over Bengal and the blood of those who died for independence.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Red disc", "description": "A circle offset toward the hoist by one-twentieth of the flag's length.", "meaning": "The sun rising over Bengal, and the sacrifice of the 1971 Liberation War.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1971, "to": 1972, "label": "Liberation War flag", "note": "With a yellow map of the country in the disc." },
+    { "from": 1972, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Japan's flag also has a red disc, but on white and centred.",
+    "Palau's flag has a yellow disc offset toward the hoist in the same way.",
+    "The disc's offset is set out in the flag rules so it looks centred in the wind."
+  ],
+  "clues": [
+    "A red disc on dark green, set slightly toward the hoist.",
+    "Its disc once contained a yellow map of the country.",
+    "First raised at a university in 1971.",
+    "Its red is both a rising sun and the blood of a liberation war."
+  ],
+  "lookalikes": ["japan", "palau"],
+  "tags": ["disc", "sun", "plain-field"],
+  "sources": [
+    { "title": "Flag of Bangladesh (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bangladesh" },
+    { "title": "Bangladesh (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bd.html" }
+  ]
+}

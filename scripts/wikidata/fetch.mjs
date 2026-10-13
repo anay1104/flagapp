@@ -155,6 +155,8 @@ const CLASS_ROOTS = {
   municipality: 'Q15284',
   military: 'Q176799',
   religious: 'Q13414953',
+  // Elections carry party/candidate flags in Wikidata; they aren't flag owners.
+  election: 'Q40231',
 };
 
 await step('categories', async () => {

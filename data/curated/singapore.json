@@ -1,0 +1,46 @@
+{
+  "id": "singapore",
+  "wikidata": "Q334",
+  "name": "Singapore",
+  "flagName": "Flag of Singapore",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1959,
+  "to": null,
+  "adopted": "1959-12-03",
+  "ratio": "2:3",
+  "designer": "Committee led by Toh Chin Chye",
+  "summary": "Red over white with a white crescent and five white stars in the upper hoist. Designed in 1959 when Singapore gained self-government, it was kept at full independence in 1965.",
+  "origin": [
+    "When Singapore became a self-governing state within the British Empire in 1959, Deputy Prime Minister Toh Chin Chye led a committee to create a flag, coat of arms and anthem. The flag was unveiled on 3 December 1959.",
+    "Toh later said the committee chose the crescent and stars partly to avoid symbols associated with any single community, and that the Chinese community favoured stars while Malays favoured the crescent. Singapore used the flag through its membership of Malaysia (1963–1965) and at independence."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EF3340", "family": "red", "meaning": "Universal brotherhood and equality of humanity.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Pervading and everlasting purity and virtue.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent", "description": "A white crescent opening toward the fly.", "meaning": "A young nation on the rise.", "basis": "official" },
+    { "name": "Five stars", "description": "Five white five-pointed stars in a circle.", "meaning": "The nation's ideals of democracy, peace, progress, justice and equality.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1959, "label": "Colony of Singapore", "note": "Blue ensign with the colonial badge." },
+    { "from": 1959, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Private use of the flag was long restricted to the National Day period; rules were relaxed from 2004 and further in 2023.",
+    "Indonesia and Monaco also use red over white; Singapore adds the crescent and stars.",
+    "The crescent is officially not a religious symbol."
+  ],
+  "clues": [
+    "Red over white with a white crescent and five stars in the upper hoist.",
+    "Its five stars stand for democracy, peace, progress, justice and equality.",
+    "Its crescent represents a young nation rising, not a religion.",
+    "Designed in 1959 for self-government, kept through a brief federation."
+  ],
+  "lookalikes": ["indonesia", "monaco", "poland"],
+  "tags": ["horizontal-bicolour", "crescent", "star"],
+  "sources": [
+    { "title": "Flag of Singapore (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Singapore" }
+  ]
+}

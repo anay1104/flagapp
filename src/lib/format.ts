@@ -28,7 +28,7 @@ export const CATEGORY_PLURALS: Record<Category, string> = {
 
 export const TIER_LABELS = {
   1: 'Full entry',
-  2: 'Rich entry',
+  2: 'Wikipedia entry',
   3: 'Catalogue entry',
 } as const;
 

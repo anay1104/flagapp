@@ -1,0 +1,47 @@
+{
+  "id": "georgia",
+  "wikidata": "Q230",
+  "name": "Georgia",
+  "flagName": "Flag of Georgia",
+  "nickname": "The Five Cross Flag (Khutjvriani Drosha)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2004,
+  "to": null,
+  "adopted": "2004-01-14",
+  "ratio": "2:3",
+  "summary": "A large red cross of St George on white, with a smaller red bolnur-katskhuri cross in each quarter. Based on medieval Georgian banners, it was the flag of Mikheil Saakashvili's United National Movement and was adopted after the Rose Revolution of 2003.",
+  "origin": [
+    "A white banner with a red cross is associated with the medieval Kingdom of Georgia; a flag with a large cross and four smaller crosses appears in a 14th-century map by the Genoese cartographer Pietro Vesconte, labelled at Tbilisi.",
+    "The Georgian Democratic Republic (1918–1921) and independent Georgia from 1990 used a dark red flag with black and white stripes in the canton. The five-cross flag was revived by nationalists in the 1990s, used in the Rose Revolution of November 2003, and adopted by Parliament on 14 January 2004."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#FF0000", "family": "red", "meaning": "Commonly read as courage, justice and love.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly read as innocence, purity and wisdom.", "basis": "popular" }
+  ],
+  "symbols": [
+    { "name": "Cross of St George", "description": "A large red cross across the whole flag.", "meaning": "St George, Georgia's patron saint, and Christianity.", "basis": "traditional" },
+    { "name": "Four bolnur-katskhuri crosses", "description": "Smaller red crosses with flared ends in each quarter.", "meaning": "Christian symbolism; commonly said to represent the Five Wounds or Jesus and the four Evangelists.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1918, "to": 1921, "label": "Democratic Republic of Georgia", "note": "Dark red with black and white canton stripes." },
+    { "from": 1990, "to": 2004, "label": "Republic of Georgia", "note": "The 1918 flag restored." },
+    { "from": 2004, "to": null, "label": "Five Cross Flag" }
+  ],
+  "facts": [
+    "The flag of the Kingdom of Jerusalem used the same five-cross layout in gold on white.",
+    "The Five Cross Flag was the party flag of the United National Movement before becoming the national flag."
+  ],
+  "clues": [
+    "A large red cross on white with four smaller red crosses in the quarters.",
+    "Adopted after a revolution named after a flower in 2003.",
+    "A version is shown on a 14th-century map at the city of Tbilisi.",
+    "Its large cross is that of the nation's patron saint."
+  ],
+  "lookalikes": ["england", "united-kingdom"],
+  "tags": ["cross", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Georgia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)" },
+    { "title": "Georgia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ge.html" }
+  ]
+}

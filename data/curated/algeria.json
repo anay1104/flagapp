@@ -1,0 +1,45 @@
+{
+  "id": "algeria",
+  "wikidata": "Q262",
+  "name": "Algeria",
+  "flagName": "Flag of Algeria",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1962,
+  "to": null,
+  "adopted": "1962-07-03",
+  "ratio": "2:3",
+  "summary": "Vertical halves of green and white with a red crescent and star in the centre. Based on the banner of the National Liberation Front (FLN), it was raised at independence from France in 1962.",
+  "origin": [
+    "A green and white flag with a red crescent and star was used by the nationalist leader Messali Hadj's movement from the 1920s–1930s. The FLN adopted it during the War of Independence (1954–1962), and the Provisional Government of the Algerian Republic used it from 1958.",
+    "It became the national flag on 3 July 1962, and Law 63-145 of April 1963 fixed its design."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#006233", "family": "green", "meaning": "Islam, and the hope and natural beauty of the land.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity and peace.", "basis": "traditional" },
+    { "name": "Red", "hex": "#D21034", "family": "red", "meaning": "The blood of those killed in the struggle for independence.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A red crescent and five-pointed star straddling the green and white halves.", "meaning": "Islam.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1958, "to": 1962, "label": "Provisional Government (GPRA)" },
+    { "from": 1962, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Algeria's crescent has unusually long horns; the 1963 law gives its exact geometry.",
+    "Recent Algerian constitutions list the national symbols among the provisions that cannot be amended.",
+    "Mauritania's and Pakistan's flags also combine green and white with a crescent and star."
+  ],
+  "clues": [
+    "Green and white vertical halves with a red crescent and star.",
+    "Its design came from a liberation front during a war of independence against France.",
+    "Its crescent's horns are unusually long."
+  ],
+  "lookalikes": ["pakistan", "mauritania"],
+  "tags": ["vertical-bicolour", "crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Algeria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Algeria" },
+    { "title": "Algeria (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/dz.html" }
+  ]
+}

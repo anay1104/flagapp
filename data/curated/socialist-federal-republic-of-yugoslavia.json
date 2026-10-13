@@ -1,0 +1,48 @@
+{
+  "id": "socialist-federal-republic-of-yugoslavia",
+  "wikidata": "Q83286",
+  "name": "Socialist Federal Republic of Yugoslavia",
+  "flagName": "Flag of the Socialist Federal Republic of Yugoslavia",
+  "category": "historical",
+  "tier": 1,
+  "from": 1946,
+  "to": 1992,
+  "adopted": "1946-01-31",
+  "ratio": "1:2",
+  "aliases": ["Yugoslavia", "SFRY", "SFR Yugoslavia"],
+  "summary": "A blue, white and red horizontal tricolour with a large red star edged in gold in the centre. The Pan-Slavic tricolour of the Kingdom of Yugoslavia was given a communist star by Tito's partisans.",
+  "origin": [
+    "The Kingdom of Serbs, Croats and Slovenes (from 1929 the Kingdom of Yugoslavia) used a blue-white-red tricolour, the Pan-Slavic colours.",
+    "During the Second World War, Josip Broz Tito's partisans added a red star. The star-and-tricolour became the flag of the Federal People's Republic of Yugoslavia under its 1946 constitution, and continued under the Socialist Federal Republic from 1963.",
+    "After Slovenia, Croatia, Bosnia and Herzegovina and North Macedonia declared independence in 1991–1992, Serbia and Montenegro formed the Federal Republic of Yugoslavia and used the tricolour without the star."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#003893", "family": "blue", "meaning": "The Pan-Slavic colours of the South Slav peoples.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "See blue.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DE0000", "family": "red", "meaning": "See blue.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Red star", "description": "A large five-pointed red star bordered in gold, overlapping all three bands.", "meaning": "Socialism and the partisan struggle in the Second World War.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1918, "to": 1941, "label": "Kingdom of Yugoslavia", "note": "Blue-white-red tricolour." },
+    { "from": 1946, "to": 1992, "label": "Federal People's / Socialist Federal Republic", "note": "Tricolour with the red star." },
+    { "from": 1992, "to": 2003, "label": "Federal Republic of Yugoslavia", "note": "Serbia and Montenegro; tricolour without the star." }
+  ],
+  "facts": [
+    "Each of the six republics had its own flag, mostly national tricolours with the red star.",
+    "The star's points touch all three bands, so the star overlaps blue, white and red.",
+    "Serbia's flag uses red-blue-white, the Yugoslav colours in a different order."
+  ],
+  "clues": [
+    "Blue, white and red bands with a large red star edged in gold across them.",
+    "Partisans added its star during the Second World War.",
+    "Its federation broke apart in 1991–1992, leaving two republics to keep the plain tricolour.",
+    "Its six republics each had their own star-bearing flags."
+  ],
+  "lookalikes": ["netherlands", "croatia", "serbia"],
+  "tags": ["horizontal-tricolour", "star", "communist", "pan-slavic"],
+  "sources": [
+    { "title": "Flag of Yugoslavia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Yugoslavia" }
+  ]
+}

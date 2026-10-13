@@ -1,0 +1,47 @@
+{
+  "id": "jordan",
+  "wikidata": "Q810",
+  "name": "Jordan",
+  "flagName": "Flag of Jordan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1928,
+  "to": null,
+  "adopted": "1928-04-16",
+  "ratio": "1:2",
+  "summary": "Black, white and green horizontal bands with a red triangle at the hoist bearing a white seven-pointed star. It is based on the flag of the Arab Revolt of 1916 against the Ottoman Empire.",
+  "origin": [
+    "During the Arab Revolt of 1916–1918, Sharif Hussein of Mecca flew a flag of black, green and white bands with a red triangle, designed by the British diplomat Mark Sykes. Hussein's son Abdullah founded the Emirate of Transjordan in 1921.",
+    "Transjordan adopted the revolt flag with a white seven-pointed star in the triangle on 16 April 1928, and kept it when the Hashemite Kingdom of Jordan became fully independent in 1946."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The Abbasid Caliphate.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The Umayyad Caliphate.", "basis": "official" },
+    { "name": "Green", "hex": "#007A3D", "family": "green", "meaning": "The Fatimid Caliphate.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The Hashemite dynasty and the Arab Revolt.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Seven-pointed star", "description": "A white star in the red triangle.", "meaning": "The seven verses of Al-Fatiha, the opening chapter of the Quran; also said to represent the unity of the Arab peoples.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1917, "to": 1928, "label": "Arab Revolt flag", "note": "Without the star." },
+    { "from": 1928, "to": null, "label": "Transjordan and Jordan" }
+  ],
+  "facts": [
+    "Palestine's flag is identical apart from the star.",
+    "Sudan, Kuwait, the UAE and Palestine all use colour schemes derived from the Arab Revolt flag.",
+    "Its seven-pointed star is unusual; most national flag stars have five points."
+  ],
+  "clues": [
+    "Black, white and green bands with a red hoist triangle holding a white seven-pointed star.",
+    "Its star's points refer to the verses of a chapter of the Quran.",
+    "Based on the flag of a revolt against the Ottoman Empire in 1916.",
+    "A neighbouring flag is identical except for the star."
+  ],
+  "lookalikes": ["palestine", "sudan"],
+  "tags": ["horizontal-tricolour", "hoist-triangle", "star", "religious-symbol", "pan-arab", "monarchy"],
+  "sources": [
+    { "title": "Flag of Jordan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Jordan" },
+    { "title": "Jordan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/jo.html" }
+  ]
+}

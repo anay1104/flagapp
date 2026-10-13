@@ -1,0 +1,51 @@
+{
+  "id": "russia",
+  "wikidata": "Q159",
+  "name": "Russia",
+  "flagName": "Flag of Russia",
+  "nickname": "Trikolor",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1993,
+  "to": null,
+  "adopted": "1993-12-11",
+  "ratio": "2:3",
+  "summary": "A horizontal tricolour of white, blue and red. Associated with Peter the Great's merchant ships in the late 17th century, it became the national flag of the Russian Empire in 1896, gave way to the red Soviet flags in 1918, and returned in 1991.",
+  "origin": [
+    "The white-blue-red tricolour appears on Russian merchant ships in the late 17th century. Tradition credits Tsar Peter the Great, who studied shipbuilding in the Dutch Republic, with basing it on the Dutch tricolour; the earliest firm evidence is the merchant flag of the 1690s and Peter's decrees of the early 1700s.",
+    "In 1858 Alexander II introduced a black-yellow-white 'imperial colours' flag for state occasions, but in 1883 Alexander III restored white-blue-red, and in 1896 Nicholas II confirmed it as the national flag.",
+    "After the October Revolution the Bolsheviks replaced it with red flags, from 1918 for the Russian SFSR and from 1923 for the Soviet Union. The tricolour reappeared during the failed coup of August 1991 and was adopted on 22 August 1991, now marked as National Flag Day. A presidential decree of 11 December 1993 set its current form, and a federal constitutional law of 2000 confirmed it."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "No official meaning. Popular readings include nobility and frankness, or Belarus (White Russia).", "basis": "popular" },
+    { "name": "Blue", "hex": "#0039A6", "family": "blue", "meaning": "No official meaning. Popular readings include faithfulness and honesty, or the Virgin Mary, or Ukraine (Little Russia).", "basis": "popular" },
+    { "name": "Red", "hex": "#D52B1E", "family": "red", "meaning": "No official meaning. Popular readings include courage and love, or Great Russia.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1693, "to": 1858, "label": "White-blue-red merchant flag" },
+    { "from": 1858, "to": 1883, "label": "Black-yellow-white imperial flag", "note": "Used alongside the tricolour for state occasions." },
+    { "from": 1896, "to": 1918, "label": "National flag of the Russian Empire", "note": "Also used by the Provisional Government in 1917." },
+    { "from": 1918, "to": 1991, "label": "Red flags of the Russian SFSR and the Soviet Union" },
+    { "from": 1991, "to": 1993, "label": "Tricolour restored", "note": "Initially in a 1:2 ratio with a lighter blue." },
+    { "from": 1993, "to": null, "label": "Current flag", "note": "Presidential decree of 11 December 1993." }
+  ],
+  "facts": [
+    "Russia's tricolour is the model for the Pan-Slavic colours used by Serbia, Slovakia, Slovenia, Croatia and others, adopted at the Prague Slavic Congress of 1848.",
+    "National Flag Day, 22 August, marks the tricolour's return in 1991.",
+    "There is no official meaning for the colours; all common explanations are informal."
+  ],
+  "clues": [
+    "White, blue and red horizontal bands, with no emblem.",
+    "Traditionally linked to a tsar who studied shipbuilding abroad.",
+    "It disappeared for over seventy years and returned during a failed coup.",
+    "Its colours became the basis for a family of flags named after an ethnolinguistic group."
+  ],
+  "lookalikes": ["netherlands", "slovenia", "slovakia", "serbia"],
+  "tags": ["horizontal-tricolour", "pan-slavic"],
+  "sources": [
+    { "title": "Federal Constitutional Law on the State Flag of the Russian Federation (2000)", "url": "http://www.kremlin.ru/acts/bank/16397" },
+    { "title": "Flag of Russia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Russia" },
+    { "title": "Russia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ru.html" }
+  ]
+}

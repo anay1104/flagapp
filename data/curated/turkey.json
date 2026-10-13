@@ -1,0 +1,50 @@
+{
+  "id": "turkey",
+  "wikidata": "Q43",
+  "name": "Turkey",
+  "flagName": "Flag of Turkey",
+  "nickname": "Ay Yıldız (moon-star), Al Bayrak (the red flag)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1936,
+  "to": null,
+  "adopted": "1936-05-29",
+  "ratio": "2:3",
+  "aliases": ["Türkiye", "Turkiye"],
+  "summary": "A red field with a white crescent and five-pointed star, slightly toward the hoist. Inherited from the late Ottoman Empire, it was standardised by the Turkish Flag Law of 1936.",
+  "origin": [
+    "Red flags were used by Ottoman armies and ships for centuries, and the crescent appears on Ottoman banners from at least the 18th century. In 1793 Selim III ordered a red naval flag with a white crescent and an eight-pointed star; the star was reduced to five points around 1844, under Abdülmecid I's Tanzimat reforms.",
+    "The Republic of Turkey, founded in 1923, kept the Ottoman flag. The Turkish Flag Law of 29 May 1936 fixed its exact geometry, setting the positions and sizes of the crescent and star relative to the flag's width."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#E30A17", "family": "red", "meaning": "Traditionally linked to the blood of soldiers who fell for the country; also the long-standing colour of Ottoman flags.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The crescent and star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A white crescent opening toward the fly, with a five-pointed star just outside its opening.", "meaning": "A legend tells of the moon and a star reflected in pools of soldiers' blood after a battle. Historically the crescent was an Ottoman emblem, earlier used by Byzantine Constantinople; it is often read as a symbol of Islam, though it predates that association.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1793, "to": 1844, "label": "Ottoman naval flag", "note": "Crescent with an eight-pointed star." },
+    { "from": 1844, "to": 1923, "label": "Ottoman Empire", "note": "Five-pointed star introduced." },
+    { "from": 1923, "to": 1936, "label": "Republic of Turkey, unstandardised" },
+    { "from": 1936, "to": null, "label": "Turkish Flag Law" }
+  ],
+  "facts": [
+    "The 1936 law specifies the crescent's outer circle diameter as half the flag's width, with every other measurement derived from that.",
+    "Tunisia's flag, designed under Ottoman rule, also has a red field with a white crescent and star, set inside a white disc.",
+    "Mehmet Akif Ersoy's national anthem, the İstiklal Marşı, opens with a reference to the flag."
+  ],
+  "clues": [
+    "A white crescent and star slightly toward the hoist on a red field.",
+    "Its star once had eight points, until a 19th-century reform era.",
+    "A legend links it to a moon reflected in pools of blood after a battle.",
+    "Its geometry was set by a law of 1936, inherited from an empire."
+  ],
+  "lookalikes": ["tunisia", "azerbaijan", "algeria"],
+  "tags": ["crescent", "star", "religious-symbol"],
+  "sources": [
+    { "title": "Turkish Flag Law No. 2994", "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2994.pdf" },
+    { "title": "Flag of Turkey (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Turkey" },
+    { "title": "Turkey (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tr.html" }
+  ]
+}

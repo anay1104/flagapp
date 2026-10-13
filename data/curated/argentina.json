@@ -1,0 +1,49 @@
+{
+  "id": "argentina",
+  "wikidata": "Q414",
+  "name": "Argentina",
+  "flagName": "Flag of Argentina",
+  "nickname": "La Albiceleste (the white and sky blue)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1818,
+  "to": null,
+  "adopted": "1812-02-27",
+  "ratio": "9:14",
+  "designer": "Manuel Belgrano",
+  "summary": "Light blue, white and light blue horizontal bands with a golden Sun of May in the centre. Created by General Manuel Belgrano during the war of independence, it has been flown with the sun since 1818.",
+  "origin": [
+    "The light blue and white colours appeared in cockades worn during the May Revolution of 1810. On 27 February 1812, on the banks of the Paraná River in Rosario, Manuel Belgrano raised a flag of these colours for his troops; the National Flag Memorial now stands at the site.",
+    "The Congress of Tucumán adopted the flag after independence was declared in 1816, and in 1818 added the Sun of May to the war flag. Since 1985 the flag with the sun has been the official flag for all uses."
+  ],
+  "colors": [
+    { "name": "Light blue (celeste)", "hex": "#74ACDF", "family": "light-blue", "meaning": "Often said to represent the sky. Historians link the colours to the cockades of 1810, and possibly to the House of Bourbon or the Virgin Mary.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Often said to represent clouds; see light blue.", "basis": "popular" },
+    { "name": "Gold", "hex": "#F6B40E", "family": "yellow", "meaning": "The Sun of May.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun of May (Sol de Mayo)", "description": "A golden sun with a human face and 32 rays, alternately straight and wavy.", "meaning": "The sun that, by tradition, broke through the clouds over Buenos Aires during the May Revolution of 25 May 1810; it also echoes Inti, the Inca sun god.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1812, "to": 1818, "label": "Belgrano's flag", "note": "Light blue and white, without the sun." },
+    { "from": 1818, "to": null, "label": "Flag with the Sun of May", "note": "Official for all uses since 1985." }
+  ],
+  "facts": [
+    "National Flag Day is 20 June, the anniversary of Belgrano's death in 1820.",
+    "Uruguay's flag also has a Sun of May and light blue and white stripes.",
+    "The national football team's nickname, La Albiceleste, comes from the flag's colours."
+  ],
+  "clues": [
+    "Light blue and white horizontal bands with a golden sun with a face.",
+    "Its sun has 32 rays, alternately straight and wavy.",
+    "First raised by a general on the banks of the Paraná River in 1812.",
+    "Its sun recalls a revolution in May 1810."
+  ],
+  "lookalikes": ["uruguay", "el-salvador", "nicaragua", "honduras"],
+  "tags": ["horizontal-tricolour", "sun"],
+  "sources": [
+    { "title": "Símbolos patrios (Casa Rosada)", "url": "https://www.casarosada.gob.ar/" },
+    { "title": "Flag of Argentina (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Argentina" },
+    { "title": "Argentina (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ar.html" }
+  ]
+}

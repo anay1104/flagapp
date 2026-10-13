@@ -1,0 +1,51 @@
+{
+  "id": "malaysia",
+  "wikidata": "Q833",
+  "name": "Malaysia",
+  "flagName": "Flag of Malaysia",
+  "nickname": "Jalur Gemilang (Stripes of Glory)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1963,
+  "to": null,
+  "adopted": "1963-09-16",
+  "ratio": "1:2",
+  "designer": "Mohamed Hamzah (1949)",
+  "summary": "Fourteen red and white stripes with a blue canton bearing a yellow crescent and a fourteen-pointed star. Designed in 1949 for the Federation of Malaya, it was extended to fourteen stripes when Malaysia was formed in 1963.",
+  "origin": [
+    "In 1949 the Federal Legislative Council held a competition for a flag for the Federation of Malaya. Mohamed Hamzah, an architect working for the public works department, submitted the winning design; it was modified with an eleven-pointed star and eleven stripes, one for each state, and first flown in 1950.",
+    "When Malaysia was formed on 16 September 1963 with Sabah, Sarawak and Singapore, the stripes and star points were increased to fourteen. After Singapore left in 1965, the fourteenth stripe and point were kept and are now said to represent the federal government and federal territories. The flag was named Jalur Gemilang in 1997."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CC0001", "family": "red", "meaning": "Courage.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity and honesty.", "basis": "official" },
+    { "name": "Blue", "hex": "#010066", "family": "blue", "meaning": "The unity of the Malaysian people.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFCC00", "family": "yellow", "meaning": "The royal colour of the Malay rulers.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent", "description": "A yellow crescent in the canton.", "meaning": "Islam, the official religion.", "basis": "official" },
+    { "name": "Fourteen-pointed star (Bintang Persekutuan)", "description": "A yellow star with fourteen points.", "meaning": "The unity of the thirteen states and the federal government.", "basis": "official" },
+    { "name": "Fourteen stripes", "description": "Seven red and seven white horizontal stripes.", "meaning": "The equal status of the thirteen states and the federal government.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1950, "to": 1963, "label": "Federation of Malaya", "note": "Eleven stripes and an eleven-pointed star." },
+    { "from": 1963, "to": null, "label": "Malaysia", "note": "Fourteen stripes and points." }
+  ],
+  "facts": [
+    "The flag is often compared with the US flag; both use red and white stripes with a blue canton.",
+    "Liberia's flag has a similar layout with eleven stripes and a single white star.",
+    "The name Jalur Gemilang was announced by Prime Minister Mahathir Mohamad on 31 August 1997."
+  ],
+  "clues": [
+    "Red and white stripes with a blue canton holding a yellow crescent and a many-pointed star.",
+    "Its star and stripes kept a count of fourteen after one member left the federation.",
+    "Its name means 'Stripes of Glory'.",
+    "Its yellow is the royal colour of its hereditary rulers."
+  ],
+  "lookalikes": ["united-states", "liberia"],
+  "tags": ["horizontal-stripes", "canton", "crescent", "star", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Flag of Malaysia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Malaysia" },
+    { "title": "Malaysia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/my.html" }
+  ]
+}

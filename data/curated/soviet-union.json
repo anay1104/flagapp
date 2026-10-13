@@ -1,0 +1,49 @@
+{
+  "id": "soviet-union",
+  "wikidata": "Q15180",
+  "name": "Soviet Union",
+  "flagName": "Flag of the Soviet Union",
+  "nickname": "The Red Banner",
+  "category": "historical",
+  "tier": 1,
+  "from": 1923,
+  "to": 1991,
+  "adopted": "1923-11-12",
+  "ratio": "1:2",
+  "aliases": ["USSR", "Union of Soviet Socialist Republics", "CCCP", "Soviet Russia"],
+  "summary": "A red field with a gold hammer and sickle beneath a gold-bordered red star in the upper hoist. It was the flag of the Union of Soviet Socialist Republics from 1923 to 1991, and remains one of the most recognised symbols of communism.",
+  "origin": [
+    "After the October Revolution of 1917 the Bolsheviks adopted the red flag of the international socialist movement. The Russian SFSR used red flags with Cyrillic initials from 1918.",
+    "The USSR was formed in December 1922. The Central Executive Committee adopted its flag on 12 November 1923, and the 1924 Constitution described it: a red field with a gold hammer and sickle and a red five-pointed star bordered in gold. The design was revised in 1955, slightly changing the proportions of the emblems, and the flag was lowered from the Kremlin for the last time on 25 December 1991."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CC0000", "family": "red", "meaning": "The proletarian revolution and the blood of workers who struggled for liberation; red has been the colour of socialist movements since the 19th century.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFD700", "family": "yellow", "meaning": "The hammer, sickle and star border.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Hammer and sickle", "description": "A crossed hammer and sickle in gold.", "meaning": "The union of industrial workers (hammer) and peasants (sickle).", "basis": "official" },
+    { "name": "Red star", "description": "A five-pointed red star outlined in gold, above the hammer and sickle.", "meaning": "The rule of the Communist Party; often explained as the unity of workers on the five continents.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1918, "to": 1923, "label": "Russian SFSR flags", "note": "Red with Cyrillic initials." },
+    { "from": 1923, "to": 1955, "label": "Flag of the USSR" },
+    { "from": 1955, "to": 1991, "label": "Revised design", "note": "Emblem proportions adjusted." }
+  ],
+  "facts": [
+    "The reverse of the official flag was plain red, without the emblems.",
+    "Each Soviet republic had its own red flag, usually with a stripe or band of another colour.",
+    "Russia's victory day celebrations still feature the Victory Banner, raised over the Reichstag in 1945."
+  ],
+  "clues": [
+    "Red with a gold hammer and sickle under a star outlined in gold.",
+    "Lowered from the Kremlin for the last time on 25 December 1991.",
+    "Its reverse side was officially plain red.",
+    "Its tools stood for industrial workers and peasants."
+  ],
+  "lookalikes": ["china", "vietnam"],
+  "tags": ["canton", "star", "tool", "communist"],
+  "sources": [
+    { "title": "Flag of the Soviet Union (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Soviet_Union" },
+    { "title": "Soviet Union (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/su.html" }
+  ]
+}

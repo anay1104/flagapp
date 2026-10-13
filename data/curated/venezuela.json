@@ -1,0 +1,47 @@
+{
+  "id": "venezuela",
+  "wikidata": "Q717",
+  "name": "Venezuela",
+  "flagName": "Flag of Venezuela",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2006,
+  "to": null,
+  "adopted": "2006-03-12",
+  "ratio": "2:3",
+  "summary": "Yellow, blue and red horizontal bands with an arc of eight white stars in the blue band. Its colours come from Francisco de Miranda's flag of 1806; the eighth star was added in 2006.",
+  "origin": [
+    "Francisco de Miranda raised a yellow, blue and red flag during his expedition of 1806, and the First Republic of Venezuela adopted the colours in 1811. Venezuela kept them after leaving Gran Colombia in 1830.",
+    "Seven stars were added in 1817 for the seven provinces that signed the 1811 declaration of independence. In 2006, under President Hugo Chávez, an eighth star was added for the province of Guayana, following a decree of Simón Bolívar from 1817; the coat of arms was also revised."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFCC00", "family": "yellow", "meaning": "The wealth of the land.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#00247D", "family": "blue", "meaning": "The Caribbean Sea, which separates Venezuela from Spain.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CF142B", "family": "red", "meaning": "The blood shed in the struggle for independence.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Eight stars", "description": "White five-pointed stars in an arc in the blue band.", "meaning": "The seven provinces that signed the declaration of independence of 1811, plus Guayana (added 2006).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1811, "to": 1817, "label": "First Republic", "note": "Miranda's colours." },
+    { "from": 1863, "to": 2006, "label": "Seven stars", "note": "Restored after periods without stars, in various arrangements." },
+    { "from": 2006, "to": null, "label": "Eight stars" }
+  ],
+  "facts": [
+    "Colombia and Ecuador use the same three colours, inherited from Gran Colombia.",
+    "Venezuela's Flag Day, 3 August, marks Miranda's landing in 1806.",
+    "The state flag adds the national coat of arms in the upper hoist."
+  ],
+  "clues": [
+    "Yellow, blue and red bands with an arc of eight white stars.",
+    "An eighth star was added in 2006.",
+    "Its colours were first flown by Francisco de Miranda in 1806.",
+    "Its blue is said to be the sea separating it from Spain."
+  ],
+  "lookalikes": ["colombia", "ecuador"],
+  "tags": ["horizontal-tricolour", "star"],
+  "sources": [
+    { "title": "Flag of Venezuela (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Venezuela" },
+    { "title": "Venezuela (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ve.html" }
+  ]
+}

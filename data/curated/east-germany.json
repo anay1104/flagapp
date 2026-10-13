@@ -1,0 +1,48 @@
+{
+  "id": "east-germany",
+  "wikidata": "Q16957",
+  "name": "East Germany",
+  "flagName": "Flag of the German Democratic Republic",
+  "category": "historical",
+  "tier": 1,
+  "from": 1959,
+  "to": 1990,
+  "adopted": "1959-10-01",
+  "ratio": "3:5",
+  "aliases": ["German Democratic Republic", "GDR", "DDR"],
+  "summary": "Black, red and gold horizontal bands with the state emblem of a hammer and compass in a ring of rye. East Germany added the emblem in 1959 to distinguish its flag from West Germany's.",
+  "origin": [
+    "From its founding in 1949, the German Democratic Republic used the same black-red-gold tricolour as West Germany, both claiming the democratic tradition of 1848.",
+    "On 1 October 1959 the GDR added its state emblem. West Germany regarded the new flag as a symbol of division; until the détente of the late 1960s it was sometimes removed by West German police, and it was banned at some international sporting events.",
+    "The flag ceased to be used when Germany reunified on 3 October 1990."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The black-red-gold of German democratic tradition.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DD0000", "family": "red", "meaning": "See black.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFCE00", "family": "yellow", "meaning": "See black.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Hammer and compass", "description": "A hammer and a pair of compasses in a ring of rye ears tied with a black-red-gold ribbon.", "meaning": "The alliance of workers (hammer), the intelligentsia (compass) and farmers (rye).", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1949, "to": 1959, "label": "Plain tricolour", "note": "Identical to West Germany's flag." },
+    { "from": 1959, "to": 1990, "label": "Tricolour with state emblem" }
+  ],
+  "facts": [
+    "From 1956 to 1964 East and West Germany competed at the Olympics as a single team under black-red-gold with the Olympic rings.",
+    "Protesters in 1989 often cut the emblem out of East German flags, leaving a hole in the middle.",
+    "Its emblem echoes the Soviet hammer and sickle, replacing the sickle with a compass."
+  ],
+  "clues": [
+    "Black, red and gold bands with a hammer and compass in a wreath of grain.",
+    "Protesters in 1989 cut holes in its centre.",
+    "For its first ten years it was identical to its western neighbour's flag.",
+    "Its emblem stood for workers, intellectuals and farmers."
+  ],
+  "lookalikes": ["germany", "belgium"],
+  "tags": ["horizontal-tricolour", "emblem", "tool", "plant", "communist"],
+  "sources": [
+    { "title": "Flag of East Germany (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_East_Germany" },
+    { "title": "German Democratic Republic (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/de-ddr.html" }
+  ]
+}

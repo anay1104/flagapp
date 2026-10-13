@@ -1,0 +1,48 @@
+{
+  "id": "ireland",
+  "wikidata": "Q27",
+  "name": "Ireland",
+  "flagName": "Flag of Ireland",
+  "nickname": "The Tricolour (An Bhratach Náisiúnta)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1937,
+  "to": null,
+  "adopted": "1937-12-29",
+  "ratio": "1:2",
+  "designer": "Presented by Thomas Francis Meagher (1848)",
+  "summary": "A vertical tricolour of green, white and orange. Presented by the Young Irelander Thomas Francis Meagher in 1848, it stands for peace between Ireland's Catholic and Protestant traditions.",
+  "origin": [
+    "Thomas Francis Meagher presented the tricolour in Waterford on 7 March 1848, having received it from French women sympathetic to Irish nationalism; the design echoes the French tricolour. Meagher explained that the white in the centre signified 'a lasting truce between the Orange and the Green'.",
+    "For decades the green flag with a gold harp remained the more common nationalist symbol. The tricolour rose to prominence when it was flown over the General Post Office in Dublin during the Easter Rising of 1916.",
+    "It was used by the Irish Free State from 1922 without formal legal adoption, and Article 7 of the 1937 Constitution declared: 'The national flag is the tricolour of green, white and orange.'"
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#169B62", "family": "green", "meaning": "The Gaelic and Catholic tradition and older Irish nationalism.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and lasting truce between the two traditions.", "basis": "official" },
+    { "name": "Orange", "hex": "#FF883E", "family": "orange", "meaning": "Supporters of William of Orange: the Protestant and unionist tradition.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1848, "to": 1916, "label": "Young Ireland tricolour", "note": "Presented by Meagher; used alongside the green harp flag." },
+    { "from": 1916, "to": 1937, "label": "Easter Rising and Free State", "note": "Used as the national flag without formal legal basis." },
+    { "from": 1937, "to": null, "label": "Constitutional national flag" }
+  ],
+  "facts": [
+    "The Department of the Taoiseach states the meaning of the colours in its flag guidelines, citing Meagher's 1848 explanation.",
+    "Ivory Coast's flag uses the same colours in reverse order and a 2:3 ratio.",
+    "The orange should not be shown as yellow or gold; official guidance stresses this."
+  ],
+  "clues": [
+    "Green, white and orange vertical bands.",
+    "Its white band was described as a truce between two religious traditions.",
+    "Presented in 1848 after its presenter received it in Paris.",
+    "It flew over a post office during an uprising in 1916."
+  ],
+  "lookalikes": ["ivory-coast", "italy", "india"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Bunreacht na hÉireann (Constitution of Ireland), Article 7", "url": "https://www.irishstatutebook.ie/eli/cons/en/html" },
+    { "title": "Flag of Ireland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ireland" }
+  ]
+}

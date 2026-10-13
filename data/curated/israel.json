@@ -1,0 +1,46 @@
+{
+  "id": "israel",
+  "wikidata": "Q801",
+  "name": "Israel",
+  "flagName": "Flag of Israel",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1948,
+  "to": null,
+  "adopted": "1948-10-28",
+  "ratio": "8:11",
+  "summary": "A blue Star of David between two horizontal blue stripes on white. The design comes from the Zionist movement's flag of the 1890s, inspired by the tallit, the Jewish prayer shawl.",
+  "origin": [
+    "The design is based on the flag used by the Zionist movement from the First Zionist Congress in Basel in 1897. David Wolffsohn, who later succeeded Theodor Herzl as head of the movement, proposed the tallit as a model: a white prayer shawl with blue stripes.",
+    "Israel declared independence on 14 May 1948. After considering other designs, partly to avoid confusion with the Zionist movement's flag abroad, the Provisional State Council adopted the Zionist flag as the national flag on 28 October 1948."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0038B8", "family": "blue", "meaning": "The blue of the tallit's stripes; often linked to tekhelet, the blue dye commanded for the tassels of prayer garments in the Torah.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The white of the tallit.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Star of David (Magen David)", "description": "A blue hexagram made of two interlaced triangles, centred between the stripes.", "meaning": "A symbol of Judaism and the Jewish people, widely used from the 17th century and adopted by the Zionist movement.", "basis": "traditional" },
+    { "name": "Two stripes", "description": "Horizontal blue stripes near the top and bottom edges.", "meaning": "The stripes of the tallit.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1897, "to": 1948, "label": "Zionist flag", "note": "First used at the First Zionist Congress." },
+    { "from": 1948, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "The Flag, Emblem and National Anthem Law of 1949 governs its use.",
+    "A popular reading holds that the two stripes represent the Nile and Euphrates rivers; this has no official basis.",
+    "Its 8:11 proportions are unusual among national flags."
+  ],
+  "clues": [
+    "A blue six-pointed star between two horizontal blue stripes on white.",
+    "Its design was modelled on a prayer shawl.",
+    "First used at a congress held in Basel in 1897."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-stripes", "star", "religious-symbol"],
+  "sources": [
+    { "title": "The Flag (Knesset)", "url": "https://main.knesset.gov.il/en/about/lexicon/pages/flag.aspx" },
+    { "title": "Flag of Israel (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Israel" },
+    { "title": "Israel (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/il.html" }
+  ]
+}

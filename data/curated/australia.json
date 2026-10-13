@@ -1,0 +1,53 @@
+{
+  "id": "australia",
+  "wikidata": "Q408",
+  "name": "Australia",
+  "flagName": "Flag of Australia",
+  "nickname": "Australian National Flag, the Blue Ensign",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1901,
+  "to": null,
+  "adopted": "1954-02-14",
+  "ratio": "1:2",
+  "designer": "Ivor Evans, Leslie Hawkins, Egbert Nuttall, Annie Dorrington and William Stevens (joint winners of the 1901 competition)",
+  "summary": "A blue ensign with the Union Flag in the canton, a large seven-pointed Commonwealth Star beneath it, and the Southern Cross in the fly. It was chosen in a 1901 public competition and became the national flag by law in 1953.",
+  "origin": [
+    "After federation on 1 January 1901, the government held a competition for a federal flag that attracted over 32,000 entries. Five entrants with nearly identical designs shared the prize, and the winning flag was first flown in Melbourne on 3 September 1901, now Australian National Flag Day.",
+    "The original Commonwealth Star had six points, for the six states. A seventh point was added in 1908 for the territories, and the stars of the Southern Cross were standardised in 1903.",
+    "For decades the Union Flag took precedence and the blue ensign was used mainly by government. The Flags Act 1953 made the blue ensign the Australian National Flag; it received royal assent in 1954."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#012169", "family": "blue", "meaning": "The field of the British Blue Ensign; no official meaning.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The stars and the Union Flag.", "basis": "official" },
+    { "name": "Red", "hex": "#E4002B", "family": "red", "meaning": "The crosses of the Union Flag.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Union Flag", "description": "In the upper hoist quarter.", "meaning": "Australia's history as a group of British colonies and its links to the United Kingdom.", "basis": "official" },
+    { "name": "Commonwealth Star", "description": "A large seven-pointed white star below the Union Flag.", "meaning": "Federation: one point for each of the six states and one for the territories.", "basis": "official" },
+    { "name": "Southern Cross", "description": "Five white stars in the fly: Alpha, Beta, Gamma and Delta Crucis with seven points, and the smaller Epsilon Crucis with five.", "meaning": "Australia's place in the southern hemisphere.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1901, "to": 1903, "label": "Competition winner", "note": "Six-pointed Commonwealth Star and Southern Cross stars of varying points." },
+    { "from": 1903, "to": 1908, "label": "Standardised Southern Cross" },
+    { "from": 1908, "to": null, "label": "Seven-pointed Commonwealth Star", "note": "Made the national flag by the Flags Act 1953." }
+  ],
+  "facts": [
+    "New Zealand's flag is very similar but has four red, white-edged stars and no Commonwealth Star.",
+    "Australia also has two official flags representing Indigenous Australians: the Aboriginal flag and the Torres Strait Islander flag, both proclaimed Flags of Australia in 1995.",
+    "The Union Flag in the canton keeps the flag at the centre of periodic debates about a new design and a republic."
+  ],
+  "clues": [
+    "A blue ensign with a large seven-pointed star below the canton and a constellation of white stars in the fly.",
+    "Its large star once had six points, before territories were added.",
+    "Five people with almost identical entries shared first prize in its design competition.",
+    "Its neighbour across the sea has a similar flag with red stars."
+  ],
+  "lookalikes": ["new-zealand", "tuvalu", "fiji"],
+  "tags": ["canton", "union-jack", "star", "southern-cross", "former-colony", "astronomy"],
+  "sources": [
+    { "title": "Australian National Flag (PM&C)", "url": "https://www.pmc.gov.au/honours-and-symbols/australian-national-symbols/australian-flags" },
+    { "title": "Flags Act 1953", "url": "https://www.legislation.gov.au/C1954A00001/latest/text" },
+    { "title": "Flag of Australia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Australia" }
+  ]
+}

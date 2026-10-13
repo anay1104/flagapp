@@ -1,0 +1,46 @@
+{
+  "id": "morocco",
+  "wikidata": "Q1028",
+  "name": "Morocco",
+  "flagName": "Flag of Morocco",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1915,
+  "to": null,
+  "adopted": "1915-11-17",
+  "ratio": "2:3",
+  "summary": "A red field with a green interlaced pentagram, the Seal of Solomon. Red has been the colour of Moroccan banners since the 17th century; the green star was added by Sultan Yusef in 1915.",
+  "origin": [
+    "Red flags were used by Moroccan rulers from the 17th century; red is associated with the Alaouite dynasty, which claims descent from the Prophet Muhammad through his daughter Fatimah.",
+    "Because plain red flags were common at sea and easily confused with others, Sultan Yusef added a green pentagram on 17 November 1915, during the French protectorate. The flag remained in use after independence in 1956."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C1272D", "family": "red", "meaning": "The Alaouite dynasty; also bravery and strength.", "basis": "traditional" },
+    { "name": "Green", "hex": "#006233", "family": "green", "meaning": "Islam; green is associated with the Prophet.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Seal of Solomon", "description": "A green five-pointed star drawn as interlaced lines (a pentagram).", "meaning": "The link between God and the nation; its five points are commonly linked to the Five Pillars of Islam.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1666, "to": 1915, "label": "Plain red flags of the Alaouite sultans" },
+    { "from": 1915, "to": null, "label": "Red with green pentagram" }
+  ],
+  "facts": [
+    "The pentagram is called the Seal of Solomon (Khatam Sulayman) in Morocco; elsewhere the name is often used for the six-pointed star.",
+    "Article 4 of the 2011 Constitution defines the flag.",
+    "Vietnam's flag is also a single star on red, but yellow and solid."
+  ],
+  "clues": [
+    "A green interlaced star on a red field.",
+    "Its star was added in 1915 because plain red flags were confused at sea.",
+    "Its star is known by the name of a biblical king.",
+    "Its red is linked to a royal dynasty."
+  ],
+  "lookalikes": ["vietnam"],
+  "tags": ["plain-field", "star", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Constitution of Morocco (2011), Article 4", "url": "https://www.constituteproject.org/constitution/Morocco_2011" },
+    { "title": "Flag of Morocco (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Morocco" },
+    { "title": "Morocco (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ma.html" }
+  ]
+}

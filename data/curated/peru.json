@@ -1,0 +1,46 @@
+{
+  "id": "peru",
+  "wikidata": "Q419",
+  "name": "Peru",
+  "flagName": "Flag of Peru",
+  "nickname": "La Bandera Bicolor",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1825,
+  "to": null,
+  "adopted": "1825-02-25",
+  "ratio": "2:3",
+  "designer": "José de San Martín (colours)",
+  "summary": "A vertical triband of red, white and red. Its colours are traditionally credited to General José de San Martín, who, according to legend, was inspired by flamingos taking flight on the coast where he landed in 1820.",
+  "origin": [
+    "José de San Martín, leading the Liberating Expedition of Peru, decreed a first flag in 1820 with diagonal quarters of red and white and a coat of arms. A legend says he chose the colours after seeing red and white flamingos at Paracas; historians also suggest the red and white of Chile and Argentina's armies or of Castile.",
+    "The flag changed several times in 1822–1825. On 25 February 1825 Simón Bolívar's government fixed the current vertical red-white-red layout. The state flag has the coat of arms in the centre; the plain version is the civil flag."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D91023", "family": "red", "meaning": "The blood of those who fought for independence.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and purity.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1820, "to": 1822, "label": "San Martín's flag", "note": "Diagonal quarters with arms." },
+    { "from": 1822, "to": 1825, "label": "Transitional designs", "note": "Horizontal, then vertical bands." },
+    { "from": 1825, "to": null, "label": "Vertical red-white-red" }
+  ],
+  "facts": [
+    "The state flag adds the coat of arms with a vicuña, a cinchona tree and a cornucopia of coins.",
+    "Peru's Flag Day is 7 June, commemorating the Battle of Arica in 1880.",
+    "Canada's flag has the same colour pattern but a square central band and a maple leaf."
+  ],
+  "clues": [
+    "Red, white and red vertical bands of equal width.",
+    "A legend says flamingos inspired its colours.",
+    "Its state version adds a shield with a vicuña and a cornucopia.",
+    "Its colours were chosen by a liberator from across the Andes in 1820."
+  ],
+  "lookalikes": ["canada", "austria", "lebanon"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Flag of Peru (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Peru" },
+    { "title": "Peru (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pe.html" }
+  ]
+}

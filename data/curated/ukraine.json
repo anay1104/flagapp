@@ -1,0 +1,89 @@
+{
+  "id": "ukraine",
+  "wikidata": "Q212",
+  "name": "Ukraine",
+  "flagName": "Flag of Ukraine",
+  "nickname": "Synio-zhovtyi prapor (blue-yellow banner)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-01-28",
+  "ratio": "2:3",
+  "summary": "Two equal horizontal bands of blue over yellow. The colours come from the coat of arms of the medieval Kingdom of Galicia–Volhynia, a golden lion on blue. The flag was used by Ukrainian independence movements in 1848 and 1917–1921 and was restored in 1991–1992.",
+  "origin": [
+    "Blue and yellow appear in the arms of the medieval Ruthenian principalities, especially the golden lion on blue of the Kingdom of Galicia–Volhynia, and in Cossack-era banners.",
+    "During the 1848 revolutions the Supreme Ruthenian Council in Lviv adopted a blue and yellow flag. The Ukrainian People's Republic and the West Ukrainian People's Republic used blue and yellow flags in 1917–1921.",
+    "Under Soviet rule the flag was banned and the Ukrainian SSR used red flags. It was raised again during the independence movement and was officially adopted by the Verkhovna Rada on 28 January 1992. It is enshrined in Article 20 of the 1996 Constitution."
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "hex": "#0057B7",
+      "family": "blue",
+      "meaning": "Commonly read as the sky.",
+      "basis": "popular"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFD700",
+      "family": "yellow",
+      "meaning": "Commonly read as fields of wheat.",
+      "basis": "popular"
+    }
+  ],
+  "symbols": [],
+  "history": [
+    {
+      "from": 1848,
+      "to": 1848,
+      "label": "Supreme Ruthenian Council",
+      "note": "Blue and yellow in Lviv during the Spring of Nations."
+    },
+    {
+      "from": 1917,
+      "to": 1921,
+      "label": "Ukrainian People's Republic"
+    },
+    {
+      "from": 1949,
+      "to": 1991,
+      "label": "Ukrainian SSR",
+      "note": "Red with a light blue band."
+    },
+    {
+      "from": 1992,
+      "to": null,
+      "label": "National flag"
+    }
+  ],
+  "facts": [
+    "Ukraine's Flag Day is 23 August, the day before Independence Day.",
+    "The reading of blue sky over yellow wheat fields is the best-known explanation, but the colours are heraldic in origin.",
+    "Ukraine's coat of arms, the golden tryzub (trident) on blue, uses the same two colours."
+  ],
+  "clues": [
+    "Blue over yellow in two equal horizontal bands.",
+    "Popularly read as a clear sky above fields of wheat.",
+    "Its colours come from a golden lion on a medieval kingdom's arms.",
+    "Banned for decades and restored in 1992."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "horizontal-bicolour"
+  ],
+  "sources": [
+    {
+      "title": "Constitution of Ukraine, Article 20",
+      "url": "https://www.president.gov.ua/en/documents/constitution"
+    },
+    {
+      "title": "Flag of Ukraine (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Ukraine"
+    },
+    {
+      "title": "Ukraine (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/ua.html"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pakistan",
+  "wikidata": "Q843",
+  "name": "Pakistan",
+  "flagName": "Flag of Pakistan",
+  "nickname": "Sabz Hilali Parcham (the green crescent flag)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1947,
+  "to": null,
+  "adopted": "1947-08-11",
+  "ratio": "2:3",
+  "designer": "Syed Amir-uddin Kedwaii, based on the All-India Muslim League flag",
+  "summary": "A dark green field with a white crescent and five-pointed star, and a white vertical band at the hoist. Adopted by the Constituent Assembly three days before independence, it represents the Muslim majority and the country's religious minorities.",
+  "origin": [
+    "The flag is based on that of the All-India Muslim League, a green flag with a white crescent and star used from 1906 in the campaign for a Muslim homeland. Syed Amir-uddin Kedwaii adapted it for the new state, adding a white band at the hoist.",
+    "The Constituent Assembly adopted it on 11 August 1947, three days before Pakistan's independence on 14 August."
+  ],
+  "colors": [
+    {
+      "name": "Dark green",
+      "hex": "#01411C",
+      "family": "green",
+      "meaning": "The Muslim majority of Pakistan.",
+      "basis": "official"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "family": "white",
+      "meaning": "Religious minorities. Liaquat Ali Khan told the Assembly the flag stood for all citizens, not a single community.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Crescent",
+      "description": "A white crescent opening toward the upper fly.",
+      "meaning": "Progress.",
+      "basis": "official"
+    },
+    {
+      "name": "Star",
+      "description": "A white five-pointed star beside the crescent.",
+      "meaning": "Light and knowledge.",
+      "basis": "official"
+    }
+  ],
+  "history": [
+    {
+      "from": 1906,
+      "to": 1947,
+      "label": "All-India Muslim League flag",
+      "note": "Green with a white crescent and star."
+    },
+    {
+      "from": 1947,
+      "to": null,
+      "label": "National flag"
+    }
+  ],
+  "facts": [
+    "The white band occupies one quarter of the flag's length.",
+    "Flag Day ceremonies are held on 14 August, Independence Day.",
+    "Turkmenistan, Algeria and the Maldives also pair green with a white crescent, but Pakistan's is the only one with a white band at the hoist."
+  ],
+  "clues": [
+    "Dark green with a white crescent and star, and a white band at the hoist.",
+    "Its white band represents religious minorities.",
+    "Adopted three days before its country became independent.",
+    "Based on the flag of a political party founded in 1906."
+  ],
+  "lookalikes": [
+    "algeria",
+    "turkmenistan",
+    "maldives"
+  ],
+  "tags": [
+    "crescent",
+    "star",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "National Flag (Government of Pakistan)",
+      "url": "https://www.pakistan.gov.pk/"
+    },
+    {
+      "title": "Flag of Pakistan (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Pakistan"
+    },
+    {
+      "title": "Pakistan (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/pk.html"
+    }
+  ]
+}

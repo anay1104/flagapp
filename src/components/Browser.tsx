@@ -83,7 +83,8 @@ export default function Browser({ tagLabels }: { tagLabels: Record<string, strin
     } else if (filters.sort === 'newest') {
       list = list.sort((a, b) => (b.from ?? -99999) - (a.from ?? -99999));
     } else if (filters.sort === 'name') {
-      list = list.sort((a, b) => a.name.localeCompare(b.name));
+      const key = (n: string) => n.replace(/^[^\p{L}\p{N}]+/u, '');
+      list = list.sort((a, b) => key(a.name).localeCompare(key(b.name)));
     } else {
       // Relevance: exact and prefix matches first, then written entries, then major categories.
       const score = (e: IndexEntry) => {

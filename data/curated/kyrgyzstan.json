@@ -1,0 +1,46 @@
+{
+  "id": "kyrgyzstan",
+  "wikidata": "Q813",
+  "name": "Kyrgyzstan",
+  "flagName": "Flag of Kyrgyzstan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2023,
+  "to": null,
+  "adopted": "2023-12-22",
+  "ratio": "3:5",
+  "summary": "A red field with a golden sun in the centre, its rays straight, holding a stylised tündük, the crown of a yurt. The 1992 design was revised in 2023 to straighten the sun's rays.",
+  "origin": [
+    "After independence from the Soviet Union, Kyrgyzstan adopted a red flag with a sun of 40 wavy rays and a tündük on 3 March 1992.",
+    "In 2023 Parliament approved a revised version with straight rays, after President Sadyr Japarov argued the wavy rays looked like a sunflower; the law was signed in December 2023."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#E8112D", "family": "red", "meaning": "Valour and bravery; red is said to have been the colour of the banner of the hero Manas.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FFEF00", "family": "yellow", "meaning": "The sun and tündük.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun with 40 rays", "description": "A golden sun with forty rays.", "meaning": "Peace and wealth; the forty rays stand for the forty Kyrgyz tribes united by the epic hero Manas.", "basis": "official" },
+    { "name": "Tündük", "description": "Crossed lines within the sun, depicting the wooden crown of a yurt.", "meaning": "The home, the unity of the people and the world.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1991, "label": "Kirghiz SSR" },
+    { "from": 1992, "to": 2023, "label": "Wavy-rayed sun" },
+    { "from": 2023, "to": null, "label": "Straight-rayed sun" }
+  ],
+  "facts": [
+    "The Epic of Manas, the national epic, is one of the longest poems in the world.",
+    "The 2023 redesign was controversial; critics said it was unnecessary.",
+    "The tündük is the round opening at the top of a yurt."
+  ],
+  "clues": [
+    "A golden sun with 40 rays on red, holding the crown of a yurt.",
+    "Its rays stand for forty tribes united by an epic hero.",
+    "Its sun's rays were straightened in 2023 after being likened to a sunflower."
+  ],
+  "lookalikes": ["north-macedonia", "china"],
+  "tags": ["plain-field", "sun", "building"],
+  "sources": [
+    { "title": "Flag of Kyrgyzstan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kyrgyzstan" },
+    { "title": "Kyrgyzstan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/kg.html" }
+  ]
+}

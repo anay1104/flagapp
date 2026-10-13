@@ -1,0 +1,50 @@
+{
+  "id": "iraq",
+  "wikidata": "Q796",
+  "name": "Iraq",
+  "flagName": "Flag of Iraq",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2008,
+  "to": null,
+  "adopted": "2008-01-22",
+  "ratio": "2:3",
+  "summary": "Red, white and black horizontal bands with the takbir, 'Allahu Akbar', in green Kufic script in the centre. The Pan-Arab tricolour dates to 1963; the current version was adopted in 2008, removing three green stars associated with the Ba'ath Party.",
+  "origin": [
+    "The Kingdom of Iraq used a black-white-green flag with a red trapezoid and two stars. After the 1958 revolution, Abd al-Karim Qasim's republic used a flag with a red-and-gold sun. The Ba'athist government adopted a red-white-black tricolour with three green stars in 1963, modelled on the proposed union with Egypt and Syria.",
+    "During the Gulf War in 1991, Saddam Hussein added 'Allahu Akbar', reportedly in his own handwriting. In 2004 the interim government replaced the handwriting with Kufic script, and in 2008 Parliament removed the three stars."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "Courage and the blood of those who struggled for freedom.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Generosity and peace.", "basis": "traditional" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Islamic triumphs and the struggle against oppression.", "basis": "traditional" },
+    { "name": "Green", "hex": "#007A3D", "family": "green", "meaning": "Islam; the colour of the inscription.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Takbir", "description": "'Allahu Akbar' ('God is the greatest') in green Kufic script.", "meaning": "Islam; added in 1991, rewritten in Kufic in 2004.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1921, "to": 1958, "label": "Kingdom of Iraq" },
+    { "from": 1959, "to": 1963, "label": "Qasim's republic", "note": "Black-white-green with a red and gold sun emblem." },
+    { "from": 1963, "to": 1991, "label": "Three green stars" },
+    { "from": 1991, "to": 2004, "label": "Takbir in Saddam Hussein's handwriting" },
+    { "from": 2004, "to": 2008, "label": "Takbir in Kufic script" },
+    { "from": 2008, "to": null, "label": "Stars removed" }
+  ],
+  "facts": [
+    "The 2008 flag was adopted as a temporary design; Parliament has debated replacing it several times.",
+    "The Kurdistan Region of Iraq has its own flag: red, white and green with a golden sun."
+  ],
+  "clues": [
+    "Red, white and black bands with green Arabic script in the centre.",
+    "Its script was once in a dictator's handwriting.",
+    "Three green stars were removed from it in 2008.",
+    "Its tricolour dates from a proposed union of three Arab states in 1963."
+  ],
+  "lookalikes": ["egypt", "syria", "yemen"],
+  "tags": ["horizontal-tricolour", "text", "religious-symbol", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Iraq (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Iraq" },
+    { "title": "Iraq (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/iq.html" }
+  ]
+}

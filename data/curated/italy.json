@@ -1,0 +1,50 @@
+{
+  "id": "italy",
+  "wikidata": "Q38",
+  "name": "Italy",
+  "flagName": "Flag of Italy",
+  "nickname": "Il Tricolore",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1946,
+  "to": null,
+  "adopted": "1948-01-01",
+  "ratio": "2:3",
+  "summary": "A vertical tricolour of green, white and red. It first flew in 1797 over Napoleon's Cispadane Republic, became the banner of the Risorgimento, and has been the flag of the Italian Republic since 1946, without the royal arms of the House of Savoy.",
+  "origin": [
+    "The green, white and red cockade appeared in Italy in the 1790s, modelled on the French revolutionary cockade, with green replacing blue. Green was the colour of the uniforms of the Milanese civic guard.",
+    "On 7 January 1797 the parliament of the Cispadane Republic in Reggio Emilia adopted a horizontal green-white-red flag; this date is now celebrated as Tricolour Day (Festa del Tricolore). The Cisalpine Republic and the Napoleonic Kingdom of Italy used versions of it, the latter with a gold eagle on a green diamond.",
+    "During the Risorgimento the tricolour became the symbol of Italian unification. In 1848 King Charles Albert of Sardinia adopted it with the Savoy shield in the centre, and this became the flag of the Kingdom of Italy from 1861. After the 1946 referendum abolished the monarchy, the shield was removed. Article 12 of the 1948 Constitution states: 'The flag of the Republic is the Italian tricolour: green, white and red, in three vertical bands of equal size.'"
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#009246", "family": "green", "meaning": "Often said to represent the plains and hills of Italy, or hope; originally the colour of the Milanese civic guard's uniforms.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Often said to represent the snow of the Alps, or faith.", "basis": "popular" },
+    { "name": "Red", "hex": "#CE2B37", "family": "red", "meaning": "Often said to represent the blood shed in the wars of independence, or charity.", "basis": "popular" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1797, "to": 1802, "label": "Cispadane and Cisalpine Republics", "note": "First green-white-red flags, initially horizontal." },
+    { "from": 1805, "to": 1814, "label": "Napoleonic Kingdom of Italy", "note": "Red field with a green diamond on white and a gold eagle." },
+    { "from": 1848, "to": 1861, "label": "Kingdom of Sardinia", "note": "The tricolour with the Savoy shield, adopted by Charles Albert." },
+    { "from": 1861, "to": 1946, "label": "Kingdom of Italy", "note": "Tricolour with the crowned (state flag) or uncrowned Savoy shield." },
+    { "from": 1946, "to": null, "label": "Italian Republic", "note": "Plain tricolour, confirmed by Article 12 of the Constitution." }
+  ],
+  "facts": [
+    "The meanings of hope, faith and charity, or plains, snow and blood, are popular explanations; no law assigns meanings to the colours.",
+    "In 2003 the government issued official Pantone shades after the colours used on public buildings were found to vary widely.",
+    "Mexico's flag has the same colours in the same order, but in a 4:7 ratio, darker shades, and with a coat of arms."
+  ],
+  "clues": [
+    "Green, white and red vertical bands with no emblem.",
+    "First adopted by a republic created in 1797 in the north of its peninsula.",
+    "A royal shield was removed from its white band after a 1946 referendum.",
+    "Its constitution defines it in a single sentence."
+  ],
+  "lookalikes": ["mexico", "ireland", "ivory-coast", "hungary"],
+  "tags": ["vertical-tricolour"],
+  "sources": [
+    { "title": "Constitution of the Italian Republic, Article 12", "url": "https://www.senato.it/istituzione/la-costituzione" },
+    { "title": "Flag of Italy (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Italy" },
+    { "title": "Italy (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/it.html" }
+  ]
+}

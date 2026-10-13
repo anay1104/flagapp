@@ -1,0 +1,52 @@
+{
+  "id": "spain",
+  "wikidata": "Q29",
+  "name": "Spain",
+  "flagName": "Flag of Spain",
+  "nickname": "La Rojigualda (red-gold)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1981,
+  "to": null,
+  "adopted": "1981-12-19",
+  "ratio": "2:3",
+  "summary": "Red, yellow and red horizontal bands, the yellow twice as tall, with the national coat of arms toward the hoist. The red-gold design began in 1785 as a naval ensign chosen to be visible at sea.",
+  "origin": [
+    "Before 1785 Spanish ships flew white flags bearing the arms of the Bourbon king, which were easily confused with the flags of other Bourbon monarchies such as France. King Charles III held a competition among designs submitted by his naval minister, Antonio Valdés, and on 28 May 1785 chose a red-yellow-red ensign for warships.",
+    "Red and gold were long-standing colours of the Crown of Aragon and appear in the arms of Castile. The naval flag gradually became the national flag and was declared so for land forces in 1843 by Isabella II.",
+    "The Second Republic (1931–1939) used a red, yellow and purple tricolour. Franco's regime restored red-gold, with an eagle of Saint John behind the arms. The current arms were adopted on 5 October 1981, and the flag is defined in Article 4 of the 1978 Constitution."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#AA151B", "family": "red", "meaning": "No official meaning; red and gold are the traditional colours of the Crown of Aragon and of Castile.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#F1BF00", "family": "yellow", "meaning": "No official meaning; see red. Popularly linked to the gold of Spain's past.", "basis": "popular" }
+  ],
+  "symbols": [
+    { "name": "Coat of arms", "description": "A crowned shield quartered with Castile (castle), León (lion), Aragon (red and gold stripes) and Navarre (chains), with Granada (a pomegranate) at the base and the Bourbon-Anjou arms in the centre.", "meaning": "The historic kingdoms that united to form Spain, under the reigning dynasty.", "basis": "official" },
+    { "name": "Pillars of Hercules", "description": "Two columns flanking the shield, wrapped in a ribbon reading 'PLVS VLTRA'.", "meaning": "The Strait of Gibraltar; the motto 'further beyond' was adopted by Charles V to signify the New World.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1785, "to": 1843, "label": "Red-gold naval ensign", "note": "Chosen by Charles III for warships." },
+    { "from": 1843, "to": 1931, "label": "National flag of the Kingdom" },
+    { "from": 1931, "to": 1939, "label": "Second Spanish Republic", "note": "Red, yellow and purple horizontal tricolour." },
+    { "from": 1939, "to": 1981, "label": "Francoist Spain", "note": "Red-gold with the eagle of Saint John." },
+    { "from": 1981, "to": null, "label": "Current flag with the 1981 arms" }
+  ],
+  "facts": [
+    "The flag without the coat of arms is the civil flag, legally permitted for private use.",
+    "The yellow band is twice the height of each red band, a pattern known in vexillology as a Spanish fess.",
+    "Purple in the Republican flag was meant to represent Castile; a common explanation is that faded crimson Castilian banners were mistaken for purple."
+  ],
+  "clues": [
+    "A yellow band twice as wide as the red bands above and below it, with a crowned shield toward the hoist.",
+    "Two pillars on it carry a motto meaning 'further beyond'.",
+    "Chosen by a king in 1785 to make his warships easier to identify at sea.",
+    "A republic in the 1930s replaced its lower band with purple."
+  ],
+  "lookalikes": [],
+  "tags": ["horizontal-stripes", "coat-of-arms", "shield", "crown", "text", "building", "animal", "monarchy"],
+  "sources": [
+    { "title": "Spanish Constitution, Article 4", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229" },
+    { "title": "Flag of Spain (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Spain" },
+    { "title": "Spain (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/es.html" }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bolivia",
+  "wikidata": "Q750",
+  "name": "Bolivia",
+  "flagName": "Flag of Bolivia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1851,
+  "to": null,
+  "adopted": "1851-10-31",
+  "ratio": "2:3",
+  "summary": "Red, yellow and green horizontal bands. Adopted in 1851, the civil flag is plain, and the state flag adds the coat of arms. Since 2009 the Wiphala, a square flag of indigenous Andean peoples, has also been an official national symbol.",
+  "origin": [
+    "After independence in 1825, Bolivia used several flags of green and red, then red, yellow and green. President Manuel Isidoro Belzu set the current order on 31 October 1851.",
+    "The 2009 Constitution, under President Evo Morales, made the Wiphala, a patchwork of seven colours in diagonal squares, a symbol of the state alongside the tricolour."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#D52B1E", "family": "red", "meaning": "The bravery of the Bolivian soldiers and the blood shed for the republic.", "basis": "official" },
+    { "name": "Yellow", "hex": "#F9E300", "family": "yellow", "meaning": "The country's mineral wealth.", "basis": "official" },
+    { "name": "Green", "hex": "#007934", "family": "green", "meaning": "The fertility of the land.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1825, "to": 1826, "label": "First flags", "note": "Green-red-green with stars." },
+    { "from": 1826, "to": 1851, "label": "Yellow-red-green" },
+    { "from": 1851, "to": null, "label": "Red-yellow-green" }
+  ],
+  "facts": [
+    "The Wiphala has been a co-official national symbol since 2009.",
+    "Bolivia celebrates Flag Day on 17 August.",
+    "Ghana and Lithuania use the same three colours in different orders; Ghana adds a black star."
+  ],
+  "clues": [
+    "Red, yellow and green horizontal bands.",
+    "A seven-coloured square patchwork flag is co-official alongside it.",
+    "Its yellow represents mineral wealth in a landlocked Andean country."
+  ],
+  "lookalikes": ["ghana", "lithuania", "ethiopia"],
+  "tags": ["horizontal-tricolour"],
+  "sources": [
+    { "title": "Flag of Bolivia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Bolivia" },
+    { "title": "Bolivia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/bo.html" }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "sri-lanka",
+  "wikidata": "Q854",
+  "name": "Sri Lanka",
+  "flagName": "Flag of Sri Lanka",
+  "nickname": "The Lion Flag (Sinha Kodiya)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1972,
+  "to": null,
+  "adopted": "1972-05-22",
+  "ratio": "1:2",
+  "aliases": ["Ceylon"],
+  "summary": "A gold lion holding a sword on a maroon panel, with bo leaves in the corners, beside vertical green and saffron stripes, all within a gold border. The lion comes from the banner of the last kings of Kandy.",
+  "origin": [
+    "The lion banner was used by the Kingdom of Kandy, the last independent Sinhalese kingdom, until the British took it in 1815. When Ceylon became independent in 1948, the lion flag was revived.",
+    "In 1951 green and saffron stripes were added to represent the Muslim and Tamil minorities. In 1972, when Ceylon became the Republic of Sri Lanka, the bo leaves were redrawn as realistic pīpal leaves."
+  ],
+  "colors": [
+    { "name": "Maroon", "hex": "#8D153A", "family": "maroon", "meaning": "The Sinhalese majority.", "basis": "official" },
+    { "name": "Gold", "hex": "#FFBE29", "family": "yellow", "meaning": "The lion, leaves and border; the border signifies the other minorities and unity.", "basis": "official" },
+    { "name": "Saffron", "hex": "#EB7400", "family": "orange", "meaning": "The Tamil minority.", "basis": "official" },
+    { "name": "Green", "hex": "#00534E", "family": "green", "meaning": "The Muslim minority.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Lion with a sword", "description": "A gold lion facing the hoist, holding a kastane sword in its right forepaw.", "meaning": "The Sinhalese people and the bravery of the nation; the sword stands for sovereignty.", "basis": "official" },
+    { "name": "Four bo leaves", "description": "Gold pīpal leaves in the corners of the maroon panel.", "meaning": "Buddhism and its four virtues: mettā (loving-kindness), karuṇā (compassion), muditā (sympathetic joy) and upekkhā (equanimity).", "basis": "official" }
+  ],
+  "history": [
+    { "from": null, "to": 1815, "label": "Kingdom of Kandy", "note": "Lion banner." },
+    { "from": 1948, "to": 1951, "label": "Dominion of Ceylon", "note": "Lion flag revived." },
+    { "from": 1951, "to": 1972, "label": "Green and saffron stripes added" },
+    { "from": 1972, "to": null, "label": "Republic of Sri Lanka", "note": "Bo leaves redrawn." }
+  ],
+  "facts": [
+    "The bo tree is sacred in Buddhism as the tree under which the Buddha attained enlightenment."
+  ],
+  "clues": [
+    "A gold lion with a sword on maroon, with green and saffron stripes beside it.",
+    "Its corner leaves come from the tree of the Buddha's enlightenment.",
+    "Its lion comes from the banner of a highland kingdom that fell in 1815.",
+    "Two stripes were added in 1951 to represent minorities."
+  ],
+  "lookalikes": [],
+  "tags": ["border", "animal", "weapon", "plant", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Constitution of Sri Lanka, Second Schedule", "url": "https://www.parliament.lk/files/pdf/constitution.pdf" },
+    { "title": "Flag of Sri Lanka (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka" },
+    { "title": "Sri Lanka (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/lk.html" }
+  ]
+}

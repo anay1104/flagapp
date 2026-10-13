@@ -1,0 +1,47 @@
+{
+  "id": "austria",
+  "wikidata": "Q40",
+  "name": "Austria",
+  "flagName": "Flag of Austria",
+  "nickname": "Rot-Weiß-Rot (red-white-red)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1945,
+  "to": null,
+  "adopted": "1945-05-01",
+  "ratio": "2:3",
+  "summary": "Red, white and red horizontal bands of equal height. One of the oldest national flags in the world, it derives from the arms of the Babenberg dukes of Austria, documented from 1230.",
+  "origin": [
+    "The red-white-red 'Bindenschild' appears on the seal of Duke Frederick II of Babenberg in 1230. It became the arms of the Duchy of Austria and, under the Habsburgs, the core arms of their Austrian lands.",
+    "A popular legend says that during the Siege of Acre in 1191, Duke Leopold V's white tunic was soaked in blood except where his belt had been, leaving a white band. This story first appears centuries later.",
+    "The Habsburg monarchy used black and yellow as its dynastic colours. The First Republic adopted red-white-red in 1918; it was abolished after the Anschluss of 1938 and restored on 1 May 1945. Article 8a of the Federal Constitution defines the colours."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#C8102E", "family": "red", "meaning": "From the Babenberg arms; by legend, the blood on Leopold V's tunic.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the Babenberg arms; by legend, the band left by Leopold V's belt.", "basis": "traditional" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1230, "to": 1918, "label": "Arms of the Duchy of Austria", "note": "Red-white-red as heraldic colours; the Habsburg empire used black and yellow as its flag." },
+    { "from": 1918, "to": 1938, "label": "First Republic" },
+    { "from": 1945, "to": null, "label": "Second Republic", "note": "Restored after the Second World War." }
+  ],
+  "facts": [
+    "The state flag adds the federal coat of arms: a black eagle with a hammer, sickle and broken chains.",
+    "Latvia's flag is similar but uses a dark carmine red and a narrower white band.",
+    "Austria's naval ensign under the monarchy was also red-white-red, with the crowned arms."
+  ],
+  "clues": [
+    "Red, white and red horizontal bands of equal height.",
+    "A legend links it to a blood-stained tunic at a siege in the Third Crusade.",
+    "Its colours are recorded on a ducal seal from 1230.",
+    "A Baltic flag looks similar but with a narrower white band."
+  ],
+  "lookalikes": ["latvia", "lebanon", "peru"],
+  "tags": ["horizontal-stripes"],
+  "sources": [
+    { "title": "Bundes-Verfassungsgesetz, Article 8a (RIS)", "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138" },
+    { "title": "Flag of Austria (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Austria" },
+    { "title": "Austria (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/at.html" }
+  ]
+}

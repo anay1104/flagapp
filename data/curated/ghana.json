@@ -1,0 +1,50 @@
+{
+  "id": "ghana",
+  "wikidata": "Q117",
+  "name": "Ghana",
+  "flagName": "Flag of Ghana",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1966,
+  "to": null,
+  "adopted": "1957-03-06",
+  "ratio": "2:3",
+  "designer": "Theodosia Okoh",
+  "summary": "Red, gold and green horizontal bands with a black five-pointed star in the centre. Designed by Theodosia Okoh for independence in 1957, it was the second African flag (after Ethiopia's) to use red, gold and green and helped make them the Pan-African colours.",
+  "origin": [
+    "Ghana, formerly the Gold Coast, was the first sub-Saharan African colony to gain independence, on 6 March 1957. Theodosia Okoh, a teacher and artist, designed the flag.",
+    "From 1964 to 1966, under Kwame Nkrumah's one-party state, the gold band was replaced with white to match the ruling Convention People's Party's colours. The original design was restored in 1966 after Nkrumah was overthrown."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The blood of those who died in the struggle for independence.", "basis": "official" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "The country's mineral wealth; the colony's name was the Gold Coast.", "basis": "official" },
+    { "name": "Green", "hex": "#006B3F", "family": "green", "meaning": "Ghana's forests and natural wealth.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "The star.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Black Star", "description": "A black five-pointed star in the gold band.", "meaning": "African freedom and emancipation; the 'lodestar of African freedom'. It recalls Marcus Garvey's Black Star Line shipping company.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1877, "to": 1957, "label": "Gold Coast colony", "note": "Blue ensign with an elephant badge." },
+    { "from": 1957, "to": 1964, "label": "Independence flag" },
+    { "from": 1964, "to": 1966, "label": "One-party state", "note": "White band in place of gold." },
+    { "from": 1966, "to": null, "label": "Original design restored" }
+  ],
+  "facts": [
+    "Ghana's national football team is nicknamed the Black Stars after the flag.",
+    "Bolivia and Lithuania use red, yellow and green horizontal bands in different orders.",
+    "Guinea-Bissau, Togo, Senegal and others later adopted red, gold and green with a black star."
+  ],
+  "clues": [
+    "Red, gold and green horizontal bands with a black star in the middle.",
+    "Its star gives a national football team its nickname.",
+    "The first flag of an independent sub-Saharan African colony, from 1957.",
+    "For two years its middle band was white under a one-party state."
+  ],
+  "lookalikes": ["bolivia", "lithuania", "guinea-bissau"],
+  "tags": ["horizontal-tricolour", "star", "pan-african"],
+  "sources": [
+    { "title": "Flag of Ghana (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ghana" },
+    { "title": "Ghana (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gh.html" }
+  ]
+}

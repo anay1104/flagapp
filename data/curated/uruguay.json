@@ -1,0 +1,48 @@
+{
+  "id": "uruguay",
+  "wikidata": "Q77",
+  "name": "Uruguay",
+  "flagName": "Flag of Uruguay",
+  "nickname": "Pabellón Patrio",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1830,
+  "to": null,
+  "adopted": "1830-07-11",
+  "ratio": "2:3",
+  "summary": "Nine horizontal stripes of white and blue with a golden Sun of May in the white canton. The design combines the colours of the Río de la Plata independence movement with stripes in the manner of the United States flag.",
+  "origin": [
+    "Uruguay, the former Banda Oriental, won independence from Brazil in 1828 with Argentine support. A law of 1828 created a flag of white with nine light blue stripes, representing the nine departments, and the Sun of May.",
+    "On 11 July 1830 the number of stripes was reduced to nine in total (five white and four blue), the form used today; the nine stripes are now said to stand for the original departments."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "From the independence colours of the Río de la Plata.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#0038A8", "family": "blue", "meaning": "From the independence colours of the Río de la Plata.", "basis": "traditional" },
+    { "name": "Gold", "hex": "#FCD116", "family": "yellow", "meaning": "The Sun of May.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun of May", "description": "A golden sun with a face and sixteen rays, alternately straight and wavy.", "meaning": "The May Revolution of 1810 in Buenos Aires and the independence of the Río de la Plata; also linked to the Inca sun god Inti.", "basis": "traditional" },
+    { "name": "Nine stripes", "description": "Five white and four blue horizontal stripes.", "meaning": "The nine original departments of Uruguay in 1830.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1828, "to": 1830, "label": "First national flag", "note": "Nineteen stripes." },
+    { "from": 1830, "to": null, "label": "Nine stripes" }
+  ],
+  "facts": [
+    "Uruguay also has two other official flags: the Artigas flag and the flag of the Treinta y Tres, flown alongside the national flag on public buildings.",
+    "Greece's flag has the same number of blue and white stripes, with a cross in place of the sun.",
+    "Argentina's sun has 32 rays; Uruguay's has 16."
+  ],
+  "clues": [
+    "Nine white and blue stripes with a golden sun with a face in the canton.",
+    "Its sun has sixteen rays, half as many as its neighbour's.",
+    "Its stripes stand for nine original departments.",
+    "It is one of three official national flags of its country."
+  ],
+  "lookalikes": ["argentina", "greece"],
+  "tags": ["horizontal-stripes", "canton", "sun"],
+  "sources": [
+    { "title": "Flag of Uruguay (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Uruguay" },
+    { "title": "Uruguay (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/uy.html" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "uzbekistan",
+  "wikidata": "Q265",
+  "name": "Uzbekistan",
+  "flagName": "Flag of Uzbekistan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1991,
+  "to": null,
+  "adopted": "1991-11-18",
+  "ratio": "1:2",
+  "summary": "Light blue, white and green horizontal bands separated by thin red stripes, with a white crescent and twelve stars in the upper hoist. It was adopted shortly after independence in 1991.",
+  "origin": [
+    "Uzbekistan declared independence from the Soviet Union on 31 August 1991. The Supreme Council adopted the new flag on 18 November 1991, replacing the flag of the Uzbek SSR."
+  ],
+  "colors": [
+    { "name": "Light blue", "hex": "#0099B5", "family": "light-blue", "meaning": "The sky and water; also the colour of Timur's (Tamerlane's) banner.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Peace and purity.", "basis": "official" },
+    { "name": "Green", "hex": "#1EB53A", "family": "green", "meaning": "Nature, fertility and new life.", "basis": "official" },
+    { "name": "Red", "hex": "#CE1126", "family": "red", "meaning": "The vital force that flows in all living things.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent", "description": "A white crescent in the blue band.", "meaning": "The rebirth of the independent republic; also a symbol associated with Islam.", "basis": "official" },
+    { "name": "Twelve stars", "description": "Twelve white stars in rows of three, four and five.", "meaning": "The twelve months of the year and the constellations of the zodiac; also linked to the historic regions of Uzbekistan.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1952, "to": 1991, "label": "Uzbek SSR" },
+    { "from": 1991, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "The stars are arranged in rows of three, four and five, from top to bottom.",
+    "The twelve stars also allude to the ancient astronomy of Central Asia, practised in the observatory of Ulugh Beg in Samarkand.",
+    "Uzbekistan's Flag Day is 18 November."
+  ],
+  "clues": [
+    "Light blue, white and green bands with red edging, a white crescent and twelve stars.",
+    "Its twelve stars stand for months and the zodiac.",
+    "Its blue was the colour of a 14th-century conqueror's banner.",
+    "Adopted in November 1991 after independence."
+  ],
+  "lookalikes": ["azerbaijan", "turkmenistan"],
+  "tags": ["horizontal-tricolour", "fimbriation", "crescent", "star", "astronomy"],
+  "sources": [
+    { "title": "Flag of Uzbekistan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Uzbekistan" },
+    { "title": "Uzbekistan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/uz.html" }
+  ]
+}

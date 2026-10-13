@@ -1,0 +1,47 @@
+{
+  "id": "poland",
+  "wikidata": "Q36",
+  "name": "Poland",
+  "flagName": "Flag of Poland",
+  "nickname": "Biało-czerwona (white-red)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1919,
+  "to": null,
+  "adopted": "1919-08-01",
+  "ratio": "5:8",
+  "summary": "Two horizontal bands of white and red. The colours come from Poland's coat of arms, a white eagle on a red shield, and were declared the national colours in 1831.",
+  "origin": [
+    "The white eagle on red has been the emblem of Polish rulers since the 13th century. Red and white were used as colours of the Polish-Lithuanian Commonwealth, though its flags varied.",
+    "On 7 February 1831, during the November Uprising against Russia, the Sejm declared white and red the national colours. The flag was officially adopted by the Second Polish Republic on 1 August 1919, after Poland regained independence.",
+    "The 1997 Constitution names white and red as the colours of the Republic. A law of 1980 sets out the flag's proportions and the version with the coat of arms."
+  ],
+  "colors": [
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The white eagle of the coat of arms.", "basis": "official" },
+    { "name": "Red", "hex": "#DC143C", "family": "red", "meaning": "The red field of the coat of arms.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1831, "to": 1919, "label": "National colours declared", "note": "Adopted during the November Uprising." },
+    { "from": 1919, "to": 1980, "label": "Second Republic and People's Republic" },
+    { "from": 1980, "to": null, "label": "Current law on the national symbols" }
+  ],
+  "facts": [
+    "Monaco and Indonesia have the same colours with red on top; Poland's has white on top.",
+    "A variant with the coat of arms in the white band is used by embassies, airports and ships.",
+    "Polish Flag Day is 2 May, between Labour Day and Constitution Day."
+  ],
+  "clues": [
+    "White over red, two horizontal bands.",
+    "Its colours come from a white eagle on a red shield.",
+    "Declared the national colours during an uprising in 1831.",
+    "Two other countries use the same colours upside down."
+  ],
+  "lookalikes": ["indonesia", "monaco", "singapore"],
+  "tags": ["horizontal-bicolour"],
+  "sources": [
+    { "title": "Ustawa o godle, barwach i hymnie Rzeczypospolitej Polskiej (1980)", "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19800070018" },
+    { "title": "Flag of Poland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Poland" },
+    { "title": "Poland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/pl.html" }
+  ]
+}

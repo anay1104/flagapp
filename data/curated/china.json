@@ -1,0 +1,50 @@
+{
+  "id": "china",
+  "wikidata": "Q148",
+  "name": "China",
+  "flagName": "Flag of the People's Republic of China",
+  "nickname": "Wǔxīng Hóngqí (Five-starred Red Flag)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1949,
+  "to": null,
+  "adopted": "1949-09-27",
+  "ratio": "2:3",
+  "designer": "Zeng Liansong",
+  "aliases": ["PRC", "People's Republic of China", "Mainland China"],
+  "summary": "A red field with one large yellow star and four smaller stars arranged in an arc in the canton, each small star pointing toward the large one. It was first raised in Tiananmen Square on 1 October 1949.",
+  "origin": [
+    "In July 1949 the Chinese People's Political Consultative Conference announced a competition for a national flag and received about 3,000 entries. Zeng Liansong, an economist in Shanghai, submitted a red flag with a large star and four small stars.",
+    "In his original design the large star contained a hammer and sickle; the committee removed it to distinguish the flag from that of the Soviet Union. The Conference adopted the flag on 27 September 1949, and Mao Zedong raised it at the founding ceremony of the People's Republic on 1 October 1949.",
+    "The 1990 National Flag Law of the PRC sets out its construction, use and protection."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#EE1C25", "family": "red", "meaning": "The communist revolution; red is also a traditional colour of the Han Chinese.", "basis": "official" },
+    { "name": "Yellow", "hex": "#FFDE00", "family": "yellow", "meaning": "Light shining on the red land; yellow was chosen over white for the stars as a traditional colour of the Chinese.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Large star", "description": "A yellow five-pointed star in the canton.", "meaning": "The Communist Party of China's leadership.", "basis": "official" },
+    { "name": "Four small stars", "description": "Smaller stars in an arc, each with one point aimed at the centre of the large star.", "meaning": "The unity of the Chinese people around the Party. Mao's 1949 description named the four classes of his 'New Democracy': the working class, the peasantry, the urban petite bourgeoisie and the national bourgeoisie.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1949, "to": null, "label": "Five-starred Red Flag" }
+  ],
+  "facts": [
+    "The construction sheet divides the canton into a 15 × 10 grid to position the stars.",
+    "A ceremonial raising and lowering of the flag takes place daily in Tiananmen Square.",
+    "The flag of the Republic of China, now used by Taiwan, has a white sun on a blue canton on red; it was the national flag of mainland China from 1928 to 1949."
+  ],
+  "clues": [
+    "Red with one large yellow star and four smaller stars curving around it.",
+    "Its smaller stars each point toward the large one.",
+    "A hammer and sickle was removed from its design before adoption in 1949.",
+    "Designed by an economist who entered a national competition."
+  ],
+  "lookalikes": ["vietnam", "taiwan"],
+  "tags": ["canton", "star", "communist"],
+  "sources": [
+    { "title": "National Flag Law of the People's Republic of China (1990)", "url": "http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383852.htm" },
+    { "title": "Flag of China (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_China" },
+    { "title": "China (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cn.html" }
+  ]
+}

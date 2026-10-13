@@ -1,0 +1,47 @@
+{
+  "id": "saudi-arabia",
+  "wikidata": "Q851",
+  "name": "Saudi Arabia",
+  "flagName": "Flag of Saudi Arabia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1973,
+  "to": null,
+  "adopted": "1973-03-15",
+  "ratio": "2:3",
+  "summary": "A green field bearing the Shahada, the Islamic declaration of faith, in white Thuluth script above a horizontal sword. Because it carries the Shahada, it is never flown at half-mast and is made with the text reading correctly on both sides.",
+  "origin": [
+    "The flag descends from the banners of the Wahhabi movement and the House of Saud from the 18th century, which were green and bore the Shahada.",
+    "Ibn Saud's forces used variations of the green Shahada banner during the unification of the kingdom in the early 20th century; the sword was added in the 1900s–1920s. The design was standardised by law on 15 March 1973."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#006C35", "family": "green", "meaning": "Islam; green is traditionally associated with the Prophet Muhammad.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity; the colour of the inscription and sword.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Shahada", "description": "'There is no god but God; Muhammad is the Messenger of God', in Arabic Thuluth calligraphy.", "meaning": "The Islamic declaration of faith, the first pillar of Islam.", "basis": "official" },
+    { "name": "Sword", "description": "A horizontal white sword beneath the inscription, pointing toward the hoist.", "meaning": "Justice and the strength of the House of Saud; commonly linked to Ibn Saud's conquests.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1744, "to": 1932, "label": "Banners of the Saudi states", "note": "Green banners with the Shahada, varying in form." },
+    { "from": 1932, "to": 1973, "label": "Kingdom of Saudi Arabia", "note": "Variants of the Shahada and sword design." },
+    { "from": 1973, "to": null, "label": "Standardised by law" }
+  ],
+  "facts": [
+    "Flags are made double-sided, from two sheets, so the Shahada reads correctly from both sides and the sword points to the hoist on each.",
+    "It is never lowered to half-mast, and it is not printed on items such as T-shirts or footballs.",
+    "Saudi Arabia marks Flag Day on 11 March, established in 2023."
+  ],
+  "clues": [
+    "A green flag with white Arabic calligraphy above a horizontal sword.",
+    "It is never flown at half-mast because of the words on it.",
+    "It is made double-sided so its inscription reads correctly from both sides.",
+    "Its inscription is a declaration of religious faith."
+  ],
+  "lookalikes": ["afghanistan", "iraq"],
+  "tags": ["plain-field", "text", "weapon", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Saudi Arabia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Saudi_Arabia" },
+    { "title": "Saudi Arabia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/sa.html" }
+  ]
+}

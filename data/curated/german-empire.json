@@ -1,0 +1,45 @@
+{
+  "id": "german-empire",
+  "wikidata": "Q43287",
+  "name": "German Empire",
+  "flagName": "Flag of the German Empire",
+  "nickname": "Schwarz-Weiß-Rot (black-white-red)",
+  "category": "historical",
+  "tier": 1,
+  "from": 1867,
+  "to": 1918,
+  "adopted": "1867-07-01",
+  "ratio": "2:3",
+  "summary": "A horizontal tricolour of black, white and red. Created for Bismarck's North German Confederation in 1867, it became the flag of the German Empire in 1871 and was used until the monarchy fell in 1918.",
+  "origin": [
+    "When Prussia formed the North German Confederation in 1867, Otto von Bismarck rejected the black-red-gold of the 1848 liberal revolution. The new flag combined the black and white of Prussia with the red and white of the Hanseatic cities, such as Hamburg, Bremen and Lübeck.",
+    "The flag became the national flag of the German Empire, proclaimed at Versailles in 1871. After the November Revolution of 1918, the Weimar Republic adopted black-red-gold. The Nazi regime restored black-white-red in 1933 alongside the swastika flag, before making the swastika flag the sole national flag in 1935."
+  ],
+  "colors": [
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "From the Prussian flag (black and white).", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Shared by Prussia and the Hanseatic cities.", "basis": "official" },
+    { "name": "Red", "hex": "#DD0000", "family": "red", "meaning": "From the flags of the Hanseatic League cities and Brandenburg.", "basis": "official" }
+  ],
+  "symbols": [],
+  "history": [
+    { "from": 1867, "to": 1871, "label": "North German Confederation" },
+    { "from": 1871, "to": 1918, "label": "German Empire" },
+    { "from": 1933, "to": 1935, "label": "Restored under the Nazi regime", "note": "Flown alongside the swastika flag." }
+  ],
+  "facts": [
+    "The Imperial war ensign (Reichskriegsflagge) added a black cross, the Prussian eagle and an iron cross in the canton.",
+    "The black-white-red flag is legal in Germany today but is used by far-right groups, and some states allow police to confiscate it at rallies.",
+    "During the Weimar Republic, monarchists and nationalists fought a long 'flag dispute' (Flaggenstreit) to restore black-white-red."
+  ],
+  "clues": [
+    "Black, white and red horizontal bands.",
+    "It combined the colours of a kingdom with those of a league of trading cities.",
+    "Chosen by a chancellor who rejected the colours of the 1848 revolution.",
+    "It was abandoned in 1918, briefly restored in 1933 and dropped again in 1935."
+  ],
+  "lookalikes": ["germany", "yemen", "egypt"],
+  "tags": ["horizontal-tricolour", "monarchy"],
+  "sources": [
+    { "title": "Flag of Germany: German Empire (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Germany" }
+  ]
+}

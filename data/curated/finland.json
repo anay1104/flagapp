@@ -1,0 +1,48 @@
+{
+  "id": "finland",
+  "wikidata": "Q33",
+  "name": "Finland",
+  "flagName": "Flag of Finland",
+  "nickname": "Siniristilippu (the blue cross flag)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1918,
+  "to": null,
+  "adopted": "1918-05-29",
+  "ratio": "11:18",
+  "designer": "Eero Snellman and Bruno Tuukkanen",
+  "summary": "A blue Nordic cross on white. Adopted in 1918 after Finland's independence from Russia, its colours were proposed in the 19th century by the poet Zachris Topelius as the blue of lakes and sky and the white of snow.",
+  "origin": [
+    "In the 19th century, while Finland was a grand duchy of the Russian Empire, there was debate over a national flag. The poet Zachris Topelius proposed blue and white in 1862, describing blue as the lakes and sky and white as the snow of winter. The Nyländska Jaktklubben yacht club had used a blue cross on white since 1861.",
+    "After independence in December 1917, the Parliament considered several designs, including a red and yellow flag based on the coat of arms. On 29 May 1918 it adopted the blue cross flag; the shade of blue was darkened and the proportions fixed by the Flag Act of 1978."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002F6C", "family": "blue", "meaning": "Finland's thousands of lakes and the sky.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The snow of the Finnish winter.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Nordic cross", "description": "A blue cross offset toward the hoist.", "meaning": "Christianity and Finland's place among the Nordic countries.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1918, "to": 1978, "label": "Adopted by Parliament", "note": "A lighter blue at first; shades varied." },
+    { "from": 1978, "to": null, "label": "Flag Act of 1978", "note": "Fixed the shade and proportions." }
+  ],
+  "facts": [
+    "The state flag adds the coat of arms (a crowned lion) at the centre of the cross.",
+    "The presidential flag adds the Cross of Liberty in the canton, and the military flags are triple-tailed.",
+    "Finland's Flag Day is Midsummer Day, when flags fly through the night."
+  ],
+  "clues": [
+    "A blue Nordic cross on a white field.",
+    "A poet described its colours as lakes, sky and snow.",
+    "Adopted in 1918 after independence from an empire.",
+    "On its Flag Day, flags fly all night at midsummer."
+  ],
+  "lookalikes": ["sweden", "iceland", "greece"],
+  "tags": ["nordic-cross", "nordic", "religious-symbol"],
+  "sources": [
+    { "title": "Laki Suomen lipusta (Finlex)", "url": "https://www.finlex.fi/fi/laki/ajantasa/1978/19780380" },
+    { "title": "Flag of Finland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Finland" },
+    { "title": "Finland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/fi.html" }
+  ]
+}

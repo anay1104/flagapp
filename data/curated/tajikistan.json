@@ -1,0 +1,46 @@
+{
+  "id": "tajikistan",
+  "wikidata": "Q863",
+  "name": "Tajikistan",
+  "flagName": "Flag of Tajikistan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-11-24",
+  "ratio": "1:2",
+  "summary": "Red, white and green horizontal bands, the white twice as tall, with a gold crown under an arc of seven stars in the centre. Its colours reflect Tajikistan's Persian heritage and its Soviet-era flag.",
+  "origin": [
+    "The flag of the Tajik SSR from 1953 was red with white and green bands. After independence in 1991 and the outbreak of civil war, the Supreme Council adopted the current design on 24 November 1992, keeping the colours and adding the crown and stars."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#CC0000", "family": "red", "meaning": "The unity of the nation, the sun, and victory.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Purity and cotton, a major crop.", "basis": "official" },
+    { "name": "Green", "hex": "#006600", "family": "green", "meaning": "Nature and the fertility of the valleys; also Islam.", "basis": "official" },
+    { "name": "Gold", "hex": "#F8C300", "family": "yellow", "meaning": "The crown and stars.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crown", "description": "A stylised golden crown.", "meaning": "The Tajik people; the name 'Tajik' is popularly derived from the Persian 'taj', meaning crown.", "basis": "official" },
+    { "name": "Seven stars", "description": "Seven golden stars in an arc above the crown.", "meaning": "Seven is a lucky number in Tajik tradition, linked to perfection and happiness; also the seven heavens of Persian tradition.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1953, "to": 1992, "label": "Tajik SSR" },
+    { "from": 1992, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Dushanbe once had the world's tallest flagpole, at 165 m, erected in 2011.",
+    "Iran's flag uses the same colours, reflecting shared Persian heritage.",
+    "Flag Day is 24 November."
+  ],
+  "clues": [
+    "Red, a double-width white band, and green, with a gold crown under seven stars.",
+    "Its crown refers to a word for crown in its own national name.",
+    "Its capital once had the world's tallest flagpole."
+  ],
+  "lookalikes": ["iran", "hungary", "bulgaria"],
+  "tags": ["horizontal-tricolour", "crown", "star", "pan-iranian"],
+  "sources": [
+    { "title": "Flag of Tajikistan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Tajikistan" },
+    { "title": "Tajikistan (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/tj.html" }
+  ]
+}

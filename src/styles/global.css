@@ -480,3 +480,46 @@ section {
     gap: 0.25rem;
   }
 }
+
+.wiki h3 {
+  margin-top: 1.5rem;
+}
+
+.wiki h4 {
+  margin: 1.25rem 0 0.25rem;
+  font-size: 1rem;
+}
+
+.attribution {
+  margin-top: 1.5rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border);
+}
+
+.palette {
+  display: flex;
+  height: 1.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  max-width: 560px;
+}
+
+.palette-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0.6rem 0 0;
+}
+
+.palette-legend .dot {
+  display: inline-block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  margin-right: 0.35rem;
+  vertical-align: -0.05rem;
+}

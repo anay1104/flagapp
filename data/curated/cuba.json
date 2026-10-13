@@ -1,0 +1,48 @@
+{
+  "id": "cuba",
+  "wikidata": "Q241",
+  "name": "Cuba",
+  "flagName": "Flag of Cuba",
+  "nickname": "La Estrella Solitaria (the Lone Star)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1902,
+  "to": null,
+  "adopted": "1902-05-20",
+  "ratio": "1:2",
+  "designer": "Narciso López and Miguel Teurbe Tolón (1849)",
+  "summary": "Five horizontal stripes of blue and white with a red triangle at the hoist bearing a white star. Designed in 1849 by Narciso López and the poet Miguel Teurbe Tolón, it became the national flag when Cuba gained independence in 1902.",
+  "origin": [
+    "Narciso López, a Venezuelan-born general who led filibustering expeditions to free Cuba from Spain, designed the flag with the poet Miguel Teurbe Tolón in New York in 1849. It was first raised in Cárdenas in 1850.",
+    "The flag was used by independence fighters in the wars against Spain and became the national flag at independence on 20 May 1902, after the US occupation following the Spanish–American War."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#002A8F", "family": "blue", "meaning": "The three stripes stand for the three military departments into which Cuba was divided at the time.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "The purity of the patriotic cause.", "basis": "traditional" },
+    { "name": "Red", "hex": "#CF142B", "family": "red", "meaning": "The blood shed for independence.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Red triangle", "description": "An equilateral triangle at the hoist.", "meaning": "Often said to stand for liberty, equality and fraternity, or for Masonic symbolism; the designers were associated with Freemasonry.", "basis": "popular" },
+    { "name": "Lone star", "description": "A white five-pointed star in the triangle.", "meaning": "Independence; the 'lone star' of a free Cuba.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1850, "to": 1902, "label": "Independence movement" },
+    { "from": 1902, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Puerto Rico's flag, designed in 1892 by Puerto Rican exiles in New York, has the same layout with the colours reversed.",
+    "Cuba's Constitution names the flag as one of three national symbols, with the anthem and the coat of arms."
+  ],
+  "clues": [
+    "Blue and white stripes with a red hoist triangle holding a white star.",
+    "A neighbouring island's flag has the same layout with reversed colours.",
+    "Designed in New York in 1849 for an expedition against Spanish rule.",
+    "Its three blue stripes stood for three military departments."
+  ],
+  "lookalikes": ["puerto-rico", "philippines", "czech-republic"],
+  "tags": ["horizontal-stripes", "hoist-triangle", "star"],
+  "sources": [
+    { "title": "Flag of Cuba (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Cuba" },
+    { "title": "Cuba (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/cu.html" }
+  ]
+}

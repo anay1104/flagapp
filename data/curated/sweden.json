@@ -1,0 +1,50 @@
+{
+  "id": "sweden",
+  "wikidata": "Q34",
+  "name": "Sweden",
+  "flagName": "Flag of Sweden",
+  "nickname": "Sveriges flagga",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1906,
+  "to": null,
+  "adopted": "1906-06-22",
+  "ratio": "5:8",
+  "summary": "A yellow Nordic cross on a blue field. Its colours come from the Swedish coat of arms, three gold crowns on blue, and the cross design follows the Danish flag. Its current form was set by law in 1906.",
+  "origin": [
+    "Blue and yellow appear in the Swedish royal arms from the 14th century: the three crowns (Tre Kronor) are gold on a blue shield. A blue flag with a yellow cross is documented from the 16th century, during the reign of Gustav Vasa or his sons, and was used at sea from the 1560s.",
+    "A popular legend says King Eric IX saw a golden cross in a blue sky before a crusade to Finland in the 12th century, but this story has no contemporary support.",
+    "During the union with Norway (1814–1905), both countries' flags carried a union mark in the canton. After the union was dissolved, the Act on the Flag of Sweden of 22 June 1906 defined the current flag without it."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#006AA7", "family": "blue", "meaning": "From the blue field of the Swedish coat of arms.", "basis": "traditional" },
+    { "name": "Yellow", "hex": "#FECC02", "family": "yellow", "meaning": "From the gold crowns and cross of the Swedish arms.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Nordic cross", "description": "A yellow cross with the vertical arm offset toward the hoist.", "meaning": "Christianity, following the Danish Dannebrog.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1562, "to": 1815, "label": "Blue with a yellow cross", "note": "Earliest documented use at sea." },
+    { "from": 1815, "to": 1844, "label": "Union with Norway (first union mark)" },
+    { "from": 1844, "to": 1905, "label": "Union flag period", "note": "Both flags carried the 'herring salad' union mark in the canton." },
+    { "from": 1906, "to": null, "label": "Flag Act of 1906" }
+  ],
+  "facts": [
+    "Swedish Flag Day, 6 June, is also the National Day.",
+    "The naval ensign and the king's flag are triple-tailed swallowtails (tretungad flagga).",
+    "The union mark of 1844–1905 combined the Swedish and Norwegian colours and was nicknamed sillsalaten, 'the herring salad'."
+  ],
+  "clues": [
+    "A yellow Nordic cross on a blue field.",
+    "Its colours come from three golden crowns on a royal shield.",
+    "For six decades its canton held a mark nicknamed after a fish dish.",
+    "A legend claims a king saw its cross in the sky before a crusade."
+  ],
+  "lookalikes": ["finland", "denmark", "norway", "iceland"],
+  "tags": ["nordic-cross", "nordic", "religious-symbol"],
+  "sources": [
+    { "title": "Lag (1982:269) om Sveriges flagga", "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1982269-om-sveriges-flagga_sfs-1982-269/" },
+    { "title": "Flag of Sweden (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Sweden" },
+    { "title": "Sweden (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/se.html" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "kazakhstan",
+  "wikidata": "Q232",
+  "name": "Kazakhstan",
+  "flagName": "Flag of Kazakhstan",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1992,
+  "to": null,
+  "adopted": "1992-06-04",
+  "ratio": "1:2",
+  "designer": "Shaken Niyazbekov",
+  "summary": "A golden sun with 32 rays above a soaring steppe eagle on a sky-blue field, with a vertical band of national ornament at the hoist. Adopted in 1992, it draws on the symbolism of the Turkic and Mongol peoples of the steppe.",
+  "origin": [
+    "After the dissolution of the Soviet Union in 1991, Kazakhstan held a competition for new state symbols. The artist Shaken Niyazbekov's design was chosen, and the flag was adopted on 4 June 1992.",
+    "The Constitutional Law on State Symbols of 2007 governs its use and specifies its colours."
+  ],
+  "colors": [
+    { "name": "Sky blue", "hex": "#00AFCA", "family": "light-blue", "meaning": "The endless sky over the steppe; peace, well-being and the unity of the Turkic peoples, for whom blue has religious significance.", "basis": "official" },
+    { "name": "Gold", "hex": "#FEC50C", "family": "yellow", "meaning": "The sun, eagle and ornament; light and wealth.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Sun", "description": "A golden sun with 32 rays.", "meaning": "A source of life and energy; wealth and abundance.", "basis": "official" },
+    { "name": "Steppe eagle (berkut)", "description": "A golden eagle with spread wings beneath the sun.", "meaning": "Freedom, power and the high aspirations of the state.", "basis": "official" },
+    { "name": "Koshkar-muiz ornament", "description": "A vertical band of traditional 'ram's horn' patterns at the hoist.", "meaning": "The art and cultural traditions of the Kazakh people.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1953, "to": 1992, "label": "Kazakh SSR", "note": "Red with a horizontal light blue band." },
+    { "from": 1992, "to": null, "label": "National flag" }
+  ],
+  "facts": [
+    "Flag Day, 4 June, is the anniversary of its adoption.",
+    "Its sky-blue field is one of the lightest blues among national flags."
+  ],
+  "clues": [
+    "A golden sun and eagle on sky blue, with an ornamental band at the hoist.",
+    "Its sun has 32 rays.",
+    "Its hoist band shows a 'ram's horn' pattern.",
+    "Adopted in 1992 after a competition, replacing a Soviet republic flag."
+  ],
+  "lookalikes": ["palau", "argentina"],
+  "tags": ["sun", "eagle", "bird"],
+  "sources": [
+    { "title": "Constitutional Law on State Symbols (Adilet)", "url": "https://adilet.zan.kz/eng/docs/Z070000258_" },
+    { "title": "Flag of Kazakhstan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Kazakhstan" }
+  ]
+}

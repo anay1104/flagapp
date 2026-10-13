@@ -1,0 +1,50 @@
+{
+  "id": "ecuador",
+  "wikidata": "Q736",
+  "name": "Ecuador",
+  "flagName": "Flag of Ecuador",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1900,
+  "to": null,
+  "adopted": "1900-12-07",
+  "ratio": "1:2",
+  "summary": "Yellow, blue and red horizontal bands, the yellow twice as tall, with the coat of arms in the centre. It shares the Gran Colombian colours with Colombia and Venezuela; the arms show a condor over Mount Chimborazo and the first steamship built in South America.",
+  "origin": [
+    "Ecuador was part of Gran Colombia until 1830 and first used its yellow-blue-red tricolour. After several other designs, including a blue-and-white flag of the 1845 Marcist Revolution, the tricolour was readopted in 1860 by García Moreno.",
+    "A decree of 7 December 1900 confirmed the flag with the coat of arms in the centre."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FFDD00", "family": "yellow", "meaning": "The fertility of the land, crops and mineral wealth.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#034EA2", "family": "blue", "meaning": "The ocean and the clear sky.", "basis": "traditional" },
+    { "name": "Red", "hex": "#ED1C24", "family": "red", "meaning": "The blood of those who died for independence.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Andean condor", "description": "A condor with spread wings atop an oval shield.", "meaning": "Power, greatness and strength; ready to attack any enemy.", "basis": "official" },
+    { "name": "Chimborazo and the river Guayas", "description": "A snow-capped volcano and a river with a steamship in the shield, under a sun and zodiac signs.", "meaning": "Ecuador's highest mountain and its coast. The ship is the Guayas, the first sea-going steamship built in South America (1841). The zodiac signs mark the months of the March Revolution of 1845.", "basis": "official" },
+    { "name": "Fasces and branches", "description": "A fasces below the shield, with laurel and palm branches and national flags.", "meaning": "Republican authority and dignity; laurel for victory and palm for peace.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1830, "to": 1845, "label": "Gran Colombian tricolour" },
+    { "from": 1845, "to": 1860, "label": "Marcist Revolution flag", "note": "Blue and white with stars." },
+    { "from": 1860, "to": 1900, "label": "Tricolour readopted" },
+    { "from": 1900, "to": null, "label": "Current flag with arms" }
+  ],
+  "facts": [
+    "Without the arms it is identical to Colombia's flag except for proportions (1:2 for Ecuador, 2:3 for Colombia).",
+    "The civil flag, used by citizens, omits the coat of arms.",
+    "Ecuador's arms are among the few to depict a steamship."
+  ],
+  "clues": [
+    "Yellow (double width), blue and red bands with a condor-topped coat of arms.",
+    "Its arms show a snow-capped volcano and an early steamship.",
+    "Without its arms, it closely resembles a neighbour's flag.",
+    "Zodiac signs on it mark the months of an 1845 revolution."
+  ],
+  "lookalikes": ["colombia", "venezuela"],
+  "tags": ["horizontal-tricolour", "coat-of-arms", "shield", "bird", "mountain", "water", "sun", "plant"],
+  "sources": [
+    { "title": "Flag of Ecuador (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Ecuador" },
+    { "title": "Ecuador (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ec.html" }
+  ]
+}

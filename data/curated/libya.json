@@ -1,0 +1,49 @@
+{
+  "id": "libya",
+  "wikidata": "Q1016",
+  "name": "Libya",
+  "flagName": "Flag of Libya",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 2011,
+  "to": null,
+  "adopted": "2011-08-03",
+  "ratio": "1:2",
+  "summary": "Red, black and green horizontal bands, the black twice as tall, with a white crescent and star in the centre. The flag of the Kingdom of Libya (1951–1969), it was revived by the 2011 revolution against Muammar Gaddafi.",
+  "origin": [
+    "The flag was designed for the Kingdom of Libya, which became independent in 1951 under King Idris. It combined the black flag of the Senussi order, with its white crescent and star, with red for Fezzan and green for Tripolitania.",
+    "After Gaddafi's coup in 1969 Libya used Pan-Arab flags, and from 1977 a plain green flag, the only national flag of a single colour. During the 2011 uprising rebels raised the old monarchy flag, and the National Transitional Council adopted it as the national flag."
+  ],
+  "colors": [
+    { "name": "Red", "hex": "#E70013", "family": "red", "meaning": "Fezzan, and the blood shed for freedom.", "basis": "official" },
+    { "name": "Black", "hex": "#000000", "family": "black", "meaning": "Cyrenaica and the Senussi order; also the dark days of Italian occupation.", "basis": "official" },
+    { "name": "Green", "hex": "#239E46", "family": "green", "meaning": "Tripolitania, and agriculture and prosperity.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Crescent and star", "description": "A white crescent and five-pointed star in the black band.", "meaning": "From the Senussi flag; Islam.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1951, "to": 1969, "label": "Kingdom of Libya" },
+    { "from": 1969, "to": 1972, "label": "Libyan Arab Republic", "note": "Red-white-black Pan-Arab flag." },
+    { "from": 1972, "to": 1977, "label": "Federation of Arab Republics", "note": "Hawk of Quraish." },
+    { "from": 1977, "to": 2011, "label": "Gaddafi's green flag", "note": "Plain green." },
+    { "from": 2011, "to": null, "label": "Monarchy flag restored" }
+  ],
+  "facts": [
+    "From 1977 to 2011 Libya's flag was plain green, the only national flag with a single colour and no design.",
+    "The three colours represent the three historic regions: Fezzan, Cyrenaica and Tripolitania.",
+    "Its 1:2 ratio, with the black band twice as tall, differs from most tricolours."
+  ],
+  "clues": [
+    "Red, black (twice as tall) and green bands with a white crescent and star.",
+    "Its predecessor was plain green, the only one-colour national flag.",
+    "A monarchy's flag revived by a 2011 uprising.",
+    "Its three colours stand for three historic regions."
+  ],
+  "lookalikes": ["afghanistan", "kenya"],
+  "tags": ["horizontal-tricolour", "crescent", "star", "religious-symbol", "pan-arab"],
+  "sources": [
+    { "title": "Flag of Libya (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Libya" },
+    { "title": "Libya (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ly.html" }
+  ]
+}

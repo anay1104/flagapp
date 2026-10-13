@@ -1,0 +1,47 @@
+{
+  "id": "qing-dynasty",
+  "wikidata": "Q8733",
+  "name": "Qing dynasty",
+  "flagName": "Yellow Dragon Flag",
+  "category": "historical",
+  "tier": 1,
+  "from": 1889,
+  "to": 1912,
+  "adopted": "1889",
+  "ratio": "2:3",
+  "aliases": ["Qing China", "Great Qing", "Qing Empire", "Manchu China"],
+  "summary": "A blue dragon on a yellow field, reaching toward a red flaming pearl in the upper hoist. The first national flag of China, it was introduced by the Qing dynasty in the late 19th century for diplomacy and shipping.",
+  "origin": [
+    "Imperial China had no national flag until contact with Western navies made one necessary. In 1862 the Qing government introduced a triangular yellow flag with a dragon for naval and diplomatic use.",
+    "In 1889 the flag was changed to a rectangle, the form shown here. It was used until the Xinhai Revolution overthrew the dynasty in 1911–1912, after which the Republic of China adopted the five-coloured flag."
+  ],
+  "colors": [
+    { "name": "Yellow", "hex": "#FCD20F", "family": "yellow", "meaning": "The colour of the emperor; under the Qing it was reserved for imperial use.", "basis": "traditional" },
+    { "name": "Blue", "hex": "#003399", "family": "blue", "meaning": "The dragon.", "basis": "traditional" },
+    { "name": "Red", "hex": "#E30A17", "family": "red", "meaning": "The flaming pearl.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Azure dragon", "description": "A blue Chinese dragon with five claws.", "meaning": "The emperor; the five-clawed dragon was an imperial emblem.", "basis": "traditional" },
+    { "name": "Flaming pearl", "description": "A red disc in the upper hoist, which the dragon reaches for.", "meaning": "Commonly explained as the sun, or wisdom and prosperity.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1862, "to": 1889, "label": "Triangular dragon flag" },
+    { "from": 1889, "to": 1912, "label": "Rectangular Yellow Dragon Flag" }
+  ],
+  "facts": [
+    "The Republic of China's first flag (1912–1928) had five horizontal stripes for the Han, Manchu, Mongol, Hui and Tibetan peoples.",
+    "The Yellow Dragon Flag is one of the few national flags to show a dragon; Bhutan's is another.",
+    "Under Qing dress regulations, bright yellow was reserved for the emperor."
+  ],
+  "clues": [
+    "A blue dragon on yellow reaching for a red pearl.",
+    "The first national flag of a vast empire, created for naval and diplomatic use.",
+    "It was triangular before 1889.",
+    "Replaced by a five-stripe flag after a revolution in 1911–1912."
+  ],
+  "lookalikes": ["bhutan"],
+  "tags": ["dragon", "animal", "disc", "monarchy"],
+  "sources": [
+    { "title": "Flag of the Qing dynasty (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_the_Qing_dynasty" }
+  ]
+}

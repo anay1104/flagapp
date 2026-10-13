@@ -83,6 +83,7 @@ for (const [cat, ids] of Object.entries(categorySets)) for (const id of ids) ass
 
 const classToCat = new Map();
 const CLASS_CAT = {
+  election: 'skip',
   ethnic: 'ethnic',
   military: 'military',
   religious: 'religious',
@@ -90,16 +91,44 @@ const CLASS_CAT = {
   municipality: 'local',
   organization: 'organization',
 };
+const skipClasses = new Set(classCats.election ?? []);
+const skipEntities = new Set();
 for (const [root, classes] of Object.entries(classCats)) {
+  if (root === 'election') continue;
   for (const c of classes) {
     const cat = CLASS_CAT[root];
     const cur = classToCat.get(c);
     if (!cur || rank(cat) < rank(cur)) classToCat.set(c, cat);
   }
 }
+// Classes Wikidata doesn't place under the territory/subdivision roots.
+const EXTRA_CLASS_CATS = {
+  Q66724388: 'territory', // autonomous territory (Faroe Islands, Greenland…)
+  Q783733: 'territory', // unincorporated territory of the US
+  Q1352230: 'territory', // territory of the United States
+  Q3336843: 'subdivision', // country of the United Kingdom
+};
+for (const [c, cat] of Object.entries(EXTRA_CLASS_CATS)) classToCat.set(c, cat);
 for (const r of await readJson(join(RAW, 'classes.json'))) {
+  if (skipClasses.has(qid(r.class))) skipEntities.add(qid(r.e));
   const cat = classToCat.get(qid(r.class));
   if (cat) assign(qid(r.e), cat);
+}
+
+/** Fixes for label quirks: backtick for ʿayn, half-translated German ordinals ("41. Armored"). */
+function cleanLabel(label) {
+  if (!label) return label;
+  const ordinal = (n) => {
+    const v = n % 100;
+    const suffix = v >= 11 && v <= 13 ? 'th' : ['th', 'st', 'nd', 'rd'][n % 10] ?? 'th';
+    return `${n}${suffix}`;
+  };
+  return label
+    .replace(/^`/, "'")
+    .replace(
+      /^(\d+)\. (?=(Armored|Armoured|Motorized|Motorised|Mechanized|Mechanised|Infantry|Tank|Rifle|Artillery|Brigade|Battalion|Division|Regiment|Air|Guards|Mountain|Military|Engineer|Signal)\b)/,
+      (_, n) => `${ordinal(Number(n))} `,
+    );
 }
 
 // ---------------------------------------------------------------- entities
@@ -110,12 +139,13 @@ const nameOverrides = await readJson(join(ROOT, 'data', 'names.json'));
 const entities = new Map();
 for (const r of await loadParts('details')) {
   const id = qid(r.e);
+  if (skipEntities.has(id)) continue;
   let e = entities.get(id);
   if (!e) {
     e = { qid: id, label: r.label, desc: r.desc, enwiki: r.enwiki, inception: null, dissolved: null, country: null, flags: new Map() };
     entities.set(id, e);
   }
-  e.label ??= r.label;
+  e.label = cleanLabel(e.label ?? r.label);
   e.desc ??= r.desc;
   e.enwiki ??= r.enwiki;
   const inc = year(r.inception);
@@ -298,7 +328,19 @@ function primaryScore(f, label) {
   else if (name.startsWith('flag of')) s -= 5;
   if (name.includes('(')) s += 5;
   if (VARIANT_WORDS.test(name)) s += 10;
+  // Reconstructions and fictional designs are never "the" flag.
+  if (/fictitious|fictional|hypothetical|imaginary|conjectural|reconstruct|proposal|proposed|alleged|attributed/.test(name)) s += 200;
+  // Among closed periods (a vanished state), prefer the most recent flag.
+  if (!f.open && f.to !== null) s -= Math.max(0, Math.min(f.to, 2100) - 1000) / 100;
   return s;
+}
+
+/** True if the file is plainly named after the label: "Flag of (the) <label>.svg". */
+function imageNames(image, label) {
+  if (!label) return false;
+  const name = image.replace(/\.[a-z]+$/i, '').replace(/_/g, ' ').toLowerCase();
+  const l = label.toLowerCase();
+  return name === `flag of ${l}` || name === `flag of the ${l}`;
 }
 
 /** "Flag of Costa Rica (state).svg" -> "Flag of Costa Rica (state)" */
@@ -331,6 +373,59 @@ for (const e of sortedEntities) {
     const isPrimary = f === primary;
     if (byImage.has(f.image)) {
       const existing = byImage.get(f.image);
+      // The entity a file is named after owns it: "Flag of the Faroe Islands.svg"
+      // belongs to the Faroe Islands, not to a football team that also uses it.
+      if (
+        isPrimary &&
+        rank(category) <= rank(existing.category) &&
+        imageNames(f.image, e.label) &&
+        !imageNames(f.image, existing.name)
+      ) {
+        if (NAMED_CATS.has(existing.category)) existing.alsoUsedBy.push(existing.name);
+        const better = slugify(e.label);
+        if (better && !usedIds.has(better)) {
+          usedIds.delete(existing.id);
+          usedIds.add(better);
+          existing.id = better;
+        }
+        Object.assign(existing, {
+          name: e.label,
+          flagName: `Flag of ${e.label}`,
+          category,
+          from: f.from ?? (dissolved ? e.inception : null),
+          to: f.open ? (dissolved ? e.dissolved : null) : f.to,
+          current: !dissolved && f.open,
+          periods: f.periods.length > 1 ? f.periods : undefined,
+          country: e.country && e.country !== e.label ? e.country : undefined,
+          description: e.desc,
+          wikidata: e.qid,
+          subjectQids: [e.qid],
+          wikipedia: e.enwiki,
+        });
+        continue;
+      }
+      // A former flag of a modern country that is the main flag of a vanished state is
+      // named after that state ("German Empire", not "Germany (1867–1918)"), and stays
+      // linked to the modern country's timeline.
+      if (isPrimary && dissolved && existing.role === 'former' && e.label && NAMED_CATS.has(category)) {
+        const better = slugify(e.label);
+        if (better && !usedIds.has(better)) {
+          usedIds.delete(existing.id);
+          usedIds.add(better);
+          existing.id = better;
+        }
+        existing.alsoUsedBy.push(existing.name);
+        Object.assign(existing, {
+          name: e.label,
+          flagName: `Flag of ${e.label}`,
+          category,
+          role: 'primary',
+          description: e.desc ?? existing.description,
+          wikipedia: e.enwiki ?? existing.wikipedia,
+        });
+        existing.subjectQids.unshift(e.qid);
+        continue;
+      }
       // A plainer name from a comparable entity wins ("Denmark" over "Kingdom of Denmark").
       if (
         isPrimary &&
@@ -372,7 +467,8 @@ for (const e of sortedEntities) {
       category,
       tier: 3,
       role,
-      from: f.from ?? (isPrimary ? e.inception : null),
+      // A founding date is only a fair guess for the flag of a state that no longer exists.
+      from: f.from ?? (isPrimary && dissolved ? e.inception : null),
       to: f.open ? (dissolved ? e.dissolved : null) : f.to,
       current: !dissolved && f.open,
       periods: f.periods.length > 1 ? f.periods : undefined,
@@ -469,6 +565,8 @@ const featureIds = new Set(Object.keys(featureTags).filter((k) => !k.startsWith(
 for (const r of records) {
   const tags = new Set(r.tags ?? []);
   if (r.colors) for (const c of r.colors) tags.add(c.family);
+  // A full entry's own tags supersede its feature-sheet row.
+  if (r.curated) featureIds.delete(r.id);
   if (!r.curated) {
     if (featureIds.has(r.id)) {
       for (const t of featureTags[r.id].split(/\s+/)) tags.add(t);
@@ -513,6 +611,145 @@ for (const r of records.filter((r) => r.curated && r.history)) {
     if (match) step.flagId = match.id;
   }
 }
+
+// ---------------------------------------------------------------- enrichment
+
+// Wikipedia text (CC BY-SA, shown with attribution) and Commons file metadata,
+// fetched by scripts/enrich/fetch.mjs. Optional: the build works without it.
+const ENRICH = join(RAW, 'enrich');
+// Uses the finished file, or the batches saved so far while a fetch is still running.
+const loadEnrich = async (name) => {
+  try {
+    return await readJson(join(ENRICH, `${name}.json`));
+  } catch {
+    const merged = {};
+    try {
+      const dir = join(ENRICH, `${name}.parts`);
+      for (const f of await readdir(dir)) Object.assign(merged, await readJson(join(dir, f)));
+      console.warn(`(partial enrichment data: ${name}, ${Object.keys(merged).length} records)`);
+    } catch {
+      console.warn(`(no enrichment data: ${name})`);
+    }
+    return merged;
+  }
+};
+const wikiTitles = await loadEnrich('titles');
+const wikiArticles = await loadEnrich('articles');
+const wikiSections = await loadEnrich('sections');
+const commonsMeta = await loadEnrich('commons');
+// The colour job is slow (Wikimedia rate limits); partial results are fine.
+const colourData = await loadEnrich('colours');
+const COLOUR_TAGS = new Set(Object.keys((await readJson(join(ROOT, 'data', 'tags.json'))).colour));
+let withPalette = 0;
+
+const SKIP_HEADINGS =
+  /^(see also|references|notes|external links|further reading|gallery|bibliography|sources|citations|footnotes|works cited|literature|explanatory notes)$/i;
+const MAX_SECTION = 6000;
+const MAX_ARTICLE = 30000;
+
+function trimText(text, max) {
+  if (text.length <= max) return text;
+  const cut = text.lastIndexOf('\n\n', max);
+  return `${text.slice(0, cut > max / 2 ? cut : max).trim()} […]`;
+}
+
+/** Keeps the useful sections of an article; for "Flags of…" overviews, only the part about `name`. */
+function pickSections(article, name) {
+  let sections = article.sections.filter((s) => !SKIP_HEADINGS.test(s.heading));
+  if (/^(flags|list of|flags and)/i.test(article.title) && name) {
+    const lead = sections.filter((s) => !s.heading).slice(0, 1);
+    const own = sections.filter((s) => s.heading && s.heading.toLowerCase().includes(name.toLowerCase()));
+    sections = [...lead, ...own];
+  }
+  let total = 0;
+  const out = [];
+  for (const s of sections) {
+    if (total >= MAX_ARTICLE) break;
+    const text = trimText(s.text, Math.min(MAX_SECTION, MAX_ARTICLE - total));
+    total += text.length;
+    out.push({ heading: s.heading, level: s.level, text });
+  }
+  return out;
+}
+
+const titleOf = (url) => (url ? decodeURIComponent(url.replace('https://en.wikipedia.org/wiki/', '')).replace(/_/g, ' ') : null);
+const usedArticles = new Set();
+let withWiki = 0;
+let withCommons = 0;
+for (const r of records) {
+  // 1. A dedicated flag article: the flag item's own article, or "Flag of <subject>".
+  let title = r.flagItem ? wikiTitles[`flag:${r.flagItem}`] : undefined;
+  title ??= r.role === 'other' ? wikiTitles[`flag:${r.wikidata}`] : undefined;
+  if (!title && (r.role === 'primary' || r.curated)) {
+    for (const q of r.subjectQids ?? []) {
+      title = wikiTitles[`entity:${q}`];
+      if (title) break;
+    }
+  }
+  const article = title ? wikiArticles[title] : undefined;
+  // One flag article per record; an article shared by several flags goes to the primary first.
+  if (article && !(usedArticles.has(article.title) && r.role !== 'primary')) {
+    usedArticles.add(article.title);
+    const sections = pickSections(article, r.name);
+    if (sections.length) {
+      r.wiki = { title: article.title, url: article.url, kind: 'article', sections };
+    }
+  }
+  // 2. Otherwise, "Flag"/"Colours" sections from the subject's own article.
+  if (!r.wiki && (r.role === 'primary' || r.curated)) {
+    const t = titleOf(r.wikipedia);
+    const found = t ? wikiSections[t] : undefined;
+    if (found) {
+      r.wiki = {
+        title: found.title,
+        url: found.url,
+        kind: 'section',
+        sections: found.sections.map((s) => ({ heading: s.heading, level: 2, text: trimText(s.text, MAX_SECTION) })),
+      };
+    }
+  }
+  if (r.wiki) {
+    withWiki++;
+    if (!r.curated) r.tier = 2;
+  }
+
+  // Commons: licence and author for every image; the description only when it says more than the file name.
+  const meta = commonsMeta[r.image];
+  if (meta) {
+    withCommons++;
+    const desc = meta.description?.replace(/\(?https?:\/\/\S+\)?/g, '').trim();
+    // Uploaders sometimes paste licence or permission notes, or write in other languages.
+    const englishWords = (desc?.toLowerCase().match(/\b(the|of|and|is|in|with|a|was|by|on|flag)\b/g) ?? []).length;
+    const boilerplate = /licen[cs]|permission|gfdl|copyright|toestemming|genehmigung|own work|self-made|uploaded|vectori[sz]ed|svg version|redrawn|based on file/i;
+    const trivial =
+      englishWords < 3 ||
+      boilerplate.test(desc ?? '') ||
+      !desc ||
+      desc.length < 40 ||
+      /^(the )?(national |state |civil )?flag of [^.]{0,60}\.?$/i.test(desc) ||
+      desc.toLowerCase().replace(/[^a-z]/g, '') === r.image.toLowerCase().replace(/\.[a-z]+$/, '').replace(/[^a-z]/g, '');
+    r.commons = {
+      description: trivial ? undefined : trimText(desc, 2500),
+      license: meta.license,
+      licenseUrl: meta.licenseUrl,
+      artist: meta.artist && meta.artist.length < 200 ? meta.artist : undefined,
+    };
+  }
+
+  // Measured colours (scripts/enrich/colours.mjs). Flags with hand-checked colours keep
+  // those; everyone else gets colour tags from the image itself.
+  const palette = colourData[r.image];
+  if (palette?.length) {
+    withPalette++;
+    r.palette = palette;
+    if (!r.curated && !featureTags[r.id]) {
+      const tags = new Set(r.tags.filter((t) => !COLOUR_TAGS.has(t)));
+      for (const [family] of palette) tags.add(family);
+      r.tags = [...tags];
+    }
+  }
+}
+console.log(`wikipedia text: ${withWiki} flags; commons metadata: ${withCommons}; measured colours: ${withPalette}`);
 
 // Aliases for quiz answers.
 const aliasRows = await loadParts('aliases');
@@ -564,13 +801,20 @@ const tagCounts = {};
 for (const r of records) for (const t of r.tags) tagCounts[t] = (tagCounts[t] ?? 0) + 1;
 
 for (const r of records) {
+  if (!r.curated) {
+    r.name = cleanLabel(r.name);
+    r.flagName = cleanLabel(r.flagName);
+  }
   r.img = commonsPath(r.image);
   delete r.subjectQids;
   if (!r.alsoUsedBy?.length) delete r.alsoUsedBy;
 }
-records.sort((a, b) => a.name.localeCompare(b.name, 'en') || (a.from ?? 0) - (b.from ?? 0));
+// Sort ignoring leading quotes and apostrophes, so 's-Hertogenbosch files under S.
+const sortKey = (name) => name.replace(/^[^\p{L}\p{N}]+/u, '');
+records.sort((a, b) => sortKey(a.name).localeCompare(sortKey(b.name), 'en') || (a.from ?? 0) - (b.from ?? 0));
 
-const isLocal = (r) => r.category === 'local' && !r.curated;
+// City flags with their own Wikipedia article (Chicago, Brisbane…) get a static page too.
+const isLocal = (r) => r.category === 'local' && !r.curated && r.wiki?.kind !== 'article';
 const pages = records.filter((r) => !isLocal(r));
 const local = records.filter(isLocal);
 

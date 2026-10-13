@@ -1,0 +1,49 @@
+{
+  "id": "greece",
+  "wikidata": "Q41",
+  "name": "Greece",
+  "flagName": "Flag of Greece",
+  "nickname": "Galanólefki (the blue-white)",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1978,
+  "to": null,
+  "adopted": "1978-12-22",
+  "ratio": "2:3",
+  "summary": "Nine horizontal stripes of blue and white, with a white cross on a blue square in the canton. Used at sea since the War of Independence, it became the sole national flag in 1978.",
+  "origin": [
+    "Blue and white flags with crosses were used during the Greek War of Independence, which began in 1821. The First National Assembly at Epidaurus in 1822 adopted a white cross on blue for land use and the striped design with a cross canton for the navy and merchant ships.",
+    "For most of the following 150 years the plain cross flag was the land flag and the striped flag was used at sea, with royal crowns added under the monarchy. The military junta (1967–1974) made the striped flag the sole national flag in 1970; after the restoration of democracy the cross flag returned briefly, and a 1978 law fixed the striped flag as the only national flag."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#0D5EAF", "family": "blue", "meaning": "Commonly said to represent the sea and sky of Greece. The exact shade is not legally fixed and has varied from light to dark.", "basis": "popular" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Commonly said to represent the purity of the struggle for independence, or the waves.", "basis": "popular" }
+  ],
+  "symbols": [
+    { "name": "Cross", "description": "A white Greek cross on a blue square in the canton.", "meaning": "Greek Orthodox Christianity, the established religion of the Greek state.", "basis": "traditional" },
+    { "name": "Nine stripes", "description": "Five blue and four white stripes.", "meaning": "A widespread explanation links them to the nine syllables of the motto Ἐλευθερία ἢ Θάνατος ('Freedom or Death'); another to the nine Muses. Neither has an official basis.", "basis": "popular" }
+  ],
+  "history": [
+    { "from": 1822, "to": 1970, "label": "Sea flag (striped) and land flag (cross)", "note": "Crowned versions were used under the monarchy." },
+    { "from": 1970, "to": 1975, "label": "Striped flag as sole national flag", "note": "Imposed by the junta." },
+    { "from": 1975, "to": 1978, "label": "Cross flag restored on land" },
+    { "from": 1978, "to": null, "label": "Striped flag as sole national flag", "note": "Law 851/1978." }
+  ],
+  "facts": [
+    "The exact shade of blue is not specified in law, so flags in Greece vary from light to dark blue.",
+    "The plain cross flag is still flown at some historic sites, such as the Old Fortress of Corfu, by tradition.",
+    "Uruguay's flag also has nine blue and white stripes, with a sun in the canton."
+  ],
+  "clues": [
+    "Nine blue and white stripes with a white cross in a blue canton.",
+    "Its stripes are often linked to the syllables of a revolutionary motto.",
+    "For 150 years it was only the sea flag; a plain cross flag was used on land.",
+    "Its shade of blue has never been fixed by law."
+  ],
+  "lookalikes": ["uruguay", "tonga"],
+  "tags": ["horizontal-stripes", "canton", "cross", "religious-symbol"],
+  "sources": [
+    { "title": "Flag of Greece (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Greece" },
+    { "title": "Greece (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/gr.html" }
+  ]
+}

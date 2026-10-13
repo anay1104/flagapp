@@ -1,0 +1,51 @@
+{
+  "id": "iran",
+  "wikidata": "Q794",
+  "name": "Iran",
+  "flagName": "Flag of Iran",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1980,
+  "to": null,
+  "adopted": "1980-07-29",
+  "ratio": "4:7",
+  "designer": "Hamid Nadimi (emblem)",
+  "aliases": ["Persia", "Islamic Republic of Iran"],
+  "summary": "Green, white and red horizontal bands with a red emblem in the centre and the phrase 'Allahu Akbar' repeated 22 times in stylised Kufic script along the edges of the bands. The tricolour dates to the 19th century; the emblem and inscriptions were added after the 1979 revolution.",
+  "origin": [
+    "Green, white and red appeared in Iranian flags from the late 19th century, and the Persian Constitutional Revolution of 1906 established a green-white-red tricolour with the Lion and Sun emblem in the centre.",
+    "After the Islamic Revolution of 1979 the Lion and Sun, associated with the monarchy, was removed. A new emblem designed by Hamid Nadimi was approved by Ayatollah Khomeini, and the flag was adopted on 29 July 1980. Article 18 of the Constitution defines it."
+  ],
+  "colors": [
+    { "name": "Green", "hex": "#239F40", "family": "green", "meaning": "Islam, growth and unity; also linked to the Persian language.", "basis": "traditional" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Freedom and peace.", "basis": "traditional" },
+    { "name": "Red", "hex": "#DA0000", "family": "red", "meaning": "Martyrdom, bravery and love of the homeland.", "basis": "traditional" }
+  ],
+  "symbols": [
+    { "name": "Emblem", "description": "A stylised red composition of four crescents and a sword, with a shadda (doubling mark) above the sword.", "meaning": "It forms the word 'Allah' and can also be read as 'lā ilāha illā Allāh' (there is no god but God). Its five parts are often linked to the five principles of Islam, and its tulip shape to young people who died for Iran.", "basis": "official" },
+    { "name": "Takbir inscriptions", "description": "'Allahu Akbar' written 22 times in white Kufic script: 11 times along the lower edge of the green band and 11 times along the upper edge of the red band.", "meaning": "God is great. The number 22 refers to 22 Bahman (11 February 1979) in the Iranian calendar, the date of the revolution's victory.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1907, "to": 1979, "label": "Persia under the Qajar and Pahlavi dynasties", "note": "Green-white-red tricolour with the Lion and Sun." },
+    { "from": 1979, "to": 1980, "label": "Interim flag", "note": "Tricolour without the Lion and Sun, sometimes with temporary emblems." },
+    { "from": 1980, "to": null, "label": "Islamic Republic" }
+  ],
+  "facts": [
+    "The Lion and Sun flag is still used by many Iranians abroad as a symbol of opposition to the Islamic Republic.",
+    "Tajikistan's flag uses the same colours in a similar layout, reflecting shared Persian heritage.",
+    "The inscriptions are so small that from a distance the bands appear to have a thin decorative border."
+  ],
+  "clues": [
+    "Green, white and red with a red central emblem and stylised script along the band edges.",
+    "A religious phrase is repeated 22 times on it, for a date in its calendar.",
+    "A lion holding a sword under a rising sun was removed from it after a revolution.",
+    "Its central emblem is shaped like a tulip."
+  ],
+  "lookalikes": ["tajikistan", "hungary", "bulgaria"],
+  "tags": ["horizontal-tricolour", "emblem", "text", "religious-symbol", "weapon", "crescent", "pan-iranian"],
+  "sources": [
+    { "title": "Constitution of the Islamic Republic of Iran, Article 18", "url": "https://www.constituteproject.org/constitution/Iran_1989" },
+    { "title": "Flag of Iran (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Iran" },
+    { "title": "Iran (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/ir.html" }
+  ]
+}

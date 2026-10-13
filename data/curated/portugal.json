@@ -1,0 +1,108 @@
+{
+  "id": "portugal",
+  "wikidata": "Q45",
+  "name": "Portugal",
+  "flagName": "Flag of Portugal",
+  "nickname": "Bandeira das Quinas",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1911,
+  "to": null,
+  "adopted": "1911-06-19",
+  "ratio": "2:3",
+  "designer": "Columbano Bordalo Pinheiro, João Chagas and Abel Botelho",
+  "summary": "A green band at the hoist and a larger red field, with the Portuguese coat of arms over an armillary sphere on the dividing line. Adopted after the 1910 revolution, it replaced the blue and white flag of the monarchy.",
+  "origin": [
+    "Portugal's monarchy used a series of flags based on the royal arms, ending with a blue and white flag from 1830. After the republican revolution of 5 October 1910, a commission led by the painter Columbano Bordalo Pinheiro designed a new flag, adopted by the Constituent Assembly on 19 June 1911.",
+    "Green and red were the colours of the Portuguese Republican Party and of the 1891 Porto revolt; the commission justified them in terms of hope and the blood of those who died for the nation."
+  ],
+  "colors": [
+    {
+      "name": "Green",
+      "hex": "#006600",
+      "family": "green",
+      "meaning": "Hope; officially explained as the colour of hope at the time of the revolution.",
+      "basis": "official"
+    },
+    {
+      "name": "Red",
+      "hex": "#FF0000",
+      "family": "red",
+      "meaning": "The courage and blood of the Portuguese who died defending the nation.",
+      "basis": "official"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFFF00",
+      "family": "yellow",
+      "meaning": "The armillary sphere and castles.",
+      "basis": "official"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Armillary sphere",
+      "description": "A gold navigational instrument of rings, behind the shield.",
+      "meaning": "The Age of Discoveries; it was the personal emblem of King Manuel I.",
+      "basis": "official"
+    },
+    {
+      "name": "Quinas",
+      "description": "Five blue shields, each with five white dots (bezants), arranged in a cross on a white shield.",
+      "meaning": "By legend, the five wounds of Christ revealed to Afonso Henriques before the Battle of Ourique (1139); the dots are often said to be the thirty pieces of silver. These are traditional explanations.",
+      "basis": "traditional"
+    },
+    {
+      "name": "Seven castles",
+      "description": "Gold castles on a red border around the shield.",
+      "meaning": "Commonly linked to Moorish strongholds taken during the Reconquista and the union with the Algarve.",
+      "basis": "traditional"
+    }
+  ],
+  "history": [
+    {
+      "from": 1830,
+      "to": 1910,
+      "label": "Constitutional monarchy",
+      "note": "Blue and white, with the crowned royal arms."
+    },
+    {
+      "from": 1911,
+      "to": null,
+      "label": "Republican flag"
+    }
+  ],
+  "facts": [
+    "The green band occupies two-fifths of the flag's length, so the arms sit off-centre.",
+    "Portugal has had at least a dozen national flags since the 12th century, each based on the royal arms."
+  ],
+  "clues": [
+    "Green at the hoist, red in the fly, with a shield over a gold armillary sphere.",
+    "Its sphere was the emblem of a king of the Age of Discoveries.",
+    "Five small blue shields on it are linked to a legend of a 12th-century battle.",
+    "It replaced a blue and white royal flag after a revolution in 1910."
+  ],
+  "lookalikes": [],
+  "tags": [
+    "vertical-bicolour",
+    "coat-of-arms",
+    "shield",
+    "building",
+    "astronomy",
+    "religious-symbol"
+  ],
+  "sources": [
+    {
+      "title": "Bandeira Nacional (Presidência da República)",
+      "url": "https://www.presidencia.pt/"
+    },
+    {
+      "title": "Flag of Portugal (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Portugal"
+    },
+    {
+      "title": "Portugal (Flags of the World)",
+      "url": "https://www.crwflags.com/fotw/flags/pt.html"
+    }
+  ]
+}

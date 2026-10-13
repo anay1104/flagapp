@@ -1,0 +1,48 @@
+{
+  "id": "iceland",
+  "wikidata": "Q189",
+  "name": "Iceland",
+  "flagName": "Flag of Iceland",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1944,
+  "to": null,
+  "adopted": "1944-06-17",
+  "ratio": "18:25",
+  "summary": "A red Nordic cross edged in white on a blue field. First proposed in 1913, used as the national flag from 1915 and as the merchant flag from 1918, it became the flag of the republic in 1944.",
+  "origin": [
+    "In the late 19th century Icelandic nationalists used a white cross on blue (the Hvítbláinn). Danish authorities resisted it, partly because it resembled the Greek flag.",
+    "A royal decree of 1915 approved the current red, white and blue design for use on land, and when Iceland became a sovereign kingdom in personal union with Denmark in 1918, it became the merchant flag. On 17 June 1944, when the Republic of Iceland was founded, the flag was confirmed by law."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#02529C", "family": "blue", "meaning": "The mountains and the sky, or the surrounding ocean.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Ice and snow.", "basis": "official" },
+    { "name": "Red", "hex": "#DC1E35", "family": "red", "meaning": "The fire of Iceland's volcanoes.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Fimbriated Nordic cross", "description": "A red cross with a white border, offset toward the hoist.", "meaning": "Christianity and Iceland's Nordic heritage.", "basis": "traditional" }
+  ],
+  "history": [
+    { "from": 1897, "to": 1915, "label": "Hvítbláinn", "note": "White cross on blue, an unofficial nationalist flag." },
+    { "from": 1915, "to": 1944, "label": "Red-white-blue cross", "note": "Land flag from 1915, merchant flag from 1918." },
+    { "from": 1944, "to": null, "label": "Flag of the Republic" }
+  ],
+  "facts": [
+    "Iceland's law describes the colours as 'sky blue', 'snow white' and 'fiery red'.",
+    "Norway's flag uses the same pattern with red and blue swapped.",
+    "The state flag and ensign is a swallowtail."
+  ],
+  "clues": [
+    "A red cross edged in white on a blue field.",
+    "Its colours officially stand for mountains, ice and volcanic fire.",
+    "An earlier unofficial version was rejected partly for resembling a Mediterranean flag.",
+    "A nearby kingdom uses the same pattern with two colours swapped."
+  ],
+  "lookalikes": ["norway", "faroe-islands"],
+  "tags": ["nordic-cross", "fimbriation", "nordic", "religious-symbol"],
+  "sources": [
+    { "title": "Lög um þjóðfána Íslendinga (Althingi)", "url": "https://www.althingi.is/lagas/nuna/1944034.html" },
+    { "title": "Flag of Iceland (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Iceland" },
+    { "title": "Iceland (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/is.html" }
+  ]
+}

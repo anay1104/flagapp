@@ -1,0 +1,51 @@
+{
+  "id": "cambodia",
+  "wikidata": "Q424",
+  "name": "Cambodia",
+  "flagName": "Flag of Cambodia",
+  "category": "sovereign",
+  "tier": 1,
+  "from": 1993,
+  "to": null,
+  "adopted": "1993-06-30",
+  "ratio": "2:3",
+  "aliases": ["Kampuchea"],
+  "summary": "Blue, red and blue horizontal bands, the red twice as tall, with a white image of the temple of Angkor Wat. It is the only national flag whose central emblem is a building, and Angkor Wat has appeared on Cambodian flags under almost every regime since about 1850.",
+  "origin": [
+    "Angkor Wat, built in the 12th century as a Hindu and later Buddhist temple, has appeared on Cambodian flags since about 1850. The current design was first adopted in 1948 under the French protectorate and kept at independence in 1953.",
+    "The Khmer Republic (1970–1975), Democratic Kampuchea under the Khmer Rouge (1975–1979), the People's Republic of Kampuchea and the State of Cambodia all used other flags, most still showing Angkor Wat. The 1948 design was restored with the monarchy in 1993."
+  ],
+  "colors": [
+    { "name": "Blue", "hex": "#032EA1", "family": "blue", "meaning": "The monarchy.", "basis": "official" },
+    { "name": "Red", "hex": "#E00025", "family": "red", "meaning": "The nation.", "basis": "official" },
+    { "name": "White", "hex": "#FFFFFF", "family": "white", "meaning": "Religion, especially Buddhism.", "basis": "official" }
+  ],
+  "symbols": [
+    { "name": "Angkor Wat", "description": "A white depiction of the temple's three visible towers (five in total) on the red band.", "meaning": "Cambodia's heritage, Buddhism and the Khmer civilisation.", "basis": "official" }
+  ],
+  "history": [
+    { "from": 1948, "to": 1970, "label": "Kingdom of Cambodia" },
+    { "from": 1970, "to": 1975, "label": "Khmer Republic", "note": "Blue with Angkor Wat and stars in a red canton." },
+    { "from": 1975, "to": 1979, "label": "Democratic Kampuchea", "note": "Red with a three-towered yellow Angkor Wat." },
+    { "from": 1979, "to": 1989, "label": "People's Republic of Kampuchea", "note": "Red with a five-towered yellow Angkor Wat." },
+    { "from": 1989, "to": 1993, "label": "State of Cambodia", "note": "Red over blue with a yellow Angkor Wat." },
+    { "from": 1993, "to": null, "label": "Kingdom of Cambodia restored" }
+  ],
+  "facts": [
+    "Other flags show castles or towers inside coats of arms, but Cambodia's is the only one with a building as its main emblem.",
+    "The colours stand for the national motto 'Nation, Religion, King', the same as Thailand's.",
+    "Angkor Wat is the largest religious monument in the world by area."
+  ],
+  "clues": [
+    "A white temple on a red band between two blue bands.",
+    "The only national flag whose main emblem is a building.",
+    "Its temple appeared even on the flag of the Khmer Rouge.",
+    "Its colours represent 'Nation, Religion, King'."
+  ],
+  "lookalikes": ["thailand", "laos"],
+  "tags": ["horizontal-stripes", "building", "religious-symbol", "monarchy"],
+  "sources": [
+    { "title": "Flag of Cambodia (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Flag_of_Cambodia" },
+    { "title": "Cambodia (Flags of the World)", "url": "https://www.crwflags.com/fotw/flags/kh.html" }
+  ]
+}
