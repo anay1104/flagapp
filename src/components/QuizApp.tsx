@@ -4,8 +4,10 @@ import { flagHref, loadIndex, type IndexEntry } from '../lib/index-data';
 import { original, thumb } from '../lib/img';
 import { years } from '../lib/format';
 import {
+  DIFFICULTIES,
   MODES,
   POOLS,
+  byDifficulty,
   distractors,
   loadProgress,
   matches,
@@ -14,6 +16,8 @@ import {
   record,
   saveProgress,
   shuffle,
+  type Difficulty,
+  type DifficultySettings,
   type ItemStats,
   type Mode,
   type PoolId,
@@ -49,6 +53,8 @@ export default function QuizApp({ tagLabels }: Props) {
   const [aliases, setAliases] = useState<Record<string, string[]>>({});
   const [mode, setMode] = useState<Mode>('name');
   const [poolId, setPoolId] = useState<PoolId>('countries');
+  const [level, setLevel] = useState<Difficulty>('medium');
+  const difficulty = DIFFICULTIES.find((d) => d.id === level)!;
   const [length, setLength] = useState(10);
   const [tag, setTag] = useState('star');
   const [phase, setPhase] = useState<Phase>('setup');
@@ -65,6 +71,8 @@ export default function QuizApp({ tagLabels }: Props) {
     if (t) setTag(t);
     const pool = p.get('pool') as PoolId | null;
     if (pool && POOLS.some((x) => x.id === pool)) setPoolId(pool);
+    const lv = p.get('level') as Difficulty | null;
+    if (lv && DIFFICULTIES.some((x) => x.id === lv)) setLevel(lv);
     loadIndex().then(setIndex);
     fetch(url('/data/clues.json')).then((r) => r.json()).then(setClues, () => {});
     fetch(url('/data/aliases.json')).then((r) => (r.ok ? r.json() : {})).then(setAliases, () => {});
@@ -75,8 +83,8 @@ export default function QuizApp({ tagLabels }: Props) {
     const test = POOLS.find((p) => p.id === poolId)!.test;
     let list = index.filter(test);
     if (mode === 'clue') list = list.filter((e) => clues[e.id]?.length);
-    return list;
-  }, [index, poolId, mode, clues]);
+    return byDifficulty(list, difficulty);
+  }, [index, poolId, mode, clues, difficulty]);
 
   const tagCounts = useMemo(() => {
     const counts: Record<string, Set<string>> = {};
@@ -90,7 +98,10 @@ export default function QuizApp({ tagLabels }: Props) {
     setQuestions(
       picked.map((answer) => ({
         answer,
-        options: mode === 'type' ? [] : shuffle([answer, ...distractors(answer, pool)]),
+        options:
+          mode === 'type'
+            ? []
+            : shuffle([answer, ...distractors(answer, pool, difficulty.options - 1, difficulty.distractors)]),
         clue: mode === 'clue' ? shuffle(clues[answer.id] ?? [])[0] : undefined,
       })),
     );
@@ -120,6 +131,19 @@ export default function QuizApp({ tagLabels }: Props) {
                 <input type="radio" name="mode" checked={mode === m.id} onChange={() => setMode(m.id)} />
                 <strong>{m.label}</strong>
                 <span class="muted small">{m.blurb}</span>
+              </label>
+            ))}
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Difficulty</legend>
+          <div class="mode-grid levels">
+            {DIFFICULTIES.map((d) => (
+              <label class={`mode card ${level === d.id ? 'selected' : ''}`} key={d.id}>
+                <input type="radio" name="level" checked={level === d.id} onChange={() => setLevel(d.id)} />
+                <strong>{d.label}</strong>
+                <span class="muted small">{d.blurb}</span>
               </label>
             ))}
           </div>
@@ -183,6 +207,7 @@ export default function QuizApp({ tagLabels }: Props) {
         tag={tag}
         tagLabel={tagLabels[tag] ?? tag}
         aliases={aliases}
+        difficulty={difficulty}
         onExit={() => setPhase('setup')}
       />
     );
@@ -198,6 +223,7 @@ export default function QuizApp({ tagLabels }: Props) {
         total={questions.length}
         score={answered.filter((a) => a.correct).length}
         aliases={aliases}
+        difficulty={difficulty}
         onAnswer={answer}
         onQuit={() => setPhase('done')}
       />
@@ -211,7 +237,9 @@ export default function QuizApp({ tagLabels }: Props) {
       <h2>
         {score} / {answered.length}
       </h2>
-      <p class="muted">{verdict(score, answered.length)}</p>
+      <p class="muted">
+        {difficulty.label} · {verdict(score, answered.length)}
+      </p>
       <div class="row">
         <button class="btn primary" onClick={start}>
           Play again
@@ -266,14 +294,28 @@ interface QuestionProps {
   total: number;
   score: number;
   aliases: Record<string, string[]>;
+  difficulty: DifficultySettings;
   onAnswer: (correct: boolean, given: string) => void;
   onQuit: () => void;
 }
 
-function QuestionView({ mode, q, number, total, score, aliases, onAnswer, onQuit }: QuestionProps) {
+function QuestionView({ mode, q, number, total, score, aliases, difficulty, onAnswer, onQuit }: QuestionProps) {
   const [chosen, setChosen] = useState<IndexEntry | null>(null);
   const [typed, setTyped] = useState('');
   const [result, setResult] = useState<boolean | null>(null);
+  const [left, setLeft] = useState(difficulty.seconds);
+  const timed = difficulty.seconds > 0;
+
+  // Hard mode's clock: running out counts as a wrong answer.
+  useEffect(() => {
+    if (!timed || result !== null) return;
+    if (left <= 0) {
+      setResult(false);
+      return;
+    }
+    const t = setTimeout(() => setLeft(left - 1), 1000);
+    return () => clearTimeout(t);
+  }, [left, result]);
   const input = useRef<HTMLInputElement>(null);
   const nextBtn = useRef<HTMLButtonElement>(null);
 
@@ -293,7 +335,7 @@ function QuestionView({ mode, q, number, total, score, aliases, onAnswer, onQuit
   const submitTyped = (ev: Event) => {
     ev.preventDefault();
     if (result !== null || !typed.trim()) return;
-    setResult(matches(typed, [q.answer.name, ...(aliases[q.answer.id] ?? [])]));
+    setResult(matches(typed, [q.answer.name, ...(aliases[q.answer.id] ?? [])], difficulty.typos));
   };
 
   const next = () => onAnswer(result === true, mode === 'type' ? typed : chosen ? chosen.name : '');
@@ -306,6 +348,11 @@ function QuestionView({ mode, q, number, total, score, aliases, onAnswer, onQuit
           Question {number} of {total}
         </span>
         <span>Score {score}</span>
+        {timed && (
+          <span class={`timer ${left <= 5 && result === null ? 'low' : ''}`} aria-live="off">
+            {left}s
+          </span>
+        )}
         <button class="linkish" onClick={onQuit}>
           End quiz
         </button>
@@ -349,7 +396,7 @@ function QuestionView({ mode, q, number, total, score, aliases, onAnswer, onQuit
       )}
 
       {(mode === 'pick' || mode === 'clue') && (
-        <div class="options flags">
+        <div class={`options flags ${q.options.length > 4 ? 'six' : ''}`}>
           {q.options.map((o) => (
             <button
               key={o.id}
@@ -390,11 +437,12 @@ function QuestionView({ mode, q, number, total, score, aliases, onAnswer, onQuit
           )}
         </form>
       )}
+      {mode === 'type' && difficulty.hint && result === null && <p class="muted small hint">{hint(q.answer.name)}</p>}
 
       {result !== null && (
         <div class={`feedback ${result ? 'good' : 'bad'}`}>
           <p>
-            {result ? 'Correct! ' : 'Not quite. '}
+            {result ? 'Correct! ' : timed && left <= 0 ? "Time's up. " : 'Not quite. '}
             It's <a href={flagHref(q.answer)} target="_blank" rel="noopener">{q.answer.name}</a>
             {!q.answer.current && ` (${years(q.answer.from, q.answer.to, false)})`}.
           </p>
@@ -407,15 +455,23 @@ function QuestionView({ mode, q, number, total, score, aliases, onAnswer, onQuit
   );
 }
 
+/** Easy mode's typing hint: the first letter and the length of each word. */
+function hint(name: string): string {
+  const words = name.split(/\s+/).filter(Boolean);
+  const lengths = words.map((w) => w.replace(/[^\p{L}]/gu, '').length).filter(Boolean);
+  return `Starts with “${name[0]}” · ${lengths.join(' + ')} letters`;
+}
+
 interface ListProps {
   pool: IndexEntry[];
   tag: string;
   tagLabel: string;
   aliases: Record<string, string[]>;
+  difficulty: DifficultySettings;
   onExit: () => void;
 }
 
-function ListChallenge({ pool, tag, tagLabel, aliases, onExit }: ListProps) {
+function ListChallenge({ pool, tag, tagLabel, aliases, difficulty, onExit }: ListProps) {
   // One target per distinct name, so historical variants don't count twice.
   const targets = useMemo(() => {
     const byName = new Map<string, IndexEntry>();
@@ -455,7 +511,9 @@ function ListChallenge({ pool, tag, tagLabel, aliases, onExit }: ListProps) {
 
   const onSubmit = (ev: Event) => {
     ev.preventDefault();
-    const hit = targets.find((t) => !found.includes(t.id) && matches(typed, [t.name, ...(aliases[t.id] ?? [])]));
+    const hit = targets.find(
+      (t) => !found.includes(t.id) && matches(typed, [t.name, ...(aliases[t.id] ?? [])], difficulty.typos),
+    );
     if (hit) {
       setFound([...found, hit.id]);
       setFlash(hit.name);

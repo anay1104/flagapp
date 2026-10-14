@@ -157,6 +157,9 @@ const CLASS_ROOTS = {
   religious: 'Q13414953',
   // Elections carry party/candidate flags in Wikidata; they aren't flag owners.
   election: 'Q40231',
+  // Flags of invented places (Middle-earth, Star Wars…) and hoaxes are left out.
+  fictional: 'Q14897293',
+  hoax: 'Q190084',
 };
 
 await step('categories', async () => {
@@ -243,6 +246,13 @@ await step('flagdetails', async () => {
 
 // English aliases for the non-local entities, so quiz answers like "China" or
 // "USSR" are accepted. Local (city/municipal) entities are skipped: too many.
+// How many Wikipedias cover each entity: the quiz's measure of how well known a flag is.
+await step('sitelinks', async () => {
+  const ids = await load('ids');
+  return batched('sitelinks', ids, 2000, (values) => `
+    SELECT ?e ?n WHERE { VALUES ?e { ${values} } ?e wikibase:sitelinks ?n . }`);
+});
+
 await step('aliases', async () => {
   const cats = await load('categories');
   const ids = [...new Set(Object.values(cats).flat())];

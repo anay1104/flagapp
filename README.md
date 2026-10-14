@@ -19,7 +19,7 @@ There are two sources, merged by `scripts/build-data.mjs`:
 
 | Source | What | Where |
 |---|---|---|
-| Wikidata import | ~58,000 flags: image, owner, dates, category, colours/objects depicted, aliases | `data/raw/` (cache, not committed) |
+| Wikidata import | ~58,000 flags: image, owner, dates, category, colours/objects depicted, aliases, Wikipedia coverage (sitelinks). Fictional places and hoaxes are excluded | `data/raw/` (cache, not committed) |
 | Hand-written entries | Full vexillological entries | `data/curated/<id>.json` |
 | Feature sheet | Hand-checked layout/symbol/colour tags for flags without a full entry | `data/feature-tags.json` |
 | Tag vocabulary | Every allowed tag and its label | `data/tags.json` |
@@ -54,4 +54,4 @@ Rules:
 
 ## Quiz modes
 
-Name the flag (multiple choice), type the name (aliases from Wikidata accepted, small typos forgiven), pick the flag, clue mode, and list challenge (name every flag with a feature). Questions are weighted toward unseen and often-missed flags. Logic is in `src/lib/quiz.ts`, UI in `src/components/QuizApp.tsx`.
+Name the flag (multiple choice), type the name (aliases from Wikidata accepted, small typos forgiven), pick the flag, clue mode, and list challenge (name every flag with a feature). Questions are weighted toward unseen and often-missed flags. Three difficulties: Easy uses the best-known 40% of a set (ranked by how many Wikipedias cover the subject) with dissimilar options and typing hints; Medium uses 75% with look-alike options; Hard uses every flag, six close look-alikes, strict spelling and a 15-second clock. Logic is in `src/lib/quiz.ts`, UI in `src/components/QuizApp.tsx`.

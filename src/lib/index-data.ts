@@ -18,11 +18,13 @@ export interface IndexEntry {
   role: Role;
   /** Local flags have no static page; they open in the viewer. */
   local: boolean;
+  /** How many Wikipedias cover the subject: a rough measure of how well known the flag is. */
+  fame: number;
 }
 
 export type Role = 'primary' | 'former' | 'variant' | 'other';
 
-type Row = [string, string, string, number, Tier, number | null, number | null, 0 | 1, string, string, number];
+type Row = [string, string, string, number, Tier, number | null, number | null, 0 | 1, string, string, number, number];
 
 interface IndexFile {
   categories: Category[];
@@ -36,7 +38,7 @@ async function load(file: string, local: boolean): Promise<IndexEntry[]> {
   const res = await fetch(url(`/data/${file}`));
   if (!res.ok) throw new Error(`Failed to load ${file}: ${res.status}`);
   const data: IndexFile = await res.json();
-  return data.rows.map(([id, name, img, cat, tier, from, to, current, country, tags, role]) => ({
+  return data.rows.map(([id, name, img, cat, tier, from, to, current, country, tags, role, fame]) => ({
     id,
     name,
     img,
@@ -49,6 +51,7 @@ async function load(file: string, local: boolean): Promise<IndexEntry[]> {
     tags: tags ? tags.split(' ') : [],
     role: data.roles[role],
     local,
+    fame: fame ?? 0,
   }));
 }
 

@@ -91,10 +91,18 @@ const CLASS_CAT = {
   municipality: 'local',
   organization: 'organization',
 };
-const skipClasses = new Set(classCats.election ?? []);
+const SKIP_ROOTS = ['election', 'fictional', 'hoax'];
+// Wikidata files legends and unrealised states under "fictional entity"; their flags are real.
+const KEEP_CLASSES = new Set([
+  'Q13002315', // legendary figure (Kaveh, of the Derafsh Kaviani)
+  'Q21070568', // human who may be fictional
+  'Q25810847', // folk character (Boi Caprichoso)
+  'Q85029180', // unrealised state proposal
+]);
+const skipClasses = new Set(SKIP_ROOTS.flatMap((r) => classCats[r] ?? []).filter((c) => !KEEP_CLASSES.has(c)));
 const skipEntities = new Set();
 for (const [root, classes] of Object.entries(classCats)) {
-  if (root === 'election') continue;
+  if (SKIP_ROOTS.includes(root)) continue;
   for (const c of classes) {
     const cat = CLASS_CAT[root];
     const cur = classToCat.get(c);
@@ -138,9 +146,12 @@ const nameOverrides = await readJson(join(ROOT, 'data', 'names.json'));
 
 /** @type {Map<string, any>} */
 const entities = new Map();
+// Catches invented flags Wikidata doesn't class as fictional ("fictitious flag of Cozumel").
+const FICTION = /(fictional|fictitious)/i;
 for (const r of await loadParts('details')) {
   const id = qid(r.e);
   if (skipEntities.has(id)) continue;
+  if (FICTION.test(r.desc ?? '') || FICTION.test(fileName(r.img))) continue;
   let e = entities.get(id);
   if (!e) {
     e = { qid: id, label: r.label, desc: r.desc, enwiki: r.enwiki, inception: null, dissolved: null, country: null, flags: new Map() };
@@ -190,6 +201,7 @@ for (const e of entities.values()) {
 const flagItems = new Map();
 for (const r of await loadParts('flagdetails')) {
   const id = qid(r.f);
+  if (skipEntities.has(qid(r.subject)) || FICTION.test(`${r.label ?? ''} ${r.desc ?? ''} ${fileName(r.img)}`)) continue;
   let f = flagItems.get(id);
   if (!f) {
     f = {
@@ -845,6 +857,10 @@ const pages = records.filter((r) => !isLocal(r));
 const local = records.filter(isLocal);
 
 // Compact index row: [id, name, img, category, tier, from, to, current, country, tags, role]
+// Number of Wikipedias covering the subject: the quiz uses it to pick well-known flags on Easy.
+const sitelinks = new Map();
+for (const r of await loadParts('sitelinks')) sitelinks.set(qid(r.e), Number(r.n));
+
 const CAT_CODE = Object.fromEntries(PRIORITY.map((c, i) => [c, i]));
 const ROLES = ['primary', 'former', 'variant', 'other'];
 const ROLE_CODE = Object.fromEntries(ROLES.map((c, i) => [c, i]));
@@ -863,6 +879,7 @@ const toIndex = (list) => ({
     r.country ?? '',
     r.tags.join(' '),
     ROLE_CODE[r.role],
+    sitelinks.get(r.wikidata) ?? 0,
   ]),
 });
 
