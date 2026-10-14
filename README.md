@@ -1,4 +1,4 @@
-# Vexillum
+# Flagdex
 
 Every flag, past and present, with vexillological detail (colours, symbols, origins, evolution), plus quizzes to learn them.
 

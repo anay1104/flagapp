@@ -44,17 +44,22 @@ const nav = [
         true,
       );
     </script>
-    <title>{title === 'Vexillum' ? title : `${title} · Vexillum`}</title>
+    <title>{title === 'Flagdex' ? title : `${title} · Flagdex`}</title>
   </head>
   <body>
     <header class="site-header">
       <div class="wrap bar">
         <a class="logo" href={url('/')}>
-          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
-            <path d="M5 21V3" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
-            <path d="M5 4h13l-3 4.5 3 4.5H5z" fill="var(--accent)"></path>
+          <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true">
+            <path d="M4.5 22V3" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+            <path
+              d="M5.5 4.2C9 2.6 12 5.8 15.5 4.6 18 3.8 19.6 4 21.5 4.4V14c-1.9-.4-3.5-.6-6 .2-3.5 1.2-6.5-2-10-.4z"
+              fill="var(--accent)"></path>
+            <path
+              d="M10 6 10.62 7.75 12.47 7.8 11 8.92 11.53 10.7 10 9.65 8.47 10.7 9 8.92 7.53 7.8 9.38 7.75Z"
+              fill="var(--bg)"></path>
           </svg>
-          Vexillum
+          <span>Flag<span class="dex">dex</span></span>
         </a>
         <nav>
           {
@@ -111,6 +116,11 @@ const nav = [
     font-size: 1.25rem;
     color: var(--text);
     text-decoration: none;
+    letter-spacing: -0.01em;
+  }
+
+  .dex {
+    color: var(--accent);
   }
 
   nav {

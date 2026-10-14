@@ -24,7 +24,7 @@ export default function LocalViewer({ tagLabels }: { tagLabels: Record<string, s
         setState({ status: 'missing' });
         return;
       }
-      document.title = `${flag.flagName} · Vexillum`;
+      document.title = `${flag.flagName} · Flagdex`;
       let related: RelatedFlag[] = [];
       if (flag.related?.length) {
         const wanted = new Set(flag.related);

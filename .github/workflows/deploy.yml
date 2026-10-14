@@ -28,7 +28,7 @@ jobs:
       - run: npm run build
         env:
           SITE_URL: https://anay1104.github.io
-          BASE_PATH: /flagapp
+          BASE_PATH: /flagdex
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
